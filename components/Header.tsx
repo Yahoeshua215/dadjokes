@@ -8,6 +8,7 @@ const NAV_LINKS = [
   { href: '/browse', label: 'Browse' },
   { href: '/top-rated', label: 'Top Rated' },
   { href: '/joke-of-the-day', label: 'Joke of the Day' },
+  { href: '/what-is-a-dad-joke', label: 'What Is a Dad Joke?' },
 ];
 
 export default function Header() {
