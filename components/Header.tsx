@@ -6,7 +6,7 @@ export default function Header() {
     <header className="border-b border-border bg-surface sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link href="/" className="flex items-center">
+          <Link href="/" className="flex items-center gap-1">
             <Image
               src="/JLAD-logo-horizontal.png"
               alt="Joke Like a Dad"
@@ -15,6 +15,7 @@ export default function Header() {
               className="h-8 w-auto"
               priority
             />
+            <span className="text-sm font-medium text-text-secondary">.com</span>
           </Link>
           <nav className="hidden sm:flex items-center gap-6">
             <Link
