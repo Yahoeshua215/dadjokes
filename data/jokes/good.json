@@ -1,0 +1,1153 @@
+[
+  {
+    "id": "good-001",
+    "setup": "A guy walks into a bar and asks for 1.4 root beers.",
+    "punchline": "The bartender says, \"I'll have to charge you extra. That's a root beer float.\"",
+    "category": "good",
+    "tags": [
+      "bar",
+      "math"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-09",
+    "slug": "a-guy-walks-into-a-bar-and-asks-for-14-root-beers"
+  },
+  {
+    "id": "good-002",
+    "setup": "Why did the invisible man turn down the job offer?",
+    "punchline": "He couldn't see himself doing it.",
+    "category": "good",
+    "tags": [
+      "work",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-01-21",
+    "slug": "why-did-the-invisible-man-turn-down-the-job-offer"
+  },
+  {
+    "id": "good-003",
+    "setup": "What's the best way to watch a fly fishing tournament?",
+    "punchline": "Live stream.",
+    "category": "good",
+    "tags": [
+      "fishing",
+      "technology"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-02-04",
+    "slug": "whats-the-best-way-to-watch-a-fly-fishing-tournament"
+  },
+  {
+    "id": "good-004",
+    "setup": "Why do nurses like red crayons?",
+    "punchline": "Sometimes they have to draw blood.",
+    "category": "good",
+    "tags": [
+      "medical",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-02-16",
+    "slug": "why-do-nurses-like-red-crayons"
+  },
+  {
+    "id": "good-005",
+    "setup": "When does a joke become a dad joke?",
+    "punchline": "When it becomes apparent.",
+    "category": "good",
+    "tags": [
+      "meta",
+      "parenting"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-03-02",
+    "slug": "when-does-a-joke-become-a-dad-joke-2"
+  },
+  {
+    "id": "good-006",
+    "setup": "I was wondering why the ball was getting bigger.",
+    "punchline": "Then it hit me.",
+    "category": "good",
+    "tags": [
+      "sports",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-03-13",
+    "slug": "i-was-wondering-why-the-ball-was-getting-bigger"
+  },
+  {
+    "id": "good-007",
+    "setup": "What do you call an elephant that doesn't matter?",
+    "punchline": "An irrelephant!",
+    "category": "good",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-03-26",
+    "slug": "what-do-you-call-an-elephant-that-doesnt-matter"
+  },
+  {
+    "id": "good-008",
+    "setup": "I ordered a chicken and an egg from Amazon.",
+    "punchline": "I'll let you know.",
+    "category": "good",
+    "tags": [
+      "shopping",
+      "philosophy"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-04-06",
+    "slug": "i-ordered-a-chicken-and-an-egg-from-amazon"
+  },
+  {
+    "id": "good-009",
+    "setup": "What does a house wear?",
+    "punchline": "Address!",
+    "category": "good",
+    "tags": [
+      "buildings",
+      "fashion"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-04-20",
+    "slug": "what-does-a-house-wear"
+  },
+  {
+    "id": "good-010",
+    "setup": "I thought about going on an all-almond diet.",
+    "punchline": "But that's just nuts.",
+    "category": "good",
+    "tags": [
+      "food",
+      "one-liner"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-05-03",
+    "slug": "i-thought-about-going-on-an-all-almond-diet"
+  },
+  {
+    "id": "good-011",
+    "setup": "What's the best thing about elevator jokes?",
+    "punchline": "They work on so many levels.",
+    "category": "good",
+    "tags": [
+      "meta",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-05-16",
+    "slug": "whats-the-best-thing-about-elevator-jokes"
+  },
+  {
+    "id": "good-012",
+    "setup": "My son asked me to put his shoes on.",
+    "punchline": "But they didn't fit me.",
+    "category": "good",
+    "tags": [
+      "parenting",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-05-30",
+    "slug": "my-son-asked-me-to-put-his-shoes-on"
+  },
+  {
+    "id": "good-013",
+    "setup": "Why do dads always carry an extra pair of socks to the golf course?",
+    "punchline": "In case they get a hole in one.",
+    "category": "good",
+    "tags": [
+      "golf",
+      "clothing"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-06-09",
+    "slug": "why-do-dads-always-carry-an-extra-pair-of-socks-to-the-golf"
+  },
+  {
+    "id": "good-014",
+    "setup": "What concert costs just 45 cents?",
+    "punchline": "50 Cent featuring Nickelback!",
+    "category": "good",
+    "tags": [
+      "music",
+      "math"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-06-24",
+    "slug": "what-concert-costs-just-45-cents"
+  },
+  {
+    "id": "good-015",
+    "setup": "A steak pun is a rare medium well done.",
+    "punchline": "",
+    "category": "good",
+    "tags": [
+      "food",
+      "meta",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-07-07",
+    "slug": "a-steak-pun-is-a-rare-medium-well-done"
+  },
+  {
+    "id": "good-016",
+    "setup": "Why don't oysters donate to charity?",
+    "punchline": "Because they're shellfish!",
+    "category": "good",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-07-20",
+    "slug": "why-dont-oysters-donate-to-charity"
+  },
+  {
+    "id": "good-017",
+    "setup": "I accidentally rubbed ketchup in my eyes.",
+    "punchline": "Now I have Heinzsight.",
+    "category": "good",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-08-03",
+    "slug": "i-accidentally-rubbed-ketchup-in-my-eyes"
+  },
+  {
+    "id": "good-018",
+    "setup": "Why did the man fall down the well?",
+    "punchline": "Because he couldn't see that well.",
+    "category": "good",
+    "tags": [
+      "wordplay",
+      "slapstick"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-08-15",
+    "slug": "why-did-the-man-fall-down-the-well"
+  },
+  {
+    "id": "good-019",
+    "setup": "My wife asked me to go get six cans of Sprite from the store.",
+    "punchline": "I realized when I got home that I had picked 7 Up.",
+    "category": "good",
+    "tags": [
+      "shopping",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-09-01",
+    "slug": "my-wife-asked-me-to-go-get-six-cans-of-sprite-from-the-store"
+  },
+  {
+    "id": "good-020",
+    "setup": "What do you call a group of killer whales playing instruments?",
+    "punchline": "An orca-stra!",
+    "category": "good",
+    "tags": [
+      "animals",
+      "music"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-09-14",
+    "slug": "what-do-you-call-a-group-of-killer-whales-playing-instrument"
+  },
+  {
+    "id": "good-021",
+    "setup": "Two guys walked into a bar.",
+    "punchline": "The third one ducked.",
+    "category": "good",
+    "tags": [
+      "bar",
+      "slapstick"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-09-28",
+    "slug": "two-guys-walked-into-a-bar"
+  },
+  {
+    "id": "good-022",
+    "setup": "What do you call it when Batman skips church?",
+    "punchline": "Christian Bale.",
+    "category": "good",
+    "tags": [
+      "movies",
+      "celebrities"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-10-09",
+    "slug": "what-do-you-call-it-when-batman-skips-church"
+  },
+  {
+    "id": "good-023",
+    "setup": "What do you call a pony with a sore throat?",
+    "punchline": "A little hoarse!",
+    "category": "good",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-10-25",
+    "slug": "what-do-you-call-a-pony-with-a-sore-throat"
+  },
+  {
+    "id": "good-024",
+    "setup": "I used to be addicted to the hokey pokey.",
+    "punchline": "But I turned myself around.",
+    "category": "good",
+    "tags": [
+      "music",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-11-05",
+    "slug": "i-used-to-be-addicted-to-the-hokey-pokey"
+  },
+  {
+    "id": "good-025",
+    "setup": "How do trees access the internet?",
+    "punchline": "They log in!",
+    "category": "good",
+    "tags": [
+      "nature",
+      "technology"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-11-18",
+    "slug": "how-do-trees-access-the-internet"
+  },
+  {
+    "id": "good-026",
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "Because he was outstanding in his field.",
+    "category": "good",
+    "tags": [
+      "farming",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": ""
+  },
+  {
+    "id": "good-027",
+    "setup": "What do you call cheese that isn't yours?",
+    "punchline": "Nacho cheese!",
+    "category": "good",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": ""
+  },
+  {
+    "id": "good-028",
+    "setup": "Why couldn't the bicycle stand up by itself?",
+    "punchline": "It was two tired.",
+    "category": "good",
+    "tags": [
+      "vehicles",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02",
+    "slug": ""
+  },
+  {
+    "id": "good-029",
+    "setup": "I used to hate facial hair.",
+    "punchline": "But then it grew on me.",
+    "category": "good",
+    "tags": [
+      "appearance",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02",
+    "slug": ""
+  },
+  {
+    "id": "good-030",
+    "setup": "What did the ocean say to the beach?",
+    "punchline": "Nothing, it just waved.",
+    "category": "good",
+    "tags": [
+      "nature",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-03",
+    "slug": ""
+  },
+  {
+    "id": "good-031",
+    "setup": "Why do seagulls fly over the ocean?",
+    "punchline": "Because if they flew over the bay, they'd be bagels.",
+    "category": "good",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-03",
+    "slug": ""
+  },
+  {
+    "id": "good-032",
+    "setup": "I'm on a seafood diet.",
+    "punchline": "I see food and I eat it.",
+    "category": "good",
+    "tags": [
+      "food",
+      "one-liner"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-04",
+    "slug": ""
+  },
+  {
+    "id": "good-033",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta!",
+    "category": "good",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-04",
+    "slug": ""
+  },
+  {
+    "id": "good-034",
+    "setup": "Why don't skeletons fight each other?",
+    "punchline": "They don't have the guts.",
+    "category": "good",
+    "tags": [
+      "anatomy",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": ""
+  },
+  {
+    "id": "good-035",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear!",
+    "category": "good",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-05",
+    "slug": ""
+  },
+  {
+    "id": "good-036",
+    "setup": "I told my wife she was drawing her eyebrows too high.",
+    "punchline": "She looked surprised.",
+    "category": "good",
+    "tags": [
+      "marriage",
+      "appearance"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-06",
+    "slug": ""
+  },
+  {
+    "id": "good-037",
+    "setup": "What do you get when you cross a snowman with a vampire?",
+    "punchline": "Frostbite.",
+    "category": "good",
+    "tags": [
+      "winter",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-06",
+    "slug": ""
+  },
+  {
+    "id": "good-038",
+    "setup": "Why don't scientists trust atoms?",
+    "punchline": "Because they make up everything.",
+    "category": "good",
+    "tags": [
+      "science",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07",
+    "slug": ""
+  },
+  {
+    "id": "good-039",
+    "setup": "I used to play piano by ear.",
+    "punchline": "But now I use my hands.",
+    "category": "good",
+    "tags": [
+      "music",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07",
+    "slug": ""
+  },
+  {
+    "id": "good-040",
+    "setup": "What did the grape do when it got stepped on?",
+    "punchline": "Nothing, it just let out a little wine.",
+    "category": "good",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-08",
+    "slug": ""
+  },
+  {
+    "id": "good-041",
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "punchline": "In case he got a hole in one.",
+    "category": "good",
+    "tags": [
+      "golf",
+      "clothing"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-08",
+    "slug": ""
+  },
+  {
+    "id": "good-042",
+    "setup": "What do you call a sleeping dinosaur?",
+    "punchline": "A dino-snore!",
+    "category": "good",
+    "tags": [
+      "dinosaurs",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-09",
+    "slug": ""
+  },
+  {
+    "id": "good-043",
+    "setup": "I used to be a banker.",
+    "punchline": "But I lost interest.",
+    "category": "good",
+    "tags": [
+      "work",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": ""
+  },
+  {
+    "id": "good-044",
+    "setup": "What did the janitor say when he jumped out of the closet?",
+    "punchline": "Supplies!",
+    "category": "good",
+    "tags": [
+      "work",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10",
+    "slug": ""
+  },
+  {
+    "id": "good-045",
+    "setup": "Why do peppers make such good archers?",
+    "punchline": "Because they habanero.",
+    "category": "good",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10",
+    "slug": ""
+  },
+  {
+    "id": "good-046",
+    "setup": "What do you call a dog that does magic tricks?",
+    "punchline": "A Labracadabrador.",
+    "category": "good",
+    "tags": [
+      "animals",
+      "magic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11",
+    "slug": ""
+  },
+  {
+    "id": "good-047",
+    "setup": "Why did the math book look so sad?",
+    "punchline": "Because it had too many problems.",
+    "category": "good",
+    "tags": [
+      "math",
+      "school"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-11",
+    "slug": ""
+  },
+  {
+    "id": "good-048",
+    "setup": "I got fired from the orange juice factory.",
+    "punchline": "I just couldn't concentrate.",
+    "category": "good",
+    "tags": [
+      "work",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12",
+    "slug": ""
+  },
+  {
+    "id": "good-049",
+    "setup": "What do you call a belt made of watches?",
+    "punchline": "A waist of time.",
+    "category": "good",
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12",
+    "slug": ""
+  },
+  {
+    "id": "good-050",
+    "setup": "Why did the picture go to jail?",
+    "punchline": "Because it was framed.",
+    "category": "good",
+    "tags": [
+      "art",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-13",
+    "slug": ""
+  },
+  {
+    "id": "good-051",
+    "setup": "Why did the stadium get so hot after the game?",
+    "punchline": "Because all the fans left.",
+    "category": "good",
+    "tags": ["sports", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-stadium-get-so-hot"
+  },
+  {
+    "id": "good-052",
+    "setup": "What do you call a cow with no legs?",
+    "punchline": "Ground beef.",
+    "category": "good",
+    "tags": ["animals", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-cow-with-no-legs"
+  },
+  {
+    "id": "good-053",
+    "setup": "Why did the tomato turn red?",
+    "punchline": "Because it saw the salad dressing.",
+    "category": "good",
+    "tags": ["food", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-tomato-turn-red"
+  },
+  {
+    "id": "good-054",
+    "setup": "What do you call a lazy baby kangaroo?",
+    "punchline": "A pouch potato.",
+    "category": "good",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-lazy-baby-kangaroo"
+  },
+  {
+    "id": "good-055",
+    "setup": "I told my computer I needed a break.",
+    "punchline": "Now it won't stop sending me vacation ads.",
+    "category": "good",
+    "tags": ["technology", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "i-told-my-computer-i-needed-a-break"
+  },
+  {
+    "id": "good-056",
+    "setup": "What do you call a snowman with a six-pack?",
+    "punchline": "An abdominal snowman.",
+    "category": "good",
+    "tags": ["winter", "fitness"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-snowman-with-a-six-pack"
+  },
+  {
+    "id": "good-057",
+    "setup": "Why can't your nose be 12 inches long?",
+    "punchline": "Because then it would be a foot.",
+    "category": "good",
+    "tags": ["anatomy", "math"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-cant-your-nose-be-twelve-inches"
+  },
+  {
+    "id": "good-058",
+    "setup": "I had a neck brace fitted years ago.",
+    "punchline": "I've never looked back since.",
+    "category": "good",
+    "tags": ["medical", "one-liner"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "i-had-a-neck-brace-fitted-years-ago"
+  },
+  {
+    "id": "good-059",
+    "setup": "What do lawyers wear to court?",
+    "punchline": "Lawsuits.",
+    "category": "good",
+    "tags": ["law", "fashion"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-lawyers-wear-to-court"
+  },
+  {
+    "id": "good-060",
+    "setup": "I tried to start a professional hide and seek team.",
+    "punchline": "Good players are really hard to find.",
+    "category": "good",
+    "tags": ["sports", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-tried-to-start-a-hide-and-seek-team"
+  },
+  {
+    "id": "good-061",
+    "setup": "Why did the chicken go to the seance?",
+    "punchline": "To get to the other side.",
+    "category": "good",
+    "tags": ["animals", "dark-humor"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-chicken-go-to-the-seance"
+  },
+  {
+    "id": "good-062",
+    "setup": "I used to be a tap dancer.",
+    "punchline": "Until I fell in the sink.",
+    "category": "good",
+    "tags": ["music", "slapstick"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "i-used-to-be-a-tap-dancer"
+  },
+  {
+    "id": "good-063",
+    "setup": "What did the grape say when it got crushed?",
+    "punchline": "Nothing, it just let out a little wine.",
+    "category": "good",
+    "tags": ["food", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-did-the-grape-say-when-crushed"
+  },
+  {
+    "id": "good-064",
+    "setup": "Why do cows wear bells?",
+    "punchline": "Because their horns don't work.",
+    "category": "good",
+    "tags": ["animals", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-do-cows-wear-bells"
+  },
+  {
+    "id": "good-065",
+    "setup": "What do you call a dinosaur that crashes their car?",
+    "punchline": "Tyrannosaurus Wrecks.",
+    "category": "good",
+    "tags": ["dinosaurs", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-dinosaur-that-crashes"
+  },
+  {
+    "id": "good-066",
+    "setup": "I bought some shoes from a drug dealer.",
+    "punchline": "I don't know what he laced them with, but I've been tripping all day.",
+    "category": "good",
+    "tags": ["fashion", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-bought-some-shoes-from-a-drug-dealer"
+  },
+  {
+    "id": "good-067",
+    "setup": "What do you call a fish that practices medicine?",
+    "punchline": "A sturgeon.",
+    "category": "good",
+    "tags": ["animals", "medical"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-fish-that-practices-medicine"
+  },
+  {
+    "id": "good-068",
+    "setup": "Why did the taxi driver get fired?",
+    "punchline": "Passengers didn't like it when he went the extra mile.",
+    "category": "good",
+    "tags": ["work", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-taxi-driver-get-fired"
+  },
+  {
+    "id": "good-069",
+    "setup": "I just learned sign language.",
+    "punchline": "It's pretty handy.",
+    "category": "good",
+    "tags": ["language", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "i-just-learned-sign-language"
+  },
+  {
+    "id": "good-070",
+    "setup": "What do you call a row of rabbits hopping backwards?",
+    "punchline": "A receding hare line.",
+    "category": "good",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-rabbits-hopping-backwards"
+  },
+  {
+    "id": "good-071",
+    "setup": "Why do bees have sticky hair?",
+    "punchline": "Because they use honeycombs.",
+    "category": "good",
+    "tags": ["animals", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-do-bees-have-sticky-hair"
+  },
+  {
+    "id": "good-072",
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An investigator.",
+    "category": "good",
+    "tags": ["animals", "fashion"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-an-alligator-in-a-vest"
+  },
+  {
+    "id": "good-073",
+    "setup": "I just heard a great joke about amnesia.",
+    "punchline": "But I forgot how it goes.",
+    "category": "good",
+    "tags": ["meta", "medical"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "i-just-heard-a-joke-about-amnesia"
+  },
+  {
+    "id": "good-074",
+    "setup": "What did the traffic light say to the car?",
+    "punchline": "Don't look, I'm about to change.",
+    "category": "good",
+    "tags": ["vehicles", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-did-the-traffic-light-say-to-the-car"
+  },
+  {
+    "id": "good-075",
+    "setup": "I broke my finger last week.",
+    "punchline": "On the other hand, I'm okay.",
+    "category": "good",
+    "tags": ["medical", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-broke-my-finger-last-week"
+  },
+  {
+    "id": "good-076",
+    "setup": "Why don't eggs tell each other jokes?",
+    "punchline": "They'd crack each other up.",
+    "category": "good",
+    "tags": ["food", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-dont-eggs-tell-each-other-jokes"
+  },
+  {
+    "id": "good-077",
+    "setup": "What did the buffalo say to his son when he dropped him off at school?",
+    "punchline": "Bison!",
+    "category": "good",
+    "tags": ["animals", "parenting"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-did-the-buffalo-say-to-his-son"
+  },
+  {
+    "id": "good-078",
+    "setup": "I used to work in a blanket factory.",
+    "punchline": "But it folded.",
+    "category": "good",
+    "tags": ["work", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "i-used-to-work-in-a-blanket-factory"
+  },
+  {
+    "id": "good-079",
+    "setup": "Why did the bike fall over?",
+    "punchline": "It was two tired.",
+    "category": "good",
+    "tags": ["vehicles", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-bike-fall-over"
+  },
+  {
+    "id": "good-080",
+    "setup": "What do you call a boomerang that doesn't come back?",
+    "punchline": "A stick.",
+    "category": "good",
+    "tags": ["toys", "anti-humor"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-boomerang-that-doesnt-come-back"
+  },
+  {
+    "id": "good-081",
+    "setup": "I don't trust stairs.",
+    "punchline": "They're always up to something.",
+    "category": "good",
+    "tags": ["buildings", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "i-dont-trust-stairs"
+  },
+  {
+    "id": "good-082",
+    "setup": "What did the coffee say to the sugar?",
+    "punchline": "You make life sweet.",
+    "category": "good",
+    "tags": ["food", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-did-the-coffee-say-to-the-sugar"
+  },
+  {
+    "id": "good-083",
+    "setup": "Why do programmers prefer dark mode?",
+    "punchline": "Because light attracts bugs.",
+    "category": "good",
+    "tags": ["technology", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "why-do-programmers-prefer-dark-mode"
+  },
+  {
+    "id": "good-084",
+    "setup": "What do you call a factory that makes okay products?",
+    "punchline": "A satisfactory.",
+    "category": "good",
+    "tags": ["work", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-factory-makes-okay-products"
+  },
+  {
+    "id": "good-085",
+    "setup": "I asked my dad for his best dad joke.",
+    "punchline": "He said, \"You.\"",
+    "category": "good",
+    "tags": ["meta", "parenting"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-asked-my-dad-for-his-best-dad-joke"
+  },
+  {
+    "id": "good-086",
+    "setup": "Why do ghosts love elevators?",
+    "punchline": "Because it lifts their spirits.",
+    "category": "good",
+    "tags": ["supernatural", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-do-ghosts-love-elevators"
+  },
+  {
+    "id": "good-087",
+    "setup": "What do you call a pig that does karate?",
+    "punchline": "A pork chop.",
+    "category": "good",
+    "tags": ["animals", "sports"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-pig-that-does-karate"
+  },
+  {
+    "id": "good-088",
+    "setup": "Why did the cookie go to the doctor?",
+    "punchline": "Because it felt crummy.",
+    "category": "good",
+    "tags": ["food", "medical"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-cookie-go-to-the-doctor"
+  },
+  {
+    "id": "good-089",
+    "setup": "I got hit in the head with a can of Diet Coke.",
+    "punchline": "Don't worry, I'm not hurt. It was a soft drink.",
+    "category": "good",
+    "tags": ["food", "slapstick"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "i-got-hit-in-the-head-with-diet-coke"
+  },
+  {
+    "id": "good-090",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer.",
+    "category": "good",
+    "tags": ["animals", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-sleeping-bull"
+  },
+  {
+    "id": "good-091",
+    "setup": "I was going to tell a time-traveling joke.",
+    "punchline": "But you guys didn't like it.",
+    "category": "good",
+    "tags": ["meta", "time-travel"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-was-going-to-tell-a-time-traveling-joke"
+  },
+  {
+    "id": "good-092",
+    "setup": "What did the stamp say to the envelope?",
+    "punchline": "Stick with me and we'll go places.",
+    "category": "good",
+    "tags": ["office", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-did-the-stamp-say-to-the-envelope"
+  },
+  {
+    "id": "good-093",
+    "setup": "Why did the scarecrow become a motivational speaker?",
+    "punchline": "He was outstanding in his field.",
+    "category": "good",
+    "tags": ["farming", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-scarecrow-become-a-speaker"
+  },
+  {
+    "id": "good-094",
+    "setup": "What do you call a man with a shovel in his head?",
+    "punchline": "Doug.",
+    "category": "good",
+    "tags": ["names", "slapstick"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-man-with-a-shovel"
+  },
+  {
+    "id": "good-095",
+    "setup": "Why don't vampires go to barbecues?",
+    "punchline": "They don't like steak.",
+    "category": "good",
+    "tags": ["supernatural", "food"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-dont-vampires-go-to-barbecues"
+  },
+  {
+    "id": "good-096",
+    "setup": "I finally got a new hearing aid.",
+    "punchline": "It's state of the ear.",
+    "category": "good",
+    "tags": ["medical", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "i-finally-got-a-new-hearing-aid"
+  },
+  {
+    "id": "good-097",
+    "setup": "What do you call two monkeys sharing an Amazon account?",
+    "punchline": "Prime mates.",
+    "category": "good",
+    "tags": ["animals", "technology"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-two-monkeys-sharing-amazon"
+  },
+  {
+    "id": "good-098",
+    "setup": "I'm reading a book about teleportation.",
+    "punchline": "It's bound to get me somewhere.",
+    "category": "good",
+    "tags": ["books", "science"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "im-reading-a-book-about-teleportation"
+  },
+  {
+    "id": "good-099",
+    "setup": "Why do ducks have tail feathers?",
+    "punchline": "To cover their butt quacks.",
+    "category": "good",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-do-ducks-have-tail-feathers"
+  },
+  {
+    "id": "good-100",
+    "setup": "What do you call a pencil with no point?",
+    "punchline": "Pointless.",
+    "category": "good",
+    "tags": ["office", "anti-humor"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-pencil-with-no-point"
+  }
+]

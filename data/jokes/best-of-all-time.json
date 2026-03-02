@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "best-of-all-time-001",
+    "setup": "I'm afraid for the calendar.",
+    "punchline": "Its days are numbered.",
+    "category": "best-of-all-time",
+    "tags": [
+      "time",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-03",
+    "slug": "im-afraid-for-the-calendar"
+  },
+  {
+    "id": "best-of-all-time-002",
+    "setup": "Dear Math, grow up and solve your own problems.",
+    "punchline": "",
+    "category": "best-of-all-time",
+    "tags": [
+      "math",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-15",
+    "slug": "dear-math-grow-up-and-solve-your-own-problems"
+  },
+  {
+    "id": "best-of-all-time-003",
+    "setup": "You know what's really odd?",
+    "punchline": "Numbers that aren't divisible by two.",
+    "category": "best-of-all-time",
+    "tags": [
+      "math",
+      "anti-humor"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-28",
+    "slug": "you-know-whats-really-odd"
+  },
+  {
+    "id": "best-of-all-time-004",
+    "setup": "Why do fathers bring an extra pair of socks when they play golf?",
+    "punchline": "In case they get a hole in one!",
+    "category": "best-of-all-time",
+    "tags": [
+      "golf",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-02-11",
+    "slug": "why-do-fathers-bring-an-extra-pair-of-socks-when-they-play-g"
+  },
+  {
+    "id": "best-of-all-time-005",
+    "setup": "Wanna hear a joke about a piece of paper?",
+    "punchline": "Never mind... it's tearable.",
+    "category": "best-of-all-time",
+    "tags": [
+      "office",
+      "meta"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-02-24",
+    "slug": "wanna-hear-a-joke-about-a-piece-of-paper"
+  },
+  {
+    "id": "best-of-all-time-006",
+    "setup": "I used to be a banker.",
+    "punchline": "But I lost interest.",
+    "category": "best-of-all-time",
+    "tags": [
+      "money",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-03-06",
+    "slug": "i-used-to-be-a-banker"
+  },
+  {
+    "id": "best-of-all-time-007",
+    "setup": "What did Baby Corn say to Mama Corn?",
+    "punchline": "Where's Pop Corn?",
+    "category": "best-of-all-time",
+    "tags": [
+      "food",
+      "family"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-03-18",
+    "slug": "what-did-baby-corn-say-to-mama-corn"
+  },
+  {
+    "id": "best-of-all-time-008",
+    "setup": "I had a dream that I weighed less than a thousandth of a gram.",
+    "punchline": "I was like, 0mg.",
+    "category": "best-of-all-time",
+    "tags": [
+      "science",
+      "texting"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-04-02",
+    "slug": "i-had-a-dream-that-i-weighed-less-than-a-thousandth-of-a-gra"
+  },
+  {
+    "id": "best-of-all-time-009",
+    "setup": "I don't play soccer because I enjoy the sport.",
+    "punchline": "I'm just doing it for kicks.",
+    "category": "best-of-all-time",
+    "tags": [
+      "sports",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-04-15",
+    "slug": "i-dont-play-soccer-because-i-enjoy-the-sport"
+  },
+  {
+    "id": "best-of-all-time-010",
+    "setup": "What country's capital is growing the fastest?",
+    "punchline": "Ireland. Every day it's Dublin.",
+    "category": "best-of-all-time",
+    "tags": [
+      "geography",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-04-29",
+    "slug": "what-countrys-capital-is-growing-the-fastest"
+  },
+  {
+    "id": "best-of-all-time-011",
+    "setup": "I once got fired from a canned juice company.",
+    "punchline": "Apparently I couldn't concentrate.",
+    "category": "best-of-all-time",
+    "tags": [
+      "work",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-05-11",
+    "slug": "i-once-got-fired-from-a-canned-juice-company"
+  },
+  {
+    "id": "best-of-all-time-012",
+    "setup": "If April showers bring May flowers, what do May flowers bring?",
+    "punchline": "Pilgrims!",
+    "category": "best-of-all-time",
+    "tags": [
+      "history",
+      "nature"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-05-24",
+    "slug": "if-april-showers-bring-may-flowers-what-do-may-flowers-bring"
+  },
+  {
+    "id": "best-of-all-time-013",
+    "setup": "I asked my dog what's two minus two.",
+    "punchline": "He said nothing.",
+    "category": "best-of-all-time",
+    "tags": [
+      "animals",
+      "math"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-06-06",
+    "slug": "i-asked-my-dog-whats-two-minus-two"
+  },
+  {
+    "id": "best-of-all-time-014",
+    "setup": "What do you call a toothless bear?",
+    "punchline": "A gummy bear!",
+    "category": "best-of-all-time",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-06-19",
+    "slug": "what-do-you-call-a-toothless-bear"
+  },
+  {
+    "id": "best-of-all-time-015",
+    "setup": "I've been told I'm condescending.",
+    "punchline": "That means I talk down to people.",
+    "category": "best-of-all-time",
+    "tags": [
+      "personality",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-07-03",
+    "slug": "ive-been-told-im-condescending"
+  },
+  {
+    "id": "best-of-all-time-016",
+    "setup": "Did you hear about the circus fire?",
+    "punchline": "It was in tents.",
+    "category": "best-of-all-time",
+    "tags": [
+      "circus",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-07-17",
+    "slug": "did-you-hear-about-the-circus-fire"
+  },
+  {
+    "id": "best-of-all-time-017",
+    "setup": "Can February March?",
+    "punchline": "No, but April May!",
+    "category": "best-of-all-time",
+    "tags": [
+      "calendar",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-07-30",
+    "slug": "can-february-march"
+  },
+  {
+    "id": "best-of-all-time-018",
+    "setup": "I have a joke about trickle-down economics.",
+    "punchline": "But 99% of you won't get it.",
+    "category": "best-of-all-time",
+    "tags": [
+      "politics",
+      "economics"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-08-13",
+    "slug": "i-have-a-joke-about-trickle-down-economics"
+  },
+  {
+    "id": "best-of-all-time-019",
+    "setup": "Spring is here! I got so excited I wet my plants.",
+    "punchline": "",
+    "category": "best-of-all-time",
+    "tags": [
+      "gardening",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-08-26",
+    "slug": "spring-is-here-i-got-so-excited-i-wet-my-plants"
+  },
+  {
+    "id": "best-of-all-time-020",
+    "setup": "I once had a dream I was floating in an ocean of orange soda.",
+    "punchline": "It was more of a Fanta-sea.",
+    "category": "best-of-all-time",
+    "tags": [
+      "food",
+      "dreams"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-09-08",
+    "slug": "i-once-had-a-dream-i-was-floating-in-an-ocean-of-orange-soda"
+  },
+  {
+    "id": "best-of-all-time-021",
+    "setup": "What do you call a factory that sells passable products?",
+    "punchline": "A satisfactory.",
+    "category": "best-of-all-time",
+    "tags": [
+      "work",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-09-21",
+    "slug": "what-do-you-call-a-factory-that-sells-passable-products"
+  },
+  {
+    "id": "best-of-all-time-022",
+    "setup": "How do astronomers organize a party?",
+    "punchline": "They planet.",
+    "category": "best-of-all-time",
+    "tags": [
+      "space",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-10-06",
+    "slug": "how-do-astronomers-organize-a-party"
+  },
+  {
+    "id": "best-of-all-time-023",
+    "setup": "I only know 25 letters of the alphabet.",
+    "punchline": "I don't know y.",
+    "category": "best-of-all-time",
+    "tags": [
+      "language",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-10-19",
+    "slug": "i-only-know-25-letters-of-the-alphabet"
+  },
+  {
+    "id": "best-of-all-time-024",
+    "setup": "I asked my wife to let me know next time she has an orgasm.",
+    "punchline": "She said she doesn't like to bother me when I'm at work.",
+    "category": "best-of-all-time",
+    "tags": [
+      "marriage",
+      "burn"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-11-02",
+    "slug": "i-asked-my-wife-to-let-me-know-next-time-she-has-an-orgasm"
+  },
+  {
+    "id": "best-of-all-time-025",
+    "setup": "What did the pirate say on his 80th birthday?",
+    "punchline": "Aye matey!",
+    "category": "best-of-all-time",
+    "tags": [
+      "pirates",
+      "birthdays"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-11-16",
+    "slug": "what-did-the-pirate-say-on-his-80th-birthday"
+  },
+  {
+    "id": "best-of-all-time-026",
+    "setup": "Why couldn't the bicycle stand up by itself?",
+    "punchline": "It was two tired.",
+    "category": "best-of-all-time",
+    "tags": [
+      "vehicles",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-027",
+    "setup": "I got a reversible jacket for Christmas.",
+    "punchline": "I can't wait to see how it turns out.",
+    "category": "best-of-all-time",
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-028",
+    "setup": "What do you call someone who tells dad jokes but has no kids?",
+    "punchline": "A faux pa.",
+    "category": "best-of-all-time",
+    "tags": [
+      "meta",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-02",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-029",
+    "setup": "I'm reading a book about anti-gravity.",
+    "punchline": "It's impossible to put down.",
+    "category": "best-of-all-time",
+    "tags": [
+      "science",
+      "books"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-02",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-030",
+    "setup": "Why did the invisible man turn down the job?",
+    "punchline": "He couldn't see himself doing it.",
+    "category": "best-of-all-time",
+    "tags": [
+      "work",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-031",
+    "setup": "I found a wooden shoe in my toilet today.",
+    "punchline": "It was clogged.",
+    "category": "best-of-all-time",
+    "tags": [
+      "household",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-03",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-032",
+    "setup": "My friend keeps saying \"cheer up man it could be worse, you could be stuck underground in a hole full of water.\"",
+    "punchline": "I know he means well.",
+    "category": "best-of-all-time",
+    "tags": [
+      "wordplay",
+      "friends"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-033",
+    "setup": "I've got a great joke about construction.",
+    "punchline": "I'm still working on it.",
+    "category": "best-of-all-time",
+    "tags": [
+      "work",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-034",
+    "setup": "What did the coffee report to the police?",
+    "punchline": "A mugging.",
+    "category": "best-of-all-time",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-035",
+    "setup": "When does a joke become a dad joke?",
+    "punchline": "When it becomes apparent.",
+    "category": "best-of-all-time",
+    "tags": [
+      "meta",
+      "parenting"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-05",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-036",
+    "setup": "I don't play soccer because I enjoy the sport.",
+    "punchline": "I'm just doing it for kicks.",
+    "category": "best-of-all-time",
+    "tags": [
+      "sports",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-06",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-037",
+    "setup": "What did the fish say when he swam into a wall?",
+    "punchline": "Dam.",
+    "category": "best-of-all-time",
+    "tags": [
+      "animals",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-06",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-038",
+    "setup": "I'm thinking about removing my spine.",
+    "punchline": "I feel like it's only holding me back.",
+    "category": "best-of-all-time",
+    "tags": [
+      "anatomy",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-07",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-039",
+    "setup": "Why did the Clydesdale give the pony a glass of water?",
+    "punchline": "Because he was a little horse.",
+    "category": "best-of-all-time",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-040",
+    "setup": "My boss told me to have a good day.",
+    "punchline": "So I went home.",
+    "category": "best-of-all-time",
+    "tags": [
+      "work",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-041",
+    "setup": "What did one wall say to the other?",
+    "punchline": "I'll meet you at the corner.",
+    "category": "best-of-all-time",
+    "tags": [
+      "buildings",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-08",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-042",
+    "setup": "How does a penguin build its house?",
+    "punchline": "Igloos it together.",
+    "category": "best-of-all-time",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-043",
+    "setup": "Why do dads take an extra pair of socks when they go bowling?",
+    "punchline": "In case they get a spare.",
+    "category": "best-of-all-time",
+    "tags": [
+      "sports",
+      "clothing"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-044",
+    "setup": "What do you get from a pampered cow?",
+    "punchline": "Spoiled milk.",
+    "category": "best-of-all-time",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-045",
+    "setup": "A man walks into a bar with a slab of asphalt under his arm.",
+    "punchline": "He says, \"A beer please, and one for the road.\"",
+    "category": "best-of-all-time",
+    "tags": [
+      "bar",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-10",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-046",
+    "setup": "Why do melons have weddings?",
+    "punchline": "Because they cantaloupe.",
+    "category": "best-of-all-time",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-11",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-047",
+    "setup": "I used to be addicted to the hokey pokey.",
+    "punchline": "But I turned myself around.",
+    "category": "best-of-all-time",
+    "tags": [
+      "music",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-11",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-048",
+    "setup": "What did the zero say to the eight?",
+    "punchline": "Nice belt.",
+    "category": "best-of-all-time",
+    "tags": [
+      "math",
+      "fashion"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-12",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-049",
+    "setup": "I told my son I was named after Abraham Lincoln.",
+    "punchline": "He said, \"But Dad, your name is Brian.\" I said, \"I know, but I was named AFTER Abraham Lincoln.\"",
+    "category": "best-of-all-time",
+    "tags": [
+      "parenting",
+      "history"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-12",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-050",
+    "setup": "To the person who stole my glasses:",
+    "punchline": "I will find you. I have contacts.",
+    "category": "best-of-all-time",
+    "tags": [
+      "medical",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-13",
+    "slug": ""
+  },
+  {
+    "id": "best-of-all-time-051",
+    "setup": "I told my wife she should embrace her mistakes.",
+    "punchline": "She gave me a hug.",
+    "category": "best-of-all-time",
+    "tags": ["marriage", "burn"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "told-wife-embrace-her-mistakes"
+  },
+  {
+    "id": "best-of-all-time-052",
+    "setup": "Why do Swedish warships have barcodes printed on them?",
+    "punchline": "So when they return to port, they can Scandinavian.",
+    "category": "best-of-all-time",
+    "tags": ["geography", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "why-do-swedish-warships-have-barcodes"
+  },
+  {
+    "id": "best-of-all-time-053",
+    "setup": "My friend asked me to help him round up his 37 sheep.",
+    "punchline": "I said, \"40.\"",
+    "category": "best-of-all-time",
+    "tags": ["math", "farming"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "help-round-up-37-sheep-said-40"
+  },
+  {
+    "id": "best-of-all-time-054",
+    "setup": "I lost my job at the bank on my first day.",
+    "punchline": "A woman asked me to check her balance, so I pushed her over.",
+    "category": "best-of-all-time",
+    "tags": ["work", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "lost-my-job-at-the-bank-first-day"
+  },
+  {
+    "id": "best-of-all-time-055",
+    "setup": "My grandfather has the heart of a lion.",
+    "punchline": "And a lifetime ban from the zoo.",
+    "category": "best-of-all-time",
+    "tags": ["animals", "dark-humor"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "grandfather-has-heart-of-a-lion"
+  },
+  {
+    "id": "best-of-all-time-056",
+    "setup": "I went to a wedding where two antennas met on a roof.",
+    "punchline": "The ceremony wasn't much, but the reception was excellent.",
+    "category": "best-of-all-time",
+    "tags": ["technology", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "two-antennas-met-on-a-roof"
+  },
+  {
+    "id": "best-of-all-time-057",
+    "setup": "My wife told me I was acting like a flamingo.",
+    "punchline": "So I had to put my foot down.",
+    "category": "best-of-all-time",
+    "tags": ["marriage", "animals"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "wife-told-me-acting-like-a-flamingo"
+  },
+  {
+    "id": "best-of-all-time-058",
+    "setup": "I stayed up all night to see where the sun went.",
+    "punchline": "Then it dawned on me.",
+    "category": "best-of-all-time",
+    "tags": ["nature", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "stayed-up-all-night-where-sun-went"
+  },
+  {
+    "id": "best-of-all-time-059",
+    "setup": "Two goldfish are in a tank.",
+    "punchline": "One says to the other, \"Do you know how to drive this thing?\"",
+    "category": "best-of-all-time",
+    "tags": ["animals", "misdirection"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "two-goldfish-in-a-tank"
+  },
+  {
+    "id": "best-of-all-time-060",
+    "setup": "People who take care of chickens are literally chicken tenders.",
+    "punchline": "",
+    "category": "best-of-all-time",
+    "tags": ["animals", "one-liner"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "chicken-tenders-literally"
+  },
+  {
+    "id": "best-of-all-time-061",
+    "setup": "I bought some shoes from a drug dealer.",
+    "punchline": "I don't know what he laced them with, but I've been tripping all day.",
+    "category": "best-of-all-time",
+    "tags": ["fashion", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "bought-shoes-from-a-drug-dealer"
+  },
+  {
+    "id": "best-of-all-time-062",
+    "setup": "My therapist says I have a preoccupation with vengeance.",
+    "punchline": "We'll see about that.",
+    "category": "best-of-all-time",
+    "tags": ["therapy", "one-liner"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "therapist-says-preoccupation-with-vengeance"
+  },
+  {
+    "id": "best-of-all-time-063",
+    "setup": "The shovel was a ground-breaking invention.",
+    "punchline": "",
+    "category": "best-of-all-time",
+    "tags": ["history", "one-liner"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "the-shovel-ground-breaking-invention"
+  },
+  {
+    "id": "best-of-all-time-064",
+    "setup": "How does Moses make his coffee?",
+    "punchline": "Hebrews it.",
+    "category": "best-of-all-time",
+    "tags": ["religion", "food"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "how-does-moses-make-his-coffee"
+  },
+  {
+    "id": "best-of-all-time-065",
+    "setup": "I tried to catch some fog yesterday.",
+    "punchline": "I mist.",
+    "category": "best-of-all-time",
+    "tags": ["weather", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-tried-to-catch-some-fog"
+  },
+  {
+    "id": "best-of-all-time-066",
+    "setup": "I just found out I'm colorblind.",
+    "punchline": "The diagnosis came completely out of the purple.",
+    "category": "best-of-all-time",
+    "tags": ["medical", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "just-found-out-im-colorblind"
+  },
+  {
+    "id": "best-of-all-time-067",
+    "setup": "What do you call someone who tells dad jokes but isn't a dad?",
+    "punchline": "A faux pa.",
+    "category": "best-of-all-time",
+    "tags": ["meta", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "someone-who-tells-dad-jokes-but-isnt-a-dad"
+  },
+  {
+    "id": "best-of-all-time-068",
+    "setup": "I know a lot of jokes about retired people.",
+    "punchline": "But none of them work.",
+    "category": "best-of-all-time",
+    "tags": ["work", "meta"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "jokes-about-retired-people"
+  },
+  {
+    "id": "best-of-all-time-069",
+    "setup": "My doctor told me I had Type A blood.",
+    "punchline": "But it was a Type O.",
+    "category": "best-of-all-time",
+    "tags": ["medical", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "doctor-told-me-type-a-blood"
+  },
+  {
+    "id": "best-of-all-time-070",
+    "setup": "Did you hear about the kidnapping at the elementary school?",
+    "punchline": "It's fine. He woke up.",
+    "category": "best-of-all-time",
+    "tags": ["school", "misdirection"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "kidnapping-at-the-elementary-school"
+  },
+  {
+    "id": "best-of-all-time-071",
+    "setup": "Singing in the shower is fun until you get soap in your mouth.",
+    "punchline": "Then it's a soap opera.",
+    "category": "best-of-all-time",
+    "tags": ["household", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "singing-in-the-shower-soap-opera"
+  },
+  {
+    "id": "best-of-all-time-072",
+    "setup": "I tried to sue the airport for losing my luggage.",
+    "punchline": "I lost my case.",
+    "category": "best-of-all-time",
+    "tags": ["travel", "law"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "tried-to-sue-the-airport"
+  },
+  {
+    "id": "best-of-all-time-073",
+    "setup": "My wife accused me of being immature.",
+    "punchline": "I told her to get out of my fort.",
+    "category": "best-of-all-time",
+    "tags": ["marriage", "parenting"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "wife-accused-me-of-being-immature"
+  },
+  {
+    "id": "best-of-all-time-074",
+    "setup": "What do you call a belt made out of watches?",
+    "punchline": "A waist of time.",
+    "category": "best-of-all-time",
+    "tags": ["fashion", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "belt-made-out-of-watches"
+  },
+  {
+    "id": "best-of-all-time-075",
+    "setup": "I went to buy some camo trousers.",
+    "punchline": "But I couldn't find any.",
+    "category": "best-of-all-time",
+    "tags": ["fashion", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "went-to-buy-camo-trousers"
+  },
+  {
+    "id": "best-of-all-time-076",
+    "setup": "I gave all my dead batteries away today.",
+    "punchline": "Free of charge.",
+    "category": "best-of-all-time",
+    "tags": ["technology", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "gave-all-dead-batteries-away"
+  },
+  {
+    "id": "best-of-all-time-077",
+    "setup": "What's the best thing about Switzerland?",
+    "punchline": "I don't know, but the flag is a big plus.",
+    "category": "best-of-all-time",
+    "tags": ["geography", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "best-thing-about-switzerland"
+  },
+  {
+    "id": "best-of-all-time-078",
+    "setup": "I've been thinking about removing my spine.",
+    "punchline": "It's only holding me back.",
+    "category": "best-of-all-time",
+    "tags": ["anatomy", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "thinking-about-removing-my-spine"
+  },
+  {
+    "id": "best-of-all-time-079",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta.",
+    "category": "best-of-all-time",
+    "tags": ["food", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-fake-noodle-goat"
+  },
+  {
+    "id": "best-of-all-time-080",
+    "setup": "What did the drummer name his twin daughters?",
+    "punchline": "Anna One, Anna Two.",
+    "category": "best-of-all-time",
+    "tags": ["music", "family"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-did-the-drummer-name-twin-daughters"
+  },
+  {
+    "id": "best-of-all-time-081",
+    "setup": "If a child refuses to nap, are they guilty of resisting a rest?",
+    "punchline": "",
+    "category": "best-of-all-time",
+    "tags": ["parenting", "law"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "child-refuses-to-nap-resisting-a-rest"
+  },
+  {
+    "id": "best-of-all-time-082",
+    "setup": "My landlord texted me saying we need to talk about how high my heating bill is.",
+    "punchline": "I said, \"Sure, my door is always open.\"",
+    "category": "best-of-all-time",
+    "tags": ["household", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "landlord-said-heating-bill-too-high"
+  },
+  {
+    "id": "best-of-all-time-083",
+    "setup": "Justice is a dish best served cold.",
+    "punchline": "Because if it were served warm, it would be justwater.",
+    "category": "best-of-all-time",
+    "tags": ["food", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "justice-is-a-dish-best-served-cold-goat"
+  },
+  {
+    "id": "best-of-all-time-084",
+    "setup": "What does a nosy pepper do?",
+    "punchline": "Gets jalapeno business.",
+    "category": "best-of-all-time",
+    "tags": ["food", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-does-a-nosy-pepper-do"
+  },
+  {
+    "id": "best-of-all-time-085",
+    "setup": "I couldn't figure out how to fasten my seatbelt.",
+    "punchline": "Then it clicked.",
+    "category": "best-of-all-time",
+    "tags": ["cars", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "couldnt-figure-out-seatbelt"
+  },
+  {
+    "id": "best-of-all-time-086",
+    "setup": "I used to run a dating service for chickens.",
+    "punchline": "But I was struggling to make hens meet.",
+    "category": "best-of-all-time",
+    "tags": ["animals", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "dating-service-for-chickens"
+  },
+  {
+    "id": "best-of-all-time-087",
+    "setup": "My dad died when we couldn't remember his blood type.",
+    "punchline": "As he died, he kept insisting we \"be positive.\"",
+    "category": "best-of-all-time",
+    "tags": ["medical", "dark-humor"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "dad-died-couldnt-remember-blood-type"
+  },
+  {
+    "id": "best-of-all-time-088",
+    "setup": "I bought the world's worst thesaurus yesterday.",
+    "punchline": "Not only is it terrible, it's terrible.",
+    "category": "best-of-all-time",
+    "tags": ["books", "meta"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "bought-worlds-worst-thesaurus"
+  },
+  {
+    "id": "best-of-all-time-089",
+    "setup": "I'm addicted to brake fluid.",
+    "punchline": "But I can stop whenever I want.",
+    "category": "best-of-all-time",
+    "tags": ["cars", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "addicted-to-brake-fluid"
+  },
+  {
+    "id": "best-of-all-time-090",
+    "setup": "I've got a chicken-proof front lawn.",
+    "punchline": "It's impeccable.",
+    "category": "best-of-all-time",
+    "tags": ["animals", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "chicken-proof-front-lawn"
+  },
+  {
+    "id": "best-of-all-time-091",
+    "setup": "Why can't you hear a pterodactyl go to the bathroom?",
+    "punchline": "Because the P is silent.",
+    "category": "best-of-all-time",
+    "tags": ["dinosaurs", "spelling"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "cant-hear-a-pterodactyl-go-to-bathroom"
+  },
+  {
+    "id": "best-of-all-time-092",
+    "setup": "What do you call a magician who lost their magic?",
+    "punchline": "Ian.",
+    "category": "best-of-all-time",
+    "tags": ["magic", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "magician-who-lost-their-magic"
+  },
+  {
+    "id": "best-of-all-time-093",
+    "setup": "I got my daughter a fridge for her birthday.",
+    "punchline": "I can't wait to see her face light up when she opens it.",
+    "category": "best-of-all-time",
+    "tags": ["parenting", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "daughter-fridge-for-her-birthday"
+  },
+  {
+    "id": "best-of-all-time-094",
+    "setup": "What did the left eye say to the right eye?",
+    "punchline": "Between you and me, something smells.",
+    "category": "best-of-all-time",
+    "tags": ["anatomy", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "left-eye-said-to-right-eye"
+  },
+  {
+    "id": "best-of-all-time-095",
+    "setup": "I used to be a personal trainer.",
+    "punchline": "Then I gave my too weak notice.",
+    "category": "best-of-all-time",
+    "tags": ["fitness", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "used-to-be-personal-trainer"
+  },
+  {
+    "id": "best-of-all-time-096",
+    "setup": "My wife asked me to stop singing \"Wonderwall\" to her.",
+    "punchline": "I said maybe.",
+    "category": "best-of-all-time",
+    "tags": ["music", "marriage"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "wife-asked-stop-singing-wonderwall"
+  },
+  {
+    "id": "best-of-all-time-097",
+    "setup": "I'm reading a horror story in braille.",
+    "punchline": "Something bad is about to happen... I can feel it.",
+    "category": "best-of-all-time",
+    "tags": ["books", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "reading-horror-story-in-braille"
+  },
+  {
+    "id": "best-of-all-time-098",
+    "setup": "What lies at the bottom of the ocean and twitches?",
+    "punchline": "A nervous wreck.",
+    "category": "best-of-all-time",
+    "tags": ["nature", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "bottom-of-ocean-and-twitches"
+  },
+  {
+    "id": "best-of-all-time-099",
+    "setup": "My friend says to me, \"What rhymes with orange?\"",
+    "punchline": "I said, \"No, it doesn't.\"",
+    "category": "best-of-all-time",
+    "tags": ["language", "misdirection"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-rhymes-with-orange"
+  },
+  {
+    "id": "best-of-all-time-100",
+    "setup": "I have a joke about time travel, but I'm not going to share it.",
+    "punchline": "You guys didn't like it.",
+    "category": "best-of-all-time",
+    "tags": ["time-travel", "meta"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "joke-about-time-travel-didnt-like-it"
+  }
+]

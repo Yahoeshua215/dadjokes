@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "best-ever-001",
+    "setup": "I'm reading a horror story in braille.",
+    "punchline": "Something bad is about to happen, I can feel it.",
+    "category": "best-ever",
+    "tags": [
+      "books",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-04",
+    "slug": "im-reading-a-horror-story-in-braille"
+  },
+  {
+    "id": "best-ever-002",
+    "setup": "Why did the old man fall in the well?",
+    "punchline": "Because he couldn't see that well.",
+    "category": "best-ever",
+    "tags": [
+      "elderly",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-16",
+    "slug": "why-did-the-old-man-fall-in-the-well"
+  },
+  {
+    "id": "best-ever-003",
+    "setup": "The rotation of Earth really makes my day.",
+    "punchline": "",
+    "category": "best-ever",
+    "tags": [
+      "science",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-29",
+    "slug": "the-rotation-of-earth-really-makes-my-day"
+  },
+  {
+    "id": "best-ever-004",
+    "setup": "I have a joke about time travel.",
+    "punchline": "But I'm not going to share it. You guys didn't like it.",
+    "category": "best-ever",
+    "tags": [
+      "time-travel",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-02-09",
+    "slug": "i-have-a-joke-about-time-travel"
+  },
+  {
+    "id": "best-ever-005",
+    "setup": "How do you follow Will Smith in the snow?",
+    "punchline": "You follow the fresh prints.",
+    "category": "best-ever",
+    "tags": [
+      "celebrities",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-02-23",
+    "slug": "how-do-you-follow-will-smith-in-the-snow"
+  },
+  {
+    "id": "best-ever-006",
+    "setup": "What has four wheels and flies?",
+    "punchline": "A garbage truck.",
+    "category": "best-ever",
+    "tags": [
+      "vehicles",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-03-07",
+    "slug": "what-has-four-wheels-and-flies"
+  },
+  {
+    "id": "best-ever-007",
+    "setup": "My wife is really mad at the fact that I have no sense of direction.",
+    "punchline": "So I packed up my stuff and right.",
+    "category": "best-ever",
+    "tags": [
+      "marriage",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-03-20",
+    "slug": "my-wife-is-really-mad-at-the-fact-that-i-have-no-sense-of-di"
+  },
+  {
+    "id": "best-ever-008",
+    "setup": "I don't trust those trees.",
+    "punchline": "They seem kind of shady.",
+    "category": "best-ever",
+    "tags": [
+      "nature",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-04-01",
+    "slug": "i-dont-trust-those-trees"
+  },
+  {
+    "id": "best-ever-009",
+    "setup": "I told my wife she was drawing her eyebrows too low.",
+    "punchline": "She seemed surprised.",
+    "category": "best-ever",
+    "tags": [
+      "marriage",
+      "appearance"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-04-13",
+    "slug": "i-told-my-wife-she-was-drawing-her-eyebrows-too-low"
+  },
+  {
+    "id": "best-ever-010",
+    "setup": "Did you hear about the claustrophobic astronaut?",
+    "punchline": "He just needed a little space.",
+    "category": "best-ever",
+    "tags": [
+      "space",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-04-27",
+    "slug": "did-you-hear-about-the-claustrophobic-astronaut"
+  },
+  {
+    "id": "best-ever-011",
+    "setup": "People who use selfie sticks really need to take a long, hard look at themselves.",
+    "punchline": "",
+    "category": "best-ever",
+    "tags": [
+      "technology",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-05-09",
+    "slug": "people-who-use-selfie-sticks-really-need-to-take-a-long-hard"
+  },
+  {
+    "id": "best-ever-012",
+    "setup": "My wife told me I had to stop acting like a flamingo.",
+    "punchline": "So I had to put my foot down.",
+    "category": "best-ever",
+    "tags": [
+      "marriage",
+      "animals"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-05-22",
+    "slug": "my-wife-told-me-i-had-to-stop-acting-like-a-flamingo"
+  },
+  {
+    "id": "best-ever-013",
+    "setup": "Justice is a dish best served cold.",
+    "punchline": "If it were served warm, it would be justwater.",
+    "category": "best-ever",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-06-04",
+    "slug": "justice-is-a-dish-best-served-cold"
+  },
+  {
+    "id": "best-ever-014",
+    "setup": "I bought the world's worst thesaurus yesterday.",
+    "punchline": "Not only is it terrible, it's terrible.",
+    "category": "best-ever",
+    "tags": [
+      "books",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-06-17",
+    "slug": "i-bought-the-worlds-worst-thesaurus-yesterday"
+  },
+  {
+    "id": "best-ever-015",
+    "setup": "Why did the man get fired from the orange juice factory?",
+    "punchline": "He couldn't concentrate.",
+    "category": "best-ever",
+    "tags": [
+      "work",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-07-02",
+    "slug": "why-did-the-man-get-fired-from-the-orange-juice-factory"
+  },
+  {
+    "id": "best-ever-016",
+    "setup": "My friend says to me, \"What rhymes with orange?\"",
+    "punchline": "I said, \"No it doesn't.\"",
+    "category": "best-ever",
+    "tags": [
+      "language",
+      "misdirection"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-07-15",
+    "slug": "my-friend-says-to-me-what-rhymes-with-orange"
+  },
+  {
+    "id": "best-ever-017",
+    "setup": "I just got a new job at a bakery.",
+    "punchline": "I knead the dough.",
+    "category": "best-ever",
+    "tags": [
+      "work",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-07-28",
+    "slug": "i-just-got-a-new-job-at-a-bakery"
+  },
+  {
+    "id": "best-ever-018",
+    "setup": "What's brown and sticky?",
+    "punchline": "A stick.",
+    "category": "best-ever",
+    "tags": [
+      "nature",
+      "anti-humor"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-08-11",
+    "slug": "whats-brown-and-sticky"
+  },
+  {
+    "id": "best-ever-019",
+    "setup": "My therapist says I have a preoccupation with vengeance.",
+    "punchline": "We'll see about that.",
+    "category": "best-ever",
+    "tags": [
+      "therapy",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-08-25",
+    "slug": "my-therapist-says-i-have-a-preoccupation-with-vengeance"
+  },
+  {
+    "id": "best-ever-020",
+    "setup": "Did you hear about the guy who got hit in the head with a can of soda?",
+    "punchline": "He was lucky it was a soft drink.",
+    "category": "best-ever",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-09-07",
+    "slug": "did-you-hear-about-the-guy-who-got-hit-in-the-head-with-a-ca"
+  },
+  {
+    "id": "best-ever-021",
+    "setup": "I'm so good at sleeping.",
+    "punchline": "I can do it with my eyes closed.",
+    "category": "best-ever",
+    "tags": [
+      "sleep",
+      "one-liner"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-09-20",
+    "slug": "im-so-good-at-sleeping"
+  },
+  {
+    "id": "best-ever-022",
+    "setup": "You know what the loudest pet you can get is?",
+    "punchline": "A trumpet.",
+    "category": "best-ever",
+    "tags": [
+      "music",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-10-04",
+    "slug": "you-know-what-the-loudest-pet-you-can-get-is"
+  },
+  {
+    "id": "best-ever-023",
+    "setup": "I can't believe I got fired from the calendar factory.",
+    "punchline": "All I did was take a day off!",
+    "category": "best-ever",
+    "tags": [
+      "work",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-10-17",
+    "slug": "i-cant-believe-i-got-fired-from-the-calendar-factory"
+  },
+  {
+    "id": "best-ever-024",
+    "setup": "My boss asked me why I only get sick on work days.",
+    "punchline": "I said it must be my weekend immune system.",
+    "category": "best-ever",
+    "tags": [
+      "work",
+      "health"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-11-01",
+    "slug": "my-boss-asked-me-why-i-only-get-sick-on-work-days"
+  },
+  {
+    "id": "best-ever-025",
+    "setup": "I wanted to go on a diet, but I feel like I have way too much on my plate right now.",
+    "punchline": "",
+    "category": "best-ever",
+    "tags": [
+      "food",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-11-15",
+    "slug": "i-wanted-to-go-on-a-diet-but-i-feel-like-i-have-way-too-much"
+  },
+  {
+    "id": "best-ever-026",
+    "setup": "I told my doctor I broke my arm in two places.",
+    "punchline": "He told me to stop going to those places.",
+    "category": "best-ever",
+    "tags": [
+      "medical",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-027",
+    "setup": "What do you call a parade of rabbits hopping backwards?",
+    "punchline": "A receding hare-line.",
+    "category": "best-ever",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-028",
+    "setup": "I asked my dog what's two minus two.",
+    "punchline": "He said nothing.",
+    "category": "best-ever",
+    "tags": [
+      "animals",
+      "math"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-02",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-029",
+    "setup": "What do you call a man with a rubber toe?",
+    "punchline": "Roberto.",
+    "category": "best-ever",
+    "tags": [
+      "names",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-030",
+    "setup": "I used to hate facial hair.",
+    "punchline": "But then it grew on me.",
+    "category": "best-ever",
+    "tags": [
+      "appearance",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-031",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "They'd crack each other up.",
+    "category": "best-ever",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-03",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-032",
+    "setup": "I once had a dream I was a muffler.",
+    "punchline": "I woke up exhausted.",
+    "category": "best-ever",
+    "tags": [
+      "cars",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-033",
+    "setup": "What do sprinters eat before a race?",
+    "punchline": "Nothing. They fast.",
+    "category": "best-ever",
+    "tags": [
+      "sports",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-034",
+    "setup": "I asked my wife if I was the only one she'd been with.",
+    "punchline": "She said yes, all the others were nines and tens.",
+    "category": "best-ever",
+    "tags": [
+      "marriage",
+      "burn"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-05",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-035",
+    "setup": "I wasn't originally going to get a brain transplant.",
+    "punchline": "But then I changed my mind.",
+    "category": "best-ever",
+    "tags": [
+      "medical",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-05",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-036",
+    "setup": "My wife asked me to stop singing \"Wonderwall\" to her.",
+    "punchline": "I said maybe.",
+    "category": "best-ever",
+    "tags": [
+      "music",
+      "marriage"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-06",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-037",
+    "setup": "Why did the gym close down?",
+    "punchline": "It just didn't work out.",
+    "category": "best-ever",
+    "tags": [
+      "fitness",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-06",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-038",
+    "setup": "I used to think I was indecisive.",
+    "punchline": "But now I'm not so sure.",
+    "category": "best-ever",
+    "tags": [
+      "personality",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-07",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-039",
+    "setup": "Why don't scientists trust atoms?",
+    "punchline": "Because they make up everything.",
+    "category": "best-ever",
+    "tags": [
+      "science",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-040",
+    "setup": "What do you call a boomerang that won't come back?",
+    "punchline": "A stick.",
+    "category": "best-ever",
+    "tags": [
+      "toys",
+      "anti-humor"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-041",
+    "setup": "I told my wife I wanted to be cremated.",
+    "punchline": "She made me an appointment for Tuesday.",
+    "category": "best-ever",
+    "tags": [
+      "marriage",
+      "dark-humor"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-042",
+    "setup": "What's the best way to watch a fly fishing tournament?",
+    "punchline": "Live stream.",
+    "category": "best-ever",
+    "tags": [
+      "fishing",
+      "technology"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-043",
+    "setup": "I have a joke about chemistry.",
+    "punchline": "But I don't think it will get a reaction.",
+    "category": "best-ever",
+    "tags": [
+      "science",
+      "meta"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-044",
+    "setup": "What's the difference between a poorly dressed man on a unicycle and a well-dressed man on a bicycle?",
+    "punchline": "Attire.",
+    "category": "best-ever",
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-10",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-045",
+    "setup": "I told my wife she was drawing her eyebrows too high.",
+    "punchline": "She looked surprised.",
+    "category": "best-ever",
+    "tags": [
+      "marriage",
+      "appearance"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-046",
+    "setup": "What did the ocean say to the shore?",
+    "punchline": "Nothing, it just waved.",
+    "category": "best-ever",
+    "tags": [
+      "nature",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-047",
+    "setup": "My son asked me, \"Dad, can you put my shoes on?\"",
+    "punchline": "I said, \"I can try, but they probably won't fit me.\"",
+    "category": "best-ever",
+    "tags": [
+      "parenting",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-11",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-048",
+    "setup": "I'm terrified of elevators.",
+    "punchline": "I'm going to start taking steps to avoid them.",
+    "category": "best-ever",
+    "tags": [
+      "buildings",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-12",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-049",
+    "setup": "What did the fried rice say to the shrimp?",
+    "punchline": "Don't wok away from me.",
+    "category": "best-ever",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-050",
+    "setup": "I've been thinking about taking up meditation.",
+    "punchline": "I figure it's better than sitting around doing nothing.",
+    "category": "best-ever",
+    "tags": [
+      "lifestyle",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-13",
+    "slug": ""
+  },
+  {
+    "id": "best-ever-051",
+    "setup": "I told my doctor I broke my arm in two places.",
+    "punchline": "He told me to stop going to those places.",
+    "category": "best-ever",
+    "tags": ["medical", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-told-my-doctor-broke-arm-two-places"
+  },
+  {
+    "id": "best-ever-052",
+    "setup": "I stayed up all night to see where the sun went.",
+    "punchline": "Then it dawned on me.",
+    "category": "best-ever",
+    "tags": ["nature", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-stayed-up-all-night-to-see-the-sun"
+  },
+  {
+    "id": "best-ever-053",
+    "setup": "A man walked into a library and asked for books about paranoia.",
+    "punchline": "The librarian whispered, \"They're right behind you.\"",
+    "category": "best-ever",
+    "tags": ["books", "misdirection"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "man-walked-into-library-paranoia"
+  },
+  {
+    "id": "best-ever-054",
+    "setup": "I went to buy some camouflage trousers the other day.",
+    "punchline": "But I couldn't find any.",
+    "category": "best-ever",
+    "tags": ["fashion", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-went-to-buy-camouflage-trousers"
+  },
+  {
+    "id": "best-ever-055",
+    "setup": "My wife accused me of being immature.",
+    "punchline": "I told her to get out of my fort.",
+    "category": "best-ever",
+    "tags": ["marriage", "parenting"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "my-wife-accused-me-of-being-immature"
+  },
+  {
+    "id": "best-ever-056",
+    "setup": "What did the ocean say to the beach?",
+    "punchline": "Nothing, it just waved. Then it said sea ya later.",
+    "category": "best-ever",
+    "tags": ["nature", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-did-the-ocean-say-to-the-beach-2"
+  },
+  {
+    "id": "best-ever-057",
+    "setup": "My friend asked me to help him round up his 37 sheep.",
+    "punchline": "I said, \"40.\"",
+    "category": "best-ever",
+    "tags": ["math", "farming"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "help-round-up-37-sheep"
+  },
+  {
+    "id": "best-ever-058",
+    "setup": "I lost my job at the bank on my very first day.",
+    "punchline": "A woman asked me to check her balance, so I pushed her over.",
+    "category": "best-ever",
+    "tags": ["work", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-lost-my-job-at-the-bank"
+  },
+  {
+    "id": "best-ever-059",
+    "setup": "How do you make a Kleenex dance?",
+    "punchline": "Put a little boogie in it.",
+    "category": "best-ever",
+    "tags": ["music", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "how-do-you-make-a-kleenex-dance"
+  },
+  {
+    "id": "best-ever-060",
+    "setup": "Why did the belt get arrested?",
+    "punchline": "For holding up a pair of pants.",
+    "category": "best-ever",
+    "tags": ["fashion", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-belt-get-arrested"
+  },
+  {
+    "id": "best-ever-061",
+    "setup": "Did you hear about the claustrophobic astronaut?",
+    "punchline": "He just needed more space.",
+    "category": "best-ever",
+    "tags": ["space", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "claustrophobic-astronaut-needed-more-space"
+  },
+  {
+    "id": "best-ever-062",
+    "setup": "Two goldfish are sitting in a tank.",
+    "punchline": "One looks at the other and says, \"You know how to drive this thing?\"",
+    "category": "best-ever",
+    "tags": ["animals", "misdirection"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "two-goldfish-sitting-in-a-tank"
+  },
+  {
+    "id": "best-ever-063",
+    "setup": "I didn't want to believe that my dad was stealing from his job as a traffic cop.",
+    "punchline": "But when I got home, all the signs were there.",
+    "category": "best-ever",
+    "tags": ["parenting", "law"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "my-dad-was-stealing-from-traffic-cop-job"
+  },
+  {
+    "id": "best-ever-064",
+    "setup": "My wife told me I need to stop acting like a flamingo.",
+    "punchline": "So I put my foot down.",
+    "category": "best-ever",
+    "tags": ["marriage", "animals"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-need-to-stop-acting-like-a-flamingo"
+  },
+  {
+    "id": "best-ever-065",
+    "setup": "What lies at the bottom of the ocean and twitches?",
+    "punchline": "A nervous wreck.",
+    "category": "best-ever",
+    "tags": ["nature", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-lies-at-the-bottom-of-the-ocean"
+  },
+  {
+    "id": "best-ever-066",
+    "setup": "People who take care of chickens are literally chicken tenders.",
+    "punchline": "",
+    "category": "best-ever",
+    "tags": ["animals", "one-liner"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "people-who-take-care-of-chickens-are-chicken-tenders"
+  },
+  {
+    "id": "best-ever-067",
+    "setup": "I went to a wedding where two antenna met.",
+    "punchline": "The ceremony wasn't much, but the reception was excellent.",
+    "category": "best-ever",
+    "tags": ["technology", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-went-to-a-wedding-where-two-antenna-met"
+  },
+  {
+    "id": "best-ever-068",
+    "setup": "My grandfather has the heart of a lion.",
+    "punchline": "And a lifetime ban from the zoo.",
+    "category": "best-ever",
+    "tags": ["animals", "dark-humor"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "my-grandfather-has-the-heart-of-a-lion"
+  },
+  {
+    "id": "best-ever-069",
+    "setup": "What's the difference between a hippo and a Zippo?",
+    "punchline": "One is really heavy, the other is a little lighter.",
+    "category": "best-ever",
+    "tags": ["animals", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "whats-the-difference-between-a-hippo-and-a-zippo"
+  },
+  {
+    "id": "best-ever-070",
+    "setup": "I told my wife she should embrace her mistakes.",
+    "punchline": "She gave me a hug.",
+    "category": "best-ever",
+    "tags": ["marriage", "burn"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-told-my-wife-embrace-her-mistakes"
+  },
+  {
+    "id": "best-ever-071",
+    "setup": "Did you hear about the kidnapping at the school?",
+    "punchline": "It's fine. He woke up.",
+    "category": "best-ever",
+    "tags": ["school", "misdirection"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "did-you-hear-about-kidnapping-at-school"
+  },
+  {
+    "id": "best-ever-072",
+    "setup": "What does a house wear?",
+    "punchline": "Address.",
+    "category": "best-ever",
+    "tags": ["buildings", "fashion"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-does-a-house-wear-best-ever"
+  },
+  {
+    "id": "best-ever-073",
+    "setup": "I tried to sue the airport for misplacing my luggage.",
+    "punchline": "I lost my case.",
+    "category": "best-ever",
+    "tags": ["travel", "law"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-tried-to-sue-the-airport-misplacing-luggage"
+  },
+  {
+    "id": "best-ever-074",
+    "setup": "Why did the golfer wear two pairs of pants?",
+    "punchline": "In case he got a hole in one.",
+    "category": "best-ever",
+    "tags": ["golf", "clothing"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-golfer-wear-two-pairs-of-pants"
+  },
+  {
+    "id": "best-ever-075",
+    "setup": "I just broke up with my mathematician girlfriend.",
+    "punchline": "She was obsessed with her ex.",
+    "category": "best-ever",
+    "tags": ["math", "relationships"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "broke-up-with-mathematician-girlfriend"
+  },
+  {
+    "id": "best-ever-076",
+    "setup": "What do you call a man with a rubber toe?",
+    "punchline": "Roberto!",
+    "category": "best-ever",
+    "tags": ["names", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-man-with-rubber-toe-2"
+  },
+  {
+    "id": "best-ever-077",
+    "setup": "I gave all my dead batteries away today.",
+    "punchline": "Free of charge.",
+    "category": "best-ever",
+    "tags": ["technology", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-gave-all-dead-batteries-away"
+  },
+  {
+    "id": "best-ever-078",
+    "setup": "What do Swedish warships have printed on them?",
+    "punchline": "Bar codes, so when they dock they can Scandinavian.",
+    "category": "best-ever",
+    "tags": ["geography", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-swedish-warships-have-printed"
+  },
+  {
+    "id": "best-ever-079",
+    "setup": "I'm addicted to collecting vintage Beatles albums.",
+    "punchline": "I need Help.",
+    "category": "best-ever",
+    "tags": ["music", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "im-addicted-to-collecting-vintage-beatles"
+  },
+  {
+    "id": "best-ever-080",
+    "setup": "My landlord texted saying we need to meet up and talk about how high my heating bill is.",
+    "punchline": "I said, \"Sure, my door is always open.\"",
+    "category": "best-ever",
+    "tags": ["household", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "landlord-talk-about-heating-bill"
+  },
+  {
+    "id": "best-ever-081",
+    "setup": "I don't get why people say \"break a leg\" when you go on stage.",
+    "punchline": "I mean, after all, every cast starts with one.",
+    "category": "best-ever",
+    "tags": ["theater", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "why-people-say-break-a-leg-on-stage"
+  },
+  {
+    "id": "best-ever-082",
+    "setup": "I'm so good at sleeping.",
+    "punchline": "I do it with my eyes closed.",
+    "category": "best-ever",
+    "tags": ["sleep", "one-liner"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "so-good-at-sleeping-eyes-closed"
+  },
+  {
+    "id": "best-ever-083",
+    "setup": "What does a baby computer call his father?",
+    "punchline": "Data.",
+    "category": "best-ever",
+    "tags": ["technology", "parenting"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-does-a-baby-computer-call-his-father"
+  },
+  {
+    "id": "best-ever-084",
+    "setup": "I got my daughter a fridge for her birthday.",
+    "punchline": "I can't wait to see her face light up when she opens it.",
+    "category": "best-ever",
+    "tags": ["parenting", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "got-my-daughter-a-fridge-for-birthday"
+  },
+  {
+    "id": "best-ever-085",
+    "setup": "I'm reading a book about submarines.",
+    "punchline": "It's really deep.",
+    "category": "best-ever",
+    "tags": ["books", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "im-reading-a-book-about-submarines"
+  },
+  {
+    "id": "best-ever-086",
+    "setup": "The shovel was a ground-breaking invention.",
+    "punchline": "",
+    "category": "best-ever",
+    "tags": ["history", "one-liner"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "the-shovel-was-ground-breaking-invention"
+  },
+  {
+    "id": "best-ever-087",
+    "setup": "My wife told me to stop singing Wonderwall to her.",
+    "punchline": "I said maybe.",
+    "category": "best-ever",
+    "tags": ["music", "marriage"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "wife-told-me-stop-singing-wonderwall"
+  },
+  {
+    "id": "best-ever-088",
+    "setup": "I'm addicted to brake fluid.",
+    "punchline": "But I can stop whenever I want.",
+    "category": "best-ever",
+    "tags": ["cars", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "im-addicted-to-brake-fluid"
+  },
+  {
+    "id": "best-ever-089",
+    "setup": "How does Moses make his coffee?",
+    "punchline": "Hebrews it.",
+    "category": "best-ever",
+    "tags": ["religion", "food"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "how-does-moses-make-his-coffee"
+  },
+  {
+    "id": "best-ever-090",
+    "setup": "What do you call a man who can't stand?",
+    "punchline": "Neil.",
+    "category": "best-ever",
+    "tags": ["names", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-man-who-cant-stand"
+  },
+  {
+    "id": "best-ever-091",
+    "setup": "I ordered a chicken and an egg online.",
+    "punchline": "I'll let you know.",
+    "category": "best-ever",
+    "tags": ["philosophy", "shopping"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-ordered-a-chicken-and-an-egg-online"
+  },
+  {
+    "id": "best-ever-092",
+    "setup": "My wife asked me to stop singing \"I'm a Believer.\"",
+    "punchline": "Then I saw her face.",
+    "category": "best-ever",
+    "tags": ["music", "marriage"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "wife-asked-stop-singing-im-a-believer"
+  },
+  {
+    "id": "best-ever-093",
+    "setup": "I know a lot of jokes about retired people.",
+    "punchline": "None of them work.",
+    "category": "best-ever",
+    "tags": ["work", "meta"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "jokes-about-retired-people-none-work"
+  },
+  {
+    "id": "best-ever-094",
+    "setup": "When two vegans get in an argument, is it still called a beef?",
+    "punchline": "",
+    "category": "best-ever",
+    "tags": ["food", "one-liner"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "when-two-vegans-get-in-an-argument"
+  },
+  {
+    "id": "best-ever-095",
+    "setup": "To the person who invented zero:",
+    "punchline": "Thanks for nothing.",
+    "category": "best-ever",
+    "tags": ["math", "history"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "to-the-person-who-invented-zero"
+  },
+  {
+    "id": "best-ever-096",
+    "setup": "My doctor said I was going deaf.",
+    "punchline": "That was hard to hear.",
+    "category": "best-ever",
+    "tags": ["medical", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "my-doctor-said-i-was-going-deaf"
+  },
+  {
+    "id": "best-ever-097",
+    "setup": "What do you call a bear with no socks on?",
+    "punchline": "Bare-foot.",
+    "category": "best-ever",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-bear-with-no-socks"
+  },
+  {
+    "id": "best-ever-098",
+    "setup": "I had a dream I was a muffler last night.",
+    "punchline": "I woke up exhausted.",
+    "category": "best-ever",
+    "tags": ["cars", "sleep"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-had-a-dream-i-was-a-muffler-last-night"
+  },
+  {
+    "id": "best-ever-099",
+    "setup": "I used to be a personal trainer, but then I gave my too weak notice.",
+    "punchline": "",
+    "category": "best-ever",
+    "tags": ["fitness", "one-liner"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "used-to-be-personal-trainer-too-weak-notice"
+  },
+  {
+    "id": "best-ever-100",
+    "setup": "Why do cows have hooves instead of feet?",
+    "punchline": "Because they lactose.",
+    "category": "best-ever",
+    "tags": ["animals", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "why-do-cows-have-hooves-instead-of-feet"
+  }
+]

@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "math-001",
+    "slug": "why-was-six-afraid-of-seven",
+    "setup": "Why was six afraid of seven?",
+    "punchline": "Because seven eight nine!",
+    "category": "math",
+    "tags": [
+      "numbers",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "math-002",
+    "slug": "parallel-lines-have-so-much-in-common",
+    "setup": "Parallel lines have so much in common...",
+    "punchline": "It's a shame they'll never meet.",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "math-003",
+    "slug": "why-did-the-student-do-multiplication-problems-on-the-floor",
+    "setup": "Why did the student do multiplication problems on the floor?",
+    "punchline": "The teacher told him not to use tables!",
+    "category": "math",
+    "tags": [
+      "school",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "math-004",
+    "slug": "what-do-you-call-a-number-that-cant-keep-still",
+    "setup": "What do you call a number that can't keep still?",
+    "punchline": "A roamin' numeral!",
+    "category": "math",
+    "tags": [
+      "roman numerals",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "math-005",
+    "slug": "why-should-you-never-argue-with-a-90-degree-angle",
+    "setup": "Why should you never argue with a 90-degree angle?",
+    "punchline": "Because it's always right!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "math-006",
+    "slug": "what-did-zero-say-to-eight",
+    "setup": "What did zero say to eight?",
+    "punchline": "Nice belt!",
+    "category": "math",
+    "tags": [
+      "numbers",
+      "visual"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "math-007",
+    "slug": "why-was-the-math-book-sad",
+    "setup": "Why was the math book sad?",
+    "punchline": "Because it had too many problems!",
+    "category": "math",
+    "tags": [
+      "school",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "math-008",
+    "slug": "what-do-mathematicians-do-after-a-snowstorm",
+    "setup": "What do mathematicians do after a snowstorm?",
+    "punchline": "They make snow angles!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "winter"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "math-009",
+    "slug": "why-did-the-two-fours-skip-lunch",
+    "setup": "Why did the two fours skip lunch?",
+    "punchline": "Because they already eight!",
+    "category": "math",
+    "tags": [
+      "numbers",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "math-010",
+    "slug": "what-do-you-call-friends-who-love-math",
+    "setup": "What do you call friends who love math?",
+    "punchline": "Algebros!",
+    "category": "math",
+    "tags": [
+      "algebra",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "math-011",
+    "slug": "there-are-three-kinds-of-people-in-this-world",
+    "setup": "There are three kinds of people in this world...",
+    "punchline": "Those who can count, and those who can't.",
+    "category": "math",
+    "tags": [
+      "counting",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "math-012",
+    "slug": "why-is-the-obtuse-triangle-always-upset",
+    "setup": "Why is the obtuse triangle always upset?",
+    "punchline": "Because it's never right!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "math-013",
+    "slug": "what-did-the-calculator-say-to-the-student",
+    "setup": "What did the calculator say to the student?",
+    "punchline": "You can count on me!",
+    "category": "math",
+    "tags": [
+      "calculator",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "math-014",
+    "slug": "why-do-plants-hate-math",
+    "setup": "Why do plants hate math?",
+    "punchline": "Because it gives them square roots!",
+    "category": "math",
+    "tags": [
+      "algebra",
+      "nature"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "math-015",
+    "slug": "what-did-the-triangle-say-to-the-circle",
+    "setup": "What did the triangle say to the circle?",
+    "punchline": "You're pointless!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "math-016",
+    "slug": "i-hired-an-odd-number-of-workers",
+    "setup": "I hired an odd number of workers...",
+    "punchline": "They just can't even!",
+    "category": "math",
+    "tags": [
+      "numbers",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "math-017",
+    "slug": "why-did-the-fraction-worry-about-marrying-the-decimal",
+    "setup": "Why did the fraction worry about marrying the decimal?",
+    "punchline": "Because he would have to convert!",
+    "category": "math",
+    "tags": [
+      "fractions",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "math-018",
+    "slug": "what-do-you-call-a-hen-that-can-count-her-own-eggs",
+    "setup": "What do you call a hen that can count her own eggs?",
+    "punchline": "A mathemachicken!",
+    "category": "math",
+    "tags": [
+      "animal",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "math-019",
+    "slug": "why-couldnt-the-angle-get-a-loan",
+    "setup": "Why couldn't the angle get a loan?",
+    "punchline": "His parents wouldn't cosine!",
+    "category": "math",
+    "tags": [
+      "trigonometry",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "math-020",
+    "slug": "how-do-you-stay-warm-in-a-cold-room",
+    "setup": "How do you stay warm in a cold room?",
+    "punchline": "Go to the corner — it's always 90 degrees!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "math-021",
+    "slug": "what-do-baby-parabolas-drink",
+    "setup": "What do baby parabolas drink?",
+    "punchline": "Quadratic formula!",
+    "category": "math",
+    "tags": [
+      "algebra",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "math-022",
+    "slug": "why-was-the-equal-sign-so-humble",
+    "setup": "Why was the equal sign so humble?",
+    "punchline": "Because it knew it wasn't greater than or less than anyone else!",
+    "category": "math",
+    "tags": [
+      "symbols",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "math-023",
+    "slug": "i-saw-my-math-teacher-with-a-piece-of-graph-paper",
+    "setup": "I saw my math teacher with a piece of graph paper...",
+    "punchline": "I think she's plotting something!",
+    "category": "math",
+    "tags": [
+      "school",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "math-024",
+    "slug": "whats-the-best-tool-for-math",
+    "setup": "What's the best tool for math?",
+    "punchline": "Multi-pliers!",
+    "category": "math",
+    "tags": [
+      "tools",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "math-025",
+    "slug": "why-is-arithmetic-hard-work",
+    "setup": "Why is arithmetic hard work?",
+    "punchline": "You have to carry so many ones!",
+    "category": "math",
+    "tags": [
+      "addition",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-13"
+  },
+  {
+    "id": "math-026",
+    "slug": "",
+    "setup": "Why did seven eat nine?",
+    "punchline": "Because you're supposed to eat three squared meals a day!",
+    "category": "math",
+    "tags": [
+      "numbers",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-027",
+    "slug": "",
+    "setup": "What did the zero say to the two?",
+    "punchline": "Who put that belt on you too?",
+    "category": "math",
+    "tags": [
+      "numbers",
+      "visual"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-028",
+    "slug": "",
+    "setup": "Why was the geometry teacher late to work?",
+    "punchline": "She took the rhombus!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "math-029",
+    "slug": "",
+    "setup": "What do you call a teapot of boiling water on top of Mount Everest?",
+    "punchline": "A high-pot-in-use!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "math-030",
+    "slug": "",
+    "setup": "Why did the math teacher open a window?",
+    "punchline": "To get some natural log!",
+    "category": "math",
+    "tags": [
+      "calculus",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "math-031",
+    "slug": "",
+    "setup": "What do you get if you divide the circumference of a pumpkin by its diameter?",
+    "punchline": "Pumpkin pi!",
+    "category": "math",
+    "tags": [
+      "pi",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "math-032",
+    "slug": "",
+    "setup": "Why didn't the quarter roll down the hill with the nickel?",
+    "punchline": "Because it had more cents!",
+    "category": "math",
+    "tags": [
+      "money",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "math-033",
+    "slug": "",
+    "setup": "What do you call a math teacher who is also a spy?",
+    "punchline": "A double agent!",
+    "category": "math",
+    "tags": [
+      "school",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "math-034",
+    "slug": "",
+    "setup": "Why was the math lecture so long?",
+    "punchline": "The professor kept going off on a tangent!",
+    "category": "math",
+    "tags": [
+      "trigonometry",
+      "school"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "math-035",
+    "slug": "",
+    "setup": "What's a math teacher's favorite season?",
+    "punchline": "Sum-mer!",
+    "category": "math",
+    "tags": [
+      "addition",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "math-036",
+    "slug": "",
+    "setup": "Why did the student wear glasses during math class?",
+    "punchline": "To improve his di-vision!",
+    "category": "math",
+    "tags": [
+      "division",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "math-037",
+    "slug": "",
+    "setup": "What do you call a destroyed angle?",
+    "punchline": "A wrecked-angle!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "math-038",
+    "slug": "",
+    "setup": "Why is the number six so scared?",
+    "punchline": "Because seven is a registered six offender!",
+    "category": "math",
+    "tags": [
+      "numbers",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "math-039",
+    "slug": "",
+    "setup": "What do you call an empty parrot cage?",
+    "punchline": "A polygon!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "math-040",
+    "slug": "",
+    "setup": "How does a mathematician plow fields?",
+    "punchline": "With a pro-tractor!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "math-041",
+    "slug": "",
+    "setup": "Why can't your nose be 12 inches long?",
+    "punchline": "Because then it would be a foot!",
+    "category": "math",
+    "tags": [
+      "measurement",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "math-042",
+    "slug": "",
+    "setup": "What did the acorn say when it grew up?",
+    "punchline": "Gee, I'm a tree! (Geometry!)",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "math-043",
+    "slug": "",
+    "setup": "Why was the fraction apprehensive about marrying the decimal?",
+    "punchline": "Because the decimal already had a point!",
+    "category": "math",
+    "tags": [
+      "fractions",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "math-044",
+    "slug": "",
+    "setup": "What's a swimmer's favorite math?",
+    "punchline": "Dive-ision!",
+    "category": "math",
+    "tags": [
+      "division",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "math-045",
+    "slug": "",
+    "setup": "Why did the circle go to the gym?",
+    "punchline": "To stay well-rounded!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "math-046",
+    "slug": "",
+    "setup": "What did the witch teach in school?",
+    "punchline": "Hex-agons!",
+    "category": "math",
+    "tags": [
+      "geometry",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "math-047",
+    "slug": "",
+    "setup": "Why do teenagers travel in groups of three?",
+    "punchline": "Because they can't even!",
+    "category": "math",
+    "tags": [
+      "numbers",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "math-048",
+    "slug": "",
+    "setup": "What did pi say to its partner?",
+    "punchline": "You're being irrational!",
+    "category": "math",
+    "tags": [
+      "pi",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "math-049",
+    "slug": "",
+    "setup": "Why was the math student so thin?",
+    "punchline": "He ate only a fraction of his meals!",
+    "category": "math",
+    "tags": [
+      "fractions",
+      "classic"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "math-050",
+    "slug": "",
+    "setup": "What did algebra say to geometry at the bar?",
+    "punchline": "Stop going off on a tangent, I've got my own problems!",
+    "category": "math",
+    "tags": [
+      "algebra",
+      "trigonometry"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-13"
+  },
+  {
+    "id": "math-051",
+    "slug": "why-was-the-geometry-book-always-tired",
+    "setup": "Why was the geometry book always tired?",
+    "punchline": "Because it had too many sleepless angles!",
+    "category": "math",
+    "tags": ["geometry", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-052",
+    "slug": "what-do-you-call-a-dead-parrot-in-math",
+    "setup": "What do you call a number that just can't stand still?",
+    "punchline": "A roaming numeral!",
+    "category": "math",
+    "tags": ["numbers", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-053",
+    "slug": "why-did-the-two-threes-go-to-therapy",
+    "setup": "Why did the two threes go to therapy?",
+    "punchline": "They had issues that couldn't be divided!",
+    "category": "math",
+    "tags": ["numbers", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-054",
+    "slug": "what-do-you-call-a-mathematical-snake",
+    "setup": "What do you call a mathematical snake?",
+    "punchline": "A pi-thon!",
+    "category": "math",
+    "tags": ["pi", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-055",
+    "slug": "why-did-the-student-eat-his-homework",
+    "setup": "Why did the student eat his math homework?",
+    "punchline": "Because the teacher told him it was a piece of cake!",
+    "category": "math",
+    "tags": ["school", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-056",
+    "slug": "what-do-you-call-twelve-plus-one",
+    "setup": "What's interesting about twelve plus one?",
+    "punchline": "It's an anagram of eleven plus two!",
+    "category": "math",
+    "tags": ["numbers", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-057",
+    "slug": "why-is-six-afraid-to-go-camping",
+    "setup": "Why is six afraid to go camping?",
+    "punchline": "Because seven was a registered camp fire starter — seven eight nine!",
+    "category": "math",
+    "tags": ["numbers", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-058",
+    "slug": "what-did-the-zero-say-to-the-negative-number",
+    "setup": "What did the zero say to the negative number?",
+    "punchline": "Be more positive!",
+    "category": "math",
+    "tags": ["numbers", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-059",
+    "slug": "why-did-the-right-angle-go-to-the-beach",
+    "setup": "Why did the right angle go to the beach?",
+    "punchline": "Because it was 90 degrees!",
+    "category": "math",
+    "tags": ["geometry", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-060",
+    "slug": "what-did-the-algebra-teacher-say-about-exponents",
+    "setup": "What did the algebra teacher say about exponents?",
+    "punchline": "I just can't express how powerful they are!",
+    "category": "math",
+    "tags": ["algebra", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-061",
+    "slug": "why-was-the-minus-sign-so-humble",
+    "setup": "Why was the minus sign so humble?",
+    "punchline": "Because it always took away from itself!",
+    "category": "math",
+    "tags": ["symbols", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-062",
+    "slug": "what-do-you-call-an-angle-thats-adorable",
+    "setup": "What do you call an angle that's adorable?",
+    "punchline": "A-cute angle!",
+    "category": "math",
+    "tags": ["geometry", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-063",
+    "slug": "why-did-the-polynomial-plant-wilt",
+    "setup": "Why did the polynomial plant wilt?",
+    "punchline": "It lost all its roots!",
+    "category": "math",
+    "tags": ["algebra", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-064",
+    "slug": "what-do-you-call-people-who-love-tractors",
+    "setup": "What do you call people who love tractors?",
+    "punchline": "Pro-tractors!",
+    "category": "math",
+    "tags": ["geometry", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-065",
+    "slug": "why-was-the-math-exam-crying",
+    "setup": "Why was the math exam crying?",
+    "punchline": "Because it had too many problems!",
+    "category": "math",
+    "tags": ["school", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-066",
+    "slug": "what-did-the-plus-sign-say-to-the-minus",
+    "setup": "What did the plus sign say to the minus sign?",
+    "punchline": "You're so negative!",
+    "category": "math",
+    "tags": ["symbols", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-067",
+    "slug": "why-dont-circles-ever-win-awards",
+    "setup": "Why don't circles ever win awards?",
+    "punchline": "Because there's no point!",
+    "category": "math",
+    "tags": ["geometry", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-068",
+    "slug": "what-did-the-student-say-about-calculus",
+    "setup": "What did the student say about their calculus class?",
+    "punchline": "It's driving me to the limit!",
+    "category": "math",
+    "tags": ["calculus", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-069",
+    "slug": "why-did-the-decimal-break-up-with-the-percent",
+    "setup": "Why did the decimal break up with the percent?",
+    "punchline": "It couldn't deal with the pressure of always being compared!",
+    "category": "math",
+    "tags": ["fractions", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-070",
+    "slug": "what-do-you-call-a-crushed-angle",
+    "setup": "What do you call a crushed angle?",
+    "punchline": "A rectangle!",
+    "category": "math",
+    "tags": ["geometry", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-071",
+    "slug": "why-should-you-never-talk-to-pi",
+    "setup": "Why should you never talk to pi?",
+    "punchline": "Because it just goes on and on forever!",
+    "category": "math",
+    "tags": ["pi", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-072",
+    "slug": "what-did-the-statistician-say-at-the-bar",
+    "setup": "What did the statistician say when drowning?",
+    "punchline": "This must be an outlier!",
+    "category": "math",
+    "tags": ["statistics", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-073",
+    "slug": "why-did-the-number-line-break-up",
+    "setup": "Why did the number line break up with the graph?",
+    "punchline": "It was a one-dimensional relationship!",
+    "category": "math",
+    "tags": ["algebra", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-074",
+    "slug": "what-do-mathematicians-eat-on-halloween",
+    "setup": "What do mathematicians eat on Halloween?",
+    "punchline": "Pumpkin pi!",
+    "category": "math",
+    "tags": ["pi", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-075",
+    "slug": "why-is-the-number-two-so-nervous",
+    "setup": "Why is the number two so nervous?",
+    "punchline": "Because it's always even!",
+    "category": "math",
+    "tags": ["numbers", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-076",
+    "slug": "what-happens-when-you-put-root-beer-in-square-glass",
+    "setup": "What happens when you put root beer in a square glass?",
+    "punchline": "You get beer!",
+    "category": "math",
+    "tags": ["algebra", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-077",
+    "slug": "why-did-the-imaginary-number-feel-lonely",
+    "setup": "Why did the imaginary number feel lonely?",
+    "punchline": "Because nobody believed it was real!",
+    "category": "math",
+    "tags": ["numbers", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-078",
+    "slug": "what-did-the-compass-say-to-the-pencil",
+    "setup": "What did the compass say to the pencil?",
+    "punchline": "You've really gone around the bend!",
+    "category": "math",
+    "tags": ["geometry", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-079",
+    "slug": "why-did-the-fraction-go-to-therapy",
+    "setup": "Why did the fraction go to therapy?",
+    "punchline": "It was having an improper breakdown!",
+    "category": "math",
+    "tags": ["fractions", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-080",
+    "slug": "what-does-a-math-teacher-call-retirement",
+    "setup": "What does a math teacher call retirement?",
+    "punchline": "The aftermath!",
+    "category": "math",
+    "tags": ["school", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-081",
+    "slug": "why-did-seven-eat-five",
+    "setup": "What do you get when you cross a math teacher and a clock?",
+    "punchline": "Arithma-ticks!",
+    "category": "math",
+    "tags": ["school", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-082",
+    "slug": "what-did-the-isosceles-say-to-the-scalene",
+    "setup": "What did the isosceles triangle say to the scalene triangle?",
+    "punchline": "At least two of my sides agree!",
+    "category": "math",
+    "tags": ["geometry", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-083",
+    "slug": "why-did-the-integer-feel-incomplete",
+    "setup": "Why did the integer feel incomplete?",
+    "punchline": "Because it had no point!",
+    "category": "math",
+    "tags": ["numbers", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-084",
+    "slug": "what-do-you-call-dudes-who-love-math",
+    "setup": "What do you call a gentleman who spent all summer at the beach?",
+    "punchline": "A tangent!",
+    "category": "math",
+    "tags": ["trigonometry", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-085",
+    "slug": "why-did-the-variable-feel-so-uncertain",
+    "setup": "Why did the variable feel so uncertain?",
+    "punchline": "Because its value kept changing!",
+    "category": "math",
+    "tags": ["algebra", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-086",
+    "slug": "what-do-you-call-a-teapot-of-numbers",
+    "setup": "What's the best way to serve pi?",
+    "punchline": "A la mode!",
+    "category": "math",
+    "tags": ["pi", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-087",
+    "slug": "why-do-math-teachers-love-parks",
+    "setup": "Why do math teachers love parks?",
+    "punchline": "Because of all the natural logs!",
+    "category": "math",
+    "tags": ["calculus", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-088",
+    "slug": "what-did-the-square-say-to-the-old-circle",
+    "setup": "What did the square say to the old circle?",
+    "punchline": "Been around long?",
+    "category": "math",
+    "tags": ["geometry", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-089",
+    "slug": "why-is-a-math-teacher-a-great-gardener",
+    "setup": "Why is a math teacher a great gardener?",
+    "punchline": "Because she has so many problems to solve and plants to root for!",
+    "category": "math",
+    "tags": ["school", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-090",
+    "slug": "what-do-you-call-a-line-that-can-sing",
+    "setup": "What do you call a line that can sing?",
+    "punchline": "A-chord!",
+    "category": "math",
+    "tags": ["geometry", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-091",
+    "slug": "why-did-the-obtuse-angle-go-to-the-beach",
+    "setup": "Why did the obtuse angle go to the beach?",
+    "punchline": "Because it was over 90 degrees!",
+    "category": "math",
+    "tags": ["geometry", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-092",
+    "slug": "what-did-the-pencil-say-to-the-ruler",
+    "setup": "What did the pencil say to the ruler?",
+    "punchline": "You rule!",
+    "category": "math",
+    "tags": ["measurement", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-093",
+    "slug": "why-is-two-times-ten-the-same-as-two-times-eleven",
+    "setup": "Why is 2 times 10 the same as 2 times 11?",
+    "punchline": "Because 2 times 10 is twenty, and 2 times 11 is twenty too!",
+    "category": "math",
+    "tags": ["numbers", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-094",
+    "slug": "what-do-you-call-a-math-student-who-daydreams",
+    "setup": "What do you call a number that's had too many drinks?",
+    "punchline": "An intox-integer!",
+    "category": "math",
+    "tags": ["numbers", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-095",
+    "slug": "why-was-the-fraction-worried-about-exam",
+    "setup": "Why was the fraction worried about the exam?",
+    "punchline": "It was afraid of being reduced!",
+    "category": "math",
+    "tags": ["fractions", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-096",
+    "slug": "what-do-you-call-a-knight-round-table",
+    "setup": "What do you call a knight who loves math?",
+    "punchline": "Sir Cumference!",
+    "category": "math",
+    "tags": ["geometry", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-097",
+    "slug": "why-did-five-go-to-the-therapist",
+    "setup": "Why did five go to the therapist?",
+    "punchline": "Because it had a lot of issues being caught between four and six!",
+    "category": "math",
+    "tags": ["numbers", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-098",
+    "slug": "what-do-you-call-a-nine-sided-cat",
+    "setup": "What do you call a nine-sided cat?",
+    "punchline": "A cat-a-gon!",
+    "category": "math",
+    "tags": ["geometry", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-099",
+    "slug": "why-did-the-mathematician-love-the-airport",
+    "setup": "Why did the mathematician love the airport?",
+    "punchline": "Because of all the terminals!",
+    "category": "math",
+    "tags": ["calculus", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "math-100",
+    "slug": "what-is-a-butterflys-favorite-math-subject",
+    "setup": "What is a butterfly's favorite math subject?",
+    "punchline": "Moth-ematics!",
+    "category": "math",
+    "tags": ["school", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  }
+]

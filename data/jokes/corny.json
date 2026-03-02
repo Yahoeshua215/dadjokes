@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "corny-001",
+    "setup": "What time did the man go to the dentist?",
+    "punchline": "Tooth-hurty!",
+    "category": "corny",
+    "tags": [
+      "dentist",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-01-06",
+    "slug": "what-time-did-the-man-go-to-the-dentist"
+  },
+  {
+    "id": "corny-002",
+    "setup": "What did the big flower say to the little flower?",
+    "punchline": "Hi, bud!",
+    "category": "corny",
+    "tags": [
+      "nature",
+      "greetings"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-01-17",
+    "slug": "what-did-the-big-flower-say-to-the-little-flower"
+  },
+  {
+    "id": "corny-003",
+    "setup": "Why did the mushroom go to the party?",
+    "punchline": "Because he was a fungi!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-01-30",
+    "slug": "why-did-the-mushroom-go-to-the-party"
+  },
+  {
+    "id": "corny-004",
+    "setup": "How does a rabbi make his coffee?",
+    "punchline": "Hebrews it!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-02-08",
+    "slug": "how-does-a-rabbi-make-his-coffee"
+  },
+  {
+    "id": "corny-005",
+    "setup": "What do you call a shoe made of a banana?",
+    "punchline": "A slipper!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "fashion"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-02-20",
+    "slug": "what-do-you-call-a-shoe-made-of-a-banana"
+  },
+  {
+    "id": "corny-006",
+    "setup": "Why did the gym close down?",
+    "punchline": "It just didn't work out.",
+    "category": "corny",
+    "tags": [
+      "fitness",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-03-03",
+    "slug": "why-did-the-gym-close-down"
+  },
+  {
+    "id": "corny-007",
+    "setup": "What do lawyers wear to court?",
+    "punchline": "Lawsuits!",
+    "category": "corny",
+    "tags": [
+      "law",
+      "fashion"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-03-14",
+    "slug": "what-do-lawyers-wear-to-court"
+  },
+  {
+    "id": "corny-008",
+    "setup": "Why did the Oreo go to the dentist?",
+    "punchline": "Because it lost its filling!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "dentist"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-03-28",
+    "slug": "why-did-the-oreo-go-to-the-dentist"
+  },
+  {
+    "id": "corny-009",
+    "setup": "What do you call a line of men waiting to get haircuts?",
+    "punchline": "A barbecue!",
+    "category": "corny",
+    "tags": [
+      "grooming",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-04-05",
+    "slug": "what-do-you-call-a-line-of-men-waiting-to-get-haircuts"
+  },
+  {
+    "id": "corny-010",
+    "setup": "Why are elevator jokes so good?",
+    "punchline": "They work on so many levels!",
+    "category": "corny",
+    "tags": [
+      "buildings",
+      "meta"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-04-18",
+    "slug": "why-are-elevator-jokes-so-good"
+  },
+  {
+    "id": "corny-011",
+    "setup": "What do sprinters eat before a race?",
+    "punchline": "Nothing, they fast!",
+    "category": "corny",
+    "tags": [
+      "sports",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-05-01",
+    "slug": "what-do-sprinters-eat-before-a-race"
+  },
+  {
+    "id": "corny-012",
+    "setup": "What do you call two birds in love?",
+    "punchline": "Tweethearts!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "romance"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-05-12",
+    "slug": "what-do-you-call-two-birds-in-love"
+  },
+  {
+    "id": "corny-013",
+    "setup": "Where do fruits go on vacation?",
+    "punchline": "Pear-is!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "travel"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-05-25",
+    "slug": "where-do-fruits-go-on-vacation"
+  },
+  {
+    "id": "corny-014",
+    "setup": "Why was the broom late?",
+    "punchline": "It over-swept!",
+    "category": "corny",
+    "tags": [
+      "household",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-06-07",
+    "slug": "why-was-the-broom-late"
+  },
+  {
+    "id": "corny-015",
+    "setup": "What do you call a duck that gets all A's?",
+    "punchline": "A wise quacker!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "school"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-06-20",
+    "slug": "what-do-you-call-a-duck-that-gets-all-as-2"
+  },
+  {
+    "id": "corny-016",
+    "setup": "Why do moon rocks taste better than earth rocks?",
+    "punchline": "Because they're a little meteor!",
+    "category": "corny",
+    "tags": [
+      "space",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-07-04",
+    "slug": "why-do-moon-rocks-taste-better-than-earth-rocks"
+  },
+  {
+    "id": "corny-017",
+    "setup": "What did the stamp say to the envelope?",
+    "punchline": "Stick with me and we'll go places!",
+    "category": "corny",
+    "tags": [
+      "mail",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-07-16",
+    "slug": "what-did-the-stamp-say-to-the-envelope"
+  },
+  {
+    "id": "corny-018",
+    "setup": "What do you call a snowman with a six-pack?",
+    "punchline": "An abdominal snowman!",
+    "category": "corny",
+    "tags": [
+      "winter",
+      "fitness"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-07-30",
+    "slug": "what-do-you-call-a-snowman-with-a-six-pack-2"
+  },
+  {
+    "id": "corny-019",
+    "setup": "Why do pineapples never get lonely?",
+    "punchline": "Because they come in bunches... wait, that's bananas.",
+    "category": "corny",
+    "tags": [
+      "food",
+      "anti-humor"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-08-10",
+    "slug": "why-do-pineapples-never-get-lonely"
+  },
+  {
+    "id": "corny-020",
+    "setup": "What do you call a sleeping T-Rex?",
+    "punchline": "A dino-snore!",
+    "category": "corny",
+    "tags": [
+      "dinosaurs",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-08-24",
+    "slug": "what-do-you-call-a-sleeping-t-rex"
+  },
+  {
+    "id": "corny-021",
+    "setup": "Why did the man name his dogs Rolex and Timex?",
+    "punchline": "Because they were watchdogs!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-09-06",
+    "slug": "why-did-the-man-name-his-dogs-rolex-and-timex"
+  },
+  {
+    "id": "corny-022",
+    "setup": "What do you call a fake stone in Ireland?",
+    "punchline": "A sham-rock!",
+    "category": "corny",
+    "tags": [
+      "geography",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-09-19",
+    "slug": "what-do-you-call-a-fake-stone-in-ireland"
+  },
+  {
+    "id": "corny-023",
+    "setup": "Why did the scarecrow become a successful motivational speaker?",
+    "punchline": "He was outstanding in his field!",
+    "category": "corny",
+    "tags": [
+      "farming",
+      "careers"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-10-03",
+    "slug": "why-did-the-scarecrow-become-a-successful-motivational-speak"
+  },
+  {
+    "id": "corny-024",
+    "setup": "What kind of tree fits in your hand?",
+    "punchline": "A palm tree!",
+    "category": "corny",
+    "tags": [
+      "nature",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-10-22",
+    "slug": "what-kind-of-tree-fits-in-your-hand"
+  },
+  {
+    "id": "corny-025",
+    "setup": "How do you make a tissue dance?",
+    "punchline": "Put a little boogie in it!",
+    "category": "corny",
+    "tags": [
+      "household",
+      "music"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-11-08",
+    "slug": "how-do-you-make-a-tissue-dance"
+  },
+  {
+    "id": "corny-026",
+    "setup": "What do you call a cheese that isn't yours?",
+    "punchline": "Nacho cheese!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": ""
+  },
+  {
+    "id": "corny-027",
+    "setup": "Why did the cookie cry?",
+    "punchline": "Because its mother was a wafer so long!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": ""
+  },
+  {
+    "id": "corny-028",
+    "setup": "What do you call a cow with two legs?",
+    "punchline": "Lean beef!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-02",
+    "slug": ""
+  },
+  {
+    "id": "corny-029",
+    "setup": "Why did the bicycle go to school?",
+    "punchline": "Because it wanted to learn how to spoke!",
+    "category": "corny",
+    "tags": [
+      "vehicles",
+      "school"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-02",
+    "slug": ""
+  },
+  {
+    "id": "corny-030",
+    "setup": "What do you call a sleeping dinosaur on the road?",
+    "punchline": "A road-dino-snore... no wait, a Bronto-snore-us!",
+    "category": "corny",
+    "tags": [
+      "dinosaurs",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-03",
+    "slug": ""
+  },
+  {
+    "id": "corny-031",
+    "setup": "What do you call a fish wearing a bowtie?",
+    "punchline": "So-fish-ticated!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "fashion"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-03",
+    "slug": ""
+  },
+  {
+    "id": "corny-032",
+    "setup": "Why did the lemon stop crossing the road?",
+    "punchline": "It ran out of juice!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-04",
+    "slug": ""
+  },
+  {
+    "id": "corny-033",
+    "setup": "What do you call a pig that knows karate?",
+    "punchline": "A pork chop!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "martial-arts"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-04",
+    "slug": ""
+  },
+  {
+    "id": "corny-034",
+    "setup": "Why do cows wear bells?",
+    "punchline": "Because their horns don't work!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": ""
+  },
+  {
+    "id": "corny-035",
+    "setup": "What do you call a sleeping pizza?",
+    "punchline": "A piZZZa!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-05",
+    "slug": ""
+  },
+  {
+    "id": "corny-036",
+    "setup": "What do you call a musical insect?",
+    "punchline": "A humbug!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "music"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-06",
+    "slug": ""
+  },
+  {
+    "id": "corny-037",
+    "setup": "Why did the chicken join a band?",
+    "punchline": "Because it had the drumsticks!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "music"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-06",
+    "slug": ""
+  },
+  {
+    "id": "corny-038",
+    "setup": "What kind of key opens a banana?",
+    "punchline": "A mon-key!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07",
+    "slug": ""
+  },
+  {
+    "id": "corny-039",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-07",
+    "slug": ""
+  },
+  {
+    "id": "corny-040",
+    "setup": "Why did the computer go to the doctor?",
+    "punchline": "Because it had a virus!",
+    "category": "corny",
+    "tags": [
+      "technology",
+      "health"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-08",
+    "slug": ""
+  },
+  {
+    "id": "corny-041",
+    "setup": "What do you call an angry carrot?",
+    "punchline": "A steamed veggie!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-08",
+    "slug": ""
+  },
+  {
+    "id": "corny-042",
+    "setup": "Why did the math teacher open a bakery?",
+    "punchline": "Because she was great with pi!",
+    "category": "corny",
+    "tags": [
+      "math",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": ""
+  },
+  {
+    "id": "corny-043",
+    "setup": "What do you call a cat sitting on the beach on Christmas Eve?",
+    "punchline": "Sandy Claws!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "christmas"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": ""
+  },
+  {
+    "id": "corny-044",
+    "setup": "Why do potatoes make good detectives?",
+    "punchline": "Because they keep their eyes peeled!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10",
+    "slug": ""
+  },
+  {
+    "id": "corny-045",
+    "setup": "What do you call a belt made of herbs?",
+    "punchline": "A waist of thyme!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "fashion"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10",
+    "slug": ""
+  },
+  {
+    "id": "corny-046",
+    "setup": "Why did the coffee go to the police?",
+    "punchline": "It got mugged!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "crime"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-11",
+    "slug": ""
+  },
+  {
+    "id": "corny-047",
+    "setup": "What do you call a dog that's a magician?",
+    "punchline": "A Labracadabrador!",
+    "category": "corny",
+    "tags": [
+      "animals",
+      "magic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11",
+    "slug": ""
+  },
+  {
+    "id": "corny-048",
+    "setup": "What did the paper say to the pencil?",
+    "punchline": "You've got a good point!",
+    "category": "corny",
+    "tags": [
+      "office",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-12",
+    "slug": ""
+  },
+  {
+    "id": "corny-049",
+    "setup": "Why did the skeleton go to the barbecue?",
+    "punchline": "To get another rib!",
+    "category": "corny",
+    "tags": [
+      "halloween",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12",
+    "slug": ""
+  },
+  {
+    "id": "corny-050",
+    "setup": "What do you call a can of soup that eats other cans of soup?",
+    "punchline": "A cannibal!",
+    "category": "corny",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-13",
+    "slug": "what-call-can-soup-eats-other-cans"
+  },
+  {
+    "id": "corny-051",
+    "setup": "What do you call a bear in the rain?",
+    "punchline": "A drizzly bear!",
+    "category": "corny",
+    "tags": ["animals", "weather"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-bear-in-rain-corny"
+  },
+  {
+    "id": "corny-052",
+    "setup": "Why did the student eat his homework?",
+    "punchline": "Because the teacher said it was a piece of cake!",
+    "category": "corny",
+    "tags": ["school", "food"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-student-eat-homework-corny"
+  },
+  {
+    "id": "corny-053",
+    "setup": "What do you call a train loaded with bubblegum?",
+    "punchline": "A chew-chew train!",
+    "category": "corny",
+    "tags": ["vehicles", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-train-loaded-bubblegum"
+  },
+  {
+    "id": "corny-054",
+    "setup": "Why did the teddy bear skip dessert?",
+    "punchline": "Because she was already stuffed!",
+    "category": "corny",
+    "tags": ["toys", "food"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-teddy-bear-skip-dessert-corny"
+  },
+  {
+    "id": "corny-055",
+    "setup": "What do you call a dancing plate?",
+    "punchline": "A disco-very!",
+    "category": "corny",
+    "tags": ["kitchen", "music"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-dancing-plate"
+  },
+  {
+    "id": "corny-056",
+    "setup": "Why did the rope go to the doctor?",
+    "punchline": "Because it had a knot in its stomach!",
+    "category": "corny",
+    "tags": ["health", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-rope-go-to-doctor"
+  },
+  {
+    "id": "corny-057",
+    "setup": "What do you call a ghost's favorite food?",
+    "punchline": "Spook-ghetti!",
+    "category": "corny",
+    "tags": ["halloween", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-ghosts-favorite-food-corny"
+  },
+  {
+    "id": "corny-058",
+    "setup": "Why did the orange lose the race?",
+    "punchline": "It ran out of juice!",
+    "category": "corny",
+    "tags": ["food", "sports"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-orange-lose-the-race"
+  },
+  {
+    "id": "corny-059",
+    "setup": "What do you call a happy cowboy?",
+    "punchline": "A jolly rancher!",
+    "category": "corny",
+    "tags": ["candy", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-happy-cowboy"
+  },
+  {
+    "id": "corny-060",
+    "setup": "Why did the light bulb fail its test?",
+    "punchline": "It wasn't very bright!",
+    "category": "corny",
+    "tags": ["school", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-light-bulb-fail-test"
+  },
+  {
+    "id": "corny-061",
+    "setup": "What do you call a penguin in the Sahara?",
+    "punchline": "Lost!",
+    "category": "corny",
+    "tags": ["animals", "geography"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-penguin-in-sahara"
+  },
+  {
+    "id": "corny-062",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "Because they'd crack each other up!",
+    "category": "corny",
+    "tags": ["food", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-dont-eggs-tell-jokes-corny"
+  },
+  {
+    "id": "corny-063",
+    "setup": "What do you call a garden full of singing vegetables?",
+    "punchline": "A beet box!",
+    "category": "corny",
+    "tags": ["food", "music"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-garden-singing-vegetables"
+  },
+  {
+    "id": "corny-064",
+    "setup": "Why did the barber win the race?",
+    "punchline": "He knew a short cut!",
+    "category": "corny",
+    "tags": ["grooming", "sports"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-barber-win-the-race"
+  },
+  {
+    "id": "corny-065",
+    "setup": "What do you call a sleeping dinosaur on the couch?",
+    "punchline": "A sofa-saurus!",
+    "category": "corny",
+    "tags": ["dinosaurs", "household"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-dinosaur-on-couch"
+  },
+  {
+    "id": "corny-066",
+    "setup": "Why did the music note get grounded?",
+    "punchline": "Because it couldn't B sharp!",
+    "category": "corny",
+    "tags": ["music", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-music-note-get-grounded"
+  },
+  {
+    "id": "corny-067",
+    "setup": "What do you call a lazy ocean?",
+    "punchline": "A dead sea!",
+    "category": "corny",
+    "tags": ["nature", "geography"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-lazy-ocean"
+  },
+  {
+    "id": "corny-068",
+    "setup": "Why did the banana wear sunscreen?",
+    "punchline": "It didn't want to peel!",
+    "category": "corny",
+    "tags": ["food", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-banana-wear-sunscreen-corny"
+  },
+  {
+    "id": "corny-069",
+    "setup": "What do you call a fly with no wings?",
+    "punchline": "A walk!",
+    "category": "corny",
+    "tags": ["animals", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-fly-no-wings"
+  },
+  {
+    "id": "corny-070",
+    "setup": "Why did the book go to the hospital?",
+    "punchline": "Because it had a broken spine!",
+    "category": "corny",
+    "tags": ["books", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-book-go-to-hospital"
+  },
+  {
+    "id": "corny-071",
+    "setup": "What kind of nut has no shell?",
+    "punchline": "A doughnut!",
+    "category": "corny",
+    "tags": ["food", "riddles"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-kind-nut-no-shell"
+  },
+  {
+    "id": "corny-072",
+    "setup": "Why did the nose feel lonely?",
+    "punchline": "It was tired of being picked on!",
+    "category": "corny",
+    "tags": ["anatomy", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-nose-feel-lonely"
+  },
+  {
+    "id": "corny-073",
+    "setup": "What do you call a fish that needs help with its singing?",
+    "punchline": "A tuna!",
+    "category": "corny",
+    "tags": ["animals", "music"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-fish-needs-singing-help"
+  },
+  {
+    "id": "corny-074",
+    "setup": "Why did the computer take its hat off?",
+    "punchline": "Because it had too many caps lock!",
+    "category": "corny",
+    "tags": ["technology", "fashion"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-computer-take-hat-off"
+  },
+  {
+    "id": "corny-075",
+    "setup": "What do you call a boomerang that never comes back?",
+    "punchline": "A stick!",
+    "category": "corny",
+    "tags": ["toys", "anti-humor"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-boomerang-never-comes-back"
+  },
+  {
+    "id": "corny-076",
+    "setup": "Why did the melon jump into the pool?",
+    "punchline": "It wanted to be a watermelon!",
+    "category": "corny",
+    "tags": ["food", "nature"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-melon-jump-into-pool"
+  },
+  {
+    "id": "corny-077",
+    "setup": "What do you call a cold dog sitting on a bunny?",
+    "punchline": "A chili dog on a bun!",
+    "category": "corny",
+    "tags": ["animals", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-cold-dog-sitting-bunny"
+  },
+  {
+    "id": "corny-078",
+    "setup": "Why did the traffic light turn red?",
+    "punchline": "You would too if you had to change in the middle of the street!",
+    "category": "corny",
+    "tags": ["vehicles", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-traffic-light-turn-red"
+  },
+  {
+    "id": "corny-079",
+    "setup": "What do you call a seagull that flies over a bay?",
+    "punchline": "A bagel!",
+    "category": "corny",
+    "tags": ["animals", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-seagull-flies-over-bay"
+  },
+  {
+    "id": "corny-080",
+    "setup": "Why do cows have hooves instead of feet?",
+    "punchline": "Because they lactose!",
+    "category": "corny",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-cows-hooves-instead-feet"
+  },
+  {
+    "id": "corny-081",
+    "setup": "What do you call a running turkey?",
+    "punchline": "Fast food!",
+    "category": "corny",
+    "tags": ["animals", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-running-turkey"
+  },
+  {
+    "id": "corny-082",
+    "setup": "Why did the grape stop in the middle of the road?",
+    "punchline": "Because it ran out of juice!",
+    "category": "corny",
+    "tags": ["food", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-grape-stop-middle-road"
+  },
+  {
+    "id": "corny-083",
+    "setup": "What do you call a dinosaur that takes care of its teeth?",
+    "punchline": "A Flossoraptor!",
+    "category": "corny",
+    "tags": ["dinosaurs", "dentist"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-dinosaur-takes-care-teeth"
+  },
+  {
+    "id": "corny-084",
+    "setup": "Why did the golfer bring extra socks?",
+    "punchline": "In case he got a hole in one!",
+    "category": "corny",
+    "tags": ["sports", "clothing"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-golfer-bring-extra-socks"
+  },
+  {
+    "id": "corny-085",
+    "setup": "What did the ocean say to the pirate?",
+    "punchline": "Nothing, it just waved!",
+    "category": "corny",
+    "tags": ["pirates", "nature"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-ocean-say-to-pirate"
+  },
+  {
+    "id": "corny-086",
+    "setup": "Why do hamburgers go to the gym?",
+    "punchline": "To get better buns!",
+    "category": "corny",
+    "tags": ["food", "fitness"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-hamburgers-go-to-gym"
+  },
+  {
+    "id": "corny-087",
+    "setup": "What do you call a fairy that doesn't shower?",
+    "punchline": "Stinkerbell!",
+    "category": "corny",
+    "tags": ["fairy-tales", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-fairy-doesnt-shower"
+  },
+  {
+    "id": "corny-088",
+    "setup": "What kind of crackers do firefighters like in their soup?",
+    "punchline": "Firecrackers!",
+    "category": "corny",
+    "tags": ["food", "careers"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-crackers-firefighters-like"
+  },
+  {
+    "id": "corny-089",
+    "setup": "What do you call an astronaut's favorite key on the keyboard?",
+    "punchline": "The space bar!",
+    "category": "corny",
+    "tags": ["space", "technology"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "astronauts-favorite-keyboard-key"
+  },
+  {
+    "id": "corny-090",
+    "setup": "Why did the kid throw butter out the window?",
+    "punchline": "To see a butterfly!",
+    "category": "corny",
+    "tags": ["animals", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-kid-throw-butter-window"
+  },
+  {
+    "id": "corny-091",
+    "setup": "What do you call a bee that can't make up its mind?",
+    "punchline": "A may-bee!",
+    "category": "corny",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-bee-cant-make-up-mind"
+  },
+  {
+    "id": "corny-092",
+    "setup": "Why are frogs so happy?",
+    "punchline": "They eat whatever bugs them!",
+    "category": "corny",
+    "tags": ["animals", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-are-frogs-so-happy"
+  },
+  {
+    "id": "corny-093",
+    "setup": "What do you call a cupcake without its frosting?",
+    "punchline": "A muffin!",
+    "category": "corny",
+    "tags": ["food", "riddles"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-cupcake-without-frosting"
+  },
+  {
+    "id": "corny-094",
+    "setup": "Why do gardeners make good detectives?",
+    "punchline": "Because they always get to the root of the problem!",
+    "category": "corny",
+    "tags": ["nature", "careers"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-gardeners-make-good-detectives"
+  },
+  {
+    "id": "corny-095",
+    "setup": "What do you call a sleeping woodworker?",
+    "punchline": "A lumber-jack!",
+    "category": "corny",
+    "tags": ["careers", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-sleeping-woodworker"
+  },
+  {
+    "id": "corny-096",
+    "setup": "Why did the sun go to therapy?",
+    "punchline": "It had too many flares!",
+    "category": "corny",
+    "tags": ["space", "health"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-sun-go-to-therapy"
+  },
+  {
+    "id": "corny-097",
+    "setup": "What do you call a sleeping vampire?",
+    "punchline": "A coffin!",
+    "category": "corny",
+    "tags": ["halloween", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-sleeping-vampire"
+  },
+  {
+    "id": "corny-098",
+    "setup": "Why did the butter refuse to fight the bread?",
+    "punchline": "It didn't want to get on a roll!",
+    "category": "corny",
+    "tags": ["food", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-butter-refuse-fight-bread"
+  },
+  {
+    "id": "corny-099",
+    "setup": "What do you call a pile of kittens?",
+    "punchline": "A meow-ntain!",
+    "category": "corny",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-pile-of-kittens"
+  },
+  {
+    "id": "corny-100",
+    "setup": "Why did the peanut call the police?",
+    "punchline": "Because it was a-salted!",
+    "category": "corny",
+    "tags": ["food", "crime"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "why-peanut-call-the-police"
+  }
+]

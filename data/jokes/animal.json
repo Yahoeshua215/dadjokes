@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "animal-001",
+    "slug": "what-do-you-call-a-sleeping-dinosaur",
+    "setup": "What do you call a sleeping dinosaur?",
+    "punchline": "A dino-snore!",
+    "category": "animal",
+    "tags": [
+      "dinosaur",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "animal-002",
+    "slug": "why-dont-elephants-use-computers",
+    "setup": "Why don't elephants use computers?",
+    "punchline": "Because they're afraid of the mouse!",
+    "category": "animal",
+    "tags": [
+      "elephant",
+      "technology"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "animal-003",
+    "slug": "what-do-you-call-a-fish-without-eyes",
+    "setup": "What do you call a fish without eyes?",
+    "punchline": "A fsh!",
+    "category": "animal",
+    "tags": [
+      "fish",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "animal-004",
+    "slug": "why-do-cows-wear-bells",
+    "setup": "Why do cows wear bells?",
+    "punchline": "Because their horns don't work!",
+    "category": "animal",
+    "tags": [
+      "cow",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "animal-005",
+    "slug": "what-do-you-call-a-bear-with-no-teeth",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear!",
+    "category": "animal",
+    "tags": [
+      "bear",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "animal-006",
+    "slug": "why-do-seagulls-fly-over-the-sea",
+    "setup": "Why do seagulls fly over the sea?",
+    "punchline": "Because if they flew over the bay, they'd be bagels!",
+    "category": "animal",
+    "tags": [
+      "bird",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "animal-007",
+    "slug": "what-do-you-call-an-alligator-in-a-vest",
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An investigator!",
+    "category": "animal",
+    "tags": [
+      "alligator",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "animal-008",
+    "slug": "why-dont-oysters-share-their-pearls",
+    "setup": "Why don't oysters share their pearls?",
+    "punchline": "Because they're shellfish!",
+    "category": "animal",
+    "tags": [
+      "ocean",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "animal-009",
+    "slug": "what-do-you-call-a-dog-magician",
+    "setup": "What do you call a dog magician?",
+    "punchline": "A Labracadabrador!",
+    "category": "animal",
+    "tags": [
+      "dog",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "animal-010",
+    "slug": "why-do-bees-have-sticky-hair",
+    "setup": "Why do bees have sticky hair?",
+    "punchline": "Because they use honeycombs!",
+    "category": "animal",
+    "tags": [
+      "bee",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "animal-011",
+    "slug": "what-do-you-call-a-lazy-kangaroo",
+    "setup": "What do you call a lazy kangaroo?",
+    "punchline": "A pouch potato!",
+    "category": "animal",
+    "tags": [
+      "kangaroo",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "animal-012",
+    "slug": "how-do-you-count-cows",
+    "setup": "How do you count cows?",
+    "punchline": "With a cowculator!",
+    "category": "animal",
+    "tags": [
+      "cow",
+      "math"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "animal-013",
+    "slug": "what-do-you-call-a-pig-that-does-karate",
+    "setup": "What do you call a pig that does karate?",
+    "punchline": "A pork chop!",
+    "category": "animal",
+    "tags": [
+      "pig",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "animal-014",
+    "slug": "why-cant-you-hear-a-pterodactyl-going-to-the-bathroom",
+    "setup": "Why can't you hear a pterodactyl going to the bathroom?",
+    "punchline": "Because the P is silent!",
+    "category": "animal",
+    "tags": [
+      "dinosaur",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "animal-015",
+    "slug": "what-do-you-get-when-you-cross-a-snowman-with-a-shark",
+    "setup": "What do you get when you cross a snowman with a shark?",
+    "punchline": "Frostbite!",
+    "category": "animal",
+    "tags": [
+      "shark",
+      "winter"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "animal-016",
+    "slug": "what-did-the-buffalo-say-when-his-son-left-for-college",
+    "setup": "What did the buffalo say when his son left for college?",
+    "punchline": "Bison!",
+    "category": "animal",
+    "tags": [
+      "buffalo",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "animal-017",
+    "slug": "why-do-chicken-coops-only-have-two-doors",
+    "setup": "Why do chicken coops only have two doors?",
+    "punchline": "Because if they had four, they'd be chicken sedans!",
+    "category": "animal",
+    "tags": [
+      "chicken",
+      "cars"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "animal-018",
+    "slug": "what-do-you-call-a-horse-that-lives-next-door",
+    "setup": "What do you call a horse that lives next door?",
+    "punchline": "A neigh-bor!",
+    "category": "animal",
+    "tags": [
+      "horse",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "animal-019",
+    "slug": "why-are-cats-bad-storytellers",
+    "setup": "Why are cats bad storytellers?",
+    "punchline": "Because they only have one tail!",
+    "category": "animal",
+    "tags": [
+      "cat",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "animal-020",
+    "slug": "what-do-you-call-a-duck-that-gets-all-as",
+    "setup": "What do you call a duck that gets all A's?",
+    "punchline": "A wise quacker!",
+    "category": "animal",
+    "tags": [
+      "duck",
+      "school"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "animal-021",
+    "slug": "where-do-polar-bears-keep-their-money",
+    "setup": "Where do polar bears keep their money?",
+    "punchline": "In a snow bank!",
+    "category": "animal",
+    "tags": [
+      "bear",
+      "winter"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "animal-022",
+    "slug": "what-do-you-call-a-group-of-disorganized-cats",
+    "setup": "What do you call a group of disorganized cats?",
+    "punchline": "A cat-astrophe!",
+    "category": "animal",
+    "tags": [
+      "cat",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "animal-023",
+    "slug": "why-do-ducks-have-tail-feathers",
+    "setup": "Why do ducks have tail feathers?",
+    "punchline": "To cover their butt quacks!",
+    "category": "animal",
+    "tags": [
+      "duck",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "animal-024",
+    "slug": "what-did-the-dalmatian-say-after-eating",
+    "setup": "What did the Dalmatian say after eating?",
+    "punchline": "That hit the spot!",
+    "category": "animal",
+    "tags": [
+      "dog",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "animal-025",
+    "slug": "why-dont-leopards-play-hide-and-seek",
+    "setup": "Why don't leopards play hide and seek?",
+    "punchline": "Because they're always spotted!",
+    "category": "animal",
+    "tags": [
+      "leopard",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "animal-026",
+    "slug": "",
+    "setup": "What do you call a cow with no legs?",
+    "punchline": "Ground beef!",
+    "category": "animal",
+    "tags": [
+      "cow",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-027",
+    "slug": "",
+    "setup": "What do you call a fly without wings?",
+    "punchline": "A walk!",
+    "category": "animal",
+    "tags": [
+      "insect",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-028",
+    "slug": "",
+    "setup": "Why do fish live in salt water?",
+    "punchline": "Because pepper makes them sneeze!",
+    "category": "animal",
+    "tags": [
+      "fish",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "animal-029",
+    "slug": "",
+    "setup": "What do you call a snake that is 3.14 meters long?",
+    "punchline": "A pi-thon!",
+    "category": "animal",
+    "tags": [
+      "snake",
+      "math"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "animal-030",
+    "slug": "",
+    "setup": "What do you get when you cross a centipede with a parrot?",
+    "punchline": "A walkie-talkie!",
+    "category": "animal",
+    "tags": [
+      "bird",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "animal-031",
+    "slug": "",
+    "setup": "Why don't crabs ever share?",
+    "punchline": "Because they're shellfish too!",
+    "category": "animal",
+    "tags": [
+      "ocean",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "animal-032",
+    "slug": "",
+    "setup": "What do you call a deer with no eyes?",
+    "punchline": "No idea!",
+    "category": "animal",
+    "tags": [
+      "deer",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "animal-033",
+    "slug": "",
+    "setup": "Why do hummingbirds hum?",
+    "punchline": "Because they don't know the words!",
+    "category": "animal",
+    "tags": [
+      "bird",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "animal-034",
+    "slug": "",
+    "setup": "What do you call a fish that wears a bowtie?",
+    "punchline": "So-fish-ticated!",
+    "category": "animal",
+    "tags": [
+      "fish",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "animal-035",
+    "slug": "",
+    "setup": "Why did the turtle cross the road?",
+    "punchline": "To get to the shell station!",
+    "category": "animal",
+    "tags": [
+      "turtle",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "animal-036",
+    "slug": "",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer!",
+    "category": "animal",
+    "tags": [
+      "cow",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "animal-037",
+    "slug": "",
+    "setup": "Why did the spider go to the computer?",
+    "punchline": "To check his web site!",
+    "category": "animal",
+    "tags": [
+      "insect",
+      "technology"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "animal-038",
+    "slug": "",
+    "setup": "What do you call a monkey in a minefield?",
+    "punchline": "A ba-boom!",
+    "category": "animal",
+    "tags": [
+      "monkey",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "animal-039",
+    "slug": "",
+    "setup": "What do you call an owl that does magic tricks?",
+    "punchline": "Hoo-dini!",
+    "category": "animal",
+    "tags": [
+      "bird",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "animal-040",
+    "slug": "",
+    "setup": "Why do cows have hooves instead of feet?",
+    "punchline": "Because they lactose!",
+    "category": "animal",
+    "tags": [
+      "cow",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "animal-041",
+    "slug": "",
+    "setup": "What do you call a cold dog sitting on a rabbit?",
+    "punchline": "A chili dog on a bun!",
+    "category": "animal",
+    "tags": [
+      "dog",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "animal-042",
+    "slug": "",
+    "setup": "Why don't elephants ride bicycles?",
+    "punchline": "They don't have thumbs to ring the bell!",
+    "category": "animal",
+    "tags": [
+      "elephant",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "animal-043",
+    "slug": "",
+    "setup": "What do you call a penguin in the Sahara?",
+    "punchline": "Lost!",
+    "category": "animal",
+    "tags": [
+      "penguin",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "animal-044",
+    "slug": "",
+    "setup": "Why did the octopus beat the shark in a fight?",
+    "punchline": "Because it was well armed!",
+    "category": "animal",
+    "tags": [
+      "ocean",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "animal-045",
+    "slug": "",
+    "setup": "What do you call a rabbit with fleas?",
+    "punchline": "Bugs Bunny!",
+    "category": "animal",
+    "tags": [
+      "rabbit",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "animal-046",
+    "slug": "",
+    "setup": "Why did the cat sit on the computer?",
+    "punchline": "To keep an eye on the mouse!",
+    "category": "animal",
+    "tags": [
+      "cat",
+      "technology"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "animal-047",
+    "slug": "",
+    "setup": "What do you call a gorilla wearing earmuffs?",
+    "punchline": "Anything you want — he can't hear you!",
+    "category": "animal",
+    "tags": [
+      "monkey",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "animal-048",
+    "slug": "",
+    "setup": "Why are frogs so happy?",
+    "punchline": "Because they eat whatever bugs them!",
+    "category": "animal",
+    "tags": [
+      "frog",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "animal-049",
+    "slug": "",
+    "setup": "What do you call a fish without a tail?",
+    "punchline": "A one-ended stick!",
+    "category": "animal",
+    "tags": [
+      "fish",
+      "classic"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "animal-050",
+    "slug": "",
+    "setup": "Why don't ants ever get sick?",
+    "punchline": "Because they have little anty-bodies!",
+    "category": "animal",
+    "tags": [
+      "insect",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-13"
+  },
+  {
+    "id": "animal-051",
+    "slug": "why-do-dogs-float-in-water",
+    "setup": "Why do dogs float in water?",
+    "punchline": "Because they're good buoys!",
+    "category": "animal",
+    "tags": ["dog", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-052",
+    "slug": "what-do-you-call-a-cat-on-ice",
+    "setup": "What do you call a cat on ice?",
+    "punchline": "One cool cat!",
+    "category": "animal",
+    "tags": ["cat", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-053",
+    "slug": "why-did-the-pelican-get-kicked-out",
+    "setup": "Why did the pelican get kicked out of the restaurant?",
+    "punchline": "Because he had a very big bill!",
+    "category": "animal",
+    "tags": ["bird", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-054",
+    "slug": "what-do-you-call-a-cow-on-a-trampoline",
+    "setup": "What do you call a cow on a trampoline?",
+    "punchline": "A milkshake!",
+    "category": "animal",
+    "tags": ["cow", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-055",
+    "slug": "why-did-the-shark-spit-out-the-clown",
+    "setup": "Why did the shark spit out the clown?",
+    "punchline": "Because he tasted funny!",
+    "category": "animal",
+    "tags": ["shark", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-056",
+    "slug": "what-do-you-call-a-parrot-with-umbrella",
+    "setup": "What do you call a parrot that wears a raincoat?",
+    "punchline": "Polly unsaturated!",
+    "category": "animal",
+    "tags": ["bird", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-057",
+    "slug": "where-do-mice-park-their-boats",
+    "setup": "Where do mice park their boats?",
+    "punchline": "At the hickory dickory dock!",
+    "category": "animal",
+    "tags": ["mouse", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-058",
+    "slug": "what-do-you-call-a-chicken-staring-at-lettuce",
+    "setup": "What do you call a chicken staring at a pile of lettuce?",
+    "punchline": "Chicken sees a salad!",
+    "category": "animal",
+    "tags": ["chicken", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-059",
+    "slug": "why-do-pandas-like-old-movies",
+    "setup": "Why do pandas like old movies?",
+    "punchline": "Because they're in black and white!",
+    "category": "animal",
+    "tags": ["bear", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-060",
+    "slug": "what-do-you-call-a-snail-on-a-ship",
+    "setup": "What do you call a snail on a ship?",
+    "punchline": "A snailor!",
+    "category": "animal",
+    "tags": ["snail", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-061",
+    "slug": "why-do-flamingos-stand-on-one-leg",
+    "setup": "Why do flamingos stand on one leg?",
+    "punchline": "Because if they lifted both legs, they'd fall over!",
+    "category": "animal",
+    "tags": ["bird", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-062",
+    "slug": "what-do-you-call-a-dog-that-does-magic",
+    "setup": "What do you call a dog that does magic tricks on the beach?",
+    "punchline": "A Labra-cadabra-dor retriever!",
+    "category": "animal",
+    "tags": ["dog", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-063",
+    "slug": "why-did-the-bee-get-married",
+    "setup": "Why did the bee get married?",
+    "punchline": "Because he found his honey!",
+    "category": "animal",
+    "tags": ["bee", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-064",
+    "slug": "what-do-you-call-a-fish-with-two-knees",
+    "setup": "What do you call a fish with two knees?",
+    "punchline": "A two-knee fish!",
+    "category": "animal",
+    "tags": ["fish", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-065",
+    "slug": "why-did-the-turkey-join-a-band",
+    "setup": "Why did the turkey join a band?",
+    "punchline": "Because he had the drumsticks!",
+    "category": "animal",
+    "tags": ["bird", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-066",
+    "slug": "what-do-you-get-from-a-pampered-cow",
+    "setup": "What do you get from a pampered cow?",
+    "punchline": "Spoiled milk!",
+    "category": "animal",
+    "tags": ["cow", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-067",
+    "slug": "why-are-teddy-bears-never-hungry",
+    "setup": "Why are teddy bears never hungry?",
+    "punchline": "Because they're always stuffed!",
+    "category": "animal",
+    "tags": ["bear", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-068",
+    "slug": "what-do-you-call-a-sleeping-lizard",
+    "setup": "What do you call a sleeping lizard?",
+    "punchline": "A calm-eleon!",
+    "category": "animal",
+    "tags": ["reptile", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-069",
+    "slug": "why-did-the-lamb-cross-the-road",
+    "setup": "Why did the lamb cross the road?",
+    "punchline": "To get to the baaaaarber shop!",
+    "category": "animal",
+    "tags": ["sheep", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-070",
+    "slug": "what-do-you-call-a-zebra-with-no-stripes",
+    "setup": "What do you call a zebra with no stripes?",
+    "punchline": "A horse!",
+    "category": "animal",
+    "tags": ["horse", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-071",
+    "slug": "why-did-the-dolphin-cross-the-ocean",
+    "setup": "Why did the dolphin cross the ocean?",
+    "punchline": "To get to the other tide!",
+    "category": "animal",
+    "tags": ["ocean", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-072",
+    "slug": "what-do-you-call-a-cat-who-bowls",
+    "setup": "What do you call a cat who loves bowling?",
+    "punchline": "An alley cat!",
+    "category": "animal",
+    "tags": ["cat", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-073",
+    "slug": "why-dont-bears-wear-shoes",
+    "setup": "Why don't bears wear shoes?",
+    "punchline": "Because they prefer bear feet!",
+    "category": "animal",
+    "tags": ["bear", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-074",
+    "slug": "what-did-the-fish-say-when-it-hit-wall",
+    "setup": "What did the fish say when it swam into a wall?",
+    "punchline": "Dam!",
+    "category": "animal",
+    "tags": ["fish", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-075",
+    "slug": "why-are-giraffes-so-slow-to-apologize",
+    "setup": "Why are giraffes so slow to apologize?",
+    "punchline": "It takes them a long time to swallow their pride!",
+    "category": "animal",
+    "tags": ["giraffe", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-076",
+    "slug": "what-do-you-call-a-dog-in-the-winter",
+    "setup": "What do you call a dog in the winter?",
+    "punchline": "A chili dog!",
+    "category": "animal",
+    "tags": ["dog", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-077",
+    "slug": "why-did-the-rooster-go-to-kfc",
+    "setup": "Why did the rooster go to KFC?",
+    "punchline": "He wanted to see a chicken strip!",
+    "category": "animal",
+    "tags": ["chicken", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-078",
+    "slug": "what-do-you-call-a-camel-with-no-humps",
+    "setup": "What do you call a camel with no humps?",
+    "punchline": "Humphrey!",
+    "category": "animal",
+    "tags": ["camel", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-079",
+    "slug": "why-do-crows-always-win-at-poker",
+    "setup": "Why do crows always win at poker?",
+    "punchline": "Because they always have a pair of caws!",
+    "category": "animal",
+    "tags": ["bird", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-080",
+    "slug": "what-do-you-call-a-well-dressed-lion",
+    "setup": "What do you call a well-dressed lion?",
+    "punchline": "A dandy lion!",
+    "category": "animal",
+    "tags": ["lion", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-081",
+    "slug": "why-did-the-pony-get-sent-to-his-room",
+    "setup": "Why did the pony get sent to his room?",
+    "punchline": "He wouldn't stop horsing around!",
+    "category": "animal",
+    "tags": ["horse", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-082",
+    "slug": "what-do-you-call-a-bird-in-winter",
+    "setup": "What do you call a bird in winter?",
+    "punchline": "Brrr-d!",
+    "category": "animal",
+    "tags": ["bird", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-083",
+    "slug": "why-dont-cats-play-poker-in-the-jungle",
+    "setup": "Why don't cats play poker in the jungle?",
+    "punchline": "Too many cheetahs!",
+    "category": "animal",
+    "tags": ["cat", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-084",
+    "slug": "what-do-you-call-a-cow-that-just-had-a-baby",
+    "setup": "What do you call a cow that just had a baby?",
+    "punchline": "De-calf-inated!",
+    "category": "animal",
+    "tags": ["cow", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-085",
+    "slug": "why-did-the-snake-cross-the-road",
+    "setup": "Why did the snake cross the road?",
+    "punchline": "To get to the other ssssside!",
+    "category": "animal",
+    "tags": ["snake", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-086",
+    "slug": "what-kind-of-dog-keeps-best-time",
+    "setup": "What kind of dog keeps the best time?",
+    "punchline": "A watch dog!",
+    "category": "animal",
+    "tags": ["dog", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-087",
+    "slug": "why-did-the-cat-go-to-minnesota",
+    "setup": "Why did the cat go to Minnesota?",
+    "punchline": "To get a new Mini-Apolis!",
+    "category": "animal",
+    "tags": ["cat", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-088",
+    "slug": "what-do-you-call-a-pig-that-knows-karate",
+    "setup": "What do you call a pig who can write with both hands?",
+    "punchline": "Ambi-ham-strous!",
+    "category": "animal",
+    "tags": ["pig", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-089",
+    "slug": "why-are-fish-so-smart",
+    "setup": "Why are fish so smart?",
+    "punchline": "Because they live in schools!",
+    "category": "animal",
+    "tags": ["fish", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-090",
+    "slug": "what-do-you-call-an-illegally-parked-frog",
+    "setup": "What do you call an illegally parked frog?",
+    "punchline": "Toad!",
+    "category": "animal",
+    "tags": ["frog", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-091",
+    "slug": "why-did-the-duck-go-to-rehab",
+    "setup": "Why did the duck go to rehab?",
+    "punchline": "Because he was a quack addict!",
+    "category": "animal",
+    "tags": ["duck", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-092",
+    "slug": "what-do-you-call-a-dinosaur-that-crashes-cars",
+    "setup": "What do you call a dinosaur that crashes their car?",
+    "punchline": "Tyrannosaurus Wrecks!",
+    "category": "animal",
+    "tags": ["dinosaur", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-093",
+    "slug": "where-do-cats-go-on-vacation",
+    "setup": "Where do cats go on vacation?",
+    "punchline": "The Canary Islands!",
+    "category": "animal",
+    "tags": ["cat", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-094",
+    "slug": "why-dont-dogs-make-good-dancers",
+    "setup": "Why don't dogs make good dancers?",
+    "punchline": "Because they have two left feet!",
+    "category": "animal",
+    "tags": ["dog", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-095",
+    "slug": "what-do-you-call-a-happy-penguin",
+    "setup": "What do you call a happy penguin?",
+    "punchline": "A pen-grin!",
+    "category": "animal",
+    "tags": ["penguin", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-096",
+    "slug": "why-did-the-horse-go-behind-the-tree",
+    "setup": "Why did the horse go behind the tree?",
+    "punchline": "To change his jockeys!",
+    "category": "animal",
+    "tags": ["horse", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-097",
+    "slug": "what-do-you-call-a-cat-that-eats-lemons",
+    "setup": "What do you call a cat that eats lemons?",
+    "punchline": "A sourpuss!",
+    "category": "animal",
+    "tags": ["cat", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-098",
+    "slug": "why-did-the-elephant-leave-the-circus",
+    "setup": "Why did the elephant leave the circus?",
+    "punchline": "He was tired of working for peanuts!",
+    "category": "animal",
+    "tags": ["elephant", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-099",
+    "slug": "what-do-you-call-a-bird-that-sticks-to-everything",
+    "setup": "What do you call a bird that sticks to everything?",
+    "punchline": "A vel-crow!",
+    "category": "animal",
+    "tags": ["bird", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "animal-100",
+    "slug": "why-do-wolves-howl-at-the-moon",
+    "setup": "Why do wolves howl at the moon?",
+    "punchline": "Because no one taught them to text!",
+    "category": "animal",
+    "tags": ["wolf", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  }
+]
