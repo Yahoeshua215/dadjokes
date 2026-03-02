@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!joke) return {};
 
   const title = `${joke.setup} | Dad Joke`;
-  const description = `${joke.setup} ${joke.punchline} — Browse more ${joke.category} dad jokes at JokeLikeaDad.com.`;
+  const description = `${joke.setup} — Can you guess the answer? Find out at JokeLikeaDad.com`;
   const url = `https://jokelikeadad.com/joke/${slug}`;
 
   return {

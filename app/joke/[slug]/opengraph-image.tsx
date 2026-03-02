@@ -44,7 +44,7 @@ export default async function OGImage({ params }: { params: Promise<{ slug: stri
       >
         <p
           style={{
-            fontSize: 40,
+            fontSize: 44,
             lineHeight: 1.4,
             color: '#171717',
             margin: 0,
@@ -55,14 +55,14 @@ export default async function OGImage({ params }: { params: Promise<{ slug: stri
         </p>
         <p
           style={{
-            fontSize: 36,
+            fontSize: 28,
             lineHeight: 1.4,
             color: '#F59E0B',
-            marginTop: '24px',
+            marginTop: '32px',
             fontWeight: 600,
           }}
         >
-          {joke.punchline}
+          Tap to reveal the answer...
         </p>
       </div>
       <div
