@@ -53,6 +53,9 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://jokelikeadad.com',
+    types: {
+      'application/rss+xml': 'https://jokelikeadad.com/feed.xml',
+    },
   },
 };
 

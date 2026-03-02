@@ -6,6 +6,7 @@ import { generateBreadcrumbSchema, generateJokeFAQSchema } from '@/lib/schema';
 import Breadcrumb from '@/components/Breadcrumb';
 import ShareButtons from '@/components/ShareButtons';
 import VoteButtons from '@/components/VoteButtons';
+import PrintButton from '@/components/PrintButton';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -90,7 +91,7 @@ export default async function JokePage({ params }: Props) {
         />
 
         {/* Main Joke */}
-        <article className="bg-surface border border-border rounded-2xl p-8 sm:p-10 mb-8">
+        <article className="bg-surface border border-border rounded-2xl p-8 sm:p-10 mb-8 print-card">
           <h1 className="font-joke text-2xl sm:text-3xl leading-relaxed mb-6">
             {joke.setup}
           </h1>
@@ -131,6 +132,7 @@ export default async function JokePage({ params }: Props) {
             <div className="flex items-center gap-3">
               <VoteButtons jokeId={joke.id} />
               <ShareButtons joke={joke} jokeUrl={jokeUrl} />
+              <PrintButton />
             </div>
           </div>
         </article>

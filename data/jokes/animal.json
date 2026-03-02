@@ -10,7 +10,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-002",
@@ -23,7 +24,8 @@
       "technology"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-003",
@@ -36,7 +38,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-004",
@@ -49,7 +52,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-005",
@@ -62,7 +66,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-006",
@@ -75,7 +80,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-007",
@@ -88,7 +94,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-008",
@@ -101,7 +108,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-009",
@@ -114,7 +122,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-010",
@@ -127,7 +136,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-011",
@@ -140,7 +150,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-012",
@@ -153,7 +164,8 @@
       "math"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-013",
@@ -166,7 +178,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-014",
@@ -179,7 +192,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-015",
@@ -192,7 +206,8 @@
       "winter"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-016",
@@ -205,7 +220,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-017",
@@ -218,7 +234,8 @@
       "cars"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-018",
@@ -231,7 +248,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-019",
@@ -244,7 +262,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-020",
@@ -257,7 +276,8 @@
       "school"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-021",
@@ -270,7 +290,8 @@
       "winter"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-022",
@@ -283,7 +304,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-023",
@@ -296,7 +318,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-024",
@@ -309,7 +332,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-025",
@@ -322,7 +346,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-026",
@@ -335,7 +360,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-027",
@@ -348,7 +374,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-028",
@@ -361,7 +388,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-029",
@@ -374,7 +402,8 @@
       "math"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-030",
@@ -387,7 +416,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-031",
@@ -400,7 +430,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-032",
@@ -413,7 +444,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-033",
@@ -426,7 +458,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-034",
@@ -439,7 +472,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-035",
@@ -452,7 +486,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-036",
@@ -465,7 +500,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-037",
@@ -478,7 +514,8 @@
       "technology"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-038",
@@ -491,7 +528,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-039",
@@ -504,7 +542,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-040",
@@ -517,7 +556,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-041",
@@ -530,7 +570,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-042",
@@ -543,7 +584,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-043",
@@ -556,7 +598,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-044",
@@ -569,7 +612,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-045",
@@ -582,7 +626,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-046",
@@ -595,7 +640,8 @@
       "technology"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-047",
@@ -608,7 +654,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-048",
@@ -621,7 +668,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-049",
@@ -634,7 +682,8 @@
       "classic"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-050",
@@ -647,7 +696,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-13"
+    "dateAdded": "2026-03-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-051",
@@ -655,9 +705,13 @@
     "setup": "Why do dogs float in water?",
     "punchline": "Because they're good buoys!",
     "category": "animal",
-    "tags": ["dog", "puns"],
+    "tags": [
+      "dog",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-052",
@@ -665,9 +719,13 @@
     "setup": "What do you call a cat on ice?",
     "punchline": "One cool cat!",
     "category": "animal",
-    "tags": ["cat", "puns"],
+    "tags": [
+      "cat",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-053",
@@ -675,9 +733,13 @@
     "setup": "Why did the pelican get kicked out of the restaurant?",
     "punchline": "Because he had a very big bill!",
     "category": "animal",
-    "tags": ["bird", "wordplay"],
+    "tags": [
+      "bird",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-054",
@@ -685,9 +747,13 @@
     "setup": "What do you call a cow on a trampoline?",
     "punchline": "A milkshake!",
     "category": "animal",
-    "tags": ["cow", "puns"],
+    "tags": [
+      "cow",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-055",
@@ -695,9 +761,13 @@
     "setup": "Why did the shark spit out the clown?",
     "punchline": "Because he tasted funny!",
     "category": "animal",
-    "tags": ["shark", "classic"],
+    "tags": [
+      "shark",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-056",
@@ -705,9 +775,13 @@
     "setup": "What do you call a parrot that wears a raincoat?",
     "punchline": "Polly unsaturated!",
     "category": "animal",
-    "tags": ["bird", "wordplay"],
+    "tags": [
+      "bird",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-057",
@@ -715,9 +789,13 @@
     "setup": "Where do mice park their boats?",
     "punchline": "At the hickory dickory dock!",
     "category": "animal",
-    "tags": ["mouse", "classic"],
+    "tags": [
+      "mouse",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-058",
@@ -725,9 +803,13 @@
     "setup": "What do you call a chicken staring at a pile of lettuce?",
     "punchline": "Chicken sees a salad!",
     "category": "animal",
-    "tags": ["chicken", "wordplay"],
+    "tags": [
+      "chicken",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-059",
@@ -735,9 +817,13 @@
     "setup": "Why do pandas like old movies?",
     "punchline": "Because they're in black and white!",
     "category": "animal",
-    "tags": ["bear", "classic"],
+    "tags": [
+      "bear",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-060",
@@ -745,9 +831,13 @@
     "setup": "What do you call a snail on a ship?",
     "punchline": "A snailor!",
     "category": "animal",
-    "tags": ["snail", "puns"],
+    "tags": [
+      "snail",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-061",
@@ -755,9 +845,13 @@
     "setup": "Why do flamingos stand on one leg?",
     "punchline": "Because if they lifted both legs, they'd fall over!",
     "category": "animal",
-    "tags": ["bird", "classic"],
+    "tags": [
+      "bird",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-062",
@@ -765,9 +859,13 @@
     "setup": "What do you call a dog that does magic tricks on the beach?",
     "punchline": "A Labra-cadabra-dor retriever!",
     "category": "animal",
-    "tags": ["dog", "puns"],
+    "tags": [
+      "dog",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-063",
@@ -775,9 +873,13 @@
     "setup": "Why did the bee get married?",
     "punchline": "Because he found his honey!",
     "category": "animal",
-    "tags": ["bee", "wordplay"],
+    "tags": [
+      "bee",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-064",
@@ -785,9 +887,13 @@
     "setup": "What do you call a fish with two knees?",
     "punchline": "A two-knee fish!",
     "category": "animal",
-    "tags": ["fish", "wordplay"],
+    "tags": [
+      "fish",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-065",
@@ -795,9 +901,13 @@
     "setup": "Why did the turkey join a band?",
     "punchline": "Because he had the drumsticks!",
     "category": "animal",
-    "tags": ["bird", "puns"],
+    "tags": [
+      "bird",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-066",
@@ -805,9 +915,13 @@
     "setup": "What do you get from a pampered cow?",
     "punchline": "Spoiled milk!",
     "category": "animal",
-    "tags": ["cow", "puns"],
+    "tags": [
+      "cow",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-067",
@@ -815,9 +929,13 @@
     "setup": "Why are teddy bears never hungry?",
     "punchline": "Because they're always stuffed!",
     "category": "animal",
-    "tags": ["bear", "classic"],
+    "tags": [
+      "bear",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-068",
@@ -825,9 +943,13 @@
     "setup": "What do you call a sleeping lizard?",
     "punchline": "A calm-eleon!",
     "category": "animal",
-    "tags": ["reptile", "puns"],
+    "tags": [
+      "reptile",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-069",
@@ -835,9 +957,13 @@
     "setup": "Why did the lamb cross the road?",
     "punchline": "To get to the baaaaarber shop!",
     "category": "animal",
-    "tags": ["sheep", "puns"],
+    "tags": [
+      "sheep",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-070",
@@ -845,9 +971,13 @@
     "setup": "What do you call a zebra with no stripes?",
     "punchline": "A horse!",
     "category": "animal",
-    "tags": ["horse", "classic"],
+    "tags": [
+      "horse",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-071",
@@ -855,9 +985,13 @@
     "setup": "Why did the dolphin cross the ocean?",
     "punchline": "To get to the other tide!",
     "category": "animal",
-    "tags": ["ocean", "wordplay"],
+    "tags": [
+      "ocean",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-072",
@@ -865,9 +999,13 @@
     "setup": "What do you call a cat who loves bowling?",
     "punchline": "An alley cat!",
     "category": "animal",
-    "tags": ["cat", "puns"],
+    "tags": [
+      "cat",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-073",
@@ -875,9 +1013,13 @@
     "setup": "Why don't bears wear shoes?",
     "punchline": "Because they prefer bear feet!",
     "category": "animal",
-    "tags": ["bear", "wordplay"],
+    "tags": [
+      "bear",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-074",
@@ -885,9 +1027,13 @@
     "setup": "What did the fish say when it swam into a wall?",
     "punchline": "Dam!",
     "category": "animal",
-    "tags": ["fish", "classic"],
+    "tags": [
+      "fish",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-075",
@@ -895,9 +1041,13 @@
     "setup": "Why are giraffes so slow to apologize?",
     "punchline": "It takes them a long time to swallow their pride!",
     "category": "animal",
-    "tags": ["giraffe", "wordplay"],
+    "tags": [
+      "giraffe",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-076",
@@ -905,9 +1055,13 @@
     "setup": "What do you call a dog in the winter?",
     "punchline": "A chili dog!",
     "category": "animal",
-    "tags": ["dog", "puns"],
+    "tags": [
+      "dog",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-077",
@@ -915,9 +1069,13 @@
     "setup": "Why did the rooster go to KFC?",
     "punchline": "He wanted to see a chicken strip!",
     "category": "animal",
-    "tags": ["chicken", "puns"],
+    "tags": [
+      "chicken",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-078",
@@ -925,9 +1083,13 @@
     "setup": "What do you call a camel with no humps?",
     "punchline": "Humphrey!",
     "category": "animal",
-    "tags": ["camel", "wordplay"],
+    "tags": [
+      "camel",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-079",
@@ -935,9 +1097,13 @@
     "setup": "Why do crows always win at poker?",
     "punchline": "Because they always have a pair of caws!",
     "category": "animal",
-    "tags": ["bird", "puns"],
+    "tags": [
+      "bird",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-080",
@@ -945,9 +1111,13 @@
     "setup": "What do you call a well-dressed lion?",
     "punchline": "A dandy lion!",
     "category": "animal",
-    "tags": ["lion", "wordplay"],
+    "tags": [
+      "lion",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-081",
@@ -955,9 +1125,13 @@
     "setup": "Why did the pony get sent to his room?",
     "punchline": "He wouldn't stop horsing around!",
     "category": "animal",
-    "tags": ["horse", "classic"],
+    "tags": [
+      "horse",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-082",
@@ -965,9 +1139,13 @@
     "setup": "What do you call a bird in winter?",
     "punchline": "Brrr-d!",
     "category": "animal",
-    "tags": ["bird", "puns"],
+    "tags": [
+      "bird",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-083",
@@ -975,9 +1153,13 @@
     "setup": "Why don't cats play poker in the jungle?",
     "punchline": "Too many cheetahs!",
     "category": "animal",
-    "tags": ["cat", "wordplay"],
+    "tags": [
+      "cat",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-084",
@@ -985,9 +1167,13 @@
     "setup": "What do you call a cow that just had a baby?",
     "punchline": "De-calf-inated!",
     "category": "animal",
-    "tags": ["cow", "wordplay"],
+    "tags": [
+      "cow",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-085",
@@ -995,9 +1181,13 @@
     "setup": "Why did the snake cross the road?",
     "punchline": "To get to the other ssssside!",
     "category": "animal",
-    "tags": ["snake", "classic"],
+    "tags": [
+      "snake",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-086",
@@ -1005,9 +1195,13 @@
     "setup": "What kind of dog keeps the best time?",
     "punchline": "A watch dog!",
     "category": "animal",
-    "tags": ["dog", "wordplay"],
+    "tags": [
+      "dog",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-087",
@@ -1015,9 +1209,13 @@
     "setup": "Why did the cat go to Minnesota?",
     "punchline": "To get a new Mini-Apolis!",
     "category": "animal",
-    "tags": ["cat", "puns"],
+    "tags": [
+      "cat",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-088",
@@ -1025,9 +1223,13 @@
     "setup": "What do you call a pig who can write with both hands?",
     "punchline": "Ambi-ham-strous!",
     "category": "animal",
-    "tags": ["pig", "wordplay"],
+    "tags": [
+      "pig",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-089",
@@ -1035,9 +1237,13 @@
     "setup": "Why are fish so smart?",
     "punchline": "Because they live in schools!",
     "category": "animal",
-    "tags": ["fish", "classic"],
+    "tags": [
+      "fish",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-090",
@@ -1045,9 +1251,13 @@
     "setup": "What do you call an illegally parked frog?",
     "punchline": "Toad!",
     "category": "animal",
-    "tags": ["frog", "wordplay"],
+    "tags": [
+      "frog",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-091",
@@ -1055,9 +1265,13 @@
     "setup": "Why did the duck go to rehab?",
     "punchline": "Because he was a quack addict!",
     "category": "animal",
-    "tags": ["duck", "puns"],
+    "tags": [
+      "duck",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-092",
@@ -1065,9 +1279,13 @@
     "setup": "What do you call a dinosaur that crashes their car?",
     "punchline": "Tyrannosaurus Wrecks!",
     "category": "animal",
-    "tags": ["dinosaur", "puns"],
+    "tags": [
+      "dinosaur",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-093",
@@ -1075,9 +1293,13 @@
     "setup": "Where do cats go on vacation?",
     "punchline": "The Canary Islands!",
     "category": "animal",
-    "tags": ["cat", "puns"],
+    "tags": [
+      "cat",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-094",
@@ -1085,9 +1307,13 @@
     "setup": "Why don't dogs make good dancers?",
     "punchline": "Because they have two left feet!",
     "category": "animal",
-    "tags": ["dog", "classic"],
+    "tags": [
+      "dog",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-095",
@@ -1095,9 +1321,13 @@
     "setup": "What do you call a happy penguin?",
     "punchline": "A pen-grin!",
     "category": "animal",
-    "tags": ["penguin", "puns"],
+    "tags": [
+      "penguin",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-096",
@@ -1105,9 +1335,13 @@
     "setup": "Why did the horse go behind the tree?",
     "punchline": "To change his jockeys!",
     "category": "animal",
-    "tags": ["horse", "puns"],
+    "tags": [
+      "horse",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-097",
@@ -1115,9 +1349,13 @@
     "setup": "What do you call a cat that eats lemons?",
     "punchline": "A sourpuss!",
     "category": "animal",
-    "tags": ["cat", "wordplay"],
+    "tags": [
+      "cat",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-098",
@@ -1125,9 +1363,13 @@
     "setup": "Why did the elephant leave the circus?",
     "punchline": "He was tired of working for peanuts!",
     "category": "animal",
-    "tags": ["elephant", "classic"],
+    "tags": [
+      "elephant",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-099",
@@ -1135,9 +1377,13 @@
     "setup": "What do you call a bird that sticks to everything?",
     "punchline": "A vel-crow!",
     "category": "animal",
-    "tags": ["bird", "puns"],
+    "tags": [
+      "bird",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "animal-100",
@@ -1145,8 +1391,12 @@
     "setup": "Why do wolves howl at the moon?",
     "punchline": "Because no one taught them to text!",
     "category": "animal",
-    "tags": ["wolf", "classic"],
+    "tags": [
+      "wolf",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   }
 ]

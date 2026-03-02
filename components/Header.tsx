@@ -18,16 +18,10 @@ export default function Header() {
           </Link>
           <nav className="hidden sm:flex items-center gap-6">
             <Link
-              href="/categories"
+              href="/browse"
               className="text-sm text-text-secondary hover:text-foreground transition-colors"
             >
-              Categories
-            </Link>
-            <Link
-              href="/topics"
-              className="text-sm text-text-secondary hover:text-foreground transition-colors"
-            >
-              Topics
+              Browse
             </Link>
             <Link
               href="/top-rated"
@@ -43,7 +37,7 @@ export default function Header() {
             </Link>
           </nav>
           <Link
-            href="/categories"
+            href="/browse"
             className="sm:hidden text-sm text-text-secondary hover:text-foreground"
           >
             Browse

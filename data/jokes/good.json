@@ -10,7 +10,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-01-09",
-    "slug": "a-guy-walks-into-a-bar-and-asks-for-14-root-beers"
+    "slug": "a-guy-walks-into-a-bar-and-asks-for-14-root-beers",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-002",
@@ -23,7 +24,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-01-21",
-    "slug": "why-did-the-invisible-man-turn-down-the-job-offer"
+    "slug": "why-did-the-invisible-man-turn-down-the-job-offer",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-003",
@@ -36,7 +38,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-02-04",
-    "slug": "whats-the-best-way-to-watch-a-fly-fishing-tournament"
+    "slug": "whats-the-best-way-to-watch-a-fly-fishing-tournament",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-004",
@@ -49,7 +52,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-02-16",
-    "slug": "why-do-nurses-like-red-crayons"
+    "slug": "why-do-nurses-like-red-crayons",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-005",
@@ -62,7 +66,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-03-02",
-    "slug": "when-does-a-joke-become-a-dad-joke-2"
+    "slug": "when-does-a-joke-become-a-dad-joke-2",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-006",
@@ -75,7 +80,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-03-13",
-    "slug": "i-was-wondering-why-the-ball-was-getting-bigger"
+    "slug": "i-was-wondering-why-the-ball-was-getting-bigger",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-007",
@@ -88,7 +94,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-03-26",
-    "slug": "what-do-you-call-an-elephant-that-doesnt-matter"
+    "slug": "what-do-you-call-an-elephant-that-doesnt-matter",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-008",
@@ -101,7 +108,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-04-06",
-    "slug": "i-ordered-a-chicken-and-an-egg-from-amazon"
+    "slug": "i-ordered-a-chicken-and-an-egg-from-amazon",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-009",
@@ -114,7 +122,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-04-20",
-    "slug": "what-does-a-house-wear"
+    "slug": "what-does-a-house-wear",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-010",
@@ -127,7 +136,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-05-03",
-    "slug": "i-thought-about-going-on-an-all-almond-diet"
+    "slug": "i-thought-about-going-on-an-all-almond-diet",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-011",
@@ -140,7 +150,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-05-16",
-    "slug": "whats-the-best-thing-about-elevator-jokes"
+    "slug": "whats-the-best-thing-about-elevator-jokes",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-012",
@@ -153,7 +164,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-05-30",
-    "slug": "my-son-asked-me-to-put-his-shoes-on"
+    "slug": "my-son-asked-me-to-put-his-shoes-on",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-013",
@@ -166,7 +178,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-06-09",
-    "slug": "why-do-dads-always-carry-an-extra-pair-of-socks-to-the-golf"
+    "slug": "why-do-dads-always-carry-an-extra-pair-of-socks-to-the-golf",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-014",
@@ -179,7 +192,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-06-24",
-    "slug": "what-concert-costs-just-45-cents"
+    "slug": "what-concert-costs-just-45-cents",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-015",
@@ -193,7 +207,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-07-07",
-    "slug": "a-steak-pun-is-a-rare-medium-well-done"
+    "slug": "a-steak-pun-is-a-rare-medium-well-done",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-016",
@@ -206,7 +221,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-07-20",
-    "slug": "why-dont-oysters-donate-to-charity"
+    "slug": "why-dont-oysters-donate-to-charity",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-017",
@@ -219,7 +235,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-08-03",
-    "slug": "i-accidentally-rubbed-ketchup-in-my-eyes"
+    "slug": "i-accidentally-rubbed-ketchup-in-my-eyes",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-018",
@@ -232,7 +249,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-08-15",
-    "slug": "why-did-the-man-fall-down-the-well"
+    "slug": "why-did-the-man-fall-down-the-well",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-019",
@@ -245,7 +263,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-09-01",
-    "slug": "my-wife-asked-me-to-go-get-six-cans-of-sprite-from-the-store"
+    "slug": "my-wife-asked-me-to-go-get-six-cans-of-sprite-from-the-store",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-020",
@@ -258,7 +277,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-09-14",
-    "slug": "what-do-you-call-a-group-of-killer-whales-playing-instrument"
+    "slug": "what-do-you-call-a-group-of-killer-whales-playing-instrument",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-021",
@@ -271,7 +291,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-09-28",
-    "slug": "two-guys-walked-into-a-bar"
+    "slug": "two-guys-walked-into-a-bar",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-022",
@@ -284,7 +305,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-10-09",
-    "slug": "what-do-you-call-it-when-batman-skips-church"
+    "slug": "what-do-you-call-it-when-batman-skips-church",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-023",
@@ -297,7 +319,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-10-25",
-    "slug": "what-do-you-call-a-pony-with-a-sore-throat"
+    "slug": "what-do-you-call-a-pony-with-a-sore-throat",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-024",
@@ -310,7 +333,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-11-05",
-    "slug": "i-used-to-be-addicted-to-the-hokey-pokey"
+    "slug": "i-used-to-be-addicted-to-the-hokey-pokey",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-025",
@@ -323,7 +347,8 @@
     ],
     "rating": 3,
     "dateAdded": "2025-11-18",
-    "slug": "how-do-trees-access-the-internet"
+    "slug": "how-do-trees-access-the-internet",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-026",
@@ -336,7 +361,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-027",
@@ -349,7 +375,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-028",
@@ -362,7 +389,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-029",
@@ -375,7 +403,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-030",
@@ -388,7 +417,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-03",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-031",
@@ -401,7 +431,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-03",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-032",
@@ -414,7 +445,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-04",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-033",
@@ -427,7 +459,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-034",
@@ -440,7 +473,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-035",
@@ -453,7 +487,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-05",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-036",
@@ -466,7 +501,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-037",
@@ -479,7 +515,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-06",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-038",
@@ -492,7 +529,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-039",
@@ -505,7 +543,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-040",
@@ -518,7 +557,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-08",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-041",
@@ -531,7 +571,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-08",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-042",
@@ -544,7 +585,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-09",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-043",
@@ -557,7 +599,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-044",
@@ -570,7 +613,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-045",
@@ -583,7 +627,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-046",
@@ -596,7 +641,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-11",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-047",
@@ -609,7 +655,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-11",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-048",
@@ -622,7 +669,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-049",
@@ -635,7 +683,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-050",
@@ -648,506 +697,707 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-13",
-    "slug": ""
+    "slug": "",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-051",
     "setup": "Why did the stadium get so hot after the game?",
     "punchline": "Because all the fans left.",
     "category": "good",
-    "tags": ["sports", "wordplay"],
+    "tags": [
+      "sports",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-the-stadium-get-so-hot"
+    "slug": "why-did-the-stadium-get-so-hot",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-052",
     "setup": "What do you call a cow with no legs?",
     "punchline": "Ground beef.",
     "category": "good",
-    "tags": ["animals", "food"],
+    "tags": [
+      "animals",
+      "food"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-cow-with-no-legs"
+    "slug": "what-do-you-call-a-cow-with-no-legs",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-053",
     "setup": "Why did the tomato turn red?",
     "punchline": "Because it saw the salad dressing.",
     "category": "good",
-    "tags": ["food", "wordplay"],
+    "tags": [
+      "food",
+      "wordplay"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-the-tomato-turn-red"
+    "slug": "why-did-the-tomato-turn-red",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-054",
     "setup": "What do you call a lazy baby kangaroo?",
     "punchline": "A pouch potato.",
     "category": "good",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-lazy-baby-kangaroo"
+    "slug": "what-do-you-call-a-lazy-baby-kangaroo",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-055",
     "setup": "I told my computer I needed a break.",
     "punchline": "Now it won't stop sending me vacation ads.",
     "category": "good",
-    "tags": ["technology", "wordplay"],
+    "tags": [
+      "technology",
+      "wordplay"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "i-told-my-computer-i-needed-a-break"
+    "slug": "i-told-my-computer-i-needed-a-break",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-056",
     "setup": "What do you call a snowman with a six-pack?",
     "punchline": "An abdominal snowman.",
     "category": "good",
-    "tags": ["winter", "fitness"],
+    "tags": [
+      "winter",
+      "fitness"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-snowman-with-a-six-pack"
+    "slug": "what-do-you-call-a-snowman-with-a-six-pack",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-057",
     "setup": "Why can't your nose be 12 inches long?",
     "punchline": "Because then it would be a foot.",
     "category": "good",
-    "tags": ["anatomy", "math"],
+    "tags": [
+      "anatomy",
+      "math"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-cant-your-nose-be-twelve-inches"
+    "slug": "why-cant-your-nose-be-twelve-inches",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-058",
     "setup": "I had a neck brace fitted years ago.",
     "punchline": "I've never looked back since.",
     "category": "good",
-    "tags": ["medical", "one-liner"],
+    "tags": [
+      "medical",
+      "one-liner"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "i-had-a-neck-brace-fitted-years-ago"
+    "slug": "i-had-a-neck-brace-fitted-years-ago",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-059",
     "setup": "What do lawyers wear to court?",
     "punchline": "Lawsuits.",
     "category": "good",
-    "tags": ["law", "fashion"],
+    "tags": [
+      "law",
+      "fashion"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-lawyers-wear-to-court"
+    "slug": "what-do-lawyers-wear-to-court",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-060",
     "setup": "I tried to start a professional hide and seek team.",
     "punchline": "Good players are really hard to find.",
     "category": "good",
-    "tags": ["sports", "wordplay"],
+    "tags": [
+      "sports",
+      "wordplay"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "i-tried-to-start-a-hide-and-seek-team"
+    "slug": "i-tried-to-start-a-hide-and-seek-team",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-061",
     "setup": "Why did the chicken go to the seance?",
     "punchline": "To get to the other side.",
     "category": "good",
-    "tags": ["animals", "dark-humor"],
+    "tags": [
+      "animals",
+      "dark-humor"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-the-chicken-go-to-the-seance"
+    "slug": "why-did-the-chicken-go-to-the-seance",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-062",
     "setup": "I used to be a tap dancer.",
     "punchline": "Until I fell in the sink.",
     "category": "good",
-    "tags": ["music", "slapstick"],
+    "tags": [
+      "music",
+      "slapstick"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "i-used-to-be-a-tap-dancer"
+    "slug": "i-used-to-be-a-tap-dancer",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-063",
     "setup": "What did the grape say when it got crushed?",
     "punchline": "Nothing, it just let out a little wine.",
     "category": "good",
-    "tags": ["food", "puns"],
+    "tags": [
+      "food",
+      "puns"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-did-the-grape-say-when-crushed"
+    "slug": "what-did-the-grape-say-when-crushed",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-064",
     "setup": "Why do cows wear bells?",
     "punchline": "Because their horns don't work.",
     "category": "good",
-    "tags": ["animals", "wordplay"],
+    "tags": [
+      "animals",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-do-cows-wear-bells"
+    "slug": "why-do-cows-wear-bells",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-065",
     "setup": "What do you call a dinosaur that crashes their car?",
     "punchline": "Tyrannosaurus Wrecks.",
     "category": "good",
-    "tags": ["dinosaurs", "puns"],
+    "tags": [
+      "dinosaurs",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-dinosaur-that-crashes"
+    "slug": "what-do-you-call-a-dinosaur-that-crashes",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-066",
     "setup": "I bought some shoes from a drug dealer.",
     "punchline": "I don't know what he laced them with, but I've been tripping all day.",
     "category": "good",
-    "tags": ["fashion", "wordplay"],
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "i-bought-some-shoes-from-a-drug-dealer"
+    "slug": "i-bought-some-shoes-from-a-drug-dealer",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-067",
     "setup": "What do you call a fish that practices medicine?",
     "punchline": "A sturgeon.",
     "category": "good",
-    "tags": ["animals", "medical"],
+    "tags": [
+      "animals",
+      "medical"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-fish-that-practices-medicine"
+    "slug": "what-do-you-call-a-fish-that-practices-medicine",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-068",
     "setup": "Why did the taxi driver get fired?",
     "punchline": "Passengers didn't like it when he went the extra mile.",
     "category": "good",
-    "tags": ["work", "wordplay"],
+    "tags": [
+      "work",
+      "wordplay"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-the-taxi-driver-get-fired"
+    "slug": "why-did-the-taxi-driver-get-fired",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-069",
     "setup": "I just learned sign language.",
     "punchline": "It's pretty handy.",
     "category": "good",
-    "tags": ["language", "puns"],
+    "tags": [
+      "language",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "i-just-learned-sign-language"
+    "slug": "i-just-learned-sign-language",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-070",
     "setup": "What do you call a row of rabbits hopping backwards?",
     "punchline": "A receding hare line.",
     "category": "good",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-rabbits-hopping-backwards"
+    "slug": "what-do-you-call-rabbits-hopping-backwards",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-071",
     "setup": "Why do bees have sticky hair?",
     "punchline": "Because they use honeycombs.",
     "category": "good",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-do-bees-have-sticky-hair"
+    "slug": "why-do-bees-have-sticky-hair",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-072",
     "setup": "What do you call an alligator in a vest?",
     "punchline": "An investigator.",
     "category": "good",
-    "tags": ["animals", "fashion"],
+    "tags": [
+      "animals",
+      "fashion"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-an-alligator-in-a-vest"
+    "slug": "what-do-you-call-an-alligator-in-a-vest",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-073",
     "setup": "I just heard a great joke about amnesia.",
     "punchline": "But I forgot how it goes.",
     "category": "good",
-    "tags": ["meta", "medical"],
+    "tags": [
+      "meta",
+      "medical"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "i-just-heard-a-joke-about-amnesia"
+    "slug": "i-just-heard-a-joke-about-amnesia",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-074",
     "setup": "What did the traffic light say to the car?",
     "punchline": "Don't look, I'm about to change.",
     "category": "good",
-    "tags": ["vehicles", "wordplay"],
+    "tags": [
+      "vehicles",
+      "wordplay"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-did-the-traffic-light-say-to-the-car"
+    "slug": "what-did-the-traffic-light-say-to-the-car",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-075",
     "setup": "I broke my finger last week.",
     "punchline": "On the other hand, I'm okay.",
     "category": "good",
-    "tags": ["medical", "wordplay"],
+    "tags": [
+      "medical",
+      "wordplay"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "i-broke-my-finger-last-week"
+    "slug": "i-broke-my-finger-last-week",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-076",
     "setup": "Why don't eggs tell each other jokes?",
     "punchline": "They'd crack each other up.",
     "category": "good",
-    "tags": ["food", "wordplay"],
+    "tags": [
+      "food",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-dont-eggs-tell-each-other-jokes"
+    "slug": "why-dont-eggs-tell-each-other-jokes",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-077",
     "setup": "What did the buffalo say to his son when he dropped him off at school?",
     "punchline": "Bison!",
     "category": "good",
-    "tags": ["animals", "parenting"],
+    "tags": [
+      "animals",
+      "parenting"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "what-did-the-buffalo-say-to-his-son"
+    "slug": "what-did-the-buffalo-say-to-his-son",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-078",
     "setup": "I used to work in a blanket factory.",
     "punchline": "But it folded.",
     "category": "good",
-    "tags": ["work", "wordplay"],
+    "tags": [
+      "work",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "i-used-to-work-in-a-blanket-factory"
+    "slug": "i-used-to-work-in-a-blanket-factory",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-079",
     "setup": "Why did the bike fall over?",
     "punchline": "It was two tired.",
     "category": "good",
-    "tags": ["vehicles", "puns"],
+    "tags": [
+      "vehicles",
+      "puns"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-the-bike-fall-over"
+    "slug": "why-did-the-bike-fall-over",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-080",
     "setup": "What do you call a boomerang that doesn't come back?",
     "punchline": "A stick.",
     "category": "good",
-    "tags": ["toys", "anti-humor"],
+    "tags": [
+      "toys",
+      "anti-humor"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-boomerang-that-doesnt-come-back"
+    "slug": "what-do-you-call-a-boomerang-that-doesnt-come-back",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-081",
     "setup": "I don't trust stairs.",
     "punchline": "They're always up to something.",
     "category": "good",
-    "tags": ["buildings", "wordplay"],
+    "tags": [
+      "buildings",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "i-dont-trust-stairs"
+    "slug": "i-dont-trust-stairs",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-082",
     "setup": "What did the coffee say to the sugar?",
     "punchline": "You make life sweet.",
     "category": "good",
-    "tags": ["food", "wordplay"],
+    "tags": [
+      "food",
+      "wordplay"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-did-the-coffee-say-to-the-sugar"
+    "slug": "what-did-the-coffee-say-to-the-sugar",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-083",
     "setup": "Why do programmers prefer dark mode?",
     "punchline": "Because light attracts bugs.",
     "category": "good",
-    "tags": ["technology", "wordplay"],
+    "tags": [
+      "technology",
+      "wordplay"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "why-do-programmers-prefer-dark-mode"
+    "slug": "why-do-programmers-prefer-dark-mode",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-084",
     "setup": "What do you call a factory that makes okay products?",
     "punchline": "A satisfactory.",
     "category": "good",
-    "tags": ["work", "puns"],
+    "tags": [
+      "work",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-factory-makes-okay-products"
+    "slug": "what-do-you-call-a-factory-makes-okay-products",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-085",
     "setup": "I asked my dad for his best dad joke.",
     "punchline": "He said, \"You.\"",
     "category": "good",
-    "tags": ["meta", "parenting"],
+    "tags": [
+      "meta",
+      "parenting"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "i-asked-my-dad-for-his-best-dad-joke"
+    "slug": "i-asked-my-dad-for-his-best-dad-joke",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-086",
     "setup": "Why do ghosts love elevators?",
     "punchline": "Because it lifts their spirits.",
     "category": "good",
-    "tags": ["supernatural", "wordplay"],
+    "tags": [
+      "supernatural",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-do-ghosts-love-elevators"
+    "slug": "why-do-ghosts-love-elevators",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-087",
     "setup": "What do you call a pig that does karate?",
     "punchline": "A pork chop.",
     "category": "good",
-    "tags": ["animals", "sports"],
+    "tags": [
+      "animals",
+      "sports"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-pig-that-does-karate"
+    "slug": "what-do-you-call-a-pig-that-does-karate",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-088",
     "setup": "Why did the cookie go to the doctor?",
     "punchline": "Because it felt crummy.",
     "category": "good",
-    "tags": ["food", "medical"],
+    "tags": [
+      "food",
+      "medical"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-the-cookie-go-to-the-doctor"
+    "slug": "why-did-the-cookie-go-to-the-doctor",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-089",
     "setup": "I got hit in the head with a can of Diet Coke.",
     "punchline": "Don't worry, I'm not hurt. It was a soft drink.",
     "category": "good",
-    "tags": ["food", "slapstick"],
+    "tags": [
+      "food",
+      "slapstick"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "i-got-hit-in-the-head-with-diet-coke"
+    "slug": "i-got-hit-in-the-head-with-diet-coke",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-090",
     "setup": "What do you call a sleeping bull?",
     "punchline": "A bulldozer.",
     "category": "good",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-sleeping-bull"
+    "slug": "what-do-you-call-a-sleeping-bull",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-091",
     "setup": "I was going to tell a time-traveling joke.",
     "punchline": "But you guys didn't like it.",
     "category": "good",
-    "tags": ["meta", "time-travel"],
+    "tags": [
+      "meta",
+      "time-travel"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "i-was-going-to-tell-a-time-traveling-joke"
+    "slug": "i-was-going-to-tell-a-time-traveling-joke",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-092",
     "setup": "What did the stamp say to the envelope?",
     "punchline": "Stick with me and we'll go places.",
     "category": "good",
-    "tags": ["office", "wordplay"],
+    "tags": [
+      "office",
+      "wordplay"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-did-the-stamp-say-to-the-envelope"
+    "slug": "what-did-the-stamp-say-to-the-envelope",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-093",
     "setup": "Why did the scarecrow become a motivational speaker?",
     "punchline": "He was outstanding in his field.",
     "category": "good",
-    "tags": ["farming", "wordplay"],
+    "tags": [
+      "farming",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-the-scarecrow-become-a-speaker"
+    "slug": "why-did-the-scarecrow-become-a-speaker",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-094",
     "setup": "What do you call a man with a shovel in his head?",
     "punchline": "Doug.",
     "category": "good",
-    "tags": ["names", "slapstick"],
+    "tags": [
+      "names",
+      "slapstick"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-man-with-a-shovel"
+    "slug": "what-do-you-call-a-man-with-a-shovel",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-095",
     "setup": "Why don't vampires go to barbecues?",
     "punchline": "They don't like steak.",
     "category": "good",
-    "tags": ["supernatural", "food"],
+    "tags": [
+      "supernatural",
+      "food"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-dont-vampires-go-to-barbecues"
+    "slug": "why-dont-vampires-go-to-barbecues",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-096",
     "setup": "I finally got a new hearing aid.",
     "punchline": "It's state of the ear.",
     "category": "good",
-    "tags": ["medical", "puns"],
+    "tags": [
+      "medical",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "i-finally-got-a-new-hearing-aid"
+    "slug": "i-finally-got-a-new-hearing-aid",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-097",
     "setup": "What do you call two monkeys sharing an Amazon account?",
     "punchline": "Prime mates.",
     "category": "good",
-    "tags": ["animals", "technology"],
+    "tags": [
+      "animals",
+      "technology"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-two-monkeys-sharing-amazon"
+    "slug": "what-do-you-call-two-monkeys-sharing-amazon",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-098",
     "setup": "I'm reading a book about teleportation.",
     "punchline": "It's bound to get me somewhere.",
     "category": "good",
-    "tags": ["books", "science"],
+    "tags": [
+      "books",
+      "science"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "im-reading-a-book-about-teleportation"
+    "slug": "im-reading-a-book-about-teleportation",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-099",
     "setup": "Why do ducks have tail feathers?",
     "punchline": "To cover their butt quacks.",
     "category": "good",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-do-ducks-have-tail-feathers"
+    "slug": "why-do-ducks-have-tail-feathers",
+    "ageRange": "all-ages"
   },
   {
     "id": "good-100",
     "setup": "What do you call a pencil with no point?",
     "punchline": "Pointless.",
     "category": "good",
-    "tags": ["office", "anti-humor"],
+    "tags": [
+      "office",
+      "anti-humor"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-a-pencil-with-no-point"
+    "slug": "what-do-you-call-a-pencil-with-no-point",
+    "ageRange": "all-ages"
   }
 ]

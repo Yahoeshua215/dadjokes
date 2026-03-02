@@ -1098,5 +1098,277 @@
       { "question": "Can I use shopping dad jokes at the store?", "answer": "Shopping dad jokes are made for the store! Drop one at checkout and watch the cashier's reaction." },
       { "question": "Are shopping dad jokes good for Black Friday?", "answer": "Shopping dad jokes are the best Black Friday doorbusters! Free laughs that never go out of stock." }
     ]
+  },
+  {
+    "slug": "teacher-jokes",
+    "name": "Dad Jokes for Teachers",
+    "emoji": "🍎",
+    "description": "Class is in session! These dad jokes for teachers are perfect for morning announcements, faculty lounges, and breaking the ice with a new class. From homework puns to classroom wordplay, these jokes will have your students groaning in appreciation.",
+    "metaTitle": "25+ Dad Jokes for Teachers — Class Dismissed From Frowning",
+    "metaDescription": "The best dad jokes for teachers. Classroom puns, homework humor, and groan-worthy jokes perfect for morning announcements or the faculty lounge.",
+    "tags": ["school", "books"],
+    "relatedTopics": ["school", "morning-announcement-jokes", "books"],
+    "relatedCategories": ["work", "funny", "for-kids"],
+    "faqs": [
+      { "question": "What are the best dad jokes for teachers?", "answer": "The best teacher dad jokes use classroom puns, homework wordplay, and school-related setups. They're perfect for lightening the mood in any educational setting." },
+      { "question": "Can teachers use dad jokes in the classroom?", "answer": "Absolutely! Teacher dad jokes are a great way to engage students, build rapport, and make learning more fun. A well-timed pun can turn any lesson around." },
+      { "question": "Are these jokes appropriate for all grade levels?", "answer": "Yes! Our teacher dad jokes are family-friendly and appropriate for all grade levels, from elementary school through high school." }
+    ]
+  },
+  {
+    "slug": "nurse-jokes",
+    "name": "Dad Jokes for Nurses",
+    "emoji": "🩺",
+    "description": "These nurse dad jokes are the perfect prescription for a long shift. From IV puns to vital sign wordplay, this collection is good for what ails you. Warning: may cause uncontrollable groaning in the break room.",
+    "metaTitle": "25+ Dad Jokes for Nurses — The Perfect Prescription for Laughs",
+    "metaDescription": "The best dad jokes for nurses. Medical puns, hospital humor, and groan-worthy jokes perfect for the break room or a long shift.",
+    "tags": ["doctor", "anatomy"],
+    "relatedTopics": ["doctor", "dentist", "anatomy"],
+    "relatedCategories": ["work", "funny", "for-adults"],
+    "faqs": [
+      { "question": "What are the best dad jokes for nurses?", "answer": "The best nurse dad jokes play on medical terms, hospital life, and patient care. They're the perfect remedy for shift fatigue." },
+      { "question": "Are nurse dad jokes appropriate for the workplace?", "answer": "Nurse dad jokes are workplace-safe and perfect for break rooms, nursing stations, and team huddles. They keep spirits high during long shifts." },
+      { "question": "Can I use nurse jokes with patients?", "answer": "Many nurse dad jokes are patient-friendly! A light joke can help ease anxiety and create a more comfortable atmosphere." }
+    ]
+  },
+  {
+    "slug": "engineer-jokes",
+    "name": "Dad Jokes for Engineers",
+    "emoji": "⚙️",
+    "description": "These engineer dad jokes are built to spec and tested for maximum groan output. From circuit puns to structural wordplay, this collection is precisely engineered to make any engineer facepalm. Tolerance: ±1 groan.",
+    "metaTitle": "25+ Dad Jokes for Engineers — Built to Spec, Tested for Groans",
+    "metaDescription": "The best dad jokes for engineers. Physics puns, math humor, and groan-worthy jokes perfect for the office, lab, or team meeting.",
+    "tags": ["physics", "chemistry", "math"],
+    "relatedTopics": ["programmer-jokes", "math-topic", "physics"],
+    "relatedCategories": ["work", "science", "funny"],
+    "faqs": [
+      { "question": "What are the best dad jokes for engineers?", "answer": "The best engineer dad jokes use physics, math, and technical wordplay. They're perfectly calibrated for maximum groan efficiency." },
+      { "question": "Are engineer dad jokes good for team meetings?", "answer": "Engineer dad jokes are ideal for team meetings, Slack channels, and project kick-offs. They build team morale one pun at a time." },
+      { "question": "Do non-engineers get engineer dad jokes?", "answer": "Many engineer dad jokes work for everyone! The best ones use simple math or physics concepts that cross all disciplines." }
+    ]
+  },
+  {
+    "slug": "accountant-jokes",
+    "name": "Dad Jokes for Accountants",
+    "emoji": "🧮",
+    "description": "These accountant dad jokes add up to serious laughs. From tax puns to balance sheet wordplay, this collection is audited for maximum groan potential. Your sense of humor is an asset — and these jokes are fully depreciated.",
+    "metaTitle": "25+ Dad Jokes for Accountants — Numbers That Add Up to Laughs",
+    "metaDescription": "The best dad jokes for accountants. Tax puns, finance humor, and groan-worthy jokes perfect for tax season, audit prep, or the office.",
+    "tags": ["money", "math"],
+    "relatedTopics": ["money", "math-topic", "office"],
+    "relatedCategories": ["work", "funny", "for-adults"],
+    "faqs": [
+      { "question": "What are the best dad jokes for accountants?", "answer": "The best accountant dad jokes play on taxes, numbers, balance sheets, and finance terms. They're worth every penny of the groan they generate." },
+      { "question": "Are accountant dad jokes good for tax season?", "answer": "Tax season is prime time for accountant dad jokes! They're the perfect way to lighten the mood during crunch time." },
+      { "question": "Can I use accountant jokes at work?", "answer": "Absolutely! Accountant dad jokes are workplace-appropriate and perfect for breaking the ice with clients or colleagues." }
+    ]
+  },
+  {
+    "slug": "doctor-jokes",
+    "name": "Dad Jokes for Doctors",
+    "emoji": "👨‍⚕️",
+    "description": "These doctor dad jokes are just what the doctor ordered. From diagnosis puns to bedside manner wordplay, this collection will have your patients and colleagues in stitches. Side effects include involuntary groaning and reluctant smiling.",
+    "metaTitle": "25+ Dad Jokes for Doctors — Just What the Doctor Ordered",
+    "metaDescription": "The best dad jokes for doctors. Medical puns, diagnosis humor, and groan-worthy jokes perfect for the clinic, hospital, or doctor's lounge.",
+    "tags": ["doctor", "anatomy"],
+    "relatedTopics": ["nurse-jokes", "dentist", "anatomy"],
+    "relatedCategories": ["work", "funny", "for-adults"],
+    "faqs": [
+      { "question": "What are the best dad jokes for doctors?", "answer": "The best doctor dad jokes use medical terminology, diagnosis puns, and hospital wordplay. They're clinically proven to induce groaning." },
+      { "question": "Are doctor dad jokes appropriate for patients?", "answer": "Many doctor dad jokes are patient-friendly! A well-timed joke can ease anxiety and improve the patient experience." },
+      { "question": "Can I use doctor jokes at medical conferences?", "answer": "Doctor dad jokes are perfect icebreakers for medical conferences, grand rounds, and team huddles. They're the best kind of rounds." }
+    ]
+  },
+  {
+    "slug": "programmer-jokes",
+    "name": "Dad Jokes for Programmers",
+    "emoji": "💻",
+    "description": "These programmer dad jokes have been compiled, tested, and deployed to production. From bug puns to binary wordplay, this collection has no syntax errors — just groan-worthy output. Warning: may cause stack overflow from laughing.",
+    "metaTitle": "25+ Dad Jokes for Programmers — Compiled for Maximum Groans",
+    "metaDescription": "The best dad jokes for programmers. Coding puns, bug humor, and groan-worthy jokes perfect for standups, Slack, or debugging sessions.",
+    "tags": ["programming"],
+    "relatedTopics": ["engineer-jokes", "office", "math-topic"],
+    "relatedCategories": ["work", "science", "funny"],
+    "faqs": [
+      { "question": "What are the best dad jokes for programmers?", "answer": "The best programmer dad jokes use coding terms, bug references, and software wordplay. They're the perfect commit message material." },
+      { "question": "Are programmer dad jokes good for standups?", "answer": "Programmer dad jokes are perfect for daily standups, code reviews, and Slack. They ship fast and always get a reaction." },
+      { "question": "Do non-programmers get programmer dad jokes?", "answer": "The best programmer dad jokes are accessible to everyone! They use concepts like bugs, loops, and errors that most people understand." }
+    ]
+  },
+  {
+    "slug": "lawyer-jokes",
+    "name": "Dad Jokes for Lawyers",
+    "emoji": "⚖️",
+    "description": "These lawyer dad jokes rest their case on pure pun power. From brief wordplay to cross-examination humor, this collection is admissible in any comedy court. Verdict: guilty of making you groan.",
+    "metaTitle": "25+ Dad Jokes for Lawyers — Rest Your Case on These Puns",
+    "metaDescription": "The best dad jokes for lawyers. Legal puns, courtroom humor, and groan-worthy jokes perfect for the office, deposition, or bar exam.",
+    "tags": ["office", "money"],
+    "relatedTopics": ["office", "money", "accountant-jokes"],
+    "relatedCategories": ["work", "funny", "for-adults"],
+    "faqs": [
+      { "question": "What are the best dad jokes for lawyers?", "answer": "The best lawyer dad jokes use legal terms, courtroom references, and law wordplay. They're objectively hilarious — and that's sustained." },
+      { "question": "Are lawyer dad jokes appropriate for the office?", "answer": "Lawyer dad jokes are perfectly admissible in any workplace setting! They work great as icebreakers at conferences and firm events." },
+      { "question": "Can I use lawyer jokes with clients?", "answer": "Many lawyer dad jokes are client-friendly. A light touch of humor can ease tension during stressful legal situations." }
+    ]
+  },
+  {
+    "slug": "birthday-card-jokes",
+    "name": "Dad Jokes for Birthday Cards",
+    "emoji": "🎂",
+    "description": "These dad jokes for birthday cards are the perfect punchline to stuff in an envelope. From age puns to candle wordplay, these jokes are the gift that keeps on groaning. Perfect for making someone's birthday just a little more eye-roll-worthy.",
+    "metaTitle": "25+ Dad Jokes for Birthday Cards — The Perfect Punchline Gift",
+    "metaDescription": "The best dad jokes for birthday cards. Age puns, candle humor, and groan-worthy jokes perfect for writing in any birthday card.",
+    "tags": ["parenting", "marriage"],
+    "relatedTopics": ["lunchbox-notes", "parenting", "wedding-speech-jokes"],
+    "relatedCategories": ["funny", "for-kids", "good"],
+    "faqs": [
+      { "question": "What dad jokes work best in birthday cards?", "answer": "Birthday card dad jokes should be short, punchy, and age-appropriate for the recipient. Age puns and cake jokes are perennial favorites." },
+      { "question": "Are birthday card dad jokes good for kids?", "answer": "Birthday card dad jokes are perfect for kids! Short, silly setups with clear punchlines are easy for children to enjoy and retell." },
+      { "question": "Can I use these in a group birthday card?", "answer": "Absolutely! A good birthday card dad joke is the perfect addition to any group card. One well-placed pun ties the whole card together." }
+    ]
+  },
+  {
+    "slug": "wedding-speech-jokes",
+    "name": "Dad Jokes for Wedding Speeches",
+    "emoji": "💍",
+    "description": "These dad jokes for wedding speeches are 'I do' approved. From vow puns to reception wordplay, this collection will make your best man speech or toast unforgettable — for better or for groan. Guaranteed to get a reaction from the crowd.",
+    "metaTitle": "25+ Dad Jokes for Wedding Speeches — Toast-Worthy Humor",
+    "metaDescription": "The best dad jokes for wedding speeches and toasts. Marriage puns and groan-worthy jokes guaranteed to get a reaction at the reception.",
+    "tags": ["marriage"],
+    "relatedTopics": ["marriage", "parenting", "birthday-card-jokes"],
+    "relatedCategories": ["for-adults", "funny", "good"],
+    "faqs": [
+      { "question": "What dad jokes work in a wedding speech?", "answer": "The best wedding speech dad jokes are short, inclusive, and marriage-themed. Keep them light and tie them to the couple for maximum effect." },
+      { "question": "How many dad jokes should I put in a wedding toast?", "answer": "One or two well-placed dad jokes in a wedding toast is the sweet spot. Enough to get a groan and a laugh, not enough to overshadow the sentiment." },
+      { "question": "Are wedding speech dad jokes appropriate for all ages?", "answer": "Most of our wedding speech dad jokes are family-friendly and suitable for all ages at the reception. Always know your audience!" }
+    ]
+  },
+  {
+    "slug": "morning-announcement-jokes",
+    "name": "Dad Jokes for Morning Announcements",
+    "emoji": "📢",
+    "description": "Start every school day with a groan! These dad jokes for morning announcements are short, school-safe, and guaranteed to wake up the whole building with a collective eye-roll. Perfect for principals, teachers, and anyone with access to a microphone.",
+    "metaTitle": "25+ Dad Jokes for Morning Announcements — Wake Up the Whole School",
+    "metaDescription": "The best dad jokes for school morning announcements. Short, clean, school-safe jokes that wake up students and staff with a guaranteed groan.",
+    "tags": ["school"],
+    "relatedTopics": ["teacher-jokes", "school", "lunchbox-notes"],
+    "relatedCategories": ["for-kids", "funny", "good"],
+    "faqs": [
+      { "question": "What makes a good morning announcement dad joke?", "answer": "The best morning announcement dad jokes are short (under 30 seconds), clean, and have a clear setup-punchline structure. Simple wordplay that everyone gets works best over a PA system." },
+      { "question": "How often should I use dad jokes in morning announcements?", "answer": "A daily dad joke in morning announcements builds a fun school tradition. Students start looking forward to the groan every morning." },
+      { "question": "Are morning announcement dad jokes appropriate for all grades?", "answer": "Yes! All of our morning announcement jokes are school-safe and appropriate for students from kindergarten through 12th grade." }
+    ]
+  },
+  {
+    "slug": "lunchbox-notes",
+    "name": "Dad Jokes for Lunchbox Notes",
+    "emoji": "🥪",
+    "description": "Sneak a groan into your kid's lunchbox with these perfect lunchbox note dad jokes. Short enough to write on a napkin, funny enough to make the whole cafeteria table react. The best part of any packed lunch.",
+    "metaTitle": "25+ Dad Jokes for Lunchbox Notes — Sneak a Groan Into Lunch",
+    "metaDescription": "The best dad jokes for lunchbox notes. Short, sweet, school-safe jokes perfect for writing on a napkin or slip of paper to surprise your kids at lunch.",
+    "tags": ["school", "cooking", "breakfast"],
+    "relatedTopics": ["teacher-jokes", "morning-announcement-jokes", "parenting"],
+    "relatedCategories": ["for-kids", "funny", "food"],
+    "faqs": [
+      { "question": "What dad jokes work best for lunchbox notes?", "answer": "The best lunchbox dad jokes are short (one setup, one punchline), food-related or school-themed, and easy for kids to understand and share with friends." },
+      { "question": "How do I write a dad joke on a lunchbox note?", "answer": "Write the setup on one line, leave a space, then write the punchline. Your kid will pause, read on, and groan — mission accomplished." },
+      { "question": "At what age do kids appreciate lunchbox dad jokes?", "answer": "Kids ages 5-12 tend to love lunchbox dad jokes the most. They're at the perfect age to understand wordplay and love sharing jokes with friends." }
+    ]
+  },
+  {
+    "slug": "sales-meeting-jokes",
+    "name": "Dad Jokes for Sales Meetings",
+    "emoji": "📊",
+    "description": "Close the deal on laughs with these dad jokes for sales meetings. From quota puns to pipeline wordplay, these jokes are proven to increase team morale by at least 100%. Results may vary. Batteries not included.",
+    "metaTitle": "25+ Dad Jokes for Sales Meetings — Close the Deal on Laughs",
+    "metaDescription": "The best dad jokes for sales meetings and kickoffs. Office puns and groan-worthy humor perfect for warming up the team and breaking the ice.",
+    "tags": ["office", "money"],
+    "relatedTopics": ["office", "lawyer-jokes", "accountant-jokes"],
+    "relatedCategories": ["work", "funny", "for-adults"],
+    "faqs": [
+      { "question": "What dad jokes work in a sales meeting?", "answer": "Sales meeting dad jokes should be short, work-appropriate, and ideally tied to selling, numbers, or teamwork. They're perfect for warming up a kickoff or lightening a difficult pipeline review." },
+      { "question": "How do I use dad jokes to open a sales meeting?", "answer": "Open with a single quick dad joke before getting to business. It breaks the ice, gets everyone smiling, and sets a positive tone for the meeting." },
+      { "question": "Are sales meeting dad jokes appropriate for all industries?", "answer": "Most of our sales meeting jokes are industry-neutral and appropriate for any sales team. Always read the room and know your audience!" }
+    ]
+  },
+  {
+    "slug": "jokes-for-4-year-olds",
+    "name": "Dad Jokes for 4-Year-Olds",
+    "emoji": "🧒",
+    "description": "Simple, silly dad jokes perfectly pitched for 4-year-olds who are just discovering the joy of humor. These easy setups with obvious punchlines are designed for tiny laughers who love animals, colors, and anything wonderfully silly.",
+    "metaTitle": "25+ Dad Jokes for 4-Year-Olds — Simple & Silly",
+    "metaDescription": "The best dad jokes for 4-year-olds. Simple setups, clear punchlines, and totally silly humor perfect for toddlers and preschoolers.",
+    "tags": ["dinosaur", "dogs", "cats"],
+    "relatedTopics": ["jokes-for-5-year-olds", "jokes-for-kindergarteners", "dinosaurs"],
+    "relatedCategories": ["for-kids", "funny", "animal"],
+    "faqs": [
+      { "question": "What kind of dad jokes do 4-year-olds like?", "answer": "Four-year-olds love simple animal jokes, silly sound effects, and jokes with obvious punchlines. Keep setups short and punchlines clear." },
+      { "question": "Can 4-year-olds tell jokes themselves?", "answer": "Yes! Simple dad jokes are perfect for 4-year-olds to memorize and retell. They love performing jokes for family and friends." },
+      { "question": "How do I tell dad jokes to a 4-year-old?", "answer": "Use a clear, excited voice for the setup and pause dramatically before the punchline. The anticipation is half the fun for little ones!" }
+    ]
+  },
+  {
+    "slug": "jokes-for-5-year-olds",
+    "name": "Dad Jokes for 5-Year-Olds",
+    "emoji": "✋",
+    "description": "Five-year-olds are ready for slightly more adventurous humor, and these dad jokes deliver. From animal puns to food wordplay, these jokes are perfectly calibrated for kindergarten-age kids who are ready to become official joke-tellers.",
+    "metaTitle": "25+ Dad Jokes for 5-Year-Olds — Ready to Tell Jokes",
+    "metaDescription": "The best dad jokes for 5-year-olds. Age-appropriate puns and silly jokes perfect for kindergarteners who love animals, food, and learning to tell jokes.",
+    "tags": ["dinosaur", "dogs", "school"],
+    "relatedTopics": ["jokes-for-4-year-olds", "jokes-for-kindergarteners", "lunchbox-notes"],
+    "relatedCategories": ["for-kids", "funny", "animal"],
+    "faqs": [
+      { "question": "What dad jokes are appropriate for 5-year-olds?", "answer": "Five-year-olds enjoy animal jokes, food puns, and simple wordplay. Look for jokes with clear setups and satisfying punchlines they can retell." },
+      { "question": "Will 5-year-olds understand these jokes?", "answer": "Yes! All our 5-year-old jokes are designed with age-appropriate vocabulary and concepts that kindergarteners can grasp and enjoy." },
+      { "question": "How can I encourage my 5-year-old to tell jokes?", "answer": "Start by reading jokes together, then let them retell their favorites to family. Praise their delivery and watch their confidence — and joke library — grow!" }
+    ]
+  },
+  {
+    "slug": "jokes-for-kindergarteners",
+    "name": "Dad Jokes for Kindergarteners",
+    "emoji": "🎒",
+    "description": "School's in session and so is the fun! These dad jokes for kindergarteners are perfectly pitched for 5-6 year olds just starting their educational journey. School-themed setups and animal punchlines make these perfect for the classroom and beyond.",
+    "metaTitle": "25+ Dad Jokes for Kindergarteners — School's In Session for Laughs",
+    "metaDescription": "The best dad jokes for kindergarteners. Clean, school-safe jokes perfect for 5-6 year olds, morning circle time, or the classroom.",
+    "tags": ["school", "dinosaur"],
+    "relatedTopics": ["jokes-for-5-year-olds", "jokes-for-middle-schoolers", "teacher-jokes"],
+    "relatedCategories": ["for-kids", "funny", "animal"],
+    "faqs": [
+      { "question": "What dad jokes are good for kindergarteners?", "answer": "Kindergarteners love jokes about school, animals, and simple wordplay. Keep setups to one sentence and punchlines short for maximum effect." },
+      { "question": "Can teachers use these in the kindergarten classroom?", "answer": "These kindergarten dad jokes are classroom-perfect! Great for circle time, transitions, and building a positive classroom community." },
+      { "question": "Are these jokes safe for school?", "answer": "Every joke in our kindergartener collection is 100% school-safe, age-appropriate, and parent-approved." }
+    ]
+  },
+  {
+    "slug": "jokes-for-middle-schoolers",
+    "name": "Dad Jokes for Middle Schoolers",
+    "emoji": "📚",
+    "description": "Middle schoolers think they're too cool for dad jokes — prove them wrong. These jokes are pitched perfectly for the 11-14 age range: clever enough to appreciate, groan-worthy enough to actually land. School subjects, science puns, and pop culture wordplay all included.",
+    "metaTitle": "25+ Dad Jokes for Middle Schoolers — Too Cool? Think Again",
+    "metaDescription": "The best dad jokes for middle schoolers. Clever school puns and science humor perfect for 11-14 year olds who think they're too cool for dad jokes.",
+    "tags": ["school", "math", "science"],
+    "relatedTopics": ["jokes-for-teens", "teacher-jokes", "math-topic"],
+    "relatedCategories": ["for-kids", "funny", "science"],
+    "faqs": [
+      { "question": "What dad jokes do middle schoolers like?", "answer": "Middle schoolers appreciate clever wordplay and jokes that reference things they know — school subjects, pop culture, and science humor work especially well." },
+      { "question": "Are these jokes too simple for middle schoolers?", "answer": "Our middle school collection is calibrated for 11-14 year olds — complex enough to feel clever, silly enough to still get a groan." },
+      { "question": "Can teachers use these with middle school students?", "answer": "Middle school teacher? These jokes are perfect for breaking the ice, starting class, or rewarding good work with a quality groan." }
+    ]
+  },
+  {
+    "slug": "jokes-for-teens",
+    "name": "Dad Jokes for Teens",
+    "emoji": "🎧",
+    "description": "Teens roll their eyes at everything — make it worth it with these dad jokes for teenagers. From tech puns to school wordplay, these jokes are smart enough to appreciate but still groan-worthy enough to qualify as certified dad jokes. Perfect for surviving family dinners.",
+    "metaTitle": "25+ Dad Jokes for Teens — Make the Eye Roll Worth It",
+    "metaDescription": "The best dad jokes for teenagers. Smart, school-themed puns and tech humor perfect for teens who think they're above a good groan.",
+    "tags": ["school", "music", "programming"],
+    "relatedTopics": ["jokes-for-middle-schoolers", "programmer-jokes", "music"],
+    "relatedCategories": ["funny", "for-kids", "science"],
+    "faqs": [
+      { "question": "What dad jokes do teenagers actually like?", "answer": "Teens appreciate dad jokes that reference things they know — tech, music, school, and pop culture. The key is clever wordplay they feel smart for getting." },
+      { "question": "How do I get a teenager to laugh at a dad joke?", "answer": "Delivery matters most with teens. A confident, deadpan delivery followed by complete silence after the punchline often gets the biggest reaction." },
+      { "question": "Are these jokes appropriate for teenagers?", "answer": "Yes! All our teen dad jokes are age-appropriate — clever and culturally relevant without crossing any lines." }
+    ]
   }
 ]

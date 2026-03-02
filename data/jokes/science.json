@@ -10,7 +10,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-002",
@@ -23,7 +24,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-003",
@@ -36,7 +38,8 @@
       "meta"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-004",
@@ -49,7 +52,8 @@
       "chemistry"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-005",
@@ -62,7 +66,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-006",
@@ -75,7 +80,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-007",
@@ -88,7 +94,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-008",
@@ -101,7 +108,8 @@
       "elements"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-009",
@@ -114,7 +122,8 @@
       "elements"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-010",
@@ -127,7 +136,8 @@
       "school"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-011",
@@ -140,7 +150,8 @@
       "physics"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-012",
@@ -153,7 +164,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-013",
@@ -166,7 +178,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-014",
@@ -179,7 +192,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-015",
@@ -192,7 +206,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-016",
@@ -205,7 +220,8 @@
       "food"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-017",
@@ -218,7 +234,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-018",
@@ -231,7 +248,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-019",
@@ -244,7 +262,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-020",
@@ -257,7 +276,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-021",
@@ -270,7 +290,8 @@
       "animal"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-022",
@@ -283,7 +304,8 @@
       "work"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-023",
@@ -296,7 +318,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-024",
@@ -309,7 +332,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-025",
@@ -322,7 +346,8 @@
       "electricity"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-13"
+    "dateAdded": "2026-02-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-026",
@@ -335,7 +360,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-027",
@@ -348,7 +374,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-028",
@@ -361,7 +388,8 @@
       "math"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-029",
@@ -374,7 +402,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-030",
@@ -387,7 +416,8 @@
       "elements"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-031",
@@ -400,7 +430,8 @@
       "animal"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-032",
@@ -413,7 +444,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-033",
@@ -426,7 +458,8 @@
       "elements"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-034",
@@ -439,7 +472,8 @@
       "biology"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-035",
@@ -452,7 +486,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-036",
@@ -465,7 +500,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-037",
@@ -478,7 +514,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-038",
@@ -491,7 +528,8 @@
       "biology"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-039",
@@ -504,7 +542,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-040",
@@ -517,7 +556,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-041",
@@ -530,7 +570,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-042",
@@ -543,7 +584,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-043",
@@ -556,7 +598,8 @@
       "classic"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-044",
@@ -569,7 +612,8 @@
       "elements"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-045",
@@ -582,7 +626,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-046",
@@ -595,7 +640,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-047",
@@ -608,7 +654,8 @@
       "classic"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-048",
@@ -621,7 +668,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-049",
@@ -634,7 +682,8 @@
       "elements"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-050",
@@ -647,7 +696,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-13"
+    "dateAdded": "2026-03-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-051",
@@ -655,9 +705,13 @@
     "setup": "Why did the acid go to the gym?",
     "punchline": "To become a buffer solution!",
     "category": "science",
-    "tags": ["chemistry", "puns"],
+    "tags": [
+      "chemistry",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-052",
@@ -665,9 +719,13 @@
     "setup": "What did Mars say to Saturn?",
     "punchline": "Give me a ring sometime!",
     "category": "science",
-    "tags": ["space", "puns"],
+    "tags": [
+      "space",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-053",
@@ -675,9 +733,13 @@
     "setup": "Why is electricity so good at school?",
     "punchline": "Because it always conducts itself well!",
     "category": "science",
-    "tags": ["physics", "wordplay"],
+    "tags": [
+      "physics",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-054",
@@ -685,9 +747,13 @@
     "setup": "What did the biologist say at the beach?",
     "punchline": "I'm really into cell-fies here!",
     "category": "science",
-    "tags": ["biology", "puns"],
+    "tags": [
+      "biology",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-055",
@@ -695,9 +761,13 @@
     "setup": "Why can't you trust the king of the jungle to take a test?",
     "punchline": "Because there are too many cheetahs!",
     "category": "science",
-    "tags": ["biology", "classic"],
+    "tags": [
+      "biology",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-056",
@@ -705,9 +775,13 @@
     "setup": "What did the oxygen say to the magnesium?",
     "punchline": "OMg!",
     "category": "science",
-    "tags": ["chemistry", "elements"],
+    "tags": [
+      "chemistry",
+      "elements"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-057",
@@ -715,9 +789,13 @@
     "setup": "Why did the star go to school?",
     "punchline": "To become a little brighter!",
     "category": "science",
-    "tags": ["space", "school"],
+    "tags": [
+      "space",
+      "school"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-058",
@@ -725,9 +803,13 @@
     "setup": "What did the rock say to the mineral?",
     "punchline": "You're mine-ral!",
     "category": "science",
-    "tags": ["geology", "puns"],
+    "tags": [
+      "geology",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-059",
@@ -735,9 +817,13 @@
     "setup": "Why did the molecule cross the road?",
     "punchline": "To bond with the other side!",
     "category": "science",
-    "tags": ["chemistry", "classic"],
+    "tags": [
+      "chemistry",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-060",
@@ -745,9 +831,13 @@
     "setup": "How does a scientist freshen their breath?",
     "punchline": "With experi-mints!",
     "category": "science",
-    "tags": ["lab", "puns"],
+    "tags": [
+      "lab",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-061",
@@ -755,9 +845,13 @@
     "setup": "Why did the rocket break up with the satellite?",
     "punchline": "It needed its space!",
     "category": "science",
-    "tags": ["space", "wordplay"],
+    "tags": [
+      "space",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-062",
@@ -765,9 +859,13 @@
     "setup": "What did the mitochondria say to the cell?",
     "punchline": "I'm the powerhouse around here!",
     "category": "science",
-    "tags": ["biology", "classic"],
+    "tags": [
+      "biology",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-063",
@@ -775,9 +873,13 @@
     "setup": "Why did the botanist quit her job?",
     "punchline": "She was tired of being bushed!",
     "category": "science",
-    "tags": ["biology", "wordplay"],
+    "tags": [
+      "biology",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-064",
@@ -785,9 +887,13 @@
     "setup": "What did one ion say to the other?",
     "punchline": "I've got my ion you!",
     "category": "science",
-    "tags": ["chemistry", "puns"],
+    "tags": [
+      "chemistry",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-065",
@@ -795,9 +901,13 @@
     "setup": "Why is the sun so popular?",
     "punchline": "Because it's the center of the solar system!",
     "category": "science",
-    "tags": ["space", "classic"],
+    "tags": [
+      "space",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-066",
@@ -805,9 +915,13 @@
     "setup": "What do you call a tooth in a glass of water?",
     "punchline": "A one molar solution!",
     "category": "science",
-    "tags": ["chemistry", "wordplay"],
+    "tags": [
+      "chemistry",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-067",
@@ -815,9 +929,13 @@
     "setup": "Why did the geologist get divorced?",
     "punchline": "Her husband took her for granite!",
     "category": "science",
-    "tags": ["geology", "wordplay"],
+    "tags": [
+      "geology",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-068",
@@ -825,9 +943,13 @@
     "setup": "What did the physics teacher say to the student who was late?",
     "punchline": "You have a lot of potential, but no energy!",
     "category": "science",
-    "tags": ["physics", "school"],
+    "tags": [
+      "physics",
+      "school"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-069",
@@ -835,9 +957,13 @@
     "setup": "Why are quantum physicists bad at love?",
     "punchline": "When they find the position, they can't find the momentum!",
     "category": "science",
-    "tags": ["physics", "classic"],
+    "tags": [
+      "physics",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-070",
@@ -845,9 +971,13 @@
     "setup": "What do clouds wear under their clothes?",
     "punchline": "Thunderwear!",
     "category": "science",
-    "tags": ["weather", "puns"],
+    "tags": [
+      "weather",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-071",
@@ -855,9 +985,13 @@
     "setup": "Why did the astronaut break up with his girlfriend?",
     "punchline": "He needed more space!",
     "category": "science",
-    "tags": ["space", "classic"],
+    "tags": [
+      "space",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-072",
@@ -865,9 +999,13 @@
     "setup": "What does a photon say when asked if it needs luggage help?",
     "punchline": "No thanks, I'm traveling light!",
     "category": "science",
-    "tags": ["physics", "puns"],
+    "tags": [
+      "physics",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-073",
@@ -875,9 +1013,13 @@
     "setup": "Why did the planet go to the doctor?",
     "punchline": "It was feeling a little spacey!",
     "category": "science",
-    "tags": ["space", "puns"],
+    "tags": [
+      "space",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-074",
@@ -885,9 +1027,13 @@
     "setup": "What did silver say to gold at the party?",
     "punchline": "AU, get outta here!",
     "category": "science",
-    "tags": ["chemistry", "elements"],
+    "tags": [
+      "chemistry",
+      "elements"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-075",
@@ -895,9 +1041,13 @@
     "setup": "Why did the physics book look so tired?",
     "punchline": "Because it had too many problems with gravity!",
     "category": "science",
-    "tags": ["physics", "school"],
+    "tags": [
+      "physics",
+      "school"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-076",
@@ -905,9 +1055,13 @@
     "setup": "What do you call a microbiologist who travels the world?",
     "punchline": "A man of many cultures!",
     "category": "science",
-    "tags": ["biology", "puns"],
+    "tags": [
+      "biology",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-077",
@@ -915,9 +1069,13 @@
     "setup": "Why is the ocean so salty?",
     "punchline": "Because the land never waves back!",
     "category": "science",
-    "tags": ["ocean", "wordplay"],
+    "tags": [
+      "ocean",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-078",
@@ -925,9 +1083,13 @@
     "setup": "What did uranium-238 say to uranium-235?",
     "punchline": "I feel your fission, bro!",
     "category": "science",
-    "tags": ["physics", "elements"],
+    "tags": [
+      "physics",
+      "elements"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-079",
@@ -935,9 +1097,13 @@
     "setup": "Why did the plant go to math class?",
     "punchline": "To improve its stem skills!",
     "category": "science",
-    "tags": ["biology", "school"],
+    "tags": [
+      "biology",
+      "school"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-080",
@@ -945,9 +1111,13 @@
     "setup": "What is a chemist's favorite holiday?",
     "punchline": "Mole Day!",
     "category": "science",
-    "tags": ["chemistry", "classic"],
+    "tags": [
+      "chemistry",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-081",
@@ -955,9 +1125,13 @@
     "setup": "Why is wind power so popular?",
     "punchline": "Because it has a lot of fans!",
     "category": "science",
-    "tags": ["physics", "puns"],
+    "tags": [
+      "physics",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-082",
@@ -965,9 +1139,13 @@
     "setup": "What did the stamen say to the pistil?",
     "punchline": "I like your style!",
     "category": "science",
-    "tags": ["biology", "wordplay"],
+    "tags": [
+      "biology",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-083",
@@ -975,9 +1153,13 @@
     "setup": "Why did the glacier move so slowly?",
     "punchline": "It got cold feet!",
     "category": "science",
-    "tags": ["geology", "classic"],
+    "tags": [
+      "geology",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-084",
@@ -985,9 +1167,13 @@
     "setup": "What did the chemist have for lunch?",
     "punchline": "A sub-atomic sandwich!",
     "category": "science",
-    "tags": ["chemistry", "puns"],
+    "tags": [
+      "chemistry",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-085",
@@ -995,9 +1181,13 @@
     "setup": "Why did the moon skip dinner?",
     "punchline": "Because it was full!",
     "category": "science",
-    "tags": ["space", "classic"],
+    "tags": [
+      "space",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-086",
@@ -1005,9 +1195,13 @@
     "setup": "What kind of music do planets sing?",
     "punchline": "Nep-tunes!",
     "category": "science",
-    "tags": ["space", "puns"],
+    "tags": [
+      "space",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-087",
@@ -1015,9 +1209,13 @@
     "setup": "Why is a black hole so negative?",
     "punchline": "Because it sucks the life out of everything!",
     "category": "science",
-    "tags": ["space", "classic"],
+    "tags": [
+      "space",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-088",
@@ -1025,9 +1223,13 @@
     "setup": "What did Gregor Mendel say to his plants?",
     "punchline": "What's up, bud?",
     "category": "science",
-    "tags": ["biology", "classic"],
+    "tags": [
+      "biology",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-089",
@@ -1035,9 +1237,13 @@
     "setup": "Why should you never trust an atom in court?",
     "punchline": "They make up everything!",
     "category": "science",
-    "tags": ["chemistry", "puns"],
+    "tags": [
+      "chemistry",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-090",
@@ -1045,9 +1251,13 @@
     "setup": "What did one earthquake say to the other earthquake?",
     "punchline": "It's not my fault!",
     "category": "science",
-    "tags": ["geology", "puns"],
+    "tags": [
+      "geology",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-091",
@@ -1055,9 +1265,13 @@
     "setup": "Why did the white blood cell fail its exam?",
     "punchline": "It got a B-cell!",
     "category": "science",
-    "tags": ["biology", "puns"],
+    "tags": [
+      "biology",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-092",
@@ -1065,9 +1279,13 @@
     "setup": "How did the astronaut feel about weightlessness?",
     "punchline": "It was uplifting!",
     "category": "science",
-    "tags": ["space", "wordplay"],
+    "tags": [
+      "space",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-093",
@@ -1075,9 +1293,13 @@
     "setup": "What is a physicist's favorite food?",
     "punchline": "Fission chips!",
     "category": "science",
-    "tags": ["physics", "puns"],
+    "tags": [
+      "physics",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-094",
@@ -1085,9 +1307,13 @@
     "setup": "What do biologists post on social media?",
     "punchline": "Cell-fies!",
     "category": "science",
-    "tags": ["biology", "puns"],
+    "tags": [
+      "biology",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-095",
@@ -1095,9 +1321,13 @@
     "setup": "Why did the meteor go to Hollywood?",
     "punchline": "It wanted to be a star!",
     "category": "science",
-    "tags": ["space", "puns"],
+    "tags": [
+      "space",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-096",
@@ -1105,9 +1335,13 @@
     "setup": "What element is derived from a Norse god?",
     "punchline": "Thorium!",
     "category": "science",
-    "tags": ["chemistry", "elements"],
+    "tags": [
+      "chemistry",
+      "elements"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-097",
@@ -1115,9 +1349,13 @@
     "setup": "Why are electrons never invited to parties?",
     "punchline": "Because they're always so negative!",
     "category": "science",
-    "tags": ["physics", "classic"],
+    "tags": [
+      "physics",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-098",
@@ -1125,9 +1363,13 @@
     "setup": "What did one magnet say to the other magnet on Valentine's Day?",
     "punchline": "I find you very attractive!",
     "category": "science",
-    "tags": ["physics", "puns"],
+    "tags": [
+      "physics",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-099",
@@ -1135,9 +1377,13 @@
     "setup": "Why do geologists make bad comedians?",
     "punchline": "Their jokes are too rocky!",
     "category": "science",
-    "tags": ["geology", "puns"],
+    "tags": [
+      "geology",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "science-100",
@@ -1145,8 +1391,12 @@
     "setup": "What did the biologist couple name their twins?",
     "punchline": "Gene and Jean!",
     "category": "science",
-    "tags": ["biology", "wordplay"],
+    "tags": [
+      "biology",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   }
 ]

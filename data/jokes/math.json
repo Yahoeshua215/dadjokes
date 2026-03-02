@@ -10,7 +10,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-002",
@@ -23,7 +24,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-003",
@@ -36,7 +38,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-004",
@@ -49,7 +52,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-005",
@@ -62,7 +66,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-006",
@@ -75,7 +80,8 @@
       "visual"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-007",
@@ -88,7 +94,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-008",
@@ -101,7 +108,8 @@
       "winter"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-009",
@@ -114,7 +122,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-010",
@@ -127,7 +136,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-011",
@@ -140,7 +150,8 @@
       "meta"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-012",
@@ -153,7 +164,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-013",
@@ -166,7 +178,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-014",
@@ -179,7 +192,8 @@
       "nature"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-015",
@@ -192,7 +206,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-016",
@@ -205,7 +220,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-017",
@@ -218,7 +234,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-018",
@@ -231,7 +248,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-019",
@@ -244,7 +262,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-020",
@@ -257,7 +276,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-021",
@@ -270,7 +290,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-022",
@@ -283,7 +304,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-023",
@@ -296,7 +318,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-024",
@@ -309,7 +332,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-025",
@@ -322,7 +346,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-13"
+    "dateAdded": "2026-02-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-026",
@@ -335,7 +360,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-027",
@@ -348,7 +374,8 @@
       "visual"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-028",
@@ -361,7 +388,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-029",
@@ -374,7 +402,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-030",
@@ -387,7 +416,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-031",
@@ -400,7 +430,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-032",
@@ -413,7 +444,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-033",
@@ -426,7 +458,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-034",
@@ -439,7 +472,8 @@
       "school"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-035",
@@ -452,7 +486,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-036",
@@ -465,7 +500,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-037",
@@ -478,7 +514,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-038",
@@ -491,7 +528,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-039",
@@ -504,7 +542,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-040",
@@ -517,7 +556,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-041",
@@ -530,7 +570,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-042",
@@ -543,7 +584,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-043",
@@ -556,7 +598,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-044",
@@ -569,7 +612,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-045",
@@ -582,7 +626,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-046",
@@ -595,7 +640,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-047",
@@ -608,7 +654,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-048",
@@ -621,7 +668,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-049",
@@ -634,7 +682,8 @@
       "classic"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-050",
@@ -647,7 +696,8 @@
       "trigonometry"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-13"
+    "dateAdded": "2026-03-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-051",
@@ -655,9 +705,13 @@
     "setup": "Why was the geometry book always tired?",
     "punchline": "Because it had too many sleepless angles!",
     "category": "math",
-    "tags": ["geometry", "puns"],
+    "tags": [
+      "geometry",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-052",
@@ -665,9 +719,13 @@
     "setup": "What do you call a number that just can't stand still?",
     "punchline": "A roaming numeral!",
     "category": "math",
-    "tags": ["numbers", "puns"],
+    "tags": [
+      "numbers",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-053",
@@ -675,9 +733,13 @@
     "setup": "Why did the two threes go to therapy?",
     "punchline": "They had issues that couldn't be divided!",
     "category": "math",
-    "tags": ["numbers", "wordplay"],
+    "tags": [
+      "numbers",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-054",
@@ -685,9 +747,13 @@
     "setup": "What do you call a mathematical snake?",
     "punchline": "A pi-thon!",
     "category": "math",
-    "tags": ["pi", "puns"],
+    "tags": [
+      "pi",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-055",
@@ -695,9 +761,13 @@
     "setup": "Why did the student eat his math homework?",
     "punchline": "Because the teacher told him it was a piece of cake!",
     "category": "math",
-    "tags": ["school", "classic"],
+    "tags": [
+      "school",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-056",
@@ -705,9 +775,13 @@
     "setup": "What's interesting about twelve plus one?",
     "punchline": "It's an anagram of eleven plus two!",
     "category": "math",
-    "tags": ["numbers", "wordplay"],
+    "tags": [
+      "numbers",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-057",
@@ -715,9 +789,13 @@
     "setup": "Why is six afraid to go camping?",
     "punchline": "Because seven was a registered camp fire starter — seven eight nine!",
     "category": "math",
-    "tags": ["numbers", "classic"],
+    "tags": [
+      "numbers",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-058",
@@ -725,9 +803,13 @@
     "setup": "What did the zero say to the negative number?",
     "punchline": "Be more positive!",
     "category": "math",
-    "tags": ["numbers", "puns"],
+    "tags": [
+      "numbers",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-059",
@@ -735,9 +817,13 @@
     "setup": "Why did the right angle go to the beach?",
     "punchline": "Because it was 90 degrees!",
     "category": "math",
-    "tags": ["geometry", "classic"],
+    "tags": [
+      "geometry",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-060",
@@ -745,9 +831,13 @@
     "setup": "What did the algebra teacher say about exponents?",
     "punchline": "I just can't express how powerful they are!",
     "category": "math",
-    "tags": ["algebra", "wordplay"],
+    "tags": [
+      "algebra",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-061",
@@ -755,9 +845,13 @@
     "setup": "Why was the minus sign so humble?",
     "punchline": "Because it always took away from itself!",
     "category": "math",
-    "tags": ["symbols", "puns"],
+    "tags": [
+      "symbols",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-062",
@@ -765,9 +859,13 @@
     "setup": "What do you call an angle that's adorable?",
     "punchline": "A-cute angle!",
     "category": "math",
-    "tags": ["geometry", "puns"],
+    "tags": [
+      "geometry",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-063",
@@ -775,9 +873,13 @@
     "setup": "Why did the polynomial plant wilt?",
     "punchline": "It lost all its roots!",
     "category": "math",
-    "tags": ["algebra", "puns"],
+    "tags": [
+      "algebra",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-064",
@@ -785,9 +887,13 @@
     "setup": "What do you call people who love tractors?",
     "punchline": "Pro-tractors!",
     "category": "math",
-    "tags": ["geometry", "wordplay"],
+    "tags": [
+      "geometry",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-065",
@@ -795,9 +901,13 @@
     "setup": "Why was the math exam crying?",
     "punchline": "Because it had too many problems!",
     "category": "math",
-    "tags": ["school", "classic"],
+    "tags": [
+      "school",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-066",
@@ -805,9 +915,13 @@
     "setup": "What did the plus sign say to the minus sign?",
     "punchline": "You're so negative!",
     "category": "math",
-    "tags": ["symbols", "puns"],
+    "tags": [
+      "symbols",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-067",
@@ -815,9 +929,13 @@
     "setup": "Why don't circles ever win awards?",
     "punchline": "Because there's no point!",
     "category": "math",
-    "tags": ["geometry", "puns"],
+    "tags": [
+      "geometry",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-068",
@@ -825,9 +943,13 @@
     "setup": "What did the student say about their calculus class?",
     "punchline": "It's driving me to the limit!",
     "category": "math",
-    "tags": ["calculus", "wordplay"],
+    "tags": [
+      "calculus",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-069",
@@ -835,9 +957,13 @@
     "setup": "Why did the decimal break up with the percent?",
     "punchline": "It couldn't deal with the pressure of always being compared!",
     "category": "math",
-    "tags": ["fractions", "puns"],
+    "tags": [
+      "fractions",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-070",
@@ -845,9 +971,13 @@
     "setup": "What do you call a crushed angle?",
     "punchline": "A rectangle!",
     "category": "math",
-    "tags": ["geometry", "wordplay"],
+    "tags": [
+      "geometry",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-071",
@@ -855,9 +985,13 @@
     "setup": "Why should you never talk to pi?",
     "punchline": "Because it just goes on and on forever!",
     "category": "math",
-    "tags": ["pi", "classic"],
+    "tags": [
+      "pi",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-072",
@@ -865,9 +999,13 @@
     "setup": "What did the statistician say when drowning?",
     "punchline": "This must be an outlier!",
     "category": "math",
-    "tags": ["statistics", "puns"],
+    "tags": [
+      "statistics",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-073",
@@ -875,9 +1013,13 @@
     "setup": "Why did the number line break up with the graph?",
     "punchline": "It was a one-dimensional relationship!",
     "category": "math",
-    "tags": ["algebra", "puns"],
+    "tags": [
+      "algebra",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-074",
@@ -885,9 +1027,13 @@
     "setup": "What do mathematicians eat on Halloween?",
     "punchline": "Pumpkin pi!",
     "category": "math",
-    "tags": ["pi", "classic"],
+    "tags": [
+      "pi",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-075",
@@ -895,9 +1041,13 @@
     "setup": "Why is the number two so nervous?",
     "punchline": "Because it's always even!",
     "category": "math",
-    "tags": ["numbers", "puns"],
+    "tags": [
+      "numbers",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-076",
@@ -905,9 +1055,13 @@
     "setup": "What happens when you put root beer in a square glass?",
     "punchline": "You get beer!",
     "category": "math",
-    "tags": ["algebra", "wordplay"],
+    "tags": [
+      "algebra",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-077",
@@ -915,9 +1069,13 @@
     "setup": "Why did the imaginary number feel lonely?",
     "punchline": "Because nobody believed it was real!",
     "category": "math",
-    "tags": ["numbers", "puns"],
+    "tags": [
+      "numbers",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-078",
@@ -925,9 +1083,13 @@
     "setup": "What did the compass say to the pencil?",
     "punchline": "You've really gone around the bend!",
     "category": "math",
-    "tags": ["geometry", "puns"],
+    "tags": [
+      "geometry",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-079",
@@ -935,9 +1097,13 @@
     "setup": "Why did the fraction go to therapy?",
     "punchline": "It was having an improper breakdown!",
     "category": "math",
-    "tags": ["fractions", "wordplay"],
+    "tags": [
+      "fractions",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-080",
@@ -945,9 +1111,13 @@
     "setup": "What does a math teacher call retirement?",
     "punchline": "The aftermath!",
     "category": "math",
-    "tags": ["school", "wordplay"],
+    "tags": [
+      "school",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-081",
@@ -955,9 +1125,13 @@
     "setup": "What do you get when you cross a math teacher and a clock?",
     "punchline": "Arithma-ticks!",
     "category": "math",
-    "tags": ["school", "puns"],
+    "tags": [
+      "school",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-082",
@@ -965,9 +1139,13 @@
     "setup": "What did the isosceles triangle say to the scalene triangle?",
     "punchline": "At least two of my sides agree!",
     "category": "math",
-    "tags": ["geometry", "classic"],
+    "tags": [
+      "geometry",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-083",
@@ -975,9 +1153,13 @@
     "setup": "Why did the integer feel incomplete?",
     "punchline": "Because it had no point!",
     "category": "math",
-    "tags": ["numbers", "wordplay"],
+    "tags": [
+      "numbers",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-084",
@@ -985,9 +1167,13 @@
     "setup": "What do you call a gentleman who spent all summer at the beach?",
     "punchline": "A tangent!",
     "category": "math",
-    "tags": ["trigonometry", "puns"],
+    "tags": [
+      "trigonometry",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-085",
@@ -995,9 +1181,13 @@
     "setup": "Why did the variable feel so uncertain?",
     "punchline": "Because its value kept changing!",
     "category": "math",
-    "tags": ["algebra", "classic"],
+    "tags": [
+      "algebra",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-086",
@@ -1005,9 +1195,13 @@
     "setup": "What's the best way to serve pi?",
     "punchline": "A la mode!",
     "category": "math",
-    "tags": ["pi", "puns"],
+    "tags": [
+      "pi",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-087",
@@ -1015,9 +1209,13 @@
     "setup": "Why do math teachers love parks?",
     "punchline": "Because of all the natural logs!",
     "category": "math",
-    "tags": ["calculus", "puns"],
+    "tags": [
+      "calculus",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-088",
@@ -1025,9 +1223,13 @@
     "setup": "What did the square say to the old circle?",
     "punchline": "Been around long?",
     "category": "math",
-    "tags": ["geometry", "classic"],
+    "tags": [
+      "geometry",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-089",
@@ -1035,9 +1237,13 @@
     "setup": "Why is a math teacher a great gardener?",
     "punchline": "Because she has so many problems to solve and plants to root for!",
     "category": "math",
-    "tags": ["school", "puns"],
+    "tags": [
+      "school",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-090",
@@ -1045,9 +1251,13 @@
     "setup": "What do you call a line that can sing?",
     "punchline": "A-chord!",
     "category": "math",
-    "tags": ["geometry", "puns"],
+    "tags": [
+      "geometry",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-091",
@@ -1055,9 +1265,13 @@
     "setup": "Why did the obtuse angle go to the beach?",
     "punchline": "Because it was over 90 degrees!",
     "category": "math",
-    "tags": ["geometry", "classic"],
+    "tags": [
+      "geometry",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-092",
@@ -1065,9 +1279,13 @@
     "setup": "What did the pencil say to the ruler?",
     "punchline": "You rule!",
     "category": "math",
-    "tags": ["measurement", "classic"],
+    "tags": [
+      "measurement",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-093",
@@ -1075,9 +1293,13 @@
     "setup": "Why is 2 times 10 the same as 2 times 11?",
     "punchline": "Because 2 times 10 is twenty, and 2 times 11 is twenty too!",
     "category": "math",
-    "tags": ["numbers", "wordplay"],
+    "tags": [
+      "numbers",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-094",
@@ -1085,9 +1307,13 @@
     "setup": "What do you call a number that's had too many drinks?",
     "punchline": "An intox-integer!",
     "category": "math",
-    "tags": ["numbers", "puns"],
+    "tags": [
+      "numbers",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-095",
@@ -1095,9 +1321,13 @@
     "setup": "Why was the fraction worried about the exam?",
     "punchline": "It was afraid of being reduced!",
     "category": "math",
-    "tags": ["fractions", "puns"],
+    "tags": [
+      "fractions",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-096",
@@ -1105,9 +1335,13 @@
     "setup": "What do you call a knight who loves math?",
     "punchline": "Sir Cumference!",
     "category": "math",
-    "tags": ["geometry", "wordplay"],
+    "tags": [
+      "geometry",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-097",
@@ -1115,9 +1349,13 @@
     "setup": "Why did five go to the therapist?",
     "punchline": "Because it had a lot of issues being caught between four and six!",
     "category": "math",
-    "tags": ["numbers", "classic"],
+    "tags": [
+      "numbers",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-098",
@@ -1125,9 +1363,13 @@
     "setup": "What do you call a nine-sided cat?",
     "punchline": "A cat-a-gon!",
     "category": "math",
-    "tags": ["geometry", "puns"],
+    "tags": [
+      "geometry",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-099",
@@ -1135,9 +1377,13 @@
     "setup": "Why did the mathematician love the airport?",
     "punchline": "Because of all the terminals!",
     "category": "math",
-    "tags": ["calculus", "wordplay"],
+    "tags": [
+      "calculus",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "math-100",
@@ -1145,8 +1391,12 @@
     "setup": "What is a butterfly's favorite math subject?",
     "punchline": "Moth-ematics!",
     "category": "math",
-    "tags": ["school", "puns"],
+    "tags": [
+      "school",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   }
 ]

@@ -10,7 +10,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-002",
@@ -23,7 +24,8 @@
       "food"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-003",
@@ -36,7 +38,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-004",
@@ -49,7 +52,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-005",
@@ -62,7 +66,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-006",
@@ -75,7 +80,8 @@
       "food"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-007",
@@ -88,7 +94,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-008",
@@ -101,7 +108,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-009",
@@ -114,7 +122,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-010",
@@ -127,7 +136,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-011",
@@ -140,7 +150,8 @@
       "food"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-012",
@@ -153,7 +164,8 @@
       "food"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-013",
@@ -166,7 +178,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-014",
@@ -179,7 +192,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-015",
@@ -192,7 +206,8 @@
       "music"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-016",
@@ -205,7 +220,8 @@
       "school"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-017",
@@ -218,7 +234,8 @@
       "winter"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-018",
@@ -231,7 +248,8 @@
       "school"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-019",
@@ -244,7 +262,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-020",
@@ -257,7 +276,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-021",
@@ -270,7 +290,8 @@
       "food"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-022",
@@ -283,7 +304,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-023",
@@ -296,7 +318,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-024",
@@ -309,7 +332,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-025",
@@ -322,7 +346,8 @@
       "school"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-13"
+    "dateAdded": "2026-02-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-026",
@@ -335,7 +360,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-027",
@@ -348,7 +374,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-028",
@@ -361,7 +388,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-029",
@@ -374,7 +402,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-030",
@@ -387,7 +416,8 @@
       "food"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-031",
@@ -400,7 +430,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-032",
@@ -413,7 +444,8 @@
       "animal"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-033",
@@ -426,7 +458,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-034",
@@ -439,7 +472,8 @@
       "music"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-035",
@@ -452,7 +486,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-036",
@@ -465,7 +500,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-037",
@@ -478,7 +514,8 @@
       "travel"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-038",
@@ -491,7 +528,8 @@
       "sports"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-039",
@@ -504,7 +542,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-040",
@@ -517,7 +556,8 @@
       "animal"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-041",
@@ -530,7 +570,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-042",
@@ -543,7 +584,8 @@
       "work"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-043",
@@ -556,7 +598,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-044",
@@ -569,7 +612,8 @@
       "romance"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-045",
@@ -582,7 +626,8 @@
       "school"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-046",
@@ -595,7 +640,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-047",
@@ -608,7 +654,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-048",
@@ -621,7 +668,8 @@
       "fashion"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-049",
@@ -634,7 +682,8 @@
       "food"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-050",
@@ -647,7 +696,8 @@
       "weather"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-13"
+    "dateAdded": "2026-03-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-051",
@@ -655,9 +705,13 @@
     "setup": "Why did the ghost get in the elevator?",
     "punchline": "To raise his spirits!",
     "category": "halloween",
-    "tags": ["ghost", "puns"],
+    "tags": [
+      "ghost",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-052",
@@ -665,9 +719,13 @@
     "setup": "What do you call a vampire who bakes?",
     "punchline": "Count Spatula!",
     "category": "halloween",
-    "tags": ["vampire", "food"],
+    "tags": [
+      "vampire",
+      "food"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-053",
@@ -675,9 +733,13 @@
     "setup": "Why did the zombie finally go back to school?",
     "punchline": "He wanted to improve his dead-ucation!",
     "category": "halloween",
-    "tags": ["zombie", "school"],
+    "tags": [
+      "zombie",
+      "school"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-054",
@@ -685,9 +747,13 @@
     "setup": "What do witches use to style their hair in the morning?",
     "punchline": "A scare-dryer!",
     "category": "halloween",
-    "tags": ["witch", "puns"],
+    "tags": [
+      "witch",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-055",
@@ -695,9 +761,13 @@
     "setup": "Why did the skeleton stay home from the party?",
     "punchline": "He had no body to dance with!",
     "category": "halloween",
-    "tags": ["skeleton", "classic"],
+    "tags": [
+      "skeleton",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-056",
@@ -705,9 +775,13 @@
     "setup": "What's a mummy's favorite type of dance music?",
     "punchline": "The monster mash — it's always a wrap!",
     "category": "halloween",
-    "tags": ["mummy", "music"],
+    "tags": [
+      "mummy",
+      "music"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-057",
@@ -715,9 +789,13 @@
     "setup": "Why do ghosts make bad liars?",
     "punchline": "Because you can see right through them!",
     "category": "halloween",
-    "tags": ["ghost", "classic"],
+    "tags": [
+      "ghost",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-058",
@@ -725,9 +803,13 @@
     "setup": "What do you call a vampire at a clearance sale?",
     "punchline": "A sucker for a good deal!",
     "category": "halloween",
-    "tags": ["vampire", "puns"],
+    "tags": [
+      "vampire",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-059",
@@ -735,9 +817,13 @@
     "setup": "Why did the pumpkin go to the gym?",
     "punchline": "To become a jacked-o-lantern!",
     "category": "halloween",
-    "tags": ["pumpkin", "sports"],
+    "tags": [
+      "pumpkin",
+      "sports"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-060",
@@ -745,9 +831,13 @@
     "setup": "What do you call a skeleton who's a comedian?",
     "punchline": "A funny bone!",
     "category": "halloween",
-    "tags": ["skeleton", "puns"],
+    "tags": [
+      "skeleton",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-061",
@@ -755,9 +845,13 @@
     "setup": "Why did the witch go to the doctor?",
     "punchline": "She had a broom-ache!",
     "category": "halloween",
-    "tags": ["witch", "puns"],
+    "tags": [
+      "witch",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-062",
@@ -765,9 +859,13 @@
     "setup": "What do ghosts use to wash their hair?",
     "punchline": "Sham-boo!",
     "category": "halloween",
-    "tags": ["ghost", "puns"],
+    "tags": [
+      "ghost",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-063",
@@ -775,9 +873,13 @@
     "setup": "Why did the zombie become a gardener?",
     "punchline": "Because he loved planting things six feet under!",
     "category": "halloween",
-    "tags": ["zombie", "classic"],
+    "tags": [
+      "zombie",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-064",
@@ -785,9 +887,13 @@
     "setup": "What do you call a vampire in a snowstorm?",
     "punchline": "Frostbitten!",
     "category": "halloween",
-    "tags": ["vampire", "winter"],
+    "tags": [
+      "vampire",
+      "winter"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-065",
@@ -795,9 +901,13 @@
     "setup": "Why did the skeleton refuse to bungee jump?",
     "punchline": "He didn't have the guts for it!",
     "category": "halloween",
-    "tags": ["skeleton", "sports"],
+    "tags": [
+      "skeleton",
+      "sports"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-066",
@@ -805,9 +915,13 @@
     "setup": "What do you call a witch's best friend at school?",
     "punchline": "Her ghoul-friend!",
     "category": "halloween",
-    "tags": ["witch", "wordplay"],
+    "tags": [
+      "witch",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-067",
@@ -815,9 +929,13 @@
     "setup": "Why don't ghosts take showers?",
     "punchline": "Because they only like boo-ble baths!",
     "category": "halloween",
-    "tags": ["ghost", "puns"],
+    "tags": [
+      "ghost",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-068",
@@ -825,9 +943,13 @@
     "setup": "What do you call a zombie who's sleepwalking?",
     "punchline": "The walking dead tired!",
     "category": "halloween",
-    "tags": ["zombie", "wordplay"],
+    "tags": [
+      "zombie",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-069",
@@ -835,9 +957,13 @@
     "setup": "Why did the vampire subscribe to the newspaper?",
     "punchline": "He heard it had a great daily circulation!",
     "category": "halloween",
-    "tags": ["vampire", "puns"],
+    "tags": [
+      "vampire",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-070",
@@ -845,9 +971,13 @@
     "setup": "What do mummies listen to on Halloween night?",
     "punchline": "Wrap battles!",
     "category": "halloween",
-    "tags": ["mummy", "music"],
+    "tags": [
+      "mummy",
+      "music"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-071",
@@ -855,9 +985,13 @@
     "setup": "Why did the ghost join the cheerleading squad?",
     "punchline": "To show off his team spirit!",
     "category": "halloween",
-    "tags": ["ghost", "sports"],
+    "tags": [
+      "ghost",
+      "sports"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-072",
@@ -865,9 +999,13 @@
     "setup": "What do you call a witch who lives at the beach?",
     "punchline": "A sand-witch with great shore-cery!",
     "category": "halloween",
-    "tags": ["witch", "puns"],
+    "tags": [
+      "witch",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-073",
@@ -875,9 +1013,13 @@
     "setup": "Why did the skeleton go to the barbecue?",
     "punchline": "To get some spare ribs!",
     "category": "halloween",
-    "tags": ["skeleton", "food"],
+    "tags": [
+      "skeleton",
+      "food"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-074",
@@ -885,9 +1027,13 @@
     "setup": "What do you get when you cross Frankenstein with a pig?",
     "punchline": "Frankenswine!",
     "category": "halloween",
-    "tags": ["monster", "animal"],
+    "tags": [
+      "monster",
+      "animal"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-075",
@@ -895,9 +1041,13 @@
     "setup": "Why did the vampire break up with his girlfriend?",
     "punchline": "Because she wasn't his blood type!",
     "category": "halloween",
-    "tags": ["vampire", "romance"],
+    "tags": [
+      "vampire",
+      "romance"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-076",
@@ -905,9 +1055,13 @@
     "setup": "What do ghosts put on their morning cereal?",
     "punchline": "Boo-berries!",
     "category": "halloween",
-    "tags": ["ghost", "food"],
+    "tags": [
+      "ghost",
+      "food"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-077",
@@ -915,9 +1069,13 @@
     "setup": "Why did the zombie fail his driving test?",
     "punchline": "He left his foot on the gas!",
     "category": "halloween",
-    "tags": ["zombie", "classic"],
+    "tags": [
+      "zombie",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-078",
@@ -925,9 +1083,13 @@
     "setup": "What kind of key opens a haunted house?",
     "punchline": "A spoo-key!",
     "category": "halloween",
-    "tags": ["ghost", "puns"],
+    "tags": [
+      "ghost",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-079",
@@ -935,9 +1097,13 @@
     "setup": "Why did the witch stay at the hotel?",
     "punchline": "She heard they had great broom service!",
     "category": "halloween",
-    "tags": ["witch", "wordplay"],
+    "tags": [
+      "witch",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-080",
@@ -945,9 +1111,13 @@
     "setup": "What do skeletons say before eating dinner?",
     "punchline": "Bone appetit!",
     "category": "halloween",
-    "tags": ["skeleton", "food"],
+    "tags": [
+      "skeleton",
+      "food"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-081",
@@ -955,9 +1125,13 @@
     "setup": "Why did Dracula become a vegetarian?",
     "punchline": "Because biting necks was a pain in the neck!",
     "category": "halloween",
-    "tags": ["vampire", "food"],
+    "tags": [
+      "vampire",
+      "food"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-082",
@@ -965,9 +1139,13 @@
     "setup": "What do you call a ghost who haunts a bar?",
     "punchline": "A spirits connoisseur!",
     "category": "halloween",
-    "tags": ["ghost", "puns"],
+    "tags": [
+      "ghost",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-083",
@@ -975,9 +1153,13 @@
     "setup": "Why did the mummy call the doctor?",
     "punchline": "Because he was all wound up!",
     "category": "halloween",
-    "tags": ["mummy", "wordplay"],
+    "tags": [
+      "mummy",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-084",
@@ -985,9 +1167,13 @@
     "setup": "What do you call a pumpkin that works at the beach?",
     "punchline": "A life-gourd!",
     "category": "halloween",
-    "tags": ["pumpkin", "puns"],
+    "tags": [
+      "pumpkin",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-085",
@@ -995,9 +1181,13 @@
     "setup": "Why did the ghost starch his sheets?",
     "punchline": "He wanted everyone to be scared stiff!",
     "category": "halloween",
-    "tags": ["ghost", "classic"],
+    "tags": [
+      "ghost",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-086",
@@ -1005,9 +1195,13 @@
     "setup": "What do you get when you cross a witch and ice?",
     "punchline": "A cold spell!",
     "category": "halloween",
-    "tags": ["witch", "winter"],
+    "tags": [
+      "witch",
+      "winter"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-087",
@@ -1015,9 +1209,13 @@
     "setup": "Why didn't the skeleton ask anyone to prom?",
     "punchline": "He didn't have the backbone!",
     "category": "halloween",
-    "tags": ["skeleton", "classic"],
+    "tags": [
+      "skeleton",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-088",
@@ -1025,9 +1223,13 @@
     "setup": "What do vampires take for a sore throat?",
     "punchline": "Coffin drops!",
     "category": "halloween",
-    "tags": ["vampire", "puns"],
+    "tags": [
+      "vampire",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-089",
@@ -1035,9 +1237,13 @@
     "setup": "Why did the zombie go to the dentist?",
     "punchline": "To improve his bite!",
     "category": "halloween",
-    "tags": ["zombie", "puns"],
+    "tags": [
+      "zombie",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-090",
@@ -1045,9 +1251,13 @@
     "setup": "What do you call a ghost in a torn sheet?",
     "punchline": "A holy terror!",
     "category": "halloween",
-    "tags": ["ghost", "wordplay"],
+    "tags": [
+      "ghost",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-091",
@@ -1055,9 +1265,13 @@
     "setup": "Why did the witch fail her exam?",
     "punchline": "She couldn't spell!",
     "category": "halloween",
-    "tags": ["witch", "school"],
+    "tags": [
+      "witch",
+      "school"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-092",
@@ -1065,9 +1279,13 @@
     "setup": "What do you call a skeleton who goes out in the snow?",
     "punchline": "A numbskull!",
     "category": "halloween",
-    "tags": ["skeleton", "winter"],
+    "tags": [
+      "skeleton",
+      "winter"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-093",
@@ -1075,9 +1293,13 @@
     "setup": "Why did the werewolf go to the tailor?",
     "punchline": "His pants had a howl in them!",
     "category": "halloween",
-    "tags": ["werewolf", "puns"],
+    "tags": [
+      "werewolf",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-094",
@@ -1085,9 +1307,13 @@
     "setup": "What do ghosts serve for dessert at parties?",
     "punchline": "Booberry pie!",
     "category": "halloween",
-    "tags": ["ghost", "food"],
+    "tags": [
+      "ghost",
+      "food"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-095",
@@ -1095,9 +1321,13 @@
     "setup": "Why did the bat join the circus?",
     "punchline": "He wanted to be an acro-bat!",
     "category": "halloween",
-    "tags": ["animal", "puns"],
+    "tags": [
+      "animal",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-096",
@@ -1105,9 +1335,13 @@
     "setup": "What do you call a monster with a high IQ?",
     "punchline": "Frank-Einstein!",
     "category": "halloween",
-    "tags": ["monster", "wordplay"],
+    "tags": [
+      "monster",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-097",
@@ -1115,9 +1349,13 @@
     "setup": "Why don't mummies have many friends?",
     "punchline": "They're too wrapped up in themselves!",
     "category": "halloween",
-    "tags": ["mummy", "classic"],
+    "tags": [
+      "mummy",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-098",
@@ -1125,9 +1363,13 @@
     "setup": "What did the ghost say to the wall?",
     "punchline": "Hey, just passing through!",
     "category": "halloween",
-    "tags": ["ghost", "classic"],
+    "tags": [
+      "ghost",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-099",
@@ -1135,9 +1377,13 @@
     "setup": "Why did the vampire floss his teeth?",
     "punchline": "He had a bat habit of getting things stuck in his fangs!",
     "category": "halloween",
-    "tags": ["vampire", "puns"],
+    "tags": [
+      "vampire",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "halloween-100",
@@ -1145,8 +1391,12 @@
     "setup": "What do you call a skeleton who tells terrible jokes at parties?",
     "punchline": "A rib-tickler!",
     "category": "halloween",
-    "tags": ["skeleton", "meta"],
+    "tags": [
+      "skeleton",
+      "meta"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   }
 ]

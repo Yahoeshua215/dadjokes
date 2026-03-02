@@ -8,6 +8,7 @@ export interface Joke {
   rating: number;
   dateAdded: string;
   source?: string;
+  ageRange?: 'little-kids' | 'kids' | 'tweens' | 'teens' | 'all-ages';
 }
 
 export interface Topic {

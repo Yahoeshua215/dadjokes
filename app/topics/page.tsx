@@ -68,6 +68,18 @@ const TOPIC_GROUPS: { label: string; slugs: string[] }[] = [
     label: 'Fun & Adventure',
     slugs: ['pirates', 'robots'],
   },
+  {
+    label: 'For Professionals',
+    slugs: ['teacher-jokes', 'nurse-jokes', 'engineer-jokes', 'accountant-jokes', 'doctor-jokes', 'programmer-jokes', 'lawyer-jokes'],
+  },
+  {
+    label: 'For Specific Occasions',
+    slugs: ['birthday-card-jokes', 'wedding-speech-jokes', 'morning-announcement-jokes', 'lunchbox-notes', 'sales-meeting-jokes'],
+  },
+  {
+    label: 'By Age Group',
+    slugs: ['jokes-for-4-year-olds', 'jokes-for-5-year-olds', 'jokes-for-kindergarteners', 'jokes-for-middle-schoolers', 'jokes-for-teens'],
+  },
 ];
 
 export default function TopicsPage() {

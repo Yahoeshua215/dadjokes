@@ -7,6 +7,14 @@ export function generateWebsiteSchema() {
     name: 'Joke Like a Dad',
     url: 'https://jokelikeadad.com',
     description: 'The best collection of dad jokes on the internet.',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: 'https://jokelikeadad.com/search?q={search_term_string}',
+      },
+      'query-input': 'required name=search_term_string',
+    },
   };
 }
 

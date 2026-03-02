@@ -5,7 +5,9 @@ import { generateBreadcrumbSchema, generateTopicListSchema, generateFAQSchema } 
 import JokeCard from '@/components/JokeCard';
 import Breadcrumb from '@/components/Breadcrumb';
 import FAQAccordion from '@/components/FAQAccordion';
+import JokeFilterBar from '@/components/JokeFilterBar';
 import Link from 'next/link';
+import { Suspense } from 'react';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -100,11 +102,15 @@ export default async function TopicPage({ params }: Props) {
         </div>
 
         {/* Joke List */}
-        <div className="space-y-4 mb-12">
-          {jokes.map((joke, i) => (
-            <JokeCard key={joke.id} joke={joke} index={i + 1} />
-          ))}
-        </div>
+        <Suspense fallback={
+          <div className="space-y-4 mb-12">
+            {jokes.map((joke, i) => (
+              <JokeCard key={joke.id} joke={joke} index={i + 1} />
+            ))}
+          </div>
+        }>
+          <JokeFilterBar jokes={jokes} />
+        </Suspense>
 
         {/* Related Topics */}
         {relatedTopics.length > 0 && (

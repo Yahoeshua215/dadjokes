@@ -10,7 +10,8 @@
       "tech"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-002",
@@ -23,7 +24,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-003",
@@ -36,7 +38,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-004",
@@ -49,7 +52,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-005",
@@ -62,7 +66,8 @@
       "food"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-006",
@@ -75,7 +80,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-007",
@@ -88,7 +94,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-008",
@@ -101,7 +108,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-009",
@@ -114,7 +122,8 @@
       "food"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-010",
@@ -127,7 +136,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-011",
@@ -140,7 +150,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-012",
@@ -153,7 +164,8 @@
       "music"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-013",
@@ -166,7 +178,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-014",
@@ -179,7 +192,8 @@
       "manners"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-015",
@@ -192,7 +206,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-016",
@@ -205,7 +220,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-017",
@@ -218,7 +234,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-018",
@@ -231,7 +248,8 @@
       "music"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-019",
@@ -244,7 +262,8 @@
       "leftovers"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-020",
@@ -257,7 +276,8 @@
       "tech"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-021",
@@ -270,7 +290,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-022",
@@ -283,7 +304,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-023",
@@ -296,7 +318,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-024",
@@ -309,7 +332,8 @@
       "family"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-025",
@@ -322,7 +346,8 @@
       "meta"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-13"
+    "dateAdded": "2026-02-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-026",
@@ -335,7 +360,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-027",
@@ -348,7 +374,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-028",
@@ -361,7 +388,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-029",
@@ -374,7 +402,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-030",
@@ -387,7 +416,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-031",
@@ -400,7 +430,8 @@
       "food"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-032",
@@ -413,7 +444,8 @@
       "fashion"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-033",
@@ -426,7 +458,8 @@
       "food"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-034",
@@ -439,7 +472,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-035",
@@ -452,7 +486,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-036",
@@ -465,7 +500,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-037",
@@ -478,7 +514,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-038",
@@ -491,7 +528,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-039",
@@ -504,7 +542,8 @@
       "music"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-040",
@@ -517,7 +556,8 @@
       "food"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-041",
@@ -530,7 +570,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-042",
@@ -543,7 +584,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-043",
@@ -556,7 +598,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-044",
@@ -569,7 +612,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-045",
@@ -582,7 +626,8 @@
       "leftovers"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-046",
@@ -595,7 +640,8 @@
       "music"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-047",
@@ -608,7 +654,8 @@
       "math"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-048",
@@ -621,7 +668,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-049",
@@ -634,7 +682,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-050",
@@ -647,7 +696,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-13"
+    "dateAdded": "2026-03-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-051",
@@ -655,9 +705,13 @@
     "setup": "What did the turkey say to the stuffing?",
     "punchline": "I'm stuffed just looking at you!",
     "category": "thanksgiving",
-    "tags": ["turkey", "food"],
+    "tags": [
+      "turkey",
+      "food"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-052",
@@ -665,9 +719,13 @@
     "setup": "Why did the Pilgrims eat turkey at Thanksgiving?",
     "punchline": "Because they couldn't fit the moose in the oven!",
     "category": "thanksgiving",
-    "tags": ["pilgrim", "turkey"],
+    "tags": [
+      "pilgrim",
+      "turkey"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-053",
@@ -675,9 +733,13 @@
     "setup": "What do you call a Thanksgiving turkey who tells jokes?",
     "punchline": "A funny bone — wait, that's the wrong holiday. A comedi-hen!",
     "category": "thanksgiving",
-    "tags": ["turkey", "puns"],
+    "tags": [
+      "turkey",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-054",
@@ -685,9 +747,13 @@
     "setup": "Why didn't the potato want to be mashed?",
     "punchline": "It had too much self a-peel!",
     "category": "thanksgiving",
-    "tags": ["food", "wordplay"],
+    "tags": [
+      "food",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-055",
@@ -695,9 +761,13 @@
     "setup": "What did the Pilgrim say to the corn?",
     "punchline": "You're a-maize-ing!",
     "category": "thanksgiving",
-    "tags": ["pilgrim", "food"],
+    "tags": [
+      "pilgrim",
+      "food"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-056",
@@ -705,9 +775,13 @@
     "setup": "Why did the gravy win an award?",
     "punchline": "Because it was a pour performer!",
     "category": "thanksgiving",
-    "tags": ["food", "puns"],
+    "tags": [
+      "food",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-057",
@@ -715,9 +789,13 @@
     "setup": "What do you call a turkey with no feathers?",
     "punchline": "Thanksgiving dinner!",
     "category": "thanksgiving",
-    "tags": ["turkey", "classic"],
+    "tags": [
+      "turkey",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-058",
@@ -725,9 +803,13 @@
     "setup": "Why was the corn stalk mad at the farmer?",
     "punchline": "He kept pulling its ears!",
     "category": "thanksgiving",
-    "tags": ["food", "wordplay"],
+    "tags": [
+      "food",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-059",
@@ -735,9 +817,13 @@
     "setup": "What did the bread roll say at Thanksgiving dinner?",
     "punchline": "I'm on a roll today!",
     "category": "thanksgiving",
-    "tags": ["food", "puns"],
+    "tags": [
+      "food",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-060",
@@ -745,9 +831,13 @@
     "setup": "Why did the turkey bring a microphone to dinner?",
     "punchline": "He wanted to do some roasting!",
     "category": "thanksgiving",
-    "tags": ["turkey", "puns"],
+    "tags": [
+      "turkey",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-061",
@@ -755,9 +845,13 @@
     "setup": "What do you call a Pilgrim's vocabulary?",
     "punchline": "Pilgrim-mar!",
     "category": "thanksgiving",
-    "tags": ["pilgrim", "wordplay"],
+    "tags": [
+      "pilgrim",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-062",
@@ -765,9 +859,13 @@
     "setup": "Why did the cranberry sauce turn down the dinner invite?",
     "punchline": "It was already in a jam!",
     "category": "thanksgiving",
-    "tags": ["cranberry", "puns"],
+    "tags": [
+      "cranberry",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-063",
@@ -775,9 +873,13 @@
     "setup": "What do turkeys give thanks for?",
     "punchline": "Vegetarians!",
     "category": "thanksgiving",
-    "tags": ["turkey", "classic"],
+    "tags": [
+      "turkey",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-064",
@@ -785,9 +887,13 @@
     "setup": "Why did the pie crust go to the dentist?",
     "punchline": "It needed a filling!",
     "category": "thanksgiving",
-    "tags": ["pie", "puns"],
+    "tags": [
+      "pie",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-065",
@@ -795,9 +901,13 @@
     "setup": "What did the turkey say when he met the president?",
     "punchline": "Pardon me!",
     "category": "thanksgiving",
-    "tags": ["turkey", "classic"],
+    "tags": [
+      "turkey",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-066",
@@ -805,9 +915,13 @@
     "setup": "Why did the sweet potato blush at the dinner table?",
     "punchline": "Because it saw the turkey getting undressed!",
     "category": "thanksgiving",
-    "tags": ["food", "classic"],
+    "tags": [
+      "food",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-067",
@@ -815,9 +929,13 @@
     "setup": "What do you call a Pilgrim at the gym?",
     "punchline": "A Plymouth Rocker!",
     "category": "thanksgiving",
-    "tags": ["pilgrim", "sports"],
+    "tags": [
+      "pilgrim",
+      "sports"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-068",
@@ -825,9 +943,13 @@
     "setup": "Why did the turkey go to the movie theater?",
     "punchline": "To see a chick flick!",
     "category": "thanksgiving",
-    "tags": ["turkey", "puns"],
+    "tags": [
+      "turkey",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-069",
@@ -835,9 +957,13 @@
     "setup": "What did the tablecloth say to the table?",
     "punchline": "Don't worry, I've got you covered!",
     "category": "thanksgiving",
-    "tags": ["food", "wordplay"],
+    "tags": [
+      "food",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-070",
@@ -845,9 +971,13 @@
     "setup": "Why did the turkey get detention at school?",
     "punchline": "For using fowl language!",
     "category": "thanksgiving",
-    "tags": ["turkey", "school"],
+    "tags": [
+      "turkey",
+      "school"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-071",
@@ -855,9 +985,13 @@
     "setup": "What did the oven say to the turkey?",
     "punchline": "I'm really warming up to you!",
     "category": "thanksgiving",
-    "tags": ["turkey", "puns"],
+    "tags": [
+      "turkey",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-072",
@@ -865,9 +999,13 @@
     "setup": "Why did the Pilgrim refuse to tell a secret?",
     "punchline": "Because the corn had ears!",
     "category": "thanksgiving",
-    "tags": ["pilgrim", "food"],
+    "tags": [
+      "pilgrim",
+      "food"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-073",
@@ -875,9 +1013,13 @@
     "setup": "What do you call a grateful yam?",
     "punchline": "A thank-yam!",
     "category": "thanksgiving",
-    "tags": ["food", "puns"],
+    "tags": [
+      "food",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-074",
@@ -885,9 +1027,13 @@
     "setup": "Why did the turkey gobble up his dessert so fast?",
     "punchline": "Because he was a gobbler, obviously!",
     "category": "thanksgiving",
-    "tags": ["turkey", "food"],
+    "tags": [
+      "turkey",
+      "food"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-075",
@@ -895,9 +1041,13 @@
     "setup": "What did Grandma say about the Thanksgiving leftovers?",
     "punchline": "They're the gift that keeps on giving — for a week!",
     "category": "thanksgiving",
-    "tags": ["leftovers", "family"],
+    "tags": [
+      "leftovers",
+      "family"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-076",
@@ -905,9 +1055,13 @@
     "setup": "Why did the turkey sit across from everyone at the table?",
     "punchline": "He was tired of being the center of attention!",
     "category": "thanksgiving",
-    "tags": ["turkey", "classic"],
+    "tags": [
+      "turkey",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-077",
@@ -915,9 +1069,13 @@
     "setup": "What do you call a turkey who loves math?",
     "punchline": "A mathema-chicken!",
     "category": "thanksgiving",
-    "tags": ["turkey", "math"],
+    "tags": [
+      "turkey",
+      "math"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-078",
@@ -925,9 +1083,13 @@
     "setup": "Why was the butter so good at the Thanksgiving table?",
     "punchline": "Because it was on a roll!",
     "category": "thanksgiving",
-    "tags": ["food", "puns"],
+    "tags": [
+      "food",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-079",
@@ -935,9 +1097,13 @@
     "setup": "What did the turkey leg say to the wing?",
     "punchline": "I need a drumroll, please!",
     "category": "thanksgiving",
-    "tags": ["turkey", "music"],
+    "tags": [
+      "turkey",
+      "music"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-080",
@@ -945,9 +1111,13 @@
     "setup": "Why do turkeys always go 'gobble gobble'?",
     "punchline": "Because they never learned table manners!",
     "category": "thanksgiving",
-    "tags": ["turkey", "manners"],
+    "tags": [
+      "turkey",
+      "manners"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-081",
@@ -955,9 +1125,13 @@
     "setup": "What did the harvest moon say to the cornfield?",
     "punchline": "I'm just here to shed some light on your stalks!",
     "category": "thanksgiving",
-    "tags": ["harvest", "wordplay"],
+    "tags": [
+      "harvest",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-082",
@@ -965,9 +1139,13 @@
     "setup": "Why was the Thanksgiving parade so loud?",
     "punchline": "Because of all the drum-sticks!",
     "category": "thanksgiving",
-    "tags": ["turkey", "music"],
+    "tags": [
+      "turkey",
+      "music"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-083",
@@ -975,9 +1153,13 @@
     "setup": "What do you call a turkey that's been in the sun too long?",
     "punchline": "Roasted!",
     "category": "thanksgiving",
-    "tags": ["turkey", "classic"],
+    "tags": [
+      "turkey",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-084",
@@ -985,9 +1167,13 @@
     "setup": "Why did the turkey go to the gym before Thanksgiving?",
     "punchline": "To get basted — I mean, buff!",
     "category": "thanksgiving",
-    "tags": ["turkey", "sports"],
+    "tags": [
+      "turkey",
+      "sports"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-085",
@@ -995,9 +1181,13 @@
     "setup": "What did the Pilgrim say after a big meal?",
     "punchline": "That was Plym-mouth-watering!",
     "category": "thanksgiving",
-    "tags": ["pilgrim", "food"],
+    "tags": [
+      "pilgrim",
+      "food"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-086",
@@ -1005,9 +1195,13 @@
     "setup": "Why did the pumpkin pie win the baking contest?",
     "punchline": "Because it was a cut above the crust!",
     "category": "thanksgiving",
-    "tags": ["pie", "puns"],
+    "tags": [
+      "pie",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-087",
@@ -1015,9 +1209,13 @@
     "setup": "What did dad say when he saw how big the turkey was?",
     "punchline": "That bird must have been working out — look at those drumsticks!",
     "category": "thanksgiving",
-    "tags": ["turkey", "family"],
+    "tags": [
+      "turkey",
+      "family"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-088",
@@ -1025,9 +1223,13 @@
     "setup": "Why don't turkeys fly south for the winter?",
     "punchline": "Because the airline charges too much for their extra baggage!",
     "category": "thanksgiving",
-    "tags": ["turkey", "travel"],
+    "tags": [
+      "turkey",
+      "travel"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-089",
@@ -1035,9 +1237,13 @@
     "setup": "What do you call a Thanksgiving dinner without any sides?",
     "punchline": "A lonely turkey!",
     "category": "thanksgiving",
-    "tags": ["turkey", "food"],
+    "tags": [
+      "turkey",
+      "food"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-090",
@@ -1045,9 +1251,13 @@
     "setup": "Why did the giblets break up with the stuffing?",
     "punchline": "They were tired of being inside the same bird!",
     "category": "thanksgiving",
-    "tags": ["food", "wordplay"],
+    "tags": [
+      "food",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-091",
@@ -1055,9 +1265,13 @@
     "setup": "What did the turkey wish for at Thanksgiving?",
     "punchline": "That people would find another bird to pick on!",
     "category": "thanksgiving",
-    "tags": ["turkey", "classic"],
+    "tags": [
+      "turkey",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-092",
@@ -1065,9 +1279,13 @@
     "setup": "Why did the cranberry sauce go to school?",
     "punchline": "To get a little more cultured!",
     "category": "thanksgiving",
-    "tags": ["cranberry", "wordplay"],
+    "tags": [
+      "cranberry",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-093",
@@ -1075,9 +1293,13 @@
     "setup": "What do you call a turkey on a treadmill?",
     "punchline": "Poultry in motion!",
     "category": "thanksgiving",
-    "tags": ["turkey", "puns"],
+    "tags": [
+      "turkey",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-094",
@@ -1085,9 +1307,13 @@
     "setup": "Why did everyone fall asleep after Thanksgiving dinner?",
     "punchline": "Because the turkey wasn't the only thing that got basted!",
     "category": "thanksgiving",
-    "tags": ["food", "classic"],
+    "tags": [
+      "food",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-095",
@@ -1095,9 +1321,13 @@
     "setup": "What happened when the turkey played football?",
     "punchline": "He got penalized for fowl play!",
     "category": "thanksgiving",
-    "tags": ["turkey", "sports"],
+    "tags": [
+      "turkey",
+      "sports"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-096",
@@ -1105,9 +1335,13 @@
     "setup": "Why did the green bean casserole feel left out?",
     "punchline": "Because nobody ever asks for seconds!",
     "category": "thanksgiving",
-    "tags": ["food", "classic"],
+    "tags": [
+      "food",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-097",
@@ -1115,9 +1349,13 @@
     "setup": "What did Uncle Bob say before carving the turkey?",
     "punchline": "This is a knife day to be thankful!",
     "category": "thanksgiving",
-    "tags": ["family", "puns"],
+    "tags": [
+      "family",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-098",
@@ -1125,9 +1363,13 @@
     "setup": "Why did the turkey start a band?",
     "punchline": "Because he already had the drumsticks and the wings!",
     "category": "thanksgiving",
-    "tags": ["turkey", "music"],
+    "tags": [
+      "turkey",
+      "music"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-099",
@@ -1135,9 +1377,13 @@
     "setup": "What do you call an overweight pumpkin?",
     "punchline": "A plump-kin!",
     "category": "thanksgiving",
-    "tags": ["pumpkin", "puns"],
+    "tags": [
+      "pumpkin",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "thanksgiving-100",
@@ -1145,8 +1391,12 @@
     "setup": "Why did the turkey bring a suitcase to Thanksgiving?",
     "punchline": "Because he heard everyone was going to carve out some time for him!",
     "category": "thanksgiving",
-    "tags": ["turkey", "wordplay"],
+    "tags": [
+      "turkey",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   }
 ]

@@ -10,7 +10,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-002",
@@ -23,7 +24,8 @@
       "food"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-003",
@@ -36,7 +38,8 @@
       "work"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-004",
@@ -49,7 +52,8 @@
       "school"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-005",
@@ -62,7 +66,8 @@
       "music"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-006",
@@ -75,7 +80,8 @@
       "money"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-007",
@@ -88,7 +94,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-008",
@@ -101,7 +108,8 @@
       "geography"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-009",
@@ -114,7 +122,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-010",
@@ -127,7 +136,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-011",
@@ -140,7 +150,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-012",
@@ -153,7 +164,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-013",
@@ -166,7 +178,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-014",
@@ -179,7 +192,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-015",
@@ -192,7 +206,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-016",
@@ -205,7 +220,8 @@
       "elf"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-017",
@@ -218,7 +234,8 @@
       "classic"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-018",
@@ -231,7 +248,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-019",
@@ -244,7 +262,8 @@
       "music"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-020",
@@ -257,7 +276,8 @@
       "grammar"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-021",
@@ -270,7 +290,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-022",
@@ -283,7 +304,8 @@
       "family"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-023",
@@ -296,7 +318,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-024",
@@ -309,7 +332,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-025",
@@ -322,7 +346,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-13"
+    "dateAdded": "2026-02-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-026",
@@ -335,7 +360,8 @@
       "music"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-027",
@@ -348,7 +374,8 @@
       "classic"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-028",
@@ -361,7 +388,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-029",
@@ -374,7 +402,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-030",
@@ -387,7 +416,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-031",
@@ -400,7 +430,8 @@
       "sports"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-032",
@@ -413,7 +444,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-033",
@@ -426,7 +458,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-034",
@@ -439,7 +472,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-035",
@@ -452,7 +486,8 @@
       "tech"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-036",
@@ -465,7 +500,8 @@
       "money"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-037",
@@ -478,7 +514,8 @@
       "food"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-038",
@@ -491,7 +528,8 @@
       "school"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-039",
@@ -504,7 +542,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-040",
@@ -517,7 +556,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-041",
@@ -530,7 +570,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-042",
@@ -543,7 +584,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-043",
@@ -556,7 +598,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-044",
@@ -569,7 +612,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-045",
@@ -582,7 +626,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-046",
@@ -595,7 +640,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-047",
@@ -608,7 +654,8 @@
       "music"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-048",
@@ -621,7 +668,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-049",
@@ -634,7 +682,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-050",
@@ -647,7 +696,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-13"
+    "dateAdded": "2026-03-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-051",
@@ -655,9 +705,13 @@
     "setup": "What do you call Santa on the beach?",
     "punchline": "Sandy Claus! Wait no... a toasty Kringle!",
     "category": "christmas",
-    "tags": ["santa", "puns"],
+    "tags": [
+      "santa",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-052",
@@ -665,9 +719,13 @@
     "setup": "Why did the elf push his bed into the fireplace?",
     "punchline": "He wanted to sleep like a log!",
     "category": "christmas",
-    "tags": ["elf", "classic"],
+    "tags": [
+      "elf",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-053",
@@ -675,9 +733,13 @@
     "setup": "What does Santa suffer from when he gets stuck going down chimneys?",
     "punchline": "Santa Claustrophobia!",
     "category": "christmas",
-    "tags": ["santa", "wordplay"],
+    "tags": [
+      "santa",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-054",
@@ -685,9 +747,13 @@
     "setup": "Why did Rudolph get bad grades in school?",
     "punchline": "Because he went down in history!",
     "category": "christmas",
-    "tags": ["reindeer", "school"],
+    "tags": [
+      "reindeer",
+      "school"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-055",
@@ -695,9 +761,13 @@
     "setup": "What do snowmen wear on their heads?",
     "punchline": "Ice caps!",
     "category": "christmas",
-    "tags": ["snowman", "puns"],
+    "tags": [
+      "snowman",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-056",
@@ -705,9 +775,13 @@
     "setup": "Why does the snowman keep going back to the carrot bin?",
     "punchline": "He's nosy!",
     "category": "christmas",
-    "tags": ["snowman", "wordplay"],
+    "tags": [
+      "snowman",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-057",
@@ -715,9 +789,13 @@
     "setup": "What do elves do after school?",
     "punchline": "Their gnome-work!",
     "category": "christmas",
-    "tags": ["elf", "school"],
+    "tags": [
+      "elf",
+      "school"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-058",
@@ -725,9 +803,13 @@
     "setup": "Why did the gingerbread man go to the doctor?",
     "punchline": "He was feeling crummy!",
     "category": "christmas",
-    "tags": ["gingerbread", "puns"],
+    "tags": [
+      "gingerbread",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-059",
@@ -735,9 +817,13 @@
     "setup": "What do you call a snowman party?",
     "punchline": "A snowball!",
     "category": "christmas",
-    "tags": ["snowman", "classic"],
+    "tags": [
+      "snowman",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-060",
@@ -745,9 +831,13 @@
     "setup": "Why does Santa have three gardens?",
     "punchline": "So he can hoe, hoe, hoe!",
     "category": "christmas",
-    "tags": ["santa", "puns"],
+    "tags": [
+      "santa",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-061",
@@ -755,9 +845,13 @@
     "setup": "What do Christmas trees and bad knitters have in common?",
     "punchline": "They both drop their needles!",
     "category": "christmas",
-    "tags": ["tree", "wordplay"],
+    "tags": [
+      "tree",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-062",
@@ -765,9 +859,13 @@
     "setup": "Why is Santa so good at gardening?",
     "punchline": "Because he likes to hoe, hoe, hoe and has a green Christmas thumb!",
     "category": "christmas",
-    "tags": ["santa", "classic"],
+    "tags": [
+      "santa",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-063",
@@ -775,9 +873,13 @@
     "setup": "What did the snowflake say to the road?",
     "punchline": "Let's stick together!",
     "category": "christmas",
-    "tags": ["winter", "puns"],
+    "tags": [
+      "winter",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-064",
@@ -785,9 +887,13 @@
     "setup": "Why did Santa bring 22 reindeer to the party?",
     "punchline": "Because he misunderstood when they said bring plenty of bucks!",
     "category": "christmas",
-    "tags": ["reindeer", "money"],
+    "tags": [
+      "reindeer",
+      "money"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-065",
@@ -795,9 +901,13 @@
     "setup": "What do snowmen do on the weekend?",
     "punchline": "Just chill!",
     "category": "christmas",
-    "tags": ["snowman", "classic"],
+    "tags": [
+      "snowman",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-066",
@@ -805,9 +915,13 @@
     "setup": "Why did the elf go to school on Christmas Day?",
     "punchline": "He wanted to improve his shelf esteem!",
     "category": "christmas",
-    "tags": ["elf", "wordplay"],
+    "tags": [
+      "elf",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-067",
@@ -815,9 +929,13 @@
     "setup": "What does Santa do when the elves misbehave?",
     "punchline": "He gives them the sack!",
     "category": "christmas",
-    "tags": ["santa", "elf"],
+    "tags": [
+      "santa",
+      "elf"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-068",
@@ -825,9 +943,13 @@
     "setup": "What did the Christmas tree say to the ornament?",
     "punchline": "Quit hanging around!",
     "category": "christmas",
-    "tags": ["tree", "puns"],
+    "tags": [
+      "tree",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-069",
@@ -835,9 +957,13 @@
     "setup": "Why did Frosty ask for a divorce?",
     "punchline": "His wife was a total flake!",
     "category": "christmas",
-    "tags": ["snowman", "wordplay"],
+    "tags": [
+      "snowman",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-070",
@@ -845,9 +971,13 @@
     "setup": "What kind of ball doesn't bounce at Christmas?",
     "punchline": "A snowball!",
     "category": "christmas",
-    "tags": ["winter", "classic"],
+    "tags": [
+      "winter",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-071",
@@ -855,9 +985,13 @@
     "setup": "Why did the elf use the computer?",
     "punchline": "To check his North Pole-mail!",
     "category": "christmas",
-    "tags": ["elf", "tech"],
+    "tags": [
+      "elf",
+      "tech"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-072",
@@ -865,9 +999,13 @@
     "setup": "What do you call a reindeer with no eyes and no legs?",
     "punchline": "Still no-eye-deer!",
     "category": "christmas",
-    "tags": ["reindeer", "classic"],
+    "tags": [
+      "reindeer",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-073",
@@ -875,9 +1013,13 @@
     "setup": "How does Rudolph know when Christmas is coming?",
     "punchline": "He looks at the calen-deer!",
     "category": "christmas",
-    "tags": ["reindeer", "puns"],
+    "tags": [
+      "reindeer",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-074",
@@ -885,9 +1027,13 @@
     "setup": "Why was the Christmas stocking sad?",
     "punchline": "It was always getting hung up on things!",
     "category": "christmas",
-    "tags": ["ornament", "wordplay"],
+    "tags": [
+      "ornament",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-075",
@@ -895,9 +1041,13 @@
     "setup": "What does a grumpy sheep say at Christmas?",
     "punchline": "Baa humbug!",
     "category": "christmas",
-    "tags": ["animal", "classic"],
+    "tags": [
+      "animal",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-076",
@@ -905,9 +1055,13 @@
     "setup": "Why did the Christmas cookie go to the hospital?",
     "punchline": "It felt crummy after too much icing!",
     "category": "christmas",
-    "tags": ["food", "puns"],
+    "tags": [
+      "food",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-077",
@@ -915,9 +1069,13 @@
     "setup": "What do you call an elf wearing earmuffs?",
     "punchline": "Anything you want — he can't hear you!",
     "category": "christmas",
-    "tags": ["elf", "classic"],
+    "tags": [
+      "elf",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-078",
@@ -925,9 +1083,13 @@
     "setup": "Why is Santa always so jolly?",
     "punchline": "Because he knows where all the naughty girls and boys live!",
     "category": "christmas",
-    "tags": ["santa", "classic"],
+    "tags": [
+      "santa",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-079",
@@ -935,9 +1097,13 @@
     "setup": "What did Santa say at the pizza shop?",
     "punchline": "Make it a deep pan, crisp and even!",
     "category": "christmas",
-    "tags": ["santa", "food"],
+    "tags": [
+      "santa",
+      "food"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-080",
@@ -945,9 +1111,13 @@
     "setup": "Why did the snowman call his dog Frost?",
     "punchline": "Because Frost bites!",
     "category": "christmas",
-    "tags": ["snowman", "animal"],
+    "tags": [
+      "snowman",
+      "animal"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-081",
@@ -955,9 +1125,13 @@
     "setup": "What do you call a scared snowman?",
     "punchline": "A snowchicken!",
     "category": "christmas",
-    "tags": ["snowman", "puns"],
+    "tags": [
+      "snowman",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-082",
@@ -965,9 +1139,13 @@
     "setup": "Why did the reindeer wear sunglasses?",
     "punchline": "Because he didn't want to be recognized by the paparazzi!",
     "category": "christmas",
-    "tags": ["reindeer", "classic"],
+    "tags": [
+      "reindeer",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-083",
@@ -975,9 +1153,13 @@
     "setup": "What goes 'Oh, Oh, Oh'?",
     "punchline": "Santa walking backwards!",
     "category": "christmas",
-    "tags": ["santa", "classic"],
+    "tags": [
+      "santa",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-084",
@@ -985,9 +1167,13 @@
     "setup": "Why do reindeer like Beyonce so much?",
     "punchline": "Because she sleighs!",
     "category": "christmas",
-    "tags": ["reindeer", "music"],
+    "tags": [
+      "reindeer",
+      "music"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-085",
@@ -995,9 +1181,13 @@
     "setup": "What do you call a snowman having a temper tantrum?",
     "punchline": "A meltdown!",
     "category": "christmas",
-    "tags": ["snowman", "wordplay"],
+    "tags": [
+      "snowman",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-086",
@@ -1005,9 +1195,13 @@
     "setup": "Why does Santa like going down chimneys?",
     "punchline": "Because it soots him and he gets a warm reception!",
     "category": "christmas",
-    "tags": ["santa", "puns"],
+    "tags": [
+      "santa",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-087",
@@ -1015,9 +1209,13 @@
     "setup": "What did the elf say was the first step in using a computer?",
     "punchline": "First, you log on!",
     "category": "christmas",
-    "tags": ["elf", "tech"],
+    "tags": [
+      "elf",
+      "tech"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-088",
@@ -1025,9 +1223,13 @@
     "setup": "Why did Santa's helper see the doctor?",
     "punchline": "Because he had low elf esteem!",
     "category": "christmas",
-    "tags": ["elf", "wordplay"],
+    "tags": [
+      "elf",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-089",
@@ -1035,9 +1237,13 @@
     "setup": "What do you call a snowman in the tropics?",
     "punchline": "Lost!",
     "category": "christmas",
-    "tags": ["snowman", "classic"],
+    "tags": [
+      "snowman",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-090",
@@ -1045,9 +1251,13 @@
     "setup": "Why does Mrs. Claus always pray for a white Christmas?",
     "punchline": "Because she married a man who comes home once a year covered in soot!",
     "category": "christmas",
-    "tags": ["santa", "marriage"],
+    "tags": [
+      "santa",
+      "marriage"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-091",
@@ -1055,9 +1265,13 @@
     "setup": "What did the English teacher call Santa's helpers?",
     "punchline": "Subordinate Clauses!",
     "category": "christmas",
-    "tags": ["santa", "grammar"],
+    "tags": [
+      "santa",
+      "grammar"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-092",
@@ -1065,9 +1279,13 @@
     "setup": "Why does Santa go to the gym on Christmas Eve?",
     "punchline": "To work on his sack!",
     "category": "christmas",
-    "tags": ["santa", "sports"],
+    "tags": [
+      "santa",
+      "sports"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-093",
@@ -1075,9 +1293,13 @@
     "setup": "What do you call an elf who steals wrapping paper?",
     "punchline": "A wrap-scallion!",
     "category": "christmas",
-    "tags": ["elf", "puns"],
+    "tags": [
+      "elf",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-094",
@@ -1085,9 +1307,13 @@
     "setup": "Why was the advent calendar afraid?",
     "punchline": "Its days were numbered!",
     "category": "christmas",
-    "tags": ["classic", "wordplay"],
+    "tags": [
+      "classic",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-095",
@@ -1095,9 +1321,13 @@
     "setup": "What do you get when you cross a snowman and a shark?",
     "punchline": "Frostbite!",
     "category": "christmas",
-    "tags": ["snowman", "animal"],
+    "tags": [
+      "snowman",
+      "animal"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-096",
@@ -1105,9 +1335,13 @@
     "setup": "Why did the Christmas lights keep getting tangled?",
     "punchline": "They had too many hang-ups!",
     "category": "christmas",
-    "tags": ["lights", "wordplay"],
+    "tags": [
+      "lights",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-097",
@@ -1115,9 +1349,13 @@
     "setup": "What do you call Santa when he stops moving?",
     "punchline": "Santa Pause!",
     "category": "christmas",
-    "tags": ["santa", "puns"],
+    "tags": [
+      "santa",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-098",
@@ -1125,9 +1363,13 @@
     "setup": "Why did the snowman want a divorce?",
     "punchline": "He thought his wife was a real flake!",
     "category": "christmas",
-    "tags": ["snowman", "marriage"],
+    "tags": [
+      "snowman",
+      "marriage"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-099",
@@ -1135,9 +1377,13 @@
     "setup": "What do reindeer hang on their Christmas trees?",
     "punchline": "Horn-aments!",
     "category": "christmas",
-    "tags": ["reindeer", "puns"],
+    "tags": [
+      "reindeer",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "christmas-100",
@@ -1145,8 +1391,12 @@
     "setup": "Why did the Nutcracker go to therapy?",
     "punchline": "He had been cracking under pressure all season!",
     "category": "christmas",
-    "tags": ["classic", "wordplay"],
+    "tags": [
+      "classic",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   }
 ]

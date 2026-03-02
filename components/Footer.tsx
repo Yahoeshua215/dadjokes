@@ -1,10 +1,9 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { getCategories, getTopics } from '@/lib/jokes';
+import { getCategories } from '@/lib/jokes';
 
 export default function Footer() {
   const categories = getCategories();
-  const popularTopics = getTopics().slice(0, 10);
 
   return (
     <footer className="border-t border-border bg-surface mt-16">
@@ -35,8 +34,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/categories" className="text-sm text-text-secondary hover:text-foreground transition-colors">
-                  All Categories
+                <Link href="/browse" className="text-sm text-text-secondary hover:text-foreground transition-colors">
+                  Browse All Jokes
                 </Link>
               </li>
               <li>
@@ -67,8 +66,8 @@ export default function Footer() {
             </ul>
           </div>
 
-          <div>
-            <h3 className="font-semibold text-sm mb-3">Browse by Category</h3>
+          <div className="lg:col-span-2">
+            <h3 className="font-semibold text-sm mb-3">Browse Jokes</h3>
             <div className="flex flex-wrap gap-2">
               {categories.map((cat) => (
                 <Link
@@ -79,26 +78,11 @@ export default function Footer() {
                   {cat.emoji} {cat.name}
                 </Link>
               ))}
-            </div>
-          </div>
-
-          <div>
-            <h3 className="font-semibold text-sm mb-3">Popular Topics</h3>
-            <div className="flex flex-wrap gap-2">
-              {popularTopics.map((topic) => (
-                <Link
-                  key={topic.slug}
-                  href={`/topics/${topic.slug}`}
-                  className="text-xs text-text-secondary hover:text-accent bg-background px-3 py-1.5 rounded-full border border-border hover:border-accent transition-colors"
-                >
-                  {topic.emoji} {topic.name}
-                </Link>
-              ))}
               <Link
-                href="/topics"
+                href="/browse"
                 className="text-xs text-accent hover:text-accent-hover bg-background px-3 py-1.5 rounded-full border border-border hover:border-accent transition-colors"
               >
-                See all →
+                Browse by subject & occasion →
               </Link>
             </div>
           </div>

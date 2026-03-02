@@ -162,6 +162,28 @@ console.log(joke.punchline);
 // "They'd crack each other up!"`}</code></pre>
         </section>
 
+        {/* Widget */}
+        <section className="mb-12">
+          <h2 className="font-serif text-2xl mb-3">Embeddable Widget</h2>
+          <p className="text-text-secondary mb-4">
+            Add a dad joke widget to any website with a single script tag. It creates a small iframe that displays a random joke.
+          </p>
+          <div className="bg-surface border border-border rounded-xl overflow-hidden">
+            <div className="px-4 py-2 bg-background border-b border-border">
+              <code className="text-sm font-bold">Basic Usage</code>
+            </div>
+            <div className="p-4">
+              <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`<script src="https://jokelikeadad.com/widget.js"></script>`}</code></pre>
+              <p className="text-xs font-medium text-text-secondary mt-4 mb-2">With Category Filter</p>
+              <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`<script src="https://jokelikeadad.com/widget.js" data-category="science"></script>`}</code></pre>
+              <p className="text-sm text-text-secondary mt-4">
+                The widget is lightweight, responsive, and requires no API key. It renders an iframe
+                pointing to <code className="text-accent">/widget</code> with optional category filtering.
+              </p>
+            </div>
+          </div>
+        </section>
+
         {/* Attribution */}
         <section className="bg-surface border border-border rounded-xl p-8 text-center">
           <h2 className="font-serif text-2xl mb-3">Using the API?</h2>

@@ -10,7 +10,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-01-05",
-    "slug": "what-do-you-call-a-sleeping-dinosaur-2"
+    "slug": "what-do-you-call-a-sleeping-dinosaur-2",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-002",
@@ -23,7 +24,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-01-14",
-    "slug": "why-cant-you-give-elsa-a-balloon"
+    "slug": "why-cant-you-give-elsa-a-balloon",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-003",
@@ -36,7 +38,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-01-28",
-    "slug": "what-do-you-call-a-fish-without-eyes-2"
+    "slug": "what-do-you-call-a-fish-without-eyes-2",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-004",
@@ -49,7 +52,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-02-06",
-    "slug": "why-did-the-teddy-bear-say-no-to-dessert"
+    "slug": "why-did-the-teddy-bear-say-no-to-dessert",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-005",
@@ -62,7 +66,8 @@
     ],
     "rating": 3,
     "dateAdded": "2025-02-18",
-    "slug": "what-do-you-call-a-boomerang-that-wont-come-back"
+    "slug": "what-do-you-call-a-boomerang-that-wont-come-back",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-006",
@@ -75,7 +80,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-03-01",
-    "slug": "why-are-ghosts-bad-liars"
+    "slug": "why-are-ghosts-bad-liars",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-007",
@@ -88,7 +94,8 @@
     ],
     "rating": 3,
     "dateAdded": "2025-03-10",
-    "slug": "what-animal-is-always-at-a-baseball-game"
+    "slug": "what-animal-is-always-at-a-baseball-game",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-008",
@@ -101,7 +108,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-03-22",
-    "slug": "why-did-the-banana-go-to-the-doctor-2"
+    "slug": "why-did-the-banana-go-to-the-doctor-2",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-009",
@@ -114,7 +122,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-04-03",
-    "slug": "what-do-you-call-a-dinosaur-that-crashes-their-car"
+    "slug": "what-do-you-call-a-dinosaur-that-crashes-their-car",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-010",
@@ -127,7 +136,8 @@
     ],
     "rating": 3,
     "dateAdded": "2025-04-15",
-    "slug": "what-has-ears-but-cannot-hear"
+    "slug": "what-has-ears-but-cannot-hear",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-011",
@@ -140,7 +150,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-04-25",
-    "slug": "why-did-the-cookie-go-to-the-hospital"
+    "slug": "why-did-the-cookie-go-to-the-hospital",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-012",
@@ -153,7 +164,8 @@
     ],
     "rating": 3,
     "dateAdded": "2025-05-08",
-    "slug": "what-do-you-call-a-cat-that-loves-to-bowl"
+    "slug": "what-do-you-call-a-cat-that-loves-to-bowl",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-013",
@@ -166,7 +178,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-05-20",
-    "slug": "why-do-bees-have-sticky-hair-2"
+    "slug": "why-do-bees-have-sticky-hair-2",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-014",
@@ -179,7 +192,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-06-01",
-    "slug": "what-do-you-call-a-pig-that-does-karate-2"
+    "slug": "what-do-you-call-a-pig-that-does-karate-2",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-015",
@@ -192,7 +206,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-06-14",
-    "slug": "why-did-the-student-eat-his-homework"
+    "slug": "why-did-the-student-eat-his-homework",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-016",
@@ -205,7 +220,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-06-28",
-    "slug": "what-do-you-get-when-you-cross-a-snowman-and-a-vampire"
+    "slug": "what-do-you-get-when-you-cross-a-snowman-and-a-vampire",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-017",
@@ -218,7 +234,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-07-10",
-    "slug": "why-do-ducks-have-tail-feathers-2"
+    "slug": "why-do-ducks-have-tail-feathers-2",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-018",
@@ -231,7 +248,8 @@
     ],
     "rating": 3,
     "dateAdded": "2025-07-22",
-    "slug": "what-do-you-call-a-train-that-sneezes"
+    "slug": "what-do-you-call-a-train-that-sneezes",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-019",
@@ -244,7 +262,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-08-05",
-    "slug": "why-cant-you-trust-the-king-of-the-jungle"
+    "slug": "why-cant-you-trust-the-king-of-the-jungle",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-020",
@@ -257,7 +276,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-08-18",
-    "slug": "what-do-elves-learn-in-school-2"
+    "slug": "what-do-elves-learn-in-school-2",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-021",
@@ -270,7 +290,8 @@
     ],
     "rating": 3,
     "dateAdded": "2025-09-02",
-    "slug": "what-did-one-wall-say-to-the-other-wall"
+    "slug": "what-did-one-wall-say-to-the-other-wall",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-022",
@@ -283,7 +304,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-09-15",
-    "slug": "why-did-the-crayon-feel-sad"
+    "slug": "why-did-the-crayon-feel-sad",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-023",
@@ -296,7 +318,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-10-01",
-    "slug": "what-do-you-call-a-funny-mountain"
+    "slug": "what-do-you-call-a-funny-mountain",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-024",
@@ -309,7 +332,8 @@
     ],
     "rating": 5,
     "dateAdded": "2025-10-18",
-    "slug": "why-did-the-tomato-turn-red-2"
+    "slug": "why-did-the-tomato-turn-red-2",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-025",
@@ -322,7 +346,8 @@
     ],
     "rating": 4,
     "dateAdded": "2025-11-03",
-    "slug": "what-do-you-call-a-sleeping-bull"
+    "slug": "what-do-you-call-a-sleeping-bull",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-026",
@@ -335,7 +360,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-027",
@@ -348,7 +374,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-028",
@@ -361,7 +388,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-02",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-029",
@@ -374,7 +402,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-030",
@@ -387,7 +416,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-03",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-031",
@@ -400,7 +430,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-03",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-032",
@@ -413,7 +444,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-033",
@@ -426,7 +458,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-034",
@@ -439,7 +472,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-035",
@@ -452,7 +486,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-05",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-036",
@@ -465,7 +500,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-06",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-037",
@@ -478,7 +514,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-06",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-038",
@@ -491,7 +528,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-039",
@@ -504,7 +542,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-040",
@@ -517,7 +556,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-08",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-041",
@@ -530,7 +570,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-08",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-042",
@@ -543,7 +584,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-09",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-043",
@@ -556,7 +598,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-044",
@@ -569,7 +612,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-10",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-045",
@@ -582,7 +626,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-046",
@@ -595,7 +640,8 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-11",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-047",
@@ -608,7 +654,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-11",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-048",
@@ -621,7 +668,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-049",
@@ -634,7 +682,8 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "slug": ""
+    "slug": "",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-050",
@@ -647,506 +696,707 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-13",
-    "slug": "why-do-seagulls-fly-over-sea"
+    "slug": "why-do-seagulls-fly-over-sea",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-051",
     "setup": "What do you call a sleeping T-Rex?",
     "punchline": "A dino-snore!",
     "category": "for-kids",
-    "tags": ["dinosaurs", "puns"],
+    "tags": [
+      "dinosaurs",
+      "puns"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-sleeping-t-rex"
+    "slug": "what-call-sleeping-t-rex",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-052",
     "setup": "Why did the banana put on sunscreen?",
     "punchline": "Because it was peeling!",
     "category": "for-kids",
-    "tags": ["food", "puns"],
+    "tags": [
+      "food",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-banana-put-on-sunscreen"
+    "slug": "why-did-banana-put-on-sunscreen",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-053",
     "setup": "What do you call a snowman in summer?",
     "punchline": "A puddle!",
     "category": "for-kids",
-    "tags": ["winter", "nature"],
+    "tags": [
+      "winter",
+      "nature"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-snowman-in-summer"
+    "slug": "what-call-snowman-in-summer",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-054",
     "setup": "Why did the egg go to school?",
     "punchline": "To get egg-ucated!",
     "category": "for-kids",
-    "tags": ["food", "school"],
+    "tags": [
+      "food",
+      "school"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-egg-go-to-school"
+    "slug": "why-did-egg-go-to-school",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-055",
     "setup": "What do you call a dinosaur that wears glasses?",
     "punchline": "A Do-you-think-he-saurus!",
     "category": "for-kids",
-    "tags": ["dinosaurs", "puns"],
+    "tags": [
+      "dinosaurs",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-dinosaur-wears-glasses"
+    "slug": "what-call-dinosaur-wears-glasses",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-056",
     "setup": "What has four wheels and flies?",
     "punchline": "A garbage truck!",
     "category": "for-kids",
-    "tags": ["vehicles", "riddles"],
+    "tags": [
+      "vehicles",
+      "riddles"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "what-has-four-wheels-and-flies"
+    "slug": "what-has-four-wheels-and-flies",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-057",
     "setup": "Why are fish so smart?",
     "punchline": "Because they live in schools!",
     "category": "for-kids",
-    "tags": ["animals", "school"],
+    "tags": [
+      "animals",
+      "school"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-are-fish-so-smart"
+    "slug": "why-are-fish-so-smart",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-058",
     "setup": "What do you call a duck that steals?",
     "punchline": "A robber ducky!",
     "category": "for-kids",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-duck-that-steals"
+    "slug": "what-call-duck-that-steals",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-059",
     "setup": "Why did the moon skip dinner?",
     "punchline": "Because it was full!",
     "category": "for-kids",
-    "tags": ["space", "food"],
+    "tags": [
+      "space",
+      "food"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-moon-skip-dinner"
+    "slug": "why-did-moon-skip-dinner",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-060",
     "setup": "What do you call a cow that eats your grass?",
     "punchline": "A lawn moo-er!",
     "category": "for-kids",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-cow-eats-your-grass"
+    "slug": "what-call-cow-eats-your-grass",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-061",
     "setup": "Why did the jellyfish blush?",
     "punchline": "Because the sea weed!",
     "category": "for-kids",
-    "tags": ["ocean", "puns"],
+    "tags": [
+      "ocean",
+      "puns"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-jellyfish-blush"
+    "slug": "why-did-jellyfish-blush",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-062",
     "setup": "What do you call a dragon that breathes bubble gum?",
     "punchline": "A bubble dragon!",
     "category": "for-kids",
-    "tags": ["fairy-tales", "candy"],
+    "tags": [
+      "fairy-tales",
+      "candy"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-dragon-breathes-bubble-gum"
+    "slug": "what-call-dragon-breathes-bubble-gum",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-063",
     "setup": "Why can't your hand be 12 inches long?",
     "punchline": "Because then it would be a foot!",
     "category": "for-kids",
-    "tags": ["anatomy", "riddles"],
+    "tags": [
+      "anatomy",
+      "riddles"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-cant-hand-be-twelve-inches"
+    "slug": "why-cant-hand-be-twelve-inches",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-064",
     "setup": "What do you get when you mix a cat and a lemon?",
     "punchline": "A sour puss!",
     "category": "for-kids",
-    "tags": ["animals", "food"],
+    "tags": [
+      "animals",
+      "food"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-get-mix-cat-and-lemon"
+    "slug": "what-get-mix-cat-and-lemon",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-065",
     "setup": "Why did the sun go to school?",
     "punchline": "To get a little brighter!",
     "category": "for-kids",
-    "tags": ["space", "school"],
+    "tags": [
+      "space",
+      "school"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-sun-go-to-school"
+    "slug": "why-did-sun-go-to-school",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-066",
     "setup": "What do you call a funny chicken?",
     "punchline": "A comedi-hen!",
     "category": "for-kids",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-funny-chicken"
+    "slug": "what-do-you-call-funny-chicken",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-067",
     "setup": "Why did the turtle cross the road?",
     "punchline": "To get to the shell station!",
     "category": "for-kids",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-turtle-cross-the-road"
+    "slug": "why-did-turtle-cross-the-road",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-068",
     "setup": "What do you call a sleeping cat?",
     "punchline": "A cat-napper!",
     "category": "for-kids",
-    "tags": ["animals", "wordplay"],
+    "tags": [
+      "animals",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-sleeping-cat"
+    "slug": "what-do-you-call-sleeping-cat",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-069",
     "setup": "Why did the elephant bring a suitcase to the zoo?",
     "punchline": "Because he wanted to pack his trunk!",
     "category": "for-kids",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-elephant-bring-suitcase-zoo"
+    "slug": "why-elephant-bring-suitcase-zoo",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-070",
     "setup": "What do you call a sleeping pizza?",
     "punchline": "A piZZZa!",
     "category": "for-kids",
-    "tags": ["food", "puns"],
+    "tags": [
+      "food",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-sleeping-pizza-kids"
+    "slug": "what-call-sleeping-pizza-kids",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-071",
     "setup": "What color socks do bears wear?",
     "punchline": "They don't wear socks, they have bear feet!",
     "category": "for-kids",
-    "tags": ["animals", "wordplay"],
+    "tags": [
+      "animals",
+      "wordplay"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "what-color-socks-bears-wear"
+    "slug": "what-color-socks-bears-wear",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-072",
     "setup": "Why did the spider go to the computer?",
     "punchline": "To check his website!",
     "category": "for-kids",
-    "tags": ["animals", "technology"],
+    "tags": [
+      "animals",
+      "technology"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-spider-go-to-computer"
+    "slug": "why-did-spider-go-to-computer",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-073",
     "setup": "What do you call a frog that's illegally parked?",
     "punchline": "Toad!",
     "category": "for-kids",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-frog-illegally-parked"
+    "slug": "what-call-frog-illegally-parked",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-074",
     "setup": "Why do birds fly south in the winter?",
     "punchline": "Because it's too far to walk!",
     "category": "for-kids",
-    "tags": ["animals", "weather"],
+    "tags": [
+      "animals",
+      "weather"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-do-birds-fly-south-winter"
+    "slug": "why-do-birds-fly-south-winter",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-075",
     "setup": "What do you call a ghost's favorite dessert?",
     "punchline": "I-scream!",
     "category": "for-kids",
-    "tags": ["halloween", "food"],
+    "tags": [
+      "halloween",
+      "food"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "what-ghosts-favorite-dessert"
+    "slug": "what-ghosts-favorite-dessert",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-076",
     "setup": "Why do lions eat raw meat?",
     "punchline": "Because they don't know how to cook!",
     "category": "for-kids",
-    "tags": ["animals", "food"],
+    "tags": [
+      "animals",
+      "food"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-do-lions-eat-raw-meat"
+    "slug": "why-do-lions-eat-raw-meat",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-077",
     "setup": "What do you call a dog at the beach?",
     "punchline": "A hot dog!",
     "category": "for-kids",
-    "tags": ["animals", "food"],
+    "tags": [
+      "animals",
+      "food"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-dog-at-the-beach"
+    "slug": "what-call-dog-at-the-beach",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-078",
     "setup": "Why did the leaf go to the doctor?",
     "punchline": "It was feeling green!",
     "category": "for-kids",
-    "tags": ["nature", "health"],
+    "tags": [
+      "nature",
+      "health"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-leaf-go-to-doctor"
+    "slug": "why-did-leaf-go-to-doctor",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-079",
     "setup": "What do you call a kangaroo that watches TV all day?",
     "punchline": "A pouch potato!",
     "category": "for-kids",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-kangaroo-watches-tv"
+    "slug": "what-call-kangaroo-watches-tv",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-080",
     "setup": "Why did the clock get in trouble at school?",
     "punchline": "Because it kept tocking!",
     "category": "for-kids",
-    "tags": ["school", "puns"],
+    "tags": [
+      "school",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-clock-get-trouble-school"
+    "slug": "why-did-clock-get-trouble-school",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-081",
     "setup": "What do you call a snowman party?",
     "punchline": "A snowball!",
     "category": "for-kids",
-    "tags": ["winter", "puns"],
+    "tags": [
+      "winter",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-snowman-party"
+    "slug": "what-call-snowman-party",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-082",
     "setup": "Why did the astronaut break up with his girlfriend?",
     "punchline": "Because he needed more space!",
     "category": "for-kids",
-    "tags": ["space", "wordplay"],
+    "tags": [
+      "space",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-astronaut-break-up-girlfriend"
+    "slug": "why-astronaut-break-up-girlfriend",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-083",
     "setup": "What do clouds wear under their raincoats?",
     "punchline": "Thunderwear!",
     "category": "for-kids",
-    "tags": ["weather", "puns"],
+    "tags": [
+      "weather",
+      "puns"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-clouds-wear-under-raincoats"
+    "slug": "what-do-clouds-wear-under-raincoats",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-084",
     "setup": "Why was the baby ant confused?",
     "punchline": "Because all of his uncles were ants!",
     "category": "for-kids",
-    "tags": ["animals", "family"],
+    "tags": [
+      "animals",
+      "family"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-was-baby-ant-confused"
+    "slug": "why-was-baby-ant-confused",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-085",
     "setup": "What do you call a flower that runs on electricity?",
     "punchline": "A power plant!",
     "category": "for-kids",
-    "tags": ["nature", "puns"],
+    "tags": [
+      "nature",
+      "puns"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-flower-runs-electricity"
+    "slug": "what-call-flower-runs-electricity",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-086",
     "setup": "Why did the strawberry cry?",
     "punchline": "Because it was in a jam!",
     "category": "for-kids",
-    "tags": ["food", "puns"],
+    "tags": [
+      "food",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-strawberry-cry"
+    "slug": "why-did-strawberry-cry",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-087",
     "setup": "What has a head and a tail but no body?",
     "punchline": "A coin!",
     "category": "for-kids",
-    "tags": ["riddles", "money"],
+    "tags": [
+      "riddles",
+      "money"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-has-head-tail-no-body"
+    "slug": "what-has-head-tail-no-body",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-088",
     "setup": "Why did the rocket lose its job?",
     "punchline": "It got fired!",
     "category": "for-kids",
-    "tags": ["space", "wordplay"],
+    "tags": [
+      "space",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-rocket-lose-its-job"
+    "slug": "why-did-rocket-lose-its-job",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-089",
     "setup": "What do you call a sleeping ant?",
     "punchline": "A cant!",
     "category": "for-kids",
-    "tags": ["animals", "puns"],
+    "tags": [
+      "animals",
+      "puns"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-sleeping-ant"
+    "slug": "what-do-you-call-sleeping-ant",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-090",
     "setup": "Why are teddy bears never hungry?",
     "punchline": "Because they're always stuffed!",
     "category": "for-kids",
-    "tags": ["toys", "wordplay"],
+    "tags": [
+      "toys",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-are-teddy-bears-never-hungry"
+    "slug": "why-are-teddy-bears-never-hungry",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-091",
     "setup": "What did the volcano say to the other volcano?",
     "punchline": "I lava you!",
     "category": "for-kids",
-    "tags": ["nature", "romance"],
+    "tags": [
+      "nature",
+      "romance"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "what-volcano-say-to-other-volcano"
+    "slug": "what-volcano-say-to-other-volcano",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-092",
     "setup": "Why do porcupines always win the game?",
     "punchline": "Because they have the most points!",
     "category": "for-kids",
-    "tags": ["animals", "wordplay"],
+    "tags": [
+      "animals",
+      "wordplay"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-porcupines-always-win-game"
+    "slug": "why-porcupines-always-win-game",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-093",
     "setup": "What do you call a pig that plays basketball?",
     "punchline": "A ball hog!",
     "category": "for-kids",
-    "tags": ["animals", "sports"],
+    "tags": [
+      "animals",
+      "sports"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-pig-plays-basketball"
+    "slug": "what-call-pig-plays-basketball",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-094",
     "setup": "Why can't you play cards in the jungle?",
     "punchline": "Too many cheetahs!",
     "category": "for-kids",
-    "tags": ["animals", "wordplay"],
+    "tags": [
+      "animals",
+      "wordplay"
+    ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "why-cant-play-cards-in-jungle"
+    "slug": "why-cant-play-cards-in-jungle",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-095",
     "setup": "What do you call a sheep with no legs?",
     "punchline": "A cloud!",
     "category": "for-kids",
-    "tags": ["animals", "weather"],
+    "tags": [
+      "animals",
+      "weather"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-sheep-with-no-legs"
+    "slug": "what-call-sheep-with-no-legs",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-096",
     "setup": "Why did the gum cross the road?",
     "punchline": "It was stuck to the chicken's foot!",
     "category": "for-kids",
-    "tags": ["food", "animals"],
+    "tags": [
+      "food",
+      "animals"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-gum-cross-the-road"
+    "slug": "why-did-gum-cross-the-road",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-097",
     "setup": "What do you call a robot that likes to camp?",
     "punchline": "A ro-bot scout!",
     "category": "for-kids",
-    "tags": ["robots", "camping"],
+    "tags": [
+      "robots",
+      "camping"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-call-robot-likes-to-camp"
+    "slug": "what-call-robot-likes-to-camp",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-098",
     "setup": "Why was the broom running late?",
     "punchline": "It over-swept!",
     "category": "for-kids",
-    "tags": ["household", "puns"],
+    "tags": [
+      "household",
+      "puns"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-was-broom-running-late"
+    "slug": "why-was-broom-running-late",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-099",
     "setup": "What do you call a cat on ice?",
     "punchline": "One cool cat!",
     "category": "for-kids",
-    "tags": ["animals", "winter"],
+    "tags": [
+      "animals",
+      "winter"
+    ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-cat-on-ice"
+    "slug": "what-do-you-call-cat-on-ice",
+    "ageRange": "little-kids"
   },
   {
     "id": "for-kids-100",
     "setup": "Why did the banana visit the nurse?",
     "punchline": "Because it wasn't peeling very well!",
     "category": "for-kids",
-    "tags": ["food", "health"],
+    "tags": [
+      "food",
+      "health"
+    ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "why-did-banana-visit-the-nurse"
+    "slug": "why-did-banana-visit-the-nurse",
+    "ageRange": "little-kids"
   }
 ]

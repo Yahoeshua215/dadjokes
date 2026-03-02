@@ -10,7 +10,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-002",
@@ -23,7 +24,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-003",
@@ -36,7 +38,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-004",
@@ -49,7 +52,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-005",
@@ -62,7 +66,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-006",
@@ -75,7 +80,8 @@
       "raise"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-007",
@@ -88,7 +94,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-008",
@@ -101,7 +108,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-009",
@@ -114,7 +122,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-010",
@@ -127,7 +136,8 @@
       "food"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-011",
@@ -140,7 +150,8 @@
       "retirement"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-012",
@@ -153,7 +164,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-013",
@@ -166,7 +178,8 @@
       "meta"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-014",
@@ -179,7 +192,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-015",
@@ -192,7 +206,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-016",
@@ -205,7 +220,8 @@
       "food"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-017",
@@ -218,7 +234,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-018",
@@ -231,7 +248,8 @@
       "money"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-019",
@@ -244,7 +262,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-020",
@@ -257,7 +276,8 @@
       "programming"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-021",
@@ -270,7 +290,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-022",
@@ -283,7 +304,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-023",
@@ -296,7 +318,8 @@
       "salary"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-024",
@@ -309,7 +332,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-025",
@@ -322,7 +346,8 @@
       "office"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-13"
+    "dateAdded": "2026-02-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-026",
@@ -335,7 +360,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-027",
@@ -348,7 +374,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-028",
@@ -361,7 +388,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-029",
@@ -374,7 +402,8 @@
       "promotion"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-030",
@@ -387,7 +416,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-031",
@@ -400,7 +430,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-032",
@@ -413,7 +444,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-033",
@@ -426,7 +458,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-034",
@@ -439,7 +472,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-035",
@@ -452,7 +486,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-036",
@@ -465,7 +500,8 @@
       "food"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-037",
@@ -478,7 +514,8 @@
       "classic"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-038",
@@ -491,7 +528,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-039",
@@ -504,7 +542,8 @@
       "programming"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-040",
@@ -517,7 +556,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-041",
@@ -530,7 +570,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-042",
@@ -543,7 +584,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-043",
@@ -556,7 +598,8 @@
       "animal"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-044",
@@ -569,7 +612,8 @@
       "quitting"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-045",
@@ -582,7 +626,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-046",
@@ -595,7 +640,8 @@
       "food"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-047",
@@ -608,7 +654,8 @@
       "salary"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-048",
@@ -621,7 +668,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-049",
@@ -634,7 +682,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-050",
@@ -647,7 +696,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-13"
+    "dateAdded": "2026-03-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-051",
@@ -655,9 +705,13 @@
     "setup": "Why did the meeting break up with the agenda?",
     "punchline": "It felt like they were just going in circles!",
     "category": "work",
-    "tags": ["meeting", "wordplay"],
+    "tags": [
+      "meeting",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-052",
@@ -665,9 +719,13 @@
     "setup": "My Slack status says 'Focusing'...",
     "punchline": "But really I'm just staring at my screen waiting for lunch!",
     "category": "work",
-    "tags": ["slack", "office"],
+    "tags": [
+      "slack",
+      "office"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-053",
@@ -675,9 +733,13 @@
     "setup": "Why did the report go to therapy?",
     "punchline": "It had too many unresolved issues!",
     "category": "work",
-    "tags": ["office", "puns"],
+    "tags": [
+      "office",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-054",
@@ -685,9 +747,13 @@
     "setup": "I asked my boss for feedback on my performance...",
     "punchline": "He said, 'You're turning this place into a circus.' I said, 'Thanks, I've always been good at juggling tasks!'",
     "category": "work",
-    "tags": ["boss", "wordplay"],
+    "tags": [
+      "boss",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-055",
@@ -695,9 +761,13 @@
     "setup": "Why did the WiFi get promoted?",
     "punchline": "Because it had a strong connection with everyone!",
     "category": "work",
-    "tags": ["tech", "promotion"],
+    "tags": [
+      "tech",
+      "promotion"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-056",
@@ -705,9 +775,13 @@
     "setup": "My coworker says I'm too competitive...",
     "punchline": "I told him I was the best at not being competitive!",
     "category": "work",
-    "tags": ["coworker", "classic"],
+    "tags": [
+      "coworker",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-057",
@@ -715,9 +789,13 @@
     "setup": "What did the printer say to the paper?",
     "punchline": "I'm totally pressed to meet you!",
     "category": "work",
-    "tags": ["office", "puns"],
+    "tags": [
+      "office",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-058",
@@ -725,9 +803,13 @@
     "setup": "I got fired from the banana factory...",
     "punchline": "The boss said I kept slipping up!",
     "category": "work",
-    "tags": ["fired", "food"],
+    "tags": [
+      "fired",
+      "food"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-059",
@@ -735,9 +817,13 @@
     "setup": "Why do offices have air conditioning?",
     "punchline": "So employees can submit their work in a cool manner!",
     "category": "work",
-    "tags": ["office", "puns"],
+    "tags": [
+      "office",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-060",
@@ -745,9 +831,13 @@
     "setup": "My boss told me to think outside the box...",
     "punchline": "So I moved my desk to the parking lot!",
     "category": "work",
-    "tags": ["boss", "office"],
+    "tags": [
+      "boss",
+      "office"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-061",
@@ -755,9 +845,13 @@
     "setup": "Why did the email go to jail?",
     "punchline": "It was caught phishing!",
     "category": "work",
-    "tags": ["tech", "puns"],
+    "tags": [
+      "tech",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-062",
@@ -765,9 +859,13 @@
     "setup": "I told my coworker a chemistry joke at the office...",
     "punchline": "There was no reaction!",
     "category": "work",
-    "tags": ["coworker", "science"],
+    "tags": [
+      "coworker",
+      "science"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-063",
@@ -775,9 +873,13 @@
     "setup": "Why did the calendar get fired?",
     "punchline": "Its days were numbered!",
     "category": "work",
-    "tags": ["fired", "puns"],
+    "tags": [
+      "fired",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-064",
@@ -785,9 +887,13 @@
     "setup": "What's the difference between a boss and a leader?",
     "punchline": "A boss says 'Go!' and a leader says 'Let's go!' And a dad says 'Don't make me turn this meeting around!'",
     "category": "work",
-    "tags": ["boss", "meeting"],
+    "tags": [
+      "boss",
+      "meeting"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-065",
@@ -795,9 +901,13 @@
     "setup": "I got a job as a human cannonball...",
     "punchline": "I got fired on my first day!",
     "category": "work",
-    "tags": ["fired", "classic"],
+    "tags": [
+      "fired",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-066",
@@ -805,9 +915,13 @@
     "setup": "Why did the scarecrow win Employee of the Month again?",
     "punchline": "He was still outstanding in his field!",
     "category": "work",
-    "tags": ["promotion", "puns"],
+    "tags": [
+      "promotion",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-067",
@@ -815,9 +929,13 @@
     "setup": "My Zoom background is a beach...",
     "punchline": "It's the closest I'll get to a vacation this quarter!",
     "category": "work",
-    "tags": ["tech", "meeting"],
+    "tags": [
+      "tech",
+      "meeting"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-068",
@@ -825,9 +943,13 @@
     "setup": "I got fired from the pillow factory...",
     "punchline": "They said I was too soft on the job!",
     "category": "work",
-    "tags": ["fired", "wordplay"],
+    "tags": [
+      "fired",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-069",
@@ -835,9 +957,13 @@
     "setup": "Why did the computer go to the doctor at work?",
     "punchline": "Because it had a virus!",
     "category": "work",
-    "tags": ["tech", "classic"],
+    "tags": [
+      "tech",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-070",
@@ -845,9 +971,13 @@
     "setup": "My coworker asked if I wanted a brief meeting...",
     "punchline": "I said no thanks, I'm already wearing pants!",
     "category": "work",
-    "tags": ["meeting", "coworker"],
+    "tags": [
+      "meeting",
+      "coworker"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-071",
@@ -855,9 +985,13 @@
     "setup": "Why did the electrician get promoted?",
     "punchline": "Because he was a great conductor of business!",
     "category": "work",
-    "tags": ["promotion", "puns"],
+    "tags": [
+      "promotion",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-072",
@@ -865,9 +999,13 @@
     "setup": "I used to work at a mirror factory...",
     "punchline": "I could really see myself there!",
     "category": "work",
-    "tags": ["factory", "wordplay"],
+    "tags": [
+      "factory",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-073",
@@ -875,9 +1013,13 @@
     "setup": "Why did the project team go to the gym?",
     "punchline": "To work on their agile sprints!",
     "category": "work",
-    "tags": ["tech", "programming"],
+    "tags": [
+      "tech",
+      "programming"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-074",
@@ -885,9 +1027,13 @@
     "setup": "My boss asked if I had a LinkedIn...",
     "punchline": "I said, 'No, but I have a pretty good link to my couch!'",
     "category": "work",
-    "tags": ["boss", "tech"],
+    "tags": [
+      "boss",
+      "tech"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-075",
@@ -895,9 +1041,13 @@
     "setup": "Why did the receptionist win an award?",
     "punchline": "She was outstanding at her desk!",
     "category": "work",
-    "tags": ["office", "puns"],
+    "tags": [
+      "office",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-076",
@@ -905,9 +1055,13 @@
     "setup": "I quit my job at the coffee shop...",
     "punchline": "It was just too much of a grind!",
     "category": "work",
-    "tags": ["quitting", "food"],
+    "tags": [
+      "quitting",
+      "food"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-077",
@@ -915,9 +1069,13 @@
     "setup": "What do you call a meeting with no snacks?",
     "punchline": "A waste of time!",
     "category": "work",
-    "tags": ["meeting", "food"],
+    "tags": [
+      "meeting",
+      "food"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-078",
@@ -925,9 +1083,13 @@
     "setup": "Why did the Excel file break up with the Word document?",
     "punchline": "There were too many columns between them!",
     "category": "work",
-    "tags": ["tech", "office"],
+    "tags": [
+      "tech",
+      "office"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-079",
@@ -935,9 +1097,13 @@
     "setup": "I used to work at a recycling plant...",
     "punchline": "But it was just the same old rubbish every day!",
     "category": "work",
-    "tags": ["factory", "wordplay"],
+    "tags": [
+      "factory",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-080",
@@ -945,9 +1111,13 @@
     "setup": "My boss said to dress for the job I want...",
     "punchline": "Now I'm in trouble for wearing pajamas to the office!",
     "category": "work",
-    "tags": ["boss", "classic"],
+    "tags": [
+      "boss",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-081",
@@ -955,9 +1125,13 @@
     "setup": "Why did the database administrator leave his wife?",
     "punchline": "She had too many queries!",
     "category": "work",
-    "tags": ["tech", "programming"],
+    "tags": [
+      "tech",
+      "programming"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-082",
@@ -965,9 +1139,13 @@
     "setup": "I asked my boss if I could leave early on Friday...",
     "punchline": "He said yes, as long as I make up the time. So I said, 'It's 35 past 13!'",
     "category": "work",
-    "tags": ["boss", "wordplay"],
+    "tags": [
+      "boss",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-083",
@@ -975,9 +1153,13 @@
     "setup": "Why do interns make great comedians?",
     "punchline": "Because they work for laughs!",
     "category": "work",
-    "tags": ["office", "puns"],
+    "tags": [
+      "office",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-084",
@@ -985,9 +1167,13 @@
     "setup": "I got a job crushing cans...",
     "punchline": "It was soda pressing at first, but I got through it!",
     "category": "work",
-    "tags": ["factory", "puns"],
+    "tags": [
+      "factory",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-085",
@@ -995,9 +1181,13 @@
     "setup": "Why did the sticky note get promoted?",
     "punchline": "It always stuck to its commitments!",
     "category": "work",
-    "tags": ["office", "promotion"],
+    "tags": [
+      "office",
+      "promotion"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-086",
@@ -1005,9 +1195,13 @@
     "setup": "I told my boss I needed a mental health day...",
     "punchline": "He said, 'Every day working here is a mental health challenge!'",
     "category": "work",
-    "tags": ["boss", "office"],
+    "tags": [
+      "boss",
+      "office"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-087",
@@ -1015,9 +1209,13 @@
     "setup": "Why did the pie chart get all the attention at work?",
     "punchline": "Because it always had a slice of the action!",
     "category": "work",
-    "tags": ["presentation", "puns"],
+    "tags": [
+      "presentation",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-088",
@@ -1025,9 +1223,13 @@
     "setup": "I got fired from the lemon factory...",
     "punchline": "Apparently I couldn't concentrate!",
     "category": "work",
-    "tags": ["fired", "food"],
+    "tags": [
+      "fired",
+      "food"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-089",
@@ -1035,9 +1237,13 @@
     "setup": "My coworker always steals my lunch from the fridge...",
     "punchline": "I told HR it was a cold case!",
     "category": "work",
-    "tags": ["coworker", "food"],
+    "tags": [
+      "coworker",
+      "food"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-090",
@@ -1045,9 +1251,13 @@
     "setup": "Why did the password feel insecure at work?",
     "punchline": "Because everyone kept trying to change it!",
     "category": "work",
-    "tags": ["tech", "wordplay"],
+    "tags": [
+      "tech",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-091",
@@ -1055,9 +1265,13 @@
     "setup": "I used to work at a trampoline store...",
     "punchline": "I had to bounce from that job!",
     "category": "work",
-    "tags": ["quitting", "wordplay"],
+    "tags": [
+      "quitting",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-092",
@@ -1065,9 +1279,13 @@
     "setup": "Why was the broom late to the meeting?",
     "punchline": "It overswept!",
     "category": "work",
-    "tags": ["meeting", "puns"],
+    "tags": [
+      "meeting",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-093",
@@ -1075,9 +1293,13 @@
     "setup": "My boss said nothing is impossible...",
     "punchline": "I said, 'I do nothing every day — so I guess I've been doing the impossible!'",
     "category": "work",
-    "tags": ["boss", "classic"],
+    "tags": [
+      "boss",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-094",
@@ -1085,9 +1307,13 @@
     "setup": "Why did the marker fail the job interview?",
     "punchline": "It kept making highlights but had no substance!",
     "category": "work",
-    "tags": ["interview", "puns"],
+    "tags": [
+      "interview",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-095",
@@ -1095,9 +1321,13 @@
     "setup": "I work from home, so my commute is amazing...",
     "punchline": "It's just a short walk past the fridge, where I always get stuck in snack traffic!",
     "category": "work",
-    "tags": ["office", "food"],
+    "tags": [
+      "office",
+      "food"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-096",
@@ -1105,9 +1335,13 @@
     "setup": "Why did the pencil get a promotion?",
     "punchline": "It always had a point to make!",
     "category": "work",
-    "tags": ["office", "promotion"],
+    "tags": [
+      "office",
+      "promotion"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-097",
@@ -1115,9 +1349,13 @@
     "setup": "My coworker said I'm immature...",
     "punchline": "I told him to get out of my pillow fort!",
     "category": "work",
-    "tags": ["coworker", "classic"],
+    "tags": [
+      "coworker",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-098",
@@ -1125,9 +1363,13 @@
     "setup": "Why did the clipboard feel important?",
     "punchline": "Because everyone looked up to its board meetings!",
     "category": "work",
-    "tags": ["meeting", "puns"],
+    "tags": [
+      "meeting",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-099",
@@ -1135,9 +1377,13 @@
     "setup": "I got fired from the ice cream shop...",
     "punchline": "I refused to work on sundaes!",
     "category": "work",
-    "tags": ["fired", "puns"],
+    "tags": [
+      "fired",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "work-100",
@@ -1145,8 +1391,12 @@
     "setup": "Why did the rubber band quit the office?",
     "punchline": "It was stretched too thin!",
     "category": "work",
-    "tags": ["quitting", "wordplay"],
+    "tags": [
+      "quitting",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   }
 ]

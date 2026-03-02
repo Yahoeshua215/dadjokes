@@ -10,7 +10,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-002",
@@ -23,7 +24,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-01"
+    "dateAdded": "2026-02-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-003",
@@ -36,7 +38,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-004",
@@ -49,7 +52,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-02"
+    "dateAdded": "2026-02-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-005",
@@ -62,7 +66,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-006",
@@ -75,7 +80,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-03"
+    "dateAdded": "2026-02-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-007",
@@ -88,7 +94,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-008",
@@ -101,7 +108,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-04"
+    "dateAdded": "2026-02-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-009",
@@ -114,7 +122,8 @@
       "movie"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-010",
@@ -127,7 +136,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-05"
+    "dateAdded": "2026-02-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-011",
@@ -140,7 +150,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-012",
@@ -153,7 +164,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-06"
+    "dateAdded": "2026-02-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-013",
@@ -166,7 +178,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-014",
@@ -179,7 +192,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-07"
+    "dateAdded": "2026-02-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-015",
@@ -192,7 +206,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-016",
@@ -205,7 +220,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-08"
+    "dateAdded": "2026-02-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-017",
@@ -218,7 +234,8 @@
       "family"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-018",
@@ -231,7 +248,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-09"
+    "dateAdded": "2026-02-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-019",
@@ -244,7 +262,8 @@
       "space"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-020",
@@ -257,7 +276,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-10"
+    "dateAdded": "2026-02-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-021",
@@ -270,7 +290,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-022",
@@ -283,7 +304,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-11"
+    "dateAdded": "2026-02-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-023",
@@ -296,7 +318,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-024",
@@ -309,7 +332,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-02-12"
+    "dateAdded": "2026-02-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-025",
@@ -322,7 +346,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-02-13"
+    "dateAdded": "2026-02-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-026",
@@ -335,7 +360,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-027",
@@ -348,7 +374,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-028",
@@ -361,7 +388,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-029",
@@ -374,7 +402,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-02"
+    "dateAdded": "2026-03-02",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-030",
@@ -387,7 +416,8 @@
       "classic"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-031",
@@ -400,7 +430,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-03"
+    "dateAdded": "2026-03-03",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-032",
@@ -413,7 +444,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-033",
@@ -426,7 +458,8 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-04"
+    "dateAdded": "2026-03-04",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-034",
@@ -439,7 +472,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-035",
@@ -452,7 +486,8 @@
       "classic"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-05"
+    "dateAdded": "2026-03-05",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-036",
@@ -465,7 +500,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-037",
@@ -478,7 +514,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-06"
+    "dateAdded": "2026-03-06",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-038",
@@ -491,7 +528,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-039",
@@ -504,7 +542,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-07"
+    "dateAdded": "2026-03-07",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-040",
@@ -517,7 +556,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-041",
@@ -530,7 +570,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-08"
+    "dateAdded": "2026-03-08",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-042",
@@ -543,7 +584,8 @@
       "puns"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-043",
@@ -556,7 +598,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-09"
+    "dateAdded": "2026-03-09",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-044",
@@ -569,7 +612,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-045",
@@ -582,7 +626,8 @@
       "classic"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-10"
+    "dateAdded": "2026-03-10",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-046",
@@ -595,7 +640,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-047",
@@ -608,7 +654,8 @@
       "wordplay"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-11"
+    "dateAdded": "2026-03-11",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-048",
@@ -621,7 +668,8 @@
       "wordplay"
     ],
     "rating": 5,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-049",
@@ -634,7 +682,8 @@
       "puns"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-12"
+    "dateAdded": "2026-03-12",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-050",
@@ -647,7 +696,8 @@
       "puns"
     ],
     "rating": 4,
-    "dateAdded": "2026-03-13"
+    "dateAdded": "2026-03-13",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-051",
@@ -655,9 +705,13 @@
     "setup": "Why did the scarecrow win the cooking contest?",
     "punchline": "Because he was outstanding in his field of corn!",
     "category": "food",
-    "tags": ["corn", "wordplay"],
+    "tags": [
+      "corn",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-052",
@@ -665,9 +719,13 @@
     "setup": "What do you call a stolen yam?",
     "punchline": "A hot potato!",
     "category": "food",
-    "tags": ["vegetable", "puns"],
+    "tags": [
+      "vegetable",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-053",
@@ -675,9 +733,13 @@
     "setup": "Why did the chef get arrested?",
     "punchline": "Because he beat the eggs and whipped the cream!",
     "category": "food",
-    "tags": ["cooking", "wordplay"],
+    "tags": [
+      "cooking",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-054",
@@ -685,9 +747,13 @@
     "setup": "What does a clock do when it's hungry?",
     "punchline": "It goes back four seconds!",
     "category": "food",
-    "tags": ["dining", "wordplay"],
+    "tags": [
+      "dining",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-055",
@@ -695,9 +761,13 @@
     "setup": "Why did the cupcake go to the doctor?",
     "punchline": "It was feeling crumby!",
     "category": "food",
-    "tags": ["dessert", "puns"],
+    "tags": [
+      "dessert",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-056",
@@ -705,9 +775,13 @@
     "setup": "What do you call a lazy baker?",
     "punchline": "A loafer!",
     "category": "food",
-    "tags": ["bread", "puns"],
+    "tags": [
+      "bread",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-057",
@@ -715,9 +789,13 @@
     "setup": "Why did the strawberry cry?",
     "punchline": "Because its parents were in a jam!",
     "category": "food",
-    "tags": ["fruit", "puns"],
+    "tags": [
+      "fruit",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-058",
@@ -725,9 +803,13 @@
     "setup": "What do you call cheese made in the Middle East?",
     "punchline": "Cheeses of Nazareth!",
     "category": "food",
-    "tags": ["cheese", "wordplay"],
+    "tags": [
+      "cheese",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-059",
@@ -735,9 +817,13 @@
     "setup": "Why do French people eat snails?",
     "punchline": "Because they don't like fast food!",
     "category": "food",
-    "tags": ["dining", "classic"],
+    "tags": [
+      "dining",
+      "classic"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-060",
@@ -745,9 +831,13 @@
     "setup": "What did the pecan say to the walnut?",
     "punchline": "We're both nuts!",
     "category": "food",
-    "tags": ["nuts", "puns"],
+    "tags": [
+      "nuts",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-061",
@@ -755,9 +845,13 @@
     "setup": "Why did the pizza maker go broke?",
     "punchline": "Because he kept cutting corners!",
     "category": "food",
-    "tags": ["pizza", "wordplay"],
+    "tags": [
+      "pizza",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-062",
@@ -765,9 +859,13 @@
     "setup": "What do you call a snobbish criminal going down stairs with a plate of spaghetti?",
     "punchline": "A condescending con descending with con-diments!",
     "category": "food",
-    "tags": ["pasta", "wordplay"],
+    "tags": [
+      "pasta",
+      "wordplay"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-063",
@@ -775,9 +873,13 @@
     "setup": "Why did the garlic win the race?",
     "punchline": "Because it really cloved the distance!",
     "category": "food",
-    "tags": ["spicy", "puns"],
+    "tags": [
+      "spicy",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-064",
@@ -785,9 +887,13 @@
     "setup": "What did the sushi say to the bee?",
     "punchline": "Wasabi!",
     "category": "food",
-    "tags": ["sushi", "wordplay"],
+    "tags": [
+      "sushi",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-065",
@@ -795,9 +901,13 @@
     "setup": "Why did the cereal go to court?",
     "punchline": "It was a cereal offender!",
     "category": "food",
-    "tags": ["breakfast", "puns"],
+    "tags": [
+      "breakfast",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-066",
@@ -805,9 +915,13 @@
     "setup": "What do you call a pizza that's always in a hurry?",
     "punchline": "A running pizza — it's always on the go!",
     "category": "food",
-    "tags": ["pizza", "puns"],
+    "tags": [
+      "pizza",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-067",
@@ -815,9 +929,13 @@
     "setup": "Why did the salad win the talent show?",
     "punchline": "Because it had great dressing!",
     "category": "food",
-    "tags": ["vegetable", "wordplay"],
+    "tags": [
+      "vegetable",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-068",
@@ -825,9 +943,13 @@
     "setup": "What kind of coffee does a vampire order?",
     "punchline": "De-coffin-ated!",
     "category": "food",
-    "tags": ["coffee", "wordplay"],
+    "tags": [
+      "coffee",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-069",
@@ -835,9 +957,13 @@
     "setup": "Why did the muffin go to the hospital?",
     "punchline": "Because it was feeling really battered!",
     "category": "food",
-    "tags": ["baking", "puns"],
+    "tags": [
+      "baking",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-070",
@@ -845,9 +971,13 @@
     "setup": "What do you call blueberries playing the guitar?",
     "punchline": "A jam session!",
     "category": "food",
-    "tags": ["fruit", "puns"],
+    "tags": [
+      "fruit",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-071",
@@ -855,9 +985,13 @@
     "setup": "Why did the can crusher quit his job?",
     "punchline": "Because it was soda pressing!",
     "category": "food",
-    "tags": ["drinks", "wordplay"],
+    "tags": [
+      "drinks",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-072",
@@ -865,9 +999,13 @@
     "setup": "What do you call a cheeseburger that's traveling by plane?",
     "punchline": "Plain food!",
     "category": "food",
-    "tags": ["burger", "puns"],
+    "tags": [
+      "burger",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-073",
@@ -875,9 +1013,13 @@
     "setup": "Why did the broccoli go to the party?",
     "punchline": "Because it was a cool stalk!",
     "category": "food",
-    "tags": ["vegetable", "puns"],
+    "tags": [
+      "vegetable",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-074",
@@ -885,9 +1027,13 @@
     "setup": "What kind of candy do you eat on the playground?",
     "punchline": "Recess Pieces!",
     "category": "food",
-    "tags": ["candy", "wordplay"],
+    "tags": [
+      "candy",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-075",
@@ -895,9 +1041,13 @@
     "setup": "Why did the lemon fail its driving test?",
     "punchline": "It kept peeling out!",
     "category": "food",
-    "tags": ["fruit", "wordplay"],
+    "tags": [
+      "fruit",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-076",
@@ -905,9 +1055,13 @@
     "setup": "What did the nut say when it sneezed?",
     "punchline": "Cashew!",
     "category": "food",
-    "tags": ["nuts", "puns"],
+    "tags": [
+      "nuts",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-077",
@@ -915,9 +1069,13 @@
     "setup": "Why did the cook get fired from the restaurant?",
     "punchline": "He ran out of thyme!",
     "category": "food",
-    "tags": ["cooking", "puns"],
+    "tags": [
+      "cooking",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-078",
@@ -925,9 +1083,13 @@
     "setup": "What do you call a sad cup of coffee?",
     "punchline": "A depresso!",
     "category": "food",
-    "tags": ["coffee", "puns"],
+    "tags": [
+      "coffee",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-079",
@@ -935,9 +1097,13 @@
     "setup": "Why did the peach go to the salon?",
     "punchline": "Because it had a lot of fuzz to deal with!",
     "category": "food",
-    "tags": ["fruit", "classic"],
+    "tags": [
+      "fruit",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-080",
@@ -945,9 +1111,13 @@
     "setup": "What did the cake say to the fork?",
     "punchline": "You want a piece of me?",
     "category": "food",
-    "tags": ["dessert", "classic"],
+    "tags": [
+      "dessert",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-081",
@@ -955,9 +1125,13 @@
     "setup": "Why do potatoes make good detectives?",
     "punchline": "Because they keep their eyes peeled!",
     "category": "food",
-    "tags": ["vegetable", "wordplay"],
+    "tags": [
+      "vegetable",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-082",
@@ -965,9 +1139,13 @@
     "setup": "What did the ranch dressing say when someone opened the fridge?",
     "punchline": "Close the door, I'm dressing!",
     "category": "food",
-    "tags": ["dining", "wordplay"],
+    "tags": [
+      "dining",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-083",
@@ -975,9 +1153,13 @@
     "setup": "Why did the avocado go to the dance?",
     "punchline": "Because it takes two to guac!",
     "category": "food",
-    "tags": ["vegetable", "puns"],
+    "tags": [
+      "vegetable",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-084",
@@ -985,9 +1167,13 @@
     "setup": "What do you call a fake noodle?",
     "punchline": "An im-pasta!",
     "category": "food",
-    "tags": ["pasta", "puns"],
+    "tags": [
+      "pasta",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-085",
@@ -995,9 +1181,13 @@
     "setup": "Why did the pretzel break up with the breadstick?",
     "punchline": "Things got too twisted!",
     "category": "food",
-    "tags": ["snack", "puns"],
+    "tags": [
+      "snack",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-086",
@@ -1005,9 +1195,13 @@
     "setup": "What did the pear say to the other pear?",
     "punchline": "We make a great pair!",
     "category": "food",
-    "tags": ["fruit", "classic"],
+    "tags": [
+      "fruit",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-087",
@@ -1015,9 +1209,13 @@
     "setup": "Why did the burrito feel embarrassed?",
     "punchline": "It spilled the beans!",
     "category": "food",
-    "tags": ["mexican", "puns"],
+    "tags": [
+      "mexican",
+      "puns"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-088",
@@ -1025,9 +1223,13 @@
     "setup": "What do you call a spinning vegetable?",
     "punchline": "A turnip!",
     "category": "food",
-    "tags": ["vegetable", "wordplay"],
+    "tags": [
+      "vegetable",
+      "wordplay"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-089",
@@ -1035,9 +1237,13 @@
     "setup": "Why did the ketchup blush?",
     "punchline": "Because it saw the salad dressing!",
     "category": "food",
-    "tags": ["condiment", "puns"],
+    "tags": [
+      "condiment",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-090",
@@ -1045,9 +1251,13 @@
     "setup": "What did the toast say on a cold morning?",
     "punchline": "I'm bread-y to go!",
     "category": "food",
-    "tags": ["bread", "puns"],
+    "tags": [
+      "bread",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-091",
@@ -1055,9 +1265,13 @@
     "setup": "Why did the olive win the race?",
     "punchline": "It was on a roll!",
     "category": "food",
-    "tags": ["vegetable", "puns"],
+    "tags": [
+      "vegetable",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-092",
@@ -1065,9 +1279,13 @@
     "setup": "What do you call a pepperoni pizza that has fallen asleep?",
     "punchline": "A piZZZa with extra ZZZ!",
     "category": "food",
-    "tags": ["pizza", "classic"],
+    "tags": [
+      "pizza",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-093",
@@ -1075,9 +1293,13 @@
     "setup": "Why did the coconut go to the doctor?",
     "punchline": "It was feeling a little nutty!",
     "category": "food",
-    "tags": ["nuts", "puns"],
+    "tags": [
+      "nuts",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-094",
@@ -1085,9 +1307,13 @@
     "setup": "What do you call a turkey on the day after Thanksgiving?",
     "punchline": "Lucky!",
     "category": "food",
-    "tags": ["meat", "classic"],
+    "tags": [
+      "meat",
+      "classic"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-095",
@@ -1095,9 +1321,13 @@
     "setup": "Why did the candy bar go to the dentist?",
     "punchline": "It had a chocolate chip!",
     "category": "food",
-    "tags": ["candy", "puns"],
+    "tags": [
+      "candy",
+      "puns"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-096",
@@ -1105,9 +1335,13 @@
     "setup": "What kind of nut has no shell?",
     "punchline": "A doughnut!",
     "category": "food",
-    "tags": ["dessert", "wordplay"],
+    "tags": [
+      "dessert",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-097",
@@ -1115,9 +1349,13 @@
     "setup": "Why do mushrooms get invited to every party?",
     "punchline": "Because they're such fun-gis!",
     "category": "food",
-    "tags": ["mushroom", "puns"],
+    "tags": [
+      "mushroom",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-098",
@@ -1125,9 +1363,13 @@
     "setup": "What did the steak say to the grill?",
     "punchline": "Nice to meat you!",
     "category": "food",
-    "tags": ["meat", "wordplay"],
+    "tags": [
+      "meat",
+      "wordplay"
+    ],
     "rating": 5,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-099",
@@ -1135,9 +1377,13 @@
     "setup": "Why was the cucumber so chill?",
     "punchline": "Because it was cool as a cucumber!",
     "category": "food",
-    "tags": ["vegetable", "classic"],
+    "tags": [
+      "vegetable",
+      "classic"
+    ],
     "rating": 3,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   },
   {
     "id": "food-100",
@@ -1145,8 +1391,12 @@
     "setup": "What do you call a grilled cheese sandwich that gets right up in your face?",
     "punchline": "Too close for comfort food!",
     "category": "food",
-    "tags": ["cheese", "puns"],
+    "tags": [
+      "cheese",
+      "puns"
+    ],
     "rating": 4,
-    "dateAdded": "2026-03-01"
+    "dateAdded": "2026-03-01",
+    "ageRange": "all-ages"
   }
 ]

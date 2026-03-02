@@ -4,21 +4,29 @@ import { useState } from 'react';
 import { Joke } from '@/lib/types';
 
 export default function ShareButtons({ joke, jokeUrl }: { joke: Joke; jokeUrl?: string }) {
-  const [copied, setCopied] = useState(false);
+  const [copiedJoke, setCopiedJoke] = useState(false);
+  const [copiedLink, setCopiedLink] = useState(false);
   const jokeText = `${joke.setup}\n${joke.punchline}`;
-  const shareText = jokeUrl ? `${jokeText}\n${jokeUrl}` : jokeText;
 
-  const handleCopy = async () => {
-    await navigator.clipboard.writeText(shareText);
-    setCopied(true);
-    setTimeout(() => setCopied(false), 2000);
+  const handleCopyJoke = async () => {
+    await navigator.clipboard.writeText(jokeText);
+    setCopiedJoke(true);
+    setTimeout(() => setCopiedJoke(false), 2000);
+  };
+
+  const handleCopyLink = async () => {
+    if (jokeUrl) {
+      await navigator.clipboard.writeText(jokeUrl);
+      setCopiedLink(true);
+      setTimeout(() => setCopiedLink(false), 2000);
+    }
   };
 
   const handleShare = async () => {
     if (navigator.share) {
       await navigator.share({ title: 'Dad Joke', text: jokeText, url: jokeUrl });
     } else {
-      handleCopy();
+      handleCopyJoke();
     }
   };
 
@@ -33,11 +41,19 @@ export default function ShareButtons({ joke, jokeUrl }: { joke: Joke; jokeUrl?: 
   return (
     <div className="flex items-center gap-2">
       <button
-        onClick={handleCopy}
+        onClick={handleCopyJoke}
         className="text-xs text-text-secondary hover:text-foreground bg-background px-3 py-1.5 rounded-full border border-border hover:border-foreground/20 transition-colors"
       >
-        {copied ? '✓ Copied!' : 'Copy'}
+        {copiedJoke ? '✓ Copied!' : 'Copy joke'}
       </button>
+      {jokeUrl && (
+        <button
+          onClick={handleCopyLink}
+          className="text-xs text-text-secondary hover:text-foreground bg-background px-3 py-1.5 rounded-full border border-border hover:border-foreground/20 transition-colors"
+        >
+          {copiedLink ? '✓ Copied!' : 'Copy link'}
+        </button>
+      )}
       <button
         onClick={handleShare}
         className="text-xs text-text-secondary hover:text-foreground bg-background px-3 py-1.5 rounded-full border border-border hover:border-foreground/20 transition-colors"
