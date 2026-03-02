@@ -38,7 +38,7 @@ export default function RandomJokeButton({ jokes }: { jokes: Joke[] }) {
 
       {currentJoke && revealed && (
         <div className="mt-8 bg-surface border border-border rounded-xl p-8 max-w-lg mx-auto animate-fade-in">
-          <p className="font-serif text-xl mb-3">{currentJoke.setup}</p>
+          <p className="font-joke text-xl mb-3">{currentJoke.setup}</p>
           <p className="font-medium text-lg">{currentJoke.punchline}</p>
           <div className="mt-4 pt-3 border-t border-border flex justify-center">
             <ShareButtons joke={currentJoke} />

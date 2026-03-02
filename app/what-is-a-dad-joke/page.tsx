@@ -295,7 +295,7 @@ export default function WhatIsADadJokePage() {
                   href={`/joke/${joke.slug}`}
                   className="block bg-surface border border-border rounded-xl p-6 hover:border-accent transition-colors"
                 >
-                  <p className="font-serif text-lg">{joke.setup}</p>
+                  <p className="font-joke text-lg">{joke.setup}</p>
                   <p className="mt-2 font-medium text-text-secondary">{joke.punchline}</p>
                 </Link>
               ))}
@@ -328,7 +328,7 @@ export default function WhatIsADadJokePage() {
               When Does a Joke Become a Dad Joke?
             </h2>
             <div className="bg-surface border border-border rounded-xl p-6 mb-4">
-              <p className="font-serif text-xl text-center">
+              <p className="font-joke text-xl text-center">
                 When the punchline becomes <em>apparent</em>.
               </p>
             </div>

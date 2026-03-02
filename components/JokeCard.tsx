@@ -22,7 +22,7 @@ export default function JokeCard({ joke, index }: { joke: Joke; index: number })
         </Link>
         <div className="flex-1 min-w-0">
           <Link href={`/joke/${joke.slug}`} className="hover:text-accent transition-colors">
-            <p className="font-serif text-lg leading-relaxed">{joke.setup}</p>
+            <p className="font-joke text-lg leading-relaxed">{joke.setup}</p>
           </Link>
 
           {!revealed ? (

@@ -91,7 +91,7 @@ export default async function JokePage({ params }: Props) {
 
         {/* Main Joke */}
         <article className="bg-surface border border-border rounded-2xl p-8 sm:p-10 mb-8">
-          <h1 className="font-serif text-2xl sm:text-3xl leading-relaxed mb-6">
+          <h1 className="font-joke text-2xl sm:text-3xl leading-relaxed mb-6">
             {joke.setup}
           </h1>
           <p className="text-xl sm:text-2xl font-medium text-accent">
@@ -165,7 +165,7 @@ export default async function JokePage({ params }: Props) {
                   href={`/joke/${rj.slug}`}
                   className="block bg-surface border border-border rounded-xl p-5 hover:border-accent transition-colors"
                 >
-                  <p className="font-serif">{rj.setup}</p>
+                  <p className="font-joke">{rj.setup}</p>
                   <p className="mt-1.5 text-sm text-text-secondary">{rj.punchline}</p>
                 </Link>
               ))}
