@@ -31,9 +31,12 @@ export default function ShareButtons({ joke, jokeUrl }: { joke: Joke; jokeUrl?: 
   };
 
   const handleTwitter = () => {
+    const teaser = jokeUrl
+      ? `${joke.setup}\n\nFind out the answer:`
+      : joke.setup;
     const tweetText = jokeUrl
-      ? `${encodeURIComponent(jokeText)}&url=${encodeURIComponent(jokeUrl)}`
-      : encodeURIComponent(jokeText);
+      ? `${encodeURIComponent(teaser)}&url=${encodeURIComponent(jokeUrl)}`
+      : encodeURIComponent(teaser);
     const url = `https://twitter.com/intent/tweet?text=${tweetText}`;
     window.open(url, '_blank');
   };
