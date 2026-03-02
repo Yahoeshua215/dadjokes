@@ -2,16 +2,16 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'About | DadJokes.directory',
+  title: 'About | JokeLikeaDad.com',
   description:
-    'Learn about DadJokes.directory — the internet\'s best curated collection of dad jokes.',
-  alternates: { canonical: 'https://dadjokes.directory/about' },
+    'Learn about JokeLikeaDad.com — the internet\'s best curated collection of dad jokes.',
+  alternates: { canonical: 'https://jokelikeadad.com/about' },
 };
 
 export default function AboutPage() {
   return (
     <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <h1 className="font-serif text-3xl sm:text-4xl mb-6">About DadJokes.directory</h1>
+      <h1 className="font-serif text-3xl sm:text-4xl mb-6">About JokeLikeaDad.com</h1>
 
       <div className="prose prose-neutral max-w-none space-y-4 text-text-secondary leading-relaxed">
         <p>
@@ -33,13 +33,16 @@ export default function AboutPage() {
           table that made you groan as a kid — and now you catch yourself telling them too.
         </p>
 
-        <h2 className="font-serif text-2xl text-foreground mt-8 mb-3">Got a joke?</h2>
+        <h2 className="font-serif text-2xl text-foreground mt-8 mb-3">Browse the collection</h2>
         <p>
-          Think you&apos;ve got a joke worthy of the collection?{' '}
-          <Link href="/submit" className="text-accent hover:text-accent-hover font-medium">
-            Submit it here
+          Ready to start groaning?{' '}
+          <Link href="/categories" className="text-accent hover:text-accent-hover font-medium">
+            Browse all categories
           </Link>
-          . If it makes us groan loud enough, we&apos;ll add it.
+          {' '}or check out the{' '}
+          <Link href="/joke-of-the-day" className="text-accent hover:text-accent-hover font-medium">
+            Joke of the Day
+          </Link>.
         </p>
       </div>
     </div>

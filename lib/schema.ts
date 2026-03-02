@@ -4,8 +4,8 @@ export function generateWebsiteSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: 'DadJokes.directory',
-    url: 'https://dadjokes.directory',
+    name: 'Joke Like a Dad',
+    url: 'https://jokelikeadad.com',
     description: 'The best collection of dad jokes on the internet.',
   };
 }

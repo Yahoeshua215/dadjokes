@@ -3,22 +3,22 @@ import Link from 'next/link';
 import { generateBreadcrumbSchema } from '@/lib/schema';
 
 export const metadata: Metadata = {
-  title: 'Free Dad Jokes API — For Developers | DadJokes.directory',
+  title: 'Free Dad Jokes API — For Developers | JokeLikeaDad.com',
   description:
     'Free REST API for dad jokes. Get random jokes, browse by category, and integrate dad humor into your apps. No API key required.',
-  alternates: { canonical: 'https://dadjokes.directory/developers' },
+  alternates: { canonical: 'https://jokelikeadad.com/developers' },
   openGraph: {
     title: 'Free Dad Jokes API — For Developers',
     description:
       'Free REST API for dad jokes. No API key required. Perfect for apps, bots, and tutorials.',
-    url: 'https://dadjokes.directory/developers',
+    url: 'https://jokelikeadad.com/developers',
   },
 };
 
 export default function DevelopersPage() {
   const breadcrumbItems = [
-    { name: 'Home', url: 'https://dadjokes.directory' },
-    { name: 'Developers', url: 'https://dadjokes.directory/developers' },
+    { name: 'Home', url: 'https://jokelikeadad.com' },
+    { name: 'Developers', url: 'https://jokelikeadad.com/developers' },
   ];
 
   return (
@@ -45,7 +45,7 @@ export default function DevelopersPage() {
 
         <div className="bg-surface border border-border rounded-xl p-6 mb-8">
           <p className="text-sm text-text-secondary mb-1">Base URL</p>
-          <code className="text-lg font-mono text-accent">https://dadjokes.directory/api</code>
+          <code className="text-lg font-mono text-accent">https://jokelikeadad.com/api</code>
         </div>
 
         {/* Endpoints */}
@@ -61,7 +61,7 @@ export default function DevelopersPage() {
               <div className="p-4">
                 <p className="text-sm text-text-secondary mb-3">Returns a single random dad joke.</p>
                 <p className="text-xs font-medium text-text-secondary mb-2">Example</p>
-                <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`curl https://dadjokes.directory/api/random`}</code></pre>
+                <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`curl https://jokelikeadad.com/api/random`}</code></pre>
                 <p className="text-xs font-medium text-text-secondary mt-4 mb-2">Response</p>
                 <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`{
   "id": "funny-042",
@@ -99,7 +99,7 @@ export default function DevelopersPage() {
                   </div>
                 </div>
                 <p className="text-xs font-medium text-text-secondary mb-2">Example</p>
-                <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`curl "https://dadjokes.directory/api/jokes?category=science&limit=5"`}</code></pre>
+                <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`curl "https://jokelikeadad.com/api/jokes?category=science&limit=5"`}</code></pre>
                 <p className="text-xs font-medium text-text-secondary mt-4 mb-2">Response</p>
                 <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`{
   "total": 100,
@@ -130,7 +130,7 @@ export default function DevelopersPage() {
               <div className="p-4">
                 <p className="text-sm text-text-secondary mb-3">Returns all available joke categories.</p>
                 <p className="text-xs font-medium text-text-secondary mb-2">Example</p>
-                <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`curl https://dadjokes.directory/api/categories`}</code></pre>
+                <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`curl https://jokelikeadad.com/api/categories`}</code></pre>
                 <p className="text-xs font-medium text-text-secondary mt-4 mb-2">Response</p>
                 <pre className="bg-background rounded-lg p-4 text-sm overflow-x-auto"><code>{`{
   "categories": [
@@ -153,7 +153,7 @@ export default function DevelopersPage() {
         <section className="mb-12">
           <h2 className="font-serif text-2xl mb-3">Quick Start (JavaScript)</h2>
           <pre className="bg-surface border border-border rounded-xl p-4 text-sm overflow-x-auto"><code>{`// Get a random dad joke
-const response = await fetch('https://dadjokes.directory/api/random');
+const response = await fetch('https://jokelikeadad.com/api/random');
 const joke = await response.json();
 
 console.log(joke.setup);
@@ -167,7 +167,7 @@ console.log(joke.punchline);
           <h2 className="font-serif text-2xl mb-3">Using the API?</h2>
           <p className="text-text-secondary mb-4">
             The API is free to use. If you build something with it, we&apos;d love a link back
-            to <strong className="text-foreground">dadjokes.directory</strong> in your project,
+            to <strong className="text-foreground">jokelikeadad.com</strong> in your project,
             README, or blog post.
           </p>
           <div className="flex flex-wrap gap-4 justify-center">

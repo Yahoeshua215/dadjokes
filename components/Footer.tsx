@@ -12,7 +12,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2 mb-4">
               <span className="text-2xl">😄</span>
               <span className="font-serif text-lg font-bold">
-                DadJokes<span className="text-accent">.directory</span>
+                Joke Like a <span className="text-accent">Dad</span>
               </span>
             </Link>
             <p className="text-sm text-text-secondary">
@@ -59,11 +59,6 @@ export default function Footer() {
                   About
                 </Link>
               </li>
-              <li>
-                <Link href="/submit" className="text-sm text-text-secondary hover:text-foreground transition-colors">
-                  Submit a Joke
-                </Link>
-              </li>
             </ul>
           </div>
 
@@ -85,7 +80,7 @@ export default function Footer() {
 
         <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-xs text-text-secondary">
-            &copy; {new Date().getFullYear()} DadJokes.directory. All groans reserved.
+            &copy; {new Date().getFullYear()} JokeLikeaDad.com. All groans reserved.
           </p>
         </div>
       </div>

@@ -22,11 +22,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: category.metaTitle,
     description: category.metaDescription,
-    alternates: { canonical: `https://dadjokes.directory/${slug}` },
+    alternates: { canonical: `https://jokelikeadad.com/${slug}` },
     openGraph: {
       title: category.metaTitle,
       description: category.metaDescription,
-      url: `https://dadjokes.directory/${slug}`,
+      url: `https://jokelikeadad.com/${slug}`,
     },
   };
 }
@@ -47,11 +47,11 @@ function getFAQs(categoryName: string, slug: string) {
     },
     {
       question: `How many ${categoryName.toLowerCase()} do you have?`,
-      answer: `We currently have 25+ handpicked ${categoryName.toLowerCase()} in our collection, and we're always adding more. Each joke is curated for quality — no filler.`,
+      answer: `We currently have 100+ handpicked ${categoryName.toLowerCase()} in our collection, and we're always adding more. Each joke is curated for quality — no filler.`,
     },
     {
-      question: `Can I submit my own ${categoryName.toLowerCase().replace(' dad jokes', '')} dad joke?`,
-      answer: `Absolutely! Head over to our Submit page to contribute your best dad joke. If it makes us groan loud enough, we'll add it to the collection.`,
+      question: `Where can I find more ${categoryName.toLowerCase().replace(' dad jokes', '')} dad jokes?`,
+      answer: `Browse our full collection at JokeLikeaDad.com! We have 2,000+ dad jokes across 20 categories, and we're always adding more.`,
     },
   ];
 }
@@ -69,9 +69,9 @@ export default async function CategoryPage({ params }: Props) {
   const faqs = getFAQs(category.name, slug);
 
   const breadcrumbItems = [
-    { name: 'Home', url: 'https://dadjokes.directory' },
-    { name: 'Categories', url: 'https://dadjokes.directory/categories' },
-    { name: category.name, url: `https://dadjokes.directory/${slug}` },
+    { name: 'Home', url: 'https://jokelikeadad.com' },
+    { name: 'Categories', url: 'https://jokelikeadad.com/categories' },
+    { name: category.name, url: `https://jokelikeadad.com/${slug}` },
   ];
 
   return (

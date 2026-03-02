@@ -8,7 +8,7 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-2">
             <span className="text-2xl">😄</span>
             <span className="font-serif text-xl font-bold text-foreground">
-              DadJokes<span className="text-accent">.directory</span>
+              Joke Like a <span className="text-accent">Dad</span>
             </span>
           </Link>
           <nav className="hidden sm:flex items-center gap-6">
@@ -29,12 +29,6 @@ export default function Header() {
               className="text-sm text-text-secondary hover:text-foreground transition-colors"
             >
               Joke of the Day
-            </Link>
-            <Link
-              href="/submit"
-              className="text-sm bg-accent hover:bg-accent-hover text-white px-4 py-2 rounded-full transition-colors"
-            >
-              Submit a Joke
             </Link>
           </nav>
           <Link

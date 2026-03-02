@@ -10,10 +10,10 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Dad Jokes — The Best Dad Jokes | DadJokes.directory',
+  title: 'Dad Jokes — The Best Dad Jokes | JokeLikeaDad.com',
   description:
-    'The best collection of dad jokes on the internet. Browse 500+ handpicked dad jokes across 20 categories. Guaranteed groans.',
-  metadataBase: new URL('https://dadjokes.directory'),
+    'The best collection of dad jokes on the internet. Browse 2,000+ handpicked dad jokes across 20 categories. Guaranteed groans.',
+  metadataBase: new URL('https://jokelikeadad.com'),
 };
 
 export default function RootLayout({

@@ -8,7 +8,7 @@ import VoteButtons from './VoteButtons';
 
 export default function JokeCard({ joke, index }: { joke: Joke; index: number }) {
   const [revealed, setRevealed] = useState(false);
-  const jokeUrl = `https://dadjokes.directory/joke/${joke.slug}`;
+  const jokeUrl = `https://jokelikeadad.com/joke/${joke.slug}`;
 
   return (
     <div className="bg-surface border border-border rounded-xl p-6 card-hover">

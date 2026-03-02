@@ -3,10 +3,10 @@ import { getJokeOfTheDay, getAllJokes } from '@/lib/jokes';
 import HeroJoke from '@/components/HeroJoke';
 
 export const metadata: Metadata = {
-  title: 'Dad Joke of the Day | DadJokes.directory',
+  title: 'Dad Joke of the Day | JokeLikeaDad.com',
   description:
     'Get a fresh dad joke every day. Our joke of the day is handpicked from the best dad jokes in our collection.',
-  alternates: { canonical: 'https://dadjokes.directory/joke-of-the-day' },
+  alternates: { canonical: 'https://jokelikeadad.com/joke-of-the-day' },
 };
 
 export default function JokeOfTheDayPage() {

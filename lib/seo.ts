@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
-const SITE_NAME = 'DadJokes.directory';
-const SITE_URL = 'https://dadjokes.directory';
+const SITE_NAME = 'Joke Like a Dad';
+const SITE_URL = 'https://jokelikeadad.com';
 
 export function generateMetadata({
   title,

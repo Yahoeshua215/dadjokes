@@ -3,10 +3,10 @@ import { getCategories, getJokesByCategory } from '@/lib/jokes';
 import CategoryCard from '@/components/CategoryCard';
 
 export const metadata: Metadata = {
-  title: 'All Dad Joke Categories | DadJokes.directory',
+  title: 'All Dad Joke Categories | JokeLikeaDad.com',
   description:
     'Browse all dad joke categories. From funny to corny, clean to dirty — find the perfect dad jokes for any occasion.',
-  alternates: { canonical: 'https://dadjokes.directory/categories' },
+  alternates: { canonical: 'https://jokelikeadad.com/categories' },
 };
 
 export default function CategoriesPage() {
