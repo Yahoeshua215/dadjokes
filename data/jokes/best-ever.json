@@ -780,8 +780,9 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-did-the-ocean-say-to-the-beach-2",
-    "ageRange": "all-ages"
+    "slug": "what-did-the-ocean-say-to-the-beach",
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-did-the-ocean-say-to-the-beach"
   },
   {
     "id": "best-ever-057",
@@ -1060,8 +1061,9 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "slug": "what-do-you-call-man-with-rubber-toe-2",
-    "ageRange": "all-ages"
+    "slug": "what-do-you-call-man-with-rubber-toe",
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-do-you-call-man-with-rubber-toe"
   },
   {
     "id": "best-ever-077",

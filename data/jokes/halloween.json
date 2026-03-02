@@ -57,7 +57,7 @@
   },
   {
     "id": "halloween-005",
-    "slug": "why-dont-skeletons-fight-each-other-2",
+    "slug": "why-dont-skeletons-fight-each-other",
     "setup": "Why don't skeletons fight each other?",
     "punchline": "They don't have the guts!",
     "category": "halloween",
@@ -67,7 +67,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages"
+    "ageRange": "all-ages",
+    "canonicalSlug": "why-dont-skeletons-fight-each-other"
   },
   {
     "id": "halloween-006",
@@ -197,7 +198,7 @@
   },
   {
     "id": "halloween-015",
-    "slug": "what-kind-of-music-do-mummies-listen-to-2",
+    "slug": "what-kind-of-music-do-mummies-listen-to",
     "setup": "What kind of music do mummies listen to?",
     "punchline": "Wrap music!",
     "category": "halloween",
@@ -207,7 +208,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages"
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-kind-of-music-do-mummies-listen-to"
   },
   {
     "id": "halloween-016",

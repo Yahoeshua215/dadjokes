@@ -155,7 +155,7 @@
   },
   {
     "id": "fathers-day-012",
-    "slug": "i-told-my-son-i-was-named-after-thomas-jefferson-2",
+    "slug": "i-told-my-son-i-was-named-after-thomas-jefferson",
     "setup": "I told my son I was named after Thomas Jefferson...",
     "punchline": "He said, 'But Dad, your name is Brian.' I said, 'Right. I was named AFTER Thomas Jefferson.'",
     "category": "fathers-day",
@@ -165,7 +165,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages"
+    "ageRange": "all-ages",
+    "canonicalSlug": "i-told-my-son-i-was-named-after-thomas-jefferson"
   },
   {
     "id": "fathers-day-013",
@@ -253,7 +254,7 @@
   },
   {
     "id": "fathers-day-019",
-    "slug": "how-does-a-penguin-build-its-house-2",
+    "slug": "how-does-a-penguin-build-its-house",
     "setup": "How does a penguin build its house?",
     "punchline": "Igloos it together!",
     "category": "fathers-day",
@@ -263,7 +264,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages"
+    "ageRange": "all-ages",
+    "canonicalSlug": "how-does-a-penguin-build-its-house"
   },
   {
     "id": "fathers-day-020",
@@ -281,7 +283,7 @@
   },
   {
     "id": "fathers-day-021",
-    "slug": "i-only-know-25-letters-of-the-alphabet-2",
+    "slug": "i-only-know-25-letters-of-the-alphabet",
     "setup": "I only know 25 letters of the alphabet...",
     "punchline": "I don't know Y!",
     "category": "fathers-day",
@@ -291,7 +293,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages"
+    "ageRange": "all-ages",
+    "canonicalSlug": "i-only-know-25-letters-of-the-alphabet"
   },
   {
     "id": "fathers-day-022",

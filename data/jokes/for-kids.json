@@ -10,8 +10,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-01-05",
-    "slug": "what-do-you-call-a-sleeping-dinosaur-2",
-    "ageRange": "little-kids"
+    "slug": "what-do-you-call-a-sleeping-dinosaur",
+    "ageRange": "little-kids",
+    "canonicalSlug": "what-do-you-call-a-sleeping-dinosaur"
   },
   {
     "id": "for-kids-002",
@@ -38,8 +39,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-01-28",
-    "slug": "what-do-you-call-a-fish-without-eyes-2",
-    "ageRange": "little-kids"
+    "slug": "what-do-you-call-a-fish-without-eyes",
+    "ageRange": "little-kids",
+    "canonicalSlug": "what-do-you-call-a-fish-without-eyes"
   },
   {
     "id": "for-kids-004",
@@ -108,8 +110,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-03-22",
-    "slug": "why-did-the-banana-go-to-the-doctor-2",
-    "ageRange": "little-kids"
+    "slug": "why-did-the-banana-go-to-the-doctor",
+    "ageRange": "little-kids",
+    "canonicalSlug": "why-did-the-banana-go-to-the-doctor"
   },
   {
     "id": "for-kids-009",
@@ -178,8 +181,9 @@
     ],
     "rating": 5,
     "dateAdded": "2025-05-20",
-    "slug": "why-do-bees-have-sticky-hair-2",
-    "ageRange": "little-kids"
+    "slug": "why-do-bees-have-sticky-hair",
+    "ageRange": "little-kids",
+    "canonicalSlug": "why-do-bees-have-sticky-hair"
   },
   {
     "id": "for-kids-014",
@@ -192,8 +196,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-06-01",
-    "slug": "what-do-you-call-a-pig-that-does-karate-2",
-    "ageRange": "little-kids"
+    "slug": "what-do-you-call-a-pig-that-does-karate",
+    "ageRange": "little-kids",
+    "canonicalSlug": "what-do-you-call-a-pig-that-does-karate"
   },
   {
     "id": "for-kids-015",
@@ -234,8 +239,9 @@
     ],
     "rating": 5,
     "dateAdded": "2025-07-10",
-    "slug": "why-do-ducks-have-tail-feathers-2",
-    "ageRange": "little-kids"
+    "slug": "why-do-ducks-have-tail-feathers",
+    "ageRange": "little-kids",
+    "canonicalSlug": "why-do-ducks-have-tail-feathers"
   },
   {
     "id": "for-kids-018",
@@ -276,8 +282,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-08-18",
-    "slug": "what-do-elves-learn-in-school-2",
-    "ageRange": "little-kids"
+    "slug": "what-do-elves-learn-in-school",
+    "ageRange": "little-kids",
+    "canonicalSlug": "what-do-elves-learn-in-school"
   },
   {
     "id": "for-kids-021",
@@ -332,8 +339,9 @@
     ],
     "rating": 5,
     "dateAdded": "2025-10-18",
-    "slug": "why-did-the-tomato-turn-red-2",
-    "ageRange": "little-kids"
+    "slug": "why-did-the-tomato-turn-red",
+    "ageRange": "little-kids",
+    "canonicalSlug": "why-did-the-tomato-turn-red"
   },
   {
     "id": "for-kids-025",

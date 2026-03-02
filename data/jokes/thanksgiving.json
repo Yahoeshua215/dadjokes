@@ -211,7 +211,7 @@
   },
   {
     "id": "thanksgiving-016",
-    "slug": "if-april-showers-bring-may-flowers-what-do-may-flowers-bring-2",
+    "slug": "if-april-showers-bring-may-flowers-what-do-may-flowers-bring",
     "setup": "If April showers bring May flowers, what do May flowers bring?",
     "punchline": "Pilgrims!",
     "category": "thanksgiving",
@@ -221,7 +221,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages"
+    "ageRange": "all-ages",
+    "canonicalSlug": "if-april-showers-bring-may-flowers-what-do-may-flowers-bring"
   },
   {
     "id": "thanksgiving-017",

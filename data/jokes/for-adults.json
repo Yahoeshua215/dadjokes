@@ -24,8 +24,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-01-22",
-    "slug": "why-did-the-coffee-file-a-police-report-2",
-    "ageRange": "teens"
+    "slug": "why-did-the-coffee-file-a-police-report",
+    "ageRange": "teens",
+    "canonicalSlug": "why-did-the-coffee-file-a-police-report"
   },
   {
     "id": "for-adults-003",
@@ -136,8 +137,9 @@
     ],
     "rating": 3,
     "dateAdded": "2025-04-28",
-    "slug": "im-so-good-at-sleeping-2",
-    "ageRange": "teens"
+    "slug": "im-so-good-at-sleeping",
+    "ageRange": "teens",
+    "canonicalSlug": "im-so-good-at-sleeping"
   },
   {
     "id": "for-adults-011",

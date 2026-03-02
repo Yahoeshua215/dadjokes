@@ -1,7 +1,7 @@
 [
   {
     "id": "sports-001",
-    "slug": "why-did-the-golfer-bring-two-pairs-of-pants-2",
+    "slug": "why-did-the-golfer-bring-two-pairs-of-pants",
     "setup": "Why did the golfer bring two pairs of pants?",
     "punchline": "In case he got a hole in one!",
     "category": "sports",
@@ -11,7 +11,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages"
+    "ageRange": "all-ages",
+    "canonicalSlug": "why-did-the-golfer-bring-two-pairs-of-pants"
   },
   {
     "id": "sports-002",
@@ -43,7 +44,7 @@
   },
   {
     "id": "sports-004",
-    "slug": "why-did-the-bicycle-fall-over-2",
+    "slug": "why-did-the-bicycle-fall-over",
     "setup": "Why did the bicycle fall over?",
     "punchline": "Because it was two-tired!",
     "category": "sports",
@@ -53,7 +54,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages"
+    "ageRange": "all-ages",
+    "canonicalSlug": "why-did-the-bicycle-fall-over"
   },
   {
     "id": "sports-005",
@@ -323,7 +325,7 @@
   },
   {
     "id": "sports-024",
-    "slug": "why-did-the-gym-close-down-2",
+    "slug": "why-did-the-gym-close-down",
     "setup": "Why did the gym close down?",
     "punchline": "It just didn't work out!",
     "category": "sports",
@@ -333,7 +335,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages"
+    "ageRange": "all-ages",
+    "canonicalSlug": "why-did-the-gym-close-down"
   },
   {
     "id": "sports-025",

@@ -9,6 +9,7 @@ export interface Joke {
   dateAdded: string;
   source?: string;
   ageRange?: 'little-kids' | 'kids' | 'tweens' | 'teens' | 'all-ages';
+  canonicalSlug?: string;
 }
 
 export interface Topic {

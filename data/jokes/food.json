@@ -169,7 +169,7 @@
   },
   {
     "id": "food-013",
-    "slug": "what-does-a-nosy-pepper-do-2",
+    "slug": "what-does-a-nosy-pepper-do",
     "setup": "What does a nosy pepper do?",
     "punchline": "Gets jalapeño business!",
     "category": "food",
@@ -179,7 +179,8 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages"
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-does-a-nosy-pepper-do"
   },
   {
     "id": "food-014",

@@ -67,11 +67,21 @@ export function getJokeById(id: string): Joke | undefined {
 }
 
 export function getJokeBySlug(slug: string): Joke | undefined {
-  return getAllJokes().find(j => j.slug === slug);
+  // Prefer the canonical (non-duplicate) version
+  const all = getAllJokes().filter(j => j.slug === slug);
+  return all.find(j => !j.canonicalSlug) || all[0];
 }
 
 export function getAllJokeSlugs(): string[] {
-  return getAllJokes().map(j => j.slug);
+  const seen = new Set<string>();
+  return getAllJokes()
+    .filter(j => {
+      if (j.canonicalSlug) return false; // skip duplicates
+      if (seen.has(j.slug)) return false;
+      seen.add(j.slug);
+      return true;
+    })
+    .map(j => j.slug);
 }
 
 export function getJokeOfTheDay(): Joke | undefined {

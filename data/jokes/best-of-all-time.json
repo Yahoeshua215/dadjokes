@@ -738,8 +738,9 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "slug": "help-round-up-37-sheep-said-40",
-    "ageRange": "all-ages"
+    "slug": "help-round-up-37-sheep",
+    "ageRange": "all-ages",
+    "canonicalSlug": "help-round-up-37-sheep"
   },
   {
     "id": "best-of-all-time-054",

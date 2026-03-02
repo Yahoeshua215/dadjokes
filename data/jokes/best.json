@@ -94,8 +94,9 @@
     ],
     "rating": 5,
     "dateAdded": "2025-03-22",
-    "slug": "why-cant-you-hear-a-pterodactyl-going-to-the-bathroom-2",
-    "ageRange": "all-ages"
+    "slug": "why-cant-you-hear-a-pterodactyl-going-to-the-bathroom",
+    "ageRange": "all-ages",
+    "canonicalSlug": "why-cant-you-hear-a-pterodactyl-going-to-the-bathroom"
   },
   {
     "id": "best-008",

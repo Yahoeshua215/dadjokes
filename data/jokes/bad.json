@@ -38,8 +38,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-02-01",
-    "slug": "what-did-the-buffalo-say-when-his-son-left-for-college-2",
-    "ageRange": "all-ages"
+    "slug": "what-did-the-buffalo-say-when-his-son-left-for-college",
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-did-the-buffalo-say-when-his-son-left-for-college"
   },
   {
     "id": "bad-004",
@@ -206,8 +207,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-06-22",
-    "slug": "what-do-you-call-a-lazy-kangaroo-2",
-    "ageRange": "all-ages"
+    "slug": "what-do-you-call-a-lazy-kangaroo",
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-do-you-call-a-lazy-kangaroo"
   },
   {
     "id": "bad-016",

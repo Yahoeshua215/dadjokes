@@ -122,8 +122,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-03-20",
-    "slug": "what-do-you-call-a-bear-with-no-teeth-2",
-    "ageRange": "all-ages"
+    "slug": "what-do-you-call-a-bear-with-no-teeth",
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-do-you-call-a-bear-with-no-teeth"
   },
   {
     "id": "funny-010",
@@ -164,8 +165,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-04-19",
-    "slug": "what-do-you-call-cheese-that-isnt-yours-2",
-    "ageRange": "all-ages"
+    "slug": "what-do-you-call-cheese-that-isnt-yours",
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-do-you-call-cheese-that-isnt-yours"
   },
   {
     "id": "funny-013",
@@ -192,8 +194,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-05-15",
-    "slug": "im-afraid-for-the-calendar-2",
-    "ageRange": "all-ages"
+    "slug": "im-afraid-for-the-calendar",
+    "ageRange": "all-ages",
+    "canonicalSlug": "im-afraid-for-the-calendar"
   },
   {
     "id": "funny-015",
@@ -220,8 +223,9 @@
     ],
     "rating": 3,
     "dateAdded": "2025-06-05",
-    "slug": "why-dont-eggs-tell-jokes-2",
-    "ageRange": "all-ages"
+    "slug": "why-dont-eggs-tell-jokes",
+    "ageRange": "all-ages",
+    "canonicalSlug": "why-dont-eggs-tell-jokes"
   },
   {
     "id": "funny-017",
@@ -276,8 +280,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-08-02",
-    "slug": "what-did-the-grape-do-when-it-got-stepped-on-2",
-    "ageRange": "all-ages"
+    "slug": "what-did-the-grape-do-when-it-got-stepped-on",
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-did-the-grape-do-when-it-got-stepped-on"
   },
   {
     "id": "funny-021",
@@ -346,8 +351,9 @@
     ],
     "rating": 5,
     "dateAdded": "2025-10-28",
-    "slug": "i-wouldnt-buy-anything-with-velcro-2",
-    "ageRange": "all-ages"
+    "slug": "i-wouldnt-buy-anything-with-velcro",
+    "ageRange": "all-ages",
+    "canonicalSlug": "i-wouldnt-buy-anything-with-velcro"
   },
   {
     "id": "funny-026",

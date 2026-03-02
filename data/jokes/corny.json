@@ -206,8 +206,9 @@
     ],
     "rating": 4,
     "dateAdded": "2025-06-20",
-    "slug": "what-do-you-call-a-duck-that-gets-all-as-2",
-    "ageRange": "all-ages"
+    "slug": "what-do-you-call-a-duck-that-gets-all-as",
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-do-you-call-a-duck-that-gets-all-as"
   },
   {
     "id": "corny-016",
@@ -248,8 +249,9 @@
     ],
     "rating": 5,
     "dateAdded": "2025-07-30",
-    "slug": "what-do-you-call-a-snowman-with-a-six-pack-2",
-    "ageRange": "all-ages"
+    "slug": "what-do-you-call-a-snowman-with-a-six-pack",
+    "ageRange": "all-ages",
+    "canonicalSlug": "what-do-you-call-a-snowman-with-a-six-pack"
   },
   {
     "id": "corny-019",

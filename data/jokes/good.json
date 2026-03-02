@@ -66,8 +66,9 @@
     ],
     "rating": 5,
     "dateAdded": "2025-03-02",
-    "slug": "when-does-a-joke-become-a-dad-joke-2",
-    "ageRange": "all-ages"
+    "slug": "when-does-a-joke-become-a-dad-joke",
+    "ageRange": "all-ages",
+    "canonicalSlug": "when-does-a-joke-become-a-dad-joke"
   },
   {
     "id": "good-006",
