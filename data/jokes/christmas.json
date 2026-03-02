@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "christmas-001",
+    "slug": "what-do-you-call-an-obnoxious-reindeer",
+    "setup": "What do you call an obnoxious reindeer?",
+    "punchline": "Rude-olph!",
+    "category": "christmas",
+    "tags": [
+      "reindeer",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "christmas-002",
+    "slug": "what-do-snowmen-eat-for-breakfast",
+    "setup": "What do snowmen eat for breakfast?",
+    "punchline": "Frosted Flakes!",
+    "category": "christmas",
+    "tags": [
+      "snowman",
+      "food"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "christmas-003",
+    "slug": "why-is-christmas-just-like-a-day-at-the-office",
+    "setup": "Why is Christmas just like a day at the office?",
+    "punchline": "You do all the work and the fat guy in the suit gets all the credit!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "work"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "christmas-004",
+    "slug": "what-do-elves-learn-in-school",
+    "setup": "What do elves learn in school?",
+    "punchline": "The elf-abet!",
+    "category": "christmas",
+    "tags": [
+      "elf",
+      "school"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "christmas-005",
+    "slug": "why-did-santa-go-to-music-school",
+    "setup": "Why did Santa go to music school?",
+    "punchline": "To improve his wrapping!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "music"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "christmas-006",
+    "slug": "what-do-you-call-a-broke-santa",
+    "setup": "What do you call a broke Santa?",
+    "punchline": "Saint Nickel-less!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "money"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "christmas-007",
+    "slug": "what-do-you-call-people-who-are-afraid-of-santa-claus",
+    "setup": "What do you call people who are afraid of Santa Claus?",
+    "punchline": "Claustrophobic!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "christmas-008",
+    "slug": "what-nationality-is-santa-claus",
+    "setup": "What nationality is Santa Claus?",
+    "punchline": "North Polish!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "geography"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "christmas-009",
+    "slug": "why-does-santa-go-down-chimneys",
+    "setup": "Why does Santa go down chimneys?",
+    "punchline": "Because it soots him!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "christmas-010",
+    "slug": "what-do-you-call-a-snowman-with-a-six-pack",
+    "setup": "What do you call a snowman with a six-pack?",
+    "punchline": "An abdominal snowman!",
+    "category": "christmas",
+    "tags": [
+      "snowman",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "christmas-011",
+    "slug": "what-do-gingerbread-men-use-to-make-their-beds",
+    "setup": "What do gingerbread men use to make their beds?",
+    "punchline": "Cookie sheets!",
+    "category": "christmas",
+    "tags": [
+      "gingerbread",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "christmas-012",
+    "slug": "why-was-the-snowman-looking-through-the-carrots",
+    "setup": "Why was the snowman looking through the carrots?",
+    "punchline": "He was picking his nose!",
+    "category": "christmas",
+    "tags": [
+      "snowman",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "christmas-013",
+    "slug": "what-did-adam-say-on-the-day-before-christmas",
+    "setup": "What did Adam say on the day before Christmas?",
+    "punchline": "It's Christmas, Eve!",
+    "category": "christmas",
+    "tags": [
+      "classic",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "christmas-014",
+    "slug": "how-much-did-santa-pay-for-his-sleigh",
+    "setup": "How much did Santa pay for his sleigh?",
+    "punchline": "Nothing — it was on the house!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "christmas-015",
+    "slug": "what-do-you-call-a-kid-who-doesnt-believe-in-santa",
+    "setup": "What do you call a kid who doesn't believe in Santa?",
+    "punchline": "A rebel without a Claus!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "christmas-016",
+    "slug": "why-does-santa-work-at-the-north-pole",
+    "setup": "Why does Santa work at the North Pole?",
+    "punchline": "Because the elves unionized and he couldn't move the workshop!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "elf"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "christmas-017",
+    "slug": "what-falls-at-the-north-pole-but-never-gets-hurt",
+    "setup": "What falls at the North Pole but never gets hurt?",
+    "punchline": "Snow!",
+    "category": "christmas",
+    "tags": [
+      "winter",
+      "classic"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "christmas-018",
+    "slug": "why-did-the-christmas-tree-go-to-the-barber",
+    "setup": "Why did the Christmas tree go to the barber?",
+    "punchline": "It needed to be trimmed!",
+    "category": "christmas",
+    "tags": [
+      "tree",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "christmas-019",
+    "slug": "what-is-every-parents-favorite-christmas-carol",
+    "setup": "What is every parent's favorite Christmas carol?",
+    "punchline": "Silent Night!",
+    "category": "christmas",
+    "tags": [
+      "parent",
+      "music"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "christmas-020",
+    "slug": "what-do-you-call-santas-helpers",
+    "setup": "What do you call Santa's helpers?",
+    "punchline": "Subordinate Clauses!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "grammar"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "christmas-021",
+    "slug": "why-is-it-so-cold-on-christmas",
+    "setup": "Why is it so cold on Christmas?",
+    "punchline": "Because it's in Decembrrrr!",
+    "category": "christmas",
+    "tags": [
+      "winter",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "christmas-022",
+    "slug": "what-do-snowmen-call-their-kids",
+    "setup": "What do snowmen call their kids?",
+    "punchline": "Chill-dren!",
+    "category": "christmas",
+    "tags": [
+      "snowman",
+      "family"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "christmas-023",
+    "slug": "what-do-you-get-if-santa-goes-down-a-chimney-when-the-fire-i",
+    "setup": "What do you get if Santa goes down a chimney when the fire is lit?",
+    "punchline": "Crisp Kringle!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "christmas-024",
+    "slug": "what-did-one-christmas-light-say-to-another",
+    "setup": "What did one Christmas light say to another?",
+    "punchline": "You light up my life!",
+    "category": "christmas",
+    "tags": [
+      "lights",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "christmas-025",
+    "slug": "i-asked-my-wife-what-she-wanted-for-christmas",
+    "setup": "I asked my wife what she wanted for Christmas...",
+    "punchline": "She said, 'Nothing would make me happier than a diamond necklace.' So I got her nothing!",
+    "category": "christmas",
+    "tags": [
+      "marriage",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-13"
+  },
+  {
+    "id": "christmas-026",
+    "slug": "",
+    "setup": "What do you call an elf who sings?",
+    "punchline": "A wrapper!",
+    "category": "christmas",
+    "tags": [
+      "elf",
+      "music"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-027",
+    "slug": "",
+    "setup": "Why does Santa always enter through the chimney?",
+    "punchline": "Because he knows it's the best way to make a grand entrance!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "classic"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-028",
+    "slug": "",
+    "setup": "What do reindeer say before telling a joke?",
+    "punchline": "This one will sleigh you!",
+    "category": "christmas",
+    "tags": [
+      "reindeer",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "christmas-029",
+    "slug": "",
+    "setup": "Why was the snowman rummaging through the bag of carrots?",
+    "punchline": "He was picking his nose!",
+    "category": "christmas",
+    "tags": [
+      "snowman",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "christmas-030",
+    "slug": "",
+    "setup": "What do you call Santa when he takes a break?",
+    "punchline": "Santa Pause!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "christmas-031",
+    "slug": "",
+    "setup": "Why is Santa so good at karate?",
+    "punchline": "Because he has a black belt!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "sports"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "christmas-032",
+    "slug": "",
+    "setup": "What did the stamp say to the Christmas card?",
+    "punchline": "Stick with me and we'll go places!",
+    "category": "christmas",
+    "tags": [
+      "cards",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "christmas-033",
+    "slug": "",
+    "setup": "Why did the Christmas tree go to the dentist?",
+    "punchline": "It needed a root canal!",
+    "category": "christmas",
+    "tags": [
+      "tree",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "christmas-034",
+    "slug": "",
+    "setup": "What do you call a cat sitting on the beach on Christmas Eve?",
+    "punchline": "Sandy Claws!",
+    "category": "christmas",
+    "tags": [
+      "animal",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "christmas-035",
+    "slug": "",
+    "setup": "What do elves post on social media?",
+    "punchline": "Elf-ies!",
+    "category": "christmas",
+    "tags": [
+      "elf",
+      "tech"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "christmas-036",
+    "slug": "",
+    "setup": "Why does Scrooge love reindeer?",
+    "punchline": "Because every single buck is dear to him!",
+    "category": "christmas",
+    "tags": [
+      "reindeer",
+      "money"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "christmas-037",
+    "slug": "",
+    "setup": "What do snowmen eat for lunch?",
+    "punchline": "Icebergers!",
+    "category": "christmas",
+    "tags": [
+      "snowman",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "christmas-038",
+    "slug": "",
+    "setup": "Why did Santa go to college?",
+    "punchline": "To get his Ho-Ho-Ho-norary degree!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "school"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "christmas-039",
+    "slug": "",
+    "setup": "What do you get if you cross Santa with a detective?",
+    "punchline": "Santa Clues!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "christmas-040",
+    "slug": "",
+    "setup": "What kind of motorcycle does Santa ride?",
+    "punchline": "A Holly Davidson!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "christmas-041",
+    "slug": "",
+    "setup": "Why is Christmas an excellent holiday?",
+    "punchline": "Because everything is tree-mendous!",
+    "category": "christmas",
+    "tags": [
+      "tree",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "christmas-042",
+    "slug": "",
+    "setup": "What do you call a blind reindeer?",
+    "punchline": "No-eye-deer!",
+    "category": "christmas",
+    "tags": [
+      "reindeer",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "christmas-043",
+    "slug": "",
+    "setup": "What does Mrs. Claus say to Santa when she looks at the sky?",
+    "punchline": "Looks like rain, dear!",
+    "category": "christmas",
+    "tags": [
+      "reindeer",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "christmas-044",
+    "slug": "",
+    "setup": "Why did the ornament go to the hospital?",
+    "punchline": "Because it was feeling a little run down and had tinsel-itis!",
+    "category": "christmas",
+    "tags": [
+      "ornament",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "christmas-045",
+    "slug": "",
+    "setup": "What do you call an old snowman?",
+    "punchline": "Water!",
+    "category": "christmas",
+    "tags": [
+      "snowman",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "christmas-046",
+    "slug": "",
+    "setup": "Why did Santa get a parking ticket?",
+    "punchline": "He left his sleigh in a snow-parking zone!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "christmas-047",
+    "slug": "",
+    "setup": "What's every elf's favorite type of music?",
+    "punchline": "Wrap!",
+    "category": "christmas",
+    "tags": [
+      "elf",
+      "music"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "christmas-048",
+    "slug": "",
+    "setup": "What did the gingerbread man put on his bed?",
+    "punchline": "A cookie sheet!",
+    "category": "christmas",
+    "tags": [
+      "gingerbread",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "christmas-049",
+    "slug": "",
+    "setup": "What do you call a snowman in July?",
+    "punchline": "A puddle!",
+    "category": "christmas",
+    "tags": [
+      "snowman",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "christmas-050",
+    "slug": "",
+    "setup": "Why does Santa always go down chimneys?",
+    "punchline": "Because it soot-s his fancy!",
+    "category": "christmas",
+    "tags": [
+      "santa",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-13"
+  },
+  {
+    "id": "christmas-051",
+    "slug": "what-do-you-call-santa-on-the-beach",
+    "setup": "What do you call Santa on the beach?",
+    "punchline": "Sandy Claus! Wait no... a toasty Kringle!",
+    "category": "christmas",
+    "tags": ["santa", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-052",
+    "slug": "why-did-the-elf-push-his-bed-into-the-fireplace",
+    "setup": "Why did the elf push his bed into the fireplace?",
+    "punchline": "He wanted to sleep like a log!",
+    "category": "christmas",
+    "tags": ["elf", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-053",
+    "slug": "what-does-santa-suffer-from-going-down-chimneys",
+    "setup": "What does Santa suffer from when he gets stuck going down chimneys?",
+    "punchline": "Santa Claustrophobia!",
+    "category": "christmas",
+    "tags": ["santa", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-054",
+    "slug": "why-did-rudolph-get-bad-grades",
+    "setup": "Why did Rudolph get bad grades in school?",
+    "punchline": "Because he went down in history!",
+    "category": "christmas",
+    "tags": ["reindeer", "school"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-055",
+    "slug": "what-do-snowmen-wear-on-their-heads",
+    "setup": "What do snowmen wear on their heads?",
+    "punchline": "Ice caps!",
+    "category": "christmas",
+    "tags": ["snowman", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-056",
+    "slug": "why-was-the-snowman-looking-through-carrots-again",
+    "setup": "Why does the snowman keep going back to the carrot bin?",
+    "punchline": "He's nosy!",
+    "category": "christmas",
+    "tags": ["snowman", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-057",
+    "slug": "what-do-elves-do-after-school",
+    "setup": "What do elves do after school?",
+    "punchline": "Their gnome-work!",
+    "category": "christmas",
+    "tags": ["elf", "school"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-058",
+    "slug": "why-did-the-gingerbread-man-go-to-doctor",
+    "setup": "Why did the gingerbread man go to the doctor?",
+    "punchline": "He was feeling crummy!",
+    "category": "christmas",
+    "tags": ["gingerbread", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-059",
+    "slug": "what-do-you-call-a-snowman-party",
+    "setup": "What do you call a snowman party?",
+    "punchline": "A snowball!",
+    "category": "christmas",
+    "tags": ["snowman", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-060",
+    "slug": "why-does-santa-have-three-gardens",
+    "setup": "Why does Santa have three gardens?",
+    "punchline": "So he can hoe, hoe, hoe!",
+    "category": "christmas",
+    "tags": ["santa", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-061",
+    "slug": "what-do-christmas-trees-and-bad-knitters-have",
+    "setup": "What do Christmas trees and bad knitters have in common?",
+    "punchline": "They both drop their needles!",
+    "category": "christmas",
+    "tags": ["tree", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-062",
+    "slug": "why-is-santa-so-good-at-gardening",
+    "setup": "Why is Santa so good at gardening?",
+    "punchline": "Because he likes to hoe, hoe, hoe and has a green Christmas thumb!",
+    "category": "christmas",
+    "tags": ["santa", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-063",
+    "slug": "what-did-the-snowflake-say-to-the-road",
+    "setup": "What did the snowflake say to the road?",
+    "punchline": "Let's stick together!",
+    "category": "christmas",
+    "tags": ["winter", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-064",
+    "slug": "why-did-santa-bring-22-reindeer",
+    "setup": "Why did Santa bring 22 reindeer to the party?",
+    "punchline": "Because he misunderstood when they said bring plenty of bucks!",
+    "category": "christmas",
+    "tags": ["reindeer", "money"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-065",
+    "slug": "what-do-snowmen-do-on-the-weekend",
+    "setup": "What do snowmen do on the weekend?",
+    "punchline": "Just chill!",
+    "category": "christmas",
+    "tags": ["snowman", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-066",
+    "slug": "why-did-the-elf-go-to-school-on-christmas",
+    "setup": "Why did the elf go to school on Christmas Day?",
+    "punchline": "He wanted to improve his shelf esteem!",
+    "category": "christmas",
+    "tags": ["elf", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-067",
+    "slug": "what-does-santa-do-when-elves-misbehave",
+    "setup": "What does Santa do when the elves misbehave?",
+    "punchline": "He gives them the sack!",
+    "category": "christmas",
+    "tags": ["santa", "elf"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-068",
+    "slug": "what-did-the-christmas-tree-say-to-ornament",
+    "setup": "What did the Christmas tree say to the ornament?",
+    "punchline": "Quit hanging around!",
+    "category": "christmas",
+    "tags": ["tree", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-069",
+    "slug": "why-did-frosty-ask-for-a-divorce",
+    "setup": "Why did Frosty ask for a divorce?",
+    "punchline": "His wife was a total flake!",
+    "category": "christmas",
+    "tags": ["snowman", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-070",
+    "slug": "what-kind-of-ball-doesnt-bounce-at-christmas",
+    "setup": "What kind of ball doesn't bounce at Christmas?",
+    "punchline": "A snowball!",
+    "category": "christmas",
+    "tags": ["winter", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-071",
+    "slug": "why-did-the-elf-use-the-computer",
+    "setup": "Why did the elf use the computer?",
+    "punchline": "To check his North Pole-mail!",
+    "category": "christmas",
+    "tags": ["elf", "tech"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-072",
+    "slug": "what-do-you-call-a-reindeer-with-no-eyes",
+    "setup": "What do you call a reindeer with no eyes and no legs?",
+    "punchline": "Still no-eye-deer!",
+    "category": "christmas",
+    "tags": ["reindeer", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-073",
+    "slug": "how-does-rudolph-know-when-christmas-comes",
+    "setup": "How does Rudolph know when Christmas is coming?",
+    "punchline": "He looks at the calen-deer!",
+    "category": "christmas",
+    "tags": ["reindeer", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-074",
+    "slug": "why-was-the-christmas-stocking-sad",
+    "setup": "Why was the Christmas stocking sad?",
+    "punchline": "It was always getting hung up on things!",
+    "category": "christmas",
+    "tags": ["ornament", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-075",
+    "slug": "what-does-a-grumpy-sheep-say-at-christmas",
+    "setup": "What does a grumpy sheep say at Christmas?",
+    "punchline": "Baa humbug!",
+    "category": "christmas",
+    "tags": ["animal", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-076",
+    "slug": "why-did-the-christmas-cookie-go-to-hospital",
+    "setup": "Why did the Christmas cookie go to the hospital?",
+    "punchline": "It felt crummy after too much icing!",
+    "category": "christmas",
+    "tags": ["food", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-077",
+    "slug": "what-do-you-call-an-elf-wearing-earmuffs",
+    "setup": "What do you call an elf wearing earmuffs?",
+    "punchline": "Anything you want — he can't hear you!",
+    "category": "christmas",
+    "tags": ["elf", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-078",
+    "slug": "why-is-santa-always-so-jolly",
+    "setup": "Why is Santa always so jolly?",
+    "punchline": "Because he knows where all the naughty girls and boys live!",
+    "category": "christmas",
+    "tags": ["santa", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-079",
+    "slug": "what-did-santa-say-at-the-pizza-shop",
+    "setup": "What did Santa say at the pizza shop?",
+    "punchline": "Make it a deep pan, crisp and even!",
+    "category": "christmas",
+    "tags": ["santa", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-080",
+    "slug": "why-did-the-snowman-call-his-dog-frost",
+    "setup": "Why did the snowman call his dog Frost?",
+    "punchline": "Because Frost bites!",
+    "category": "christmas",
+    "tags": ["snowman", "animal"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-081",
+    "slug": "what-do-you-call-a-scared-snowman",
+    "setup": "What do you call a scared snowman?",
+    "punchline": "A snowchicken!",
+    "category": "christmas",
+    "tags": ["snowman", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-082",
+    "slug": "why-did-the-reindeer-wear-sunglasses",
+    "setup": "Why did the reindeer wear sunglasses?",
+    "punchline": "Because he didn't want to be recognized by the paparazzi!",
+    "category": "christmas",
+    "tags": ["reindeer", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-083",
+    "slug": "what-goes-oh-oh-oh",
+    "setup": "What goes 'Oh, Oh, Oh'?",
+    "punchline": "Santa walking backwards!",
+    "category": "christmas",
+    "tags": ["santa", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-084",
+    "slug": "why-do-reindeer-like-beyonce",
+    "setup": "Why do reindeer like Beyonce so much?",
+    "punchline": "Because she sleighs!",
+    "category": "christmas",
+    "tags": ["reindeer", "music"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-085",
+    "slug": "what-do-you-call-a-snowman-temper-tantrum",
+    "setup": "What do you call a snowman having a temper tantrum?",
+    "punchline": "A meltdown!",
+    "category": "christmas",
+    "tags": ["snowman", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-086",
+    "slug": "why-does-santa-like-to-go-down-chimneys",
+    "setup": "Why does Santa like going down chimneys?",
+    "punchline": "Because it soots him and he gets a warm reception!",
+    "category": "christmas",
+    "tags": ["santa", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-087",
+    "slug": "what-did-the-elf-say-was-the-first-step",
+    "setup": "What did the elf say was the first step in using a computer?",
+    "punchline": "First, you log on!",
+    "category": "christmas",
+    "tags": ["elf", "tech"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-088",
+    "slug": "why-did-santas-helper-see-the-doctor",
+    "setup": "Why did Santa's helper see the doctor?",
+    "punchline": "Because he had low elf esteem!",
+    "category": "christmas",
+    "tags": ["elf", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-089",
+    "slug": "what-do-you-call-a-snowman-in-the-tropics",
+    "setup": "What do you call a snowman in the tropics?",
+    "punchline": "Lost!",
+    "category": "christmas",
+    "tags": ["snowman", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-090",
+    "slug": "why-does-mrs-claus-pray-for-christmas",
+    "setup": "Why does Mrs. Claus always pray for a white Christmas?",
+    "punchline": "Because she married a man who comes home once a year covered in soot!",
+    "category": "christmas",
+    "tags": ["santa", "marriage"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-091",
+    "slug": "what-did-the-english-teacher-call-santas-helpers",
+    "setup": "What did the English teacher call Santa's helpers?",
+    "punchline": "Subordinate Clauses!",
+    "category": "christmas",
+    "tags": ["santa", "grammar"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-092",
+    "slug": "why-does-santa-go-to-the-gym",
+    "setup": "Why does Santa go to the gym on Christmas Eve?",
+    "punchline": "To work on his sack!",
+    "category": "christmas",
+    "tags": ["santa", "sports"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-093",
+    "slug": "what-do-you-call-an-elf-who-steals-wrapping-paper",
+    "setup": "What do you call an elf who steals wrapping paper?",
+    "punchline": "A wrap-scallion!",
+    "category": "christmas",
+    "tags": ["elf", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-094",
+    "slug": "why-was-the-advent-calendar-afraid",
+    "setup": "Why was the advent calendar afraid?",
+    "punchline": "Its days were numbered!",
+    "category": "christmas",
+    "tags": ["classic", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-095",
+    "slug": "what-do-you-get-when-you-cross-a-snowman-and-shark",
+    "setup": "What do you get when you cross a snowman and a shark?",
+    "punchline": "Frostbite!",
+    "category": "christmas",
+    "tags": ["snowman", "animal"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-096",
+    "slug": "why-did-the-christmas-lights-keep-getting-tangled",
+    "setup": "Why did the Christmas lights keep getting tangled?",
+    "punchline": "They had too many hang-ups!",
+    "category": "christmas",
+    "tags": ["lights", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-097",
+    "slug": "what-do-you-call-santa-when-he-stops-moving",
+    "setup": "What do you call Santa when he stops moving?",
+    "punchline": "Santa Pause!",
+    "category": "christmas",
+    "tags": ["santa", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-098",
+    "slug": "why-did-the-snowman-want-a-divorce",
+    "setup": "Why did the snowman want a divorce?",
+    "punchline": "He thought his wife was a real flake!",
+    "category": "christmas",
+    "tags": ["snowman", "marriage"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-099",
+    "slug": "what-do-reindeer-hang-on-their-trees",
+    "setup": "What do reindeer hang on their Christmas trees?",
+    "punchline": "Horn-aments!",
+    "category": "christmas",
+    "tags": ["reindeer", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "christmas-100",
+    "slug": "why-did-the-nutcracker-go-to-therapy",
+    "setup": "Why did the Nutcracker go to therapy?",
+    "punchline": "He had been cracking under pressure all season!",
+    "category": "christmas",
+    "tags": ["classic", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  }
+]

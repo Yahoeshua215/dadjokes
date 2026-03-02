@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "work-001",
+    "slug": "my-boss-told-me-to-have-a-good-day-2",
+    "setup": "My boss told me to have a good day...",
+    "punchline": "So I went home!",
+    "category": "work",
+    "tags": [
+      "boss",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "work-002",
+    "slug": "i-got-fired-from-the-calendar-factory-2",
+    "setup": "I got fired from the calendar factory...",
+    "punchline": "All I did was take a day off!",
+    "category": "work",
+    "tags": [
+      "fired",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "work-003",
+    "slug": "why-did-the-can-crusher-quit-his-job",
+    "setup": "Why did the can crusher quit his job?",
+    "punchline": "Because it was soda pressing!",
+    "category": "work",
+    "tags": [
+      "quitting",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "work-004",
+    "slug": "i-used-to-work-at-a-shoe-recycling-shop",
+    "setup": "I used to work at a shoe recycling shop...",
+    "punchline": "It was sole destroying!",
+    "category": "work",
+    "tags": [
+      "shoes",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "work-005",
+    "slug": "what-did-the-janitor-say-when-he-jumped-out-of-the-closet-2",
+    "setup": "What did the janitor say when he jumped out of the closet?",
+    "punchline": "Supplies!",
+    "category": "work",
+    "tags": [
+      "janitor",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "work-006",
+    "slug": "i-told-my-boss-three-companies-were-after-me-and-i-needed-a",
+    "setup": "I told my boss three companies were after me and I needed a raise...",
+    "punchline": "He asked which ones. I said the gas company, the electric company, and the phone company!",
+    "category": "work",
+    "tags": [
+      "boss",
+      "raise"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "work-007",
+    "slug": "why-did-the-accountant-break-up-with-the-calculator",
+    "setup": "Why did the accountant break up with the calculator?",
+    "punchline": "She felt like she could only count on herself!",
+    "category": "work",
+    "tags": [
+      "accountant",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "work-008",
+    "slug": "i-got-a-job-at-a-paperless-office",
+    "setup": "I got a job at a paperless office...",
+    "punchline": "Everything was great until I needed to use the bathroom.",
+    "category": "work",
+    "tags": [
+      "office",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "work-009",
+    "slug": "why-did-the-scarecrow-get-a-promotion",
+    "setup": "Why did the scarecrow get a promotion?",
+    "punchline": "Because he was outstanding in his field!",
+    "category": "work",
+    "tags": [
+      "promotion",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "work-010",
+    "slug": "my-first-job-was-working-in-an-orange-juice-factory",
+    "setup": "My first job was working in an orange juice factory...",
+    "punchline": "But I got canned — couldn't concentrate!",
+    "category": "work",
+    "tags": [
+      "fired",
+      "food"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "work-011",
+    "slug": "what-do-you-call-someone-whos-happy-on-mondays",
+    "setup": "What do you call someone who's happy on Mondays?",
+    "punchline": "Retired!",
+    "category": "work",
+    "tags": [
+      "monday",
+      "retirement"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "work-012",
+    "slug": "i-used-to-be-a-banker-2",
+    "setup": "I used to be a banker...",
+    "punchline": "But I lost interest!",
+    "category": "work",
+    "tags": [
+      "banker",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "work-013",
+    "slug": "the-rotation-of-earth-really-makes-my-day-2",
+    "setup": "The rotation of Earth really makes my day.",
+    "punchline": "Literally.",
+    "category": "work",
+    "tags": [
+      "science",
+      "meta"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "work-014",
+    "slug": "i-got-fired-from-my-job-at-the-keyboard-factory",
+    "setup": "I got fired from my job at the keyboard factory...",
+    "punchline": "I wasn't putting in enough shifts!",
+    "category": "work",
+    "tags": [
+      "tech",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "work-015",
+    "slug": "why-did-the-invisible-man-turn-down-the-job-offer-2",
+    "setup": "Why did the invisible man turn down the job offer?",
+    "punchline": "He couldn't see himself doing it!",
+    "category": "work",
+    "tags": [
+      "interview",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "work-016",
+    "slug": "i-quit-my-job-at-the-donut-factory",
+    "setup": "I quit my job at the donut factory...",
+    "punchline": "I was tired of the hole business!",
+    "category": "work",
+    "tags": [
+      "quitting",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "work-017",
+    "slug": "what-do-you-call-a-lazy-eye-doctor",
+    "setup": "What do you call a lazy eye doctor?",
+    "punchline": "A laid-back optometrist — he dilates!",
+    "category": "work",
+    "tags": [
+      "doctor",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "work-018",
+    "slug": "why-did-the-employee-get-fired-from-the-coin-factory",
+    "setup": "Why did the employee get fired from the coin factory?",
+    "punchline": "He stopped making cents!",
+    "category": "work",
+    "tags": [
+      "fired",
+      "money"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "work-019",
+    "slug": "my-coworker-told-me-i-should-try-growing-a-beard",
+    "setup": "My coworker told me I should try growing a beard...",
+    "punchline": "I used to hate facial hair, but then it grew on me.",
+    "category": "work",
+    "tags": [
+      "coworker",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "work-020",
+    "slug": "why-do-programmers-prefer-dark-mode-2",
+    "setup": "Why do programmers prefer dark mode?",
+    "punchline": "Because light attracts bugs!",
+    "category": "work",
+    "tags": [
+      "tech",
+      "programming"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "work-021",
+    "slug": "i-got-a-job-at-a-bakery",
+    "setup": "I got a job at a bakery...",
+    "punchline": "Because I kneaded dough!",
+    "category": "work",
+    "tags": [
+      "bakery",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "work-022",
+    "slug": "whats-the-best-thing-about-elevator-jokes-2",
+    "setup": "What's the best thing about elevator jokes?",
+    "punchline": "They work on so many levels!",
+    "category": "work",
+    "tags": [
+      "meta",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "work-023",
+    "slug": "my-boss-asked-me-to-put-a-joke-on-the-company-website",
+    "setup": "My boss asked me to put a joke on the company website...",
+    "punchline": "So I put up my salary!",
+    "category": "work",
+    "tags": [
+      "boss",
+      "salary"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "work-024",
+    "slug": "why-did-the-powerpoint-presentation-cross-the-road",
+    "setup": "Why did the PowerPoint presentation cross the road?",
+    "punchline": "To get to the other slide!",
+    "category": "work",
+    "tags": [
+      "presentation",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "work-025",
+    "slug": "why-dont-scientists-trust-atoms-at-work",
+    "setup": "Why don't scientists trust atoms at work?",
+    "punchline": "Because they make up everything — including excuses for being late!",
+    "category": "work",
+    "tags": [
+      "science",
+      "office"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-13"
+  },
+  {
+    "id": "work-026",
+    "slug": "",
+    "setup": "I told my computer I needed a break...",
+    "punchline": "Now it won't stop sending me Kit-Kat ads!",
+    "category": "work",
+    "tags": [
+      "tech",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-027",
+    "slug": "",
+    "setup": "Why did the spreadsheet go to therapy?",
+    "punchline": "It had too many issues in every cell!",
+    "category": "work",
+    "tags": [
+      "office",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-028",
+    "slug": "",
+    "setup": "I got a job at a clock factory...",
+    "punchline": "It was about time!",
+    "category": "work",
+    "tags": [
+      "factory",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "work-029",
+    "slug": "",
+    "setup": "Why did the math teacher get a promotion?",
+    "punchline": "Because she knew how to multiply her efforts!",
+    "category": "work",
+    "tags": [
+      "math",
+      "promotion"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "work-030",
+    "slug": "",
+    "setup": "My boss says I have a preoccupation with vengeance...",
+    "punchline": "We'll see about that!",
+    "category": "work",
+    "tags": [
+      "boss",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "work-031",
+    "slug": "",
+    "setup": "I used to work at a blanket factory...",
+    "punchline": "But it folded!",
+    "category": "work",
+    "tags": [
+      "factory",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "work-032",
+    "slug": "",
+    "setup": "Why did the employee bring a mirror to work?",
+    "punchline": "So he could reflect on his performance!",
+    "category": "work",
+    "tags": [
+      "office",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "work-033",
+    "slug": "",
+    "setup": "I got fired from the mattress factory...",
+    "punchline": "I was caught lying on the job!",
+    "category": "work",
+    "tags": [
+      "fired",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "work-034",
+    "slug": "",
+    "setup": "What do you call a sleeping dinosaur at work?",
+    "punchline": "A dino-snore in the break room!",
+    "category": "work",
+    "tags": [
+      "office",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "work-035",
+    "slug": "",
+    "setup": "I got a job at a pool maintenance company...",
+    "punchline": "The work was draining!",
+    "category": "work",
+    "tags": [
+      "quitting",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "work-036",
+    "slug": "",
+    "setup": "Why did the coffee file a police report at the office?",
+    "punchline": "It got mugged!",
+    "category": "work",
+    "tags": [
+      "office",
+      "food"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "work-037",
+    "slug": "",
+    "setup": "My resume is just two words...",
+    "punchline": "Hire me. I like to keep things brief!",
+    "category": "work",
+    "tags": [
+      "interview",
+      "classic"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "work-038",
+    "slug": "",
+    "setup": "I used to work at a fire hydrant factory...",
+    "punchline": "You couldn't park anywhere near the place!",
+    "category": "work",
+    "tags": [
+      "factory",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "work-039",
+    "slug": "",
+    "setup": "Why did the developer go broke?",
+    "punchline": "Because he used up all his cache!",
+    "category": "work",
+    "tags": [
+      "tech",
+      "programming"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "work-040",
+    "slug": "",
+    "setup": "I accidentally swallowed some Scrabble tiles at my desk...",
+    "punchline": "My next trip to the bathroom could spell disaster!",
+    "category": "work",
+    "tags": [
+      "office",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "work-041",
+    "slug": "",
+    "setup": "Why did the belt get arrested at work?",
+    "punchline": "It was holding up a pair of pants on company time!",
+    "category": "work",
+    "tags": [
+      "office",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "work-042",
+    "slug": "",
+    "setup": "I got a job at a helium factory...",
+    "punchline": "I refuse to be spoken to in that tone!",
+    "category": "work",
+    "tags": [
+      "factory",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "work-043",
+    "slug": "",
+    "setup": "My boss told me to stop acting like a flamingo...",
+    "punchline": "I had to put my foot down!",
+    "category": "work",
+    "tags": [
+      "boss",
+      "animal"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "work-044",
+    "slug": "",
+    "setup": "Why did the stapler quit?",
+    "punchline": "It couldn't hold things together anymore!",
+    "category": "work",
+    "tags": [
+      "office",
+      "quitting"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "work-045",
+    "slug": "",
+    "setup": "I used to work at a velcro factory...",
+    "punchline": "What a rip-off!",
+    "category": "work",
+    "tags": [
+      "factory",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "work-046",
+    "slug": "",
+    "setup": "What do you call a coworker who never shares snacks?",
+    "punchline": "Shelf-ish!",
+    "category": "work",
+    "tags": [
+      "coworker",
+      "food"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "work-047",
+    "slug": "",
+    "setup": "I told my boss I needed a raise because three other companies were after me...",
+    "punchline": "He asked which ones. I said electricity, water, and internet!",
+    "category": "work",
+    "tags": [
+      "boss",
+      "salary"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "work-048",
+    "slug": "",
+    "setup": "Why did the pen go to the hospital?",
+    "punchline": "It had ink-digestion!",
+    "category": "work",
+    "tags": [
+      "office",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "work-049",
+    "slug": "",
+    "setup": "I used to work for a paper company...",
+    "punchline": "But I felt like I was just going through the reams!",
+    "category": "work",
+    "tags": [
+      "office",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "work-050",
+    "slug": "",
+    "setup": "What's the difference between a hippo and a Zippo?",
+    "punchline": "One is really heavy, and the other is a little lighter!",
+    "category": "work",
+    "tags": [
+      "classic",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-13"
+  },
+  {
+    "id": "work-051",
+    "slug": "why-did-the-meeting-break-up",
+    "setup": "Why did the meeting break up with the agenda?",
+    "punchline": "It felt like they were just going in circles!",
+    "category": "work",
+    "tags": ["meeting", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-052",
+    "slug": "my-slack-status-says-focusing",
+    "setup": "My Slack status says 'Focusing'...",
+    "punchline": "But really I'm just staring at my screen waiting for lunch!",
+    "category": "work",
+    "tags": ["slack", "office"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-053",
+    "slug": "why-did-the-report-go-to-therapy",
+    "setup": "Why did the report go to therapy?",
+    "punchline": "It had too many unresolved issues!",
+    "category": "work",
+    "tags": ["office", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-054",
+    "slug": "i-asked-my-boss-for-feedback",
+    "setup": "I asked my boss for feedback on my performance...",
+    "punchline": "He said, 'You're turning this place into a circus.' I said, 'Thanks, I've always been good at juggling tasks!'",
+    "category": "work",
+    "tags": ["boss", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-055",
+    "slug": "why-did-the-wifi-get-promoted",
+    "setup": "Why did the WiFi get promoted?",
+    "punchline": "Because it had a strong connection with everyone!",
+    "category": "work",
+    "tags": ["tech", "promotion"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-056",
+    "slug": "my-coworker-says-im-too-competitive",
+    "setup": "My coworker says I'm too competitive...",
+    "punchline": "I told him I was the best at not being competitive!",
+    "category": "work",
+    "tags": ["coworker", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-057",
+    "slug": "what-did-the-printer-say-to-the-paper",
+    "setup": "What did the printer say to the paper?",
+    "punchline": "I'm totally pressed to meet you!",
+    "category": "work",
+    "tags": ["office", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-058",
+    "slug": "i-got-fired-from-the-banana-factory",
+    "setup": "I got fired from the banana factory...",
+    "punchline": "The boss said I kept slipping up!",
+    "category": "work",
+    "tags": ["fired", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-059",
+    "slug": "why-do-offices-have-air-conditioning",
+    "setup": "Why do offices have air conditioning?",
+    "punchline": "So employees can submit their work in a cool manner!",
+    "category": "work",
+    "tags": ["office", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-060",
+    "slug": "my-boss-told-me-to-think-outside-the-box",
+    "setup": "My boss told me to think outside the box...",
+    "punchline": "So I moved my desk to the parking lot!",
+    "category": "work",
+    "tags": ["boss", "office"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-061",
+    "slug": "why-did-the-email-go-to-jail",
+    "setup": "Why did the email go to jail?",
+    "punchline": "It was caught phishing!",
+    "category": "work",
+    "tags": ["tech", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-062",
+    "slug": "i-told-my-coworker-a-chemistry-joke",
+    "setup": "I told my coworker a chemistry joke at the office...",
+    "punchline": "There was no reaction!",
+    "category": "work",
+    "tags": ["coworker", "science"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-063",
+    "slug": "why-did-the-calendar-get-fired",
+    "setup": "Why did the calendar get fired?",
+    "punchline": "Its days were numbered!",
+    "category": "work",
+    "tags": ["fired", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-064",
+    "slug": "whats-the-difference-between-boss-and-leader",
+    "setup": "What's the difference between a boss and a leader?",
+    "punchline": "A boss says 'Go!' and a leader says 'Let's go!' And a dad says 'Don't make me turn this meeting around!'",
+    "category": "work",
+    "tags": ["boss", "meeting"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-065",
+    "slug": "i-got-a-job-as-a-human-cannonball",
+    "setup": "I got a job as a human cannonball...",
+    "punchline": "I got fired on my first day!",
+    "category": "work",
+    "tags": ["fired", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-066",
+    "slug": "why-did-the-scarecrow-win-employee-of-month",
+    "setup": "Why did the scarecrow win Employee of the Month again?",
+    "punchline": "He was still outstanding in his field!",
+    "category": "work",
+    "tags": ["promotion", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-067",
+    "slug": "my-zoom-background-is-a-beach",
+    "setup": "My Zoom background is a beach...",
+    "punchline": "It's the closest I'll get to a vacation this quarter!",
+    "category": "work",
+    "tags": ["tech", "meeting"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-068",
+    "slug": "i-got-fired-from-the-pillow-factory",
+    "setup": "I got fired from the pillow factory...",
+    "punchline": "They said I was too soft on the job!",
+    "category": "work",
+    "tags": ["fired", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-069",
+    "slug": "why-did-the-computer-go-to-the-doctor",
+    "setup": "Why did the computer go to the doctor at work?",
+    "punchline": "Because it had a virus!",
+    "category": "work",
+    "tags": ["tech", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-070",
+    "slug": "my-coworker-asked-if-i-wanted-a-brief-meeting",
+    "setup": "My coworker asked if I wanted a brief meeting...",
+    "punchline": "I said no thanks, I'm already wearing pants!",
+    "category": "work",
+    "tags": ["meeting", "coworker"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-071",
+    "slug": "why-did-the-electrician-get-promoted",
+    "setup": "Why did the electrician get promoted?",
+    "punchline": "Because he was a great conductor of business!",
+    "category": "work",
+    "tags": ["promotion", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-072",
+    "slug": "i-used-to-work-at-a-mirror-factory",
+    "setup": "I used to work at a mirror factory...",
+    "punchline": "I could really see myself there!",
+    "category": "work",
+    "tags": ["factory", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-073",
+    "slug": "why-did-the-team-go-to-the-gym",
+    "setup": "Why did the project team go to the gym?",
+    "punchline": "To work on their agile sprints!",
+    "category": "work",
+    "tags": ["tech", "programming"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-074",
+    "slug": "my-boss-asked-if-i-had-a-linkedin",
+    "setup": "My boss asked if I had a LinkedIn...",
+    "punchline": "I said, 'No, but I have a pretty good link to my couch!'",
+    "category": "work",
+    "tags": ["boss", "tech"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-075",
+    "slug": "why-did-the-receptionist-win-an-award",
+    "setup": "Why did the receptionist win an award?",
+    "punchline": "She was outstanding at her desk!",
+    "category": "work",
+    "tags": ["office", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-076",
+    "slug": "i-quit-my-job-at-the-coffee-shop",
+    "setup": "I quit my job at the coffee shop...",
+    "punchline": "It was just too much of a grind!",
+    "category": "work",
+    "tags": ["quitting", "food"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-077",
+    "slug": "what-do-you-call-a-meeting-with-no-snacks",
+    "setup": "What do you call a meeting with no snacks?",
+    "punchline": "A waste of time!",
+    "category": "work",
+    "tags": ["meeting", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-078",
+    "slug": "why-did-the-excel-file-break-up",
+    "setup": "Why did the Excel file break up with the Word document?",
+    "punchline": "There were too many columns between them!",
+    "category": "work",
+    "tags": ["tech", "office"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-079",
+    "slug": "i-used-to-work-at-a-recycling-plant",
+    "setup": "I used to work at a recycling plant...",
+    "punchline": "But it was just the same old rubbish every day!",
+    "category": "work",
+    "tags": ["factory", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-080",
+    "slug": "my-boss-said-dress-for-the-job-you-want",
+    "setup": "My boss said to dress for the job I want...",
+    "punchline": "Now I'm in trouble for wearing pajamas to the office!",
+    "category": "work",
+    "tags": ["boss", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-081",
+    "slug": "why-did-the-database-administrator-leave",
+    "setup": "Why did the database administrator leave his wife?",
+    "punchline": "She had too many queries!",
+    "category": "work",
+    "tags": ["tech", "programming"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-082",
+    "slug": "i-asked-my-boss-if-i-could-leave-early",
+    "setup": "I asked my boss if I could leave early on Friday...",
+    "punchline": "He said yes, as long as I make up the time. So I said, 'It's 35 past 13!'",
+    "category": "work",
+    "tags": ["boss", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-083",
+    "slug": "why-do-interns-make-great-comedians",
+    "setup": "Why do interns make great comedians?",
+    "punchline": "Because they work for laughs!",
+    "category": "work",
+    "tags": ["office", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-084",
+    "slug": "i-got-a-job-crushing-cans",
+    "setup": "I got a job crushing cans...",
+    "punchline": "It was soda pressing at first, but I got through it!",
+    "category": "work",
+    "tags": ["factory", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-085",
+    "slug": "why-did-the-sticky-note-get-promoted",
+    "setup": "Why did the sticky note get promoted?",
+    "punchline": "It always stuck to its commitments!",
+    "category": "work",
+    "tags": ["office", "promotion"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-086",
+    "slug": "i-told-my-boss-i-needed-a-mental-health-day",
+    "setup": "I told my boss I needed a mental health day...",
+    "punchline": "He said, 'Every day working here is a mental health challenge!'",
+    "category": "work",
+    "tags": ["boss", "office"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-087",
+    "slug": "why-did-the-pie-chart-get-all-the-attention",
+    "setup": "Why did the pie chart get all the attention at work?",
+    "punchline": "Because it always had a slice of the action!",
+    "category": "work",
+    "tags": ["presentation", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-088",
+    "slug": "i-got-fired-from-the-lemon-factory",
+    "setup": "I got fired from the lemon factory...",
+    "punchline": "Apparently I couldn't concentrate!",
+    "category": "work",
+    "tags": ["fired", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-089",
+    "slug": "my-coworker-always-steals-my-lunch",
+    "setup": "My coworker always steals my lunch from the fridge...",
+    "punchline": "I told HR it was a cold case!",
+    "category": "work",
+    "tags": ["coworker", "food"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-090",
+    "slug": "why-did-the-password-feel-insecure",
+    "setup": "Why did the password feel insecure at work?",
+    "punchline": "Because everyone kept trying to change it!",
+    "category": "work",
+    "tags": ["tech", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-091",
+    "slug": "i-used-to-work-at-a-trampoline-store",
+    "setup": "I used to work at a trampoline store...",
+    "punchline": "I had to bounce from that job!",
+    "category": "work",
+    "tags": ["quitting", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-092",
+    "slug": "why-was-the-broom-late-to-the-meeting",
+    "setup": "Why was the broom late to the meeting?",
+    "punchline": "It overswept!",
+    "category": "work",
+    "tags": ["meeting", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-093",
+    "slug": "my-boss-said-nothing-is-impossible",
+    "setup": "My boss said nothing is impossible...",
+    "punchline": "I said, 'I do nothing every day — so I guess I've been doing the impossible!'",
+    "category": "work",
+    "tags": ["boss", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-094",
+    "slug": "why-did-the-marker-fail-the-interview",
+    "setup": "Why did the marker fail the job interview?",
+    "punchline": "It kept making highlights but had no substance!",
+    "category": "work",
+    "tags": ["interview", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-095",
+    "slug": "i-work-from-home-so-my-commute",
+    "setup": "I work from home, so my commute is amazing...",
+    "punchline": "It's just a short walk past the fridge, where I always get stuck in snack traffic!",
+    "category": "work",
+    "tags": ["office", "food"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-096",
+    "slug": "why-did-the-pencil-get-a-promotion",
+    "setup": "Why did the pencil get a promotion?",
+    "punchline": "It always had a point to make!",
+    "category": "work",
+    "tags": ["office", "promotion"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-097",
+    "slug": "my-coworker-said-im-immature",
+    "setup": "My coworker said I'm immature...",
+    "punchline": "I told him to get out of my pillow fort!",
+    "category": "work",
+    "tags": ["coworker", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-098",
+    "slug": "why-did-the-clipboard-feel-important",
+    "setup": "Why did the clipboard feel important?",
+    "punchline": "Because everyone looked up to its board meetings!",
+    "category": "work",
+    "tags": ["meeting", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-099",
+    "slug": "i-got-fired-from-the-ice-cream-shop",
+    "setup": "I got fired from the ice cream shop...",
+    "punchline": "I refused to work on sundaes!",
+    "category": "work",
+    "tags": ["fired", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "work-100",
+    "slug": "why-did-the-rubber-band-quit-the-office",
+    "setup": "Why did the rubber band quit the office?",
+    "punchline": "It was stretched too thin!",
+    "category": "work",
+    "tags": ["quitting", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  }
+]

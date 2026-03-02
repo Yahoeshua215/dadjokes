@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "for-kids-001",
+    "setup": "What do you call a sleeping dinosaur?",
+    "punchline": "A dino-snore!",
+    "category": "for-kids",
+    "tags": [
+      "dinosaurs",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-01-05",
+    "slug": "what-do-you-call-a-sleeping-dinosaur-2"
+  },
+  {
+    "id": "for-kids-002",
+    "setup": "Why can't you give Elsa a balloon?",
+    "punchline": "Because she'll let it go!",
+    "category": "for-kids",
+    "tags": [
+      "disney",
+      "movies"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-14",
+    "slug": "why-cant-you-give-elsa-a-balloon"
+  },
+  {
+    "id": "for-kids-003",
+    "setup": "What do you call a fish without eyes?",
+    "punchline": "A fsh!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "spelling"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-01-28",
+    "slug": "what-do-you-call-a-fish-without-eyes-2"
+  },
+  {
+    "id": "for-kids-004",
+    "setup": "Why did the teddy bear say no to dessert?",
+    "punchline": "Because she was already stuffed!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-02-06",
+    "slug": "why-did-the-teddy-bear-say-no-to-dessert"
+  },
+  {
+    "id": "for-kids-005",
+    "setup": "What do you call a boomerang that won't come back?",
+    "punchline": "A stick!",
+    "category": "for-kids",
+    "tags": [
+      "toys",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-02-18",
+    "slug": "what-do-you-call-a-boomerang-that-wont-come-back"
+  },
+  {
+    "id": "for-kids-006",
+    "setup": "Why are ghosts bad liars?",
+    "punchline": "Because you can see right through them!",
+    "category": "for-kids",
+    "tags": [
+      "halloween",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-03-01",
+    "slug": "why-are-ghosts-bad-liars"
+  },
+  {
+    "id": "for-kids-007",
+    "setup": "What animal is always at a baseball game?",
+    "punchline": "A bat!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "sports"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-03-10",
+    "slug": "what-animal-is-always-at-a-baseball-game"
+  },
+  {
+    "id": "for-kids-008",
+    "setup": "Why did the banana go to the doctor?",
+    "punchline": "Because it wasn't peeling well!",
+    "category": "for-kids",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-03-22",
+    "slug": "why-did-the-banana-go-to-the-doctor-2"
+  },
+  {
+    "id": "for-kids-009",
+    "setup": "What do you call a dinosaur that crashes their car?",
+    "punchline": "Tyrannosaurus Wrecks!",
+    "category": "for-kids",
+    "tags": [
+      "dinosaurs",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-04-03",
+    "slug": "what-do-you-call-a-dinosaur-that-crashes-their-car"
+  },
+  {
+    "id": "for-kids-010",
+    "setup": "What has ears but cannot hear?",
+    "punchline": "A cornfield!",
+    "category": "for-kids",
+    "tags": [
+      "riddles",
+      "nature"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-04-15",
+    "slug": "what-has-ears-but-cannot-hear"
+  },
+  {
+    "id": "for-kids-011",
+    "setup": "Why did the cookie go to the hospital?",
+    "punchline": "Because it felt crummy!",
+    "category": "for-kids",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-04-25",
+    "slug": "why-did-the-cookie-go-to-the-hospital"
+  },
+  {
+    "id": "for-kids-012",
+    "setup": "What do you call a cat that loves to bowl?",
+    "punchline": "An alley cat!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "sports"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-05-08",
+    "slug": "what-do-you-call-a-cat-that-loves-to-bowl"
+  },
+  {
+    "id": "for-kids-013",
+    "setup": "Why do bees have sticky hair?",
+    "punchline": "Because they use honeycombs!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-05-20",
+    "slug": "why-do-bees-have-sticky-hair-2"
+  },
+  {
+    "id": "for-kids-014",
+    "setup": "What do you call a pig that does karate?",
+    "punchline": "A pork chop!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "martial-arts"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-06-01",
+    "slug": "what-do-you-call-a-pig-that-does-karate-2"
+  },
+  {
+    "id": "for-kids-015",
+    "setup": "Why did the student eat his homework?",
+    "punchline": "Because his teacher told him it was a piece of cake!",
+    "category": "for-kids",
+    "tags": [
+      "school",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-06-14",
+    "slug": "why-did-the-student-eat-his-homework"
+  },
+  {
+    "id": "for-kids-016",
+    "setup": "What do you get when you cross a snowman and a vampire?",
+    "punchline": "Frostbite!",
+    "category": "for-kids",
+    "tags": [
+      "winter",
+      "monsters"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-06-28",
+    "slug": "what-do-you-get-when-you-cross-a-snowman-and-a-vampire"
+  },
+  {
+    "id": "for-kids-017",
+    "setup": "Why do ducks have tail feathers?",
+    "punchline": "To cover their butt-quacks!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-07-10",
+    "slug": "why-do-ducks-have-tail-feathers-2"
+  },
+  {
+    "id": "for-kids-018",
+    "setup": "What do you call a train that sneezes?",
+    "punchline": "Achoo-choo train!",
+    "category": "for-kids",
+    "tags": [
+      "vehicles",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-07-22",
+    "slug": "what-do-you-call-a-train-that-sneezes"
+  },
+  {
+    "id": "for-kids-019",
+    "setup": "Why can't you trust the king of the jungle?",
+    "punchline": "Because he's always lion!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-08-05",
+    "slug": "why-cant-you-trust-the-king-of-the-jungle"
+  },
+  {
+    "id": "for-kids-020",
+    "setup": "What do elves learn in school?",
+    "punchline": "The elf-abet!",
+    "category": "for-kids",
+    "tags": [
+      "christmas",
+      "school"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-08-18",
+    "slug": "what-do-elves-learn-in-school-2"
+  },
+  {
+    "id": "for-kids-021",
+    "setup": "What did one wall say to the other wall?",
+    "punchline": "I'll meet you at the corner!",
+    "category": "for-kids",
+    "tags": [
+      "riddles",
+      "buildings"
+    ],
+    "rating": 3,
+    "dateAdded": "2025-09-02",
+    "slug": "what-did-one-wall-say-to-the-other-wall"
+  },
+  {
+    "id": "for-kids-022",
+    "setup": "Why did the crayon feel sad?",
+    "punchline": "Because its life was so drawn out!",
+    "category": "for-kids",
+    "tags": [
+      "art",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-09-15",
+    "slug": "why-did-the-crayon-feel-sad"
+  },
+  {
+    "id": "for-kids-023",
+    "setup": "What do you call a funny mountain?",
+    "punchline": "Hill-arious!",
+    "category": "for-kids",
+    "tags": [
+      "nature",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-10-01",
+    "slug": "what-do-you-call-a-funny-mountain"
+  },
+  {
+    "id": "for-kids-024",
+    "setup": "Why did the tomato turn red?",
+    "punchline": "Because it saw the salad dressing!",
+    "category": "for-kids",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-10-18",
+    "slug": "why-did-the-tomato-turn-red-2"
+  },
+  {
+    "id": "for-kids-025",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-11-03",
+    "slug": "what-do-you-call-a-sleeping-bull"
+  },
+  {
+    "id": "for-kids-026",
+    "setup": "What do you call a dog that does magic?",
+    "punchline": "A Labracadabrador!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "magic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-027",
+    "setup": "Why did the bicycle fall over?",
+    "punchline": "Because it was two-tired!",
+    "category": "for-kids",
+    "tags": [
+      "vehicles",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-028",
+    "setup": "What do you call a fairy that hasn't taken a bath?",
+    "punchline": "Stinkerbell!",
+    "category": "for-kids",
+    "tags": [
+      "fairy-tales",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-02",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-029",
+    "setup": "Why do sharks swim in salt water?",
+    "punchline": "Because pepper water makes them sneeze!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "ocean"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-030",
+    "setup": "What do you call a cow with no legs?",
+    "punchline": "Ground beef!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-03",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-031",
+    "setup": "What do you call a rabbit with fleas?",
+    "punchline": "Bugs Bunny!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "cartoons"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-032",
+    "setup": "Why did the melon jump into the lake?",
+    "punchline": "It wanted to be a watermelon!",
+    "category": "for-kids",
+    "tags": [
+      "food",
+      "nature"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-04",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-033",
+    "setup": "What do you call a witch at the beach?",
+    "punchline": "A sand-witch!",
+    "category": "for-kids",
+    "tags": [
+      "halloween",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-04",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-034",
+    "setup": "Why did the kid bring a ladder to school?",
+    "punchline": "Because she wanted to go to high school!",
+    "category": "for-kids",
+    "tags": [
+      "school",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-035",
+    "setup": "What do cows read in the morning?",
+    "punchline": "The moos-paper!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-05",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-036",
+    "setup": "What do you call a dinosaur that knows a lot of words?",
+    "punchline": "A thesaurus!",
+    "category": "for-kids",
+    "tags": [
+      "dinosaurs",
+      "school"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-06",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-037",
+    "setup": "Why was the math book always worried?",
+    "punchline": "Because it had so many problems!",
+    "category": "for-kids",
+    "tags": [
+      "school",
+      "math"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-06",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-038",
+    "setup": "What kind of shoes do ninjas wear?",
+    "punchline": "Sneakers!",
+    "category": "for-kids",
+    "tags": [
+      "clothing",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-039",
+    "setup": "What do you call a monkey in a minefield?",
+    "punchline": "A baboom!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-040",
+    "setup": "Why can't Cinderella play soccer?",
+    "punchline": "Because she keeps running away from the ball!",
+    "category": "for-kids",
+    "tags": [
+      "disney",
+      "sports"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-08",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-041",
+    "setup": "What do you get when you cross a snake and a pie?",
+    "punchline": "A pie-thon!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-08",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-042",
+    "setup": "Why did the music teacher need a ladder?",
+    "punchline": "To reach the high notes!",
+    "category": "for-kids",
+    "tags": [
+      "music",
+      "school"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-09",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-043",
+    "setup": "What do you call a bear in the rain?",
+    "punchline": "A drizzly bear!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "weather"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-044",
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An investigator!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-10",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-045",
+    "setup": "Why did the orange stop rolling down the hill?",
+    "punchline": "It ran out of juice!",
+    "category": "for-kids",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-046",
+    "setup": "What do you call a penguin in the desert?",
+    "punchline": "Lost!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "geography"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-11",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-047",
+    "setup": "What do you call a lazy baby kangaroo?",
+    "punchline": "A pouch potato!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-048",
+    "setup": "Why are robots never afraid?",
+    "punchline": "Because they have nerves of steel!",
+    "category": "for-kids",
+    "tags": [
+      "robots",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-049",
+    "setup": "What do you call a horse that lives next door?",
+    "punchline": "A neigh-bor!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12",
+    "slug": ""
+  },
+  {
+    "id": "for-kids-050",
+    "setup": "Why do seagulls fly over the sea?",
+    "punchline": "Because if they flew over the bay, they'd be bagels!",
+    "category": "for-kids",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-13",
+    "slug": "why-do-seagulls-fly-over-sea"
+  },
+  {
+    "id": "for-kids-051",
+    "setup": "What do you call a sleeping T-Rex?",
+    "punchline": "A dino-snore!",
+    "category": "for-kids",
+    "tags": ["dinosaurs", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-sleeping-t-rex"
+  },
+  {
+    "id": "for-kids-052",
+    "setup": "Why did the banana put on sunscreen?",
+    "punchline": "Because it was peeling!",
+    "category": "for-kids",
+    "tags": ["food", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-banana-put-on-sunscreen"
+  },
+  {
+    "id": "for-kids-053",
+    "setup": "What do you call a snowman in summer?",
+    "punchline": "A puddle!",
+    "category": "for-kids",
+    "tags": ["winter", "nature"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-snowman-in-summer"
+  },
+  {
+    "id": "for-kids-054",
+    "setup": "Why did the egg go to school?",
+    "punchline": "To get egg-ucated!",
+    "category": "for-kids",
+    "tags": ["food", "school"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-egg-go-to-school"
+  },
+  {
+    "id": "for-kids-055",
+    "setup": "What do you call a dinosaur that wears glasses?",
+    "punchline": "A Do-you-think-he-saurus!",
+    "category": "for-kids",
+    "tags": ["dinosaurs", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-dinosaur-wears-glasses"
+  },
+  {
+    "id": "for-kids-056",
+    "setup": "What has four wheels and flies?",
+    "punchline": "A garbage truck!",
+    "category": "for-kids",
+    "tags": ["vehicles", "riddles"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-has-four-wheels-and-flies"
+  },
+  {
+    "id": "for-kids-057",
+    "setup": "Why are fish so smart?",
+    "punchline": "Because they live in schools!",
+    "category": "for-kids",
+    "tags": ["animals", "school"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-are-fish-so-smart"
+  },
+  {
+    "id": "for-kids-058",
+    "setup": "What do you call a duck that steals?",
+    "punchline": "A robber ducky!",
+    "category": "for-kids",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-duck-that-steals"
+  },
+  {
+    "id": "for-kids-059",
+    "setup": "Why did the moon skip dinner?",
+    "punchline": "Because it was full!",
+    "category": "for-kids",
+    "tags": ["space", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-moon-skip-dinner"
+  },
+  {
+    "id": "for-kids-060",
+    "setup": "What do you call a cow that eats your grass?",
+    "punchline": "A lawn moo-er!",
+    "category": "for-kids",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-cow-eats-your-grass"
+  },
+  {
+    "id": "for-kids-061",
+    "setup": "Why did the jellyfish blush?",
+    "punchline": "Because the sea weed!",
+    "category": "for-kids",
+    "tags": ["ocean", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-jellyfish-blush"
+  },
+  {
+    "id": "for-kids-062",
+    "setup": "What do you call a dragon that breathes bubble gum?",
+    "punchline": "A bubble dragon!",
+    "category": "for-kids",
+    "tags": ["fairy-tales", "candy"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-dragon-breathes-bubble-gum"
+  },
+  {
+    "id": "for-kids-063",
+    "setup": "Why can't your hand be 12 inches long?",
+    "punchline": "Because then it would be a foot!",
+    "category": "for-kids",
+    "tags": ["anatomy", "riddles"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-cant-hand-be-twelve-inches"
+  },
+  {
+    "id": "for-kids-064",
+    "setup": "What do you get when you mix a cat and a lemon?",
+    "punchline": "A sour puss!",
+    "category": "for-kids",
+    "tags": ["animals", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-get-mix-cat-and-lemon"
+  },
+  {
+    "id": "for-kids-065",
+    "setup": "Why did the sun go to school?",
+    "punchline": "To get a little brighter!",
+    "category": "for-kids",
+    "tags": ["space", "school"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-sun-go-to-school"
+  },
+  {
+    "id": "for-kids-066",
+    "setup": "What do you call a funny chicken?",
+    "punchline": "A comedi-hen!",
+    "category": "for-kids",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-funny-chicken"
+  },
+  {
+    "id": "for-kids-067",
+    "setup": "Why did the turtle cross the road?",
+    "punchline": "To get to the shell station!",
+    "category": "for-kids",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-turtle-cross-the-road"
+  },
+  {
+    "id": "for-kids-068",
+    "setup": "What do you call a sleeping cat?",
+    "punchline": "A cat-napper!",
+    "category": "for-kids",
+    "tags": ["animals", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-sleeping-cat"
+  },
+  {
+    "id": "for-kids-069",
+    "setup": "Why did the elephant bring a suitcase to the zoo?",
+    "punchline": "Because he wanted to pack his trunk!",
+    "category": "for-kids",
+    "tags": ["animals", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-elephant-bring-suitcase-zoo"
+  },
+  {
+    "id": "for-kids-070",
+    "setup": "What do you call a sleeping pizza?",
+    "punchline": "A piZZZa!",
+    "category": "for-kids",
+    "tags": ["food", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-sleeping-pizza-kids"
+  },
+  {
+    "id": "for-kids-071",
+    "setup": "What color socks do bears wear?",
+    "punchline": "They don't wear socks, they have bear feet!",
+    "category": "for-kids",
+    "tags": ["animals", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-color-socks-bears-wear"
+  },
+  {
+    "id": "for-kids-072",
+    "setup": "Why did the spider go to the computer?",
+    "punchline": "To check his website!",
+    "category": "for-kids",
+    "tags": ["animals", "technology"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-spider-go-to-computer"
+  },
+  {
+    "id": "for-kids-073",
+    "setup": "What do you call a frog that's illegally parked?",
+    "punchline": "Toad!",
+    "category": "for-kids",
+    "tags": ["animals", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-frog-illegally-parked"
+  },
+  {
+    "id": "for-kids-074",
+    "setup": "Why do birds fly south in the winter?",
+    "punchline": "Because it's too far to walk!",
+    "category": "for-kids",
+    "tags": ["animals", "weather"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-do-birds-fly-south-winter"
+  },
+  {
+    "id": "for-kids-075",
+    "setup": "What do you call a ghost's favorite dessert?",
+    "punchline": "I-scream!",
+    "category": "for-kids",
+    "tags": ["halloween", "food"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-ghosts-favorite-dessert"
+  },
+  {
+    "id": "for-kids-076",
+    "setup": "Why do lions eat raw meat?",
+    "punchline": "Because they don't know how to cook!",
+    "category": "for-kids",
+    "tags": ["animals", "food"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-do-lions-eat-raw-meat"
+  },
+  {
+    "id": "for-kids-077",
+    "setup": "What do you call a dog at the beach?",
+    "punchline": "A hot dog!",
+    "category": "for-kids",
+    "tags": ["animals", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-dog-at-the-beach"
+  },
+  {
+    "id": "for-kids-078",
+    "setup": "Why did the leaf go to the doctor?",
+    "punchline": "It was feeling green!",
+    "category": "for-kids",
+    "tags": ["nature", "health"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-leaf-go-to-doctor"
+  },
+  {
+    "id": "for-kids-079",
+    "setup": "What do you call a kangaroo that watches TV all day?",
+    "punchline": "A pouch potato!",
+    "category": "for-kids",
+    "tags": ["animals", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-kangaroo-watches-tv"
+  },
+  {
+    "id": "for-kids-080",
+    "setup": "Why did the clock get in trouble at school?",
+    "punchline": "Because it kept tocking!",
+    "category": "for-kids",
+    "tags": ["school", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-clock-get-trouble-school"
+  },
+  {
+    "id": "for-kids-081",
+    "setup": "What do you call a snowman party?",
+    "punchline": "A snowball!",
+    "category": "for-kids",
+    "tags": ["winter", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-snowman-party"
+  },
+  {
+    "id": "for-kids-082",
+    "setup": "Why did the astronaut break up with his girlfriend?",
+    "punchline": "Because he needed more space!",
+    "category": "for-kids",
+    "tags": ["space", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-astronaut-break-up-girlfriend"
+  },
+  {
+    "id": "for-kids-083",
+    "setup": "What do clouds wear under their raincoats?",
+    "punchline": "Thunderwear!",
+    "category": "for-kids",
+    "tags": ["weather", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-clouds-wear-under-raincoats"
+  },
+  {
+    "id": "for-kids-084",
+    "setup": "Why was the baby ant confused?",
+    "punchline": "Because all of his uncles were ants!",
+    "category": "for-kids",
+    "tags": ["animals", "family"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-was-baby-ant-confused"
+  },
+  {
+    "id": "for-kids-085",
+    "setup": "What do you call a flower that runs on electricity?",
+    "punchline": "A power plant!",
+    "category": "for-kids",
+    "tags": ["nature", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-flower-runs-electricity"
+  },
+  {
+    "id": "for-kids-086",
+    "setup": "Why did the strawberry cry?",
+    "punchline": "Because it was in a jam!",
+    "category": "for-kids",
+    "tags": ["food", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-strawberry-cry"
+  },
+  {
+    "id": "for-kids-087",
+    "setup": "What has a head and a tail but no body?",
+    "punchline": "A coin!",
+    "category": "for-kids",
+    "tags": ["riddles", "money"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-has-head-tail-no-body"
+  },
+  {
+    "id": "for-kids-088",
+    "setup": "Why did the rocket lose its job?",
+    "punchline": "It got fired!",
+    "category": "for-kids",
+    "tags": ["space", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-rocket-lose-its-job"
+  },
+  {
+    "id": "for-kids-089",
+    "setup": "What do you call a sleeping ant?",
+    "punchline": "A cant!",
+    "category": "for-kids",
+    "tags": ["animals", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-sleeping-ant"
+  },
+  {
+    "id": "for-kids-090",
+    "setup": "Why are teddy bears never hungry?",
+    "punchline": "Because they're always stuffed!",
+    "category": "for-kids",
+    "tags": ["toys", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-are-teddy-bears-never-hungry"
+  },
+  {
+    "id": "for-kids-091",
+    "setup": "What did the volcano say to the other volcano?",
+    "punchline": "I lava you!",
+    "category": "for-kids",
+    "tags": ["nature", "romance"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-volcano-say-to-other-volcano"
+  },
+  {
+    "id": "for-kids-092",
+    "setup": "Why do porcupines always win the game?",
+    "punchline": "Because they have the most points!",
+    "category": "for-kids",
+    "tags": ["animals", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-porcupines-always-win-game"
+  },
+  {
+    "id": "for-kids-093",
+    "setup": "What do you call a pig that plays basketball?",
+    "punchline": "A ball hog!",
+    "category": "for-kids",
+    "tags": ["animals", "sports"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-pig-plays-basketball"
+  },
+  {
+    "id": "for-kids-094",
+    "setup": "Why can't you play cards in the jungle?",
+    "punchline": "Too many cheetahs!",
+    "category": "for-kids",
+    "tags": ["animals", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "why-cant-play-cards-in-jungle"
+  },
+  {
+    "id": "for-kids-095",
+    "setup": "What do you call a sheep with no legs?",
+    "punchline": "A cloud!",
+    "category": "for-kids",
+    "tags": ["animals", "weather"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-sheep-with-no-legs"
+  },
+  {
+    "id": "for-kids-096",
+    "setup": "Why did the gum cross the road?",
+    "punchline": "It was stuck to the chicken's foot!",
+    "category": "for-kids",
+    "tags": ["food", "animals"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-gum-cross-the-road"
+  },
+  {
+    "id": "for-kids-097",
+    "setup": "What do you call a robot that likes to camp?",
+    "punchline": "A ro-bot scout!",
+    "category": "for-kids",
+    "tags": ["robots", "camping"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-call-robot-likes-to-camp"
+  },
+  {
+    "id": "for-kids-098",
+    "setup": "Why was the broom running late?",
+    "punchline": "It over-swept!",
+    "category": "for-kids",
+    "tags": ["household", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-was-broom-running-late"
+  },
+  {
+    "id": "for-kids-099",
+    "setup": "What do you call a cat on ice?",
+    "punchline": "One cool cat!",
+    "category": "for-kids",
+    "tags": ["animals", "winter"],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-cat-on-ice"
+  },
+  {
+    "id": "for-kids-100",
+    "setup": "Why did the banana visit the nurse?",
+    "punchline": "Because it wasn't peeling very well!",
+    "category": "for-kids",
+    "tags": ["food", "health"],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-banana-visit-the-nurse"
+  }
+]

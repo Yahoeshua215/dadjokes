@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "science-001",
+    "slug": "why-cant-you-trust-an-atom",
+    "setup": "Why can't you trust an atom?",
+    "punchline": "Because they make up literally everything!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "science-002",
+    "slug": "what-did-the-biologist-wear-on-his-first-date",
+    "setup": "What did the biologist wear on his first date?",
+    "punchline": "Designer genes!",
+    "category": "science",
+    "tags": [
+      "biology",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "science-003",
+    "slug": "i-would-tell-you-a-chemistry-joke",
+    "setup": "I would tell you a chemistry joke...",
+    "punchline": "But I know I wouldn't get a reaction.",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "science-004",
+    "slug": "why-did-the-physicist-break-up-with-the-biologist",
+    "setup": "Why did the physicist break up with the biologist?",
+    "punchline": "There was no chemistry!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "chemistry"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "science-005",
+    "slug": "what-did-earth-say-to-the-other-planets",
+    "setup": "What did Earth say to the other planets?",
+    "punchline": "Wow, you guys have no life!",
+    "category": "science",
+    "tags": [
+      "space",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "science-006",
+    "slug": "why-is-the-moon-so-broke",
+    "setup": "Why is the moon so broke?",
+    "punchline": "It's down to its last quarter!",
+    "category": "science",
+    "tags": [
+      "space",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "science-007",
+    "slug": "what-do-planets-like-to-read",
+    "setup": "What do planets like to read?",
+    "punchline": "Comet books!",
+    "category": "science",
+    "tags": [
+      "space",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "science-008",
+    "slug": "i-told-a-sodium-joke",
+    "setup": "I told a sodium joke...",
+    "punchline": "Na.",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "elements"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "science-009",
+    "slug": "what-do-you-do-with-a-sick-chemist",
+    "setup": "What do you do with a sick chemist?",
+    "punchline": "If you can't helium and you can't curium, then you might as well barium!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "elements"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "science-010",
+    "slug": "why-did-the-sun-go-to-school",
+    "setup": "Why did the sun go to school?",
+    "punchline": "To get a little brighter!",
+    "category": "science",
+    "tags": [
+      "space",
+      "school"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "science-011",
+    "slug": "how-does-the-ocean-say-hello",
+    "setup": "How does the ocean say hello?",
+    "punchline": "It waves!",
+    "category": "science",
+    "tags": [
+      "ocean",
+      "physics"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "science-012",
+    "slug": "what-did-one-tectonic-plate-say-when-it-bumped-into-another",
+    "setup": "What did one tectonic plate say when it bumped into another?",
+    "punchline": "Sorry, my fault!",
+    "category": "science",
+    "tags": [
+      "geology",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "science-013",
+    "slug": "why-are-chemists-great-at-solving-problems",
+    "setup": "Why are chemists great at solving problems?",
+    "punchline": "They have all the solutions!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "science-014",
+    "slug": "what-did-the-thermometer-say-to-the-graduated-cylinder",
+    "setup": "What did the thermometer say to the graduated cylinder?",
+    "punchline": "You may have graduated, but I have more degrees!",
+    "category": "science",
+    "tags": [
+      "lab",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "science-015",
+    "slug": "why-did-the-photon-check-no-luggage-at-the-airport",
+    "setup": "Why did the photon check no luggage at the airport?",
+    "punchline": "Because it was traveling light!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "science-016",
+    "slug": "whats-a-nuclear-physicists-favorite-meal",
+    "setup": "What's a nuclear physicist's favorite meal?",
+    "punchline": "Fission chips!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "science-017",
+    "slug": "did-you-hear-about-the-scientist-who-was-reading-a-book-abou",
+    "setup": "Did you hear about the scientist who was reading a book about helium?",
+    "punchline": "He couldn't put it down!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "science-018",
+    "slug": "why-did-the-germ-cross-the-microscope",
+    "setup": "Why did the germ cross the microscope?",
+    "punchline": "To get to the other slide!",
+    "category": "science",
+    "tags": [
+      "biology",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "science-019",
+    "slug": "what-did-the-limestone-say-to-the-geologist",
+    "setup": "What did the limestone say to the geologist?",
+    "punchline": "Don't take me for granite!",
+    "category": "science",
+    "tags": [
+      "geology",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "science-020",
+    "slug": "why-do-scientists-not-trust-stairs",
+    "setup": "Why do scientists not trust stairs?",
+    "punchline": "Because they're always up to something!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "science-021",
+    "slug": "what-does-a-subatomic-duck-say",
+    "setup": "What does a subatomic duck say?",
+    "punchline": "Quark!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "animal"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "science-022",
+    "slug": "why-did-the-lab-technician-quit",
+    "setup": "Why did the lab technician quit?",
+    "punchline": "Because there was no more reaction from management!",
+    "category": "science",
+    "tags": [
+      "lab",
+      "work"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "science-023",
+    "slug": "how-did-the-astronaut-serve-dinner",
+    "setup": "How did the astronaut serve dinner?",
+    "punchline": "On flying saucers!",
+    "category": "science",
+    "tags": [
+      "space",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "science-024",
+    "slug": "what-is-a-tornados-favorite-game",
+    "setup": "What is a tornado's favorite game?",
+    "punchline": "Twister!",
+    "category": "science",
+    "tags": [
+      "weather",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "science-025",
+    "slug": "why-did-the-electron-get-lost",
+    "setup": "Why did the electron get lost?",
+    "punchline": "It followed the path of least resistance!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "electricity"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-13"
+  },
+  {
+    "id": "science-026",
+    "slug": "",
+    "setup": "Why can you never trust an atom?",
+    "punchline": "They literally make up everything!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-027",
+    "slug": "",
+    "setup": "What did the volcano say to its partner?",
+    "punchline": "I lava you!",
+    "category": "science",
+    "tags": [
+      "geology",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-028",
+    "slug": "",
+    "setup": "Why are bacteria so bad at math?",
+    "punchline": "Because they multiply by dividing!",
+    "category": "science",
+    "tags": [
+      "biology",
+      "math"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "science-029",
+    "slug": "",
+    "setup": "What did the proton say to the electron?",
+    "punchline": "Stop being so negative!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "science-030",
+    "slug": "",
+    "setup": "Why is the periodic table always stressed?",
+    "punchline": "Because it has too many elements to keep track of!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "elements"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "science-031",
+    "slug": "",
+    "setup": "What type of dogs do scientists have?",
+    "punchline": "Lab retrievers!",
+    "category": "science",
+    "tags": [
+      "lab",
+      "animal"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "science-032",
+    "slug": "",
+    "setup": "Why did the cloud break up with the fog?",
+    "punchline": "It was too misty-eyed!",
+    "category": "science",
+    "tags": [
+      "weather",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "science-033",
+    "slug": "",
+    "setup": "What did the scientist say when he found two isotopes of helium?",
+    "punchline": "HeHe!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "elements"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "science-034",
+    "slug": "",
+    "setup": "Why did the biologist break up with the physicist?",
+    "punchline": "They had no potential energy together!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "biology"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "science-035",
+    "slug": "",
+    "setup": "What's a pirate's favorite element?",
+    "punchline": "Arrrgon!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "science-036",
+    "slug": "",
+    "setup": "How did the cell phone get pregnant?",
+    "punchline": "It went through cell division!",
+    "category": "science",
+    "tags": [
+      "biology",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "science-037",
+    "slug": "",
+    "setup": "Why did the comet break up with the asteroid?",
+    "punchline": "It needed more space!",
+    "category": "science",
+    "tags": [
+      "space",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "science-038",
+    "slug": "",
+    "setup": "What do you call an acid with an attitude?",
+    "punchline": "A-mean-oh acid!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "biology"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "science-039",
+    "slug": "",
+    "setup": "Why did the neutron get into the club for free?",
+    "punchline": "Because there was no charge!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "science-040",
+    "slug": "",
+    "setup": "What do you call a sleeping dinosaur fossil?",
+    "punchline": "A bedrock!",
+    "category": "science",
+    "tags": [
+      "geology",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "science-041",
+    "slug": "",
+    "setup": "Why do magnets have such good relationships?",
+    "punchline": "Because they're so attracted to each other!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "science-042",
+    "slug": "",
+    "setup": "What does DNA stand for?",
+    "punchline": "National Dyslexics Association!",
+    "category": "science",
+    "tags": [
+      "biology",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "science-043",
+    "slug": "",
+    "setup": "Why did the mushroom go to the party?",
+    "punchline": "Because he was a fungi — but the biologist already knew that!",
+    "category": "science",
+    "tags": [
+      "biology",
+      "classic"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "science-044",
+    "slug": "",
+    "setup": "What do you call iron blowing in the wind?",
+    "punchline": "Fe-breeze!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "elements"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "science-045",
+    "slug": "",
+    "setup": "Why are geologists great dates?",
+    "punchline": "They can make your bedrock!",
+    "category": "science",
+    "tags": [
+      "geology",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "science-046",
+    "slug": "",
+    "setup": "What did one cell say to his sister cell that stepped on his toe?",
+    "punchline": "Mitosis!",
+    "category": "science",
+    "tags": [
+      "biology",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "science-047",
+    "slug": "",
+    "setup": "Why can't you trust a balloon?",
+    "punchline": "It's full of hot air!",
+    "category": "science",
+    "tags": [
+      "physics",
+      "classic"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "science-048",
+    "slug": "",
+    "setup": "What did the gold say to the pyrite?",
+    "punchline": "You're such a fool's errand!",
+    "category": "science",
+    "tags": [
+      "geology",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "science-049",
+    "slug": "",
+    "setup": "Why did the noble gas cry?",
+    "punchline": "Because all its friends argon!",
+    "category": "science",
+    "tags": [
+      "chemistry",
+      "elements"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "science-050",
+    "slug": "",
+    "setup": "What do planets like to listen to?",
+    "punchline": "Nep-tunes!",
+    "category": "science",
+    "tags": [
+      "space",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-13"
+  },
+  {
+    "id": "science-051",
+    "slug": "why-did-the-acid-go-to-the-gym",
+    "setup": "Why did the acid go to the gym?",
+    "punchline": "To become a buffer solution!",
+    "category": "science",
+    "tags": ["chemistry", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-052",
+    "slug": "what-did-mars-say-to-saturn",
+    "setup": "What did Mars say to Saturn?",
+    "punchline": "Give me a ring sometime!",
+    "category": "science",
+    "tags": ["space", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-053",
+    "slug": "why-is-electricity-so-good-at-school",
+    "setup": "Why is electricity so good at school?",
+    "punchline": "Because it always conducts itself well!",
+    "category": "science",
+    "tags": ["physics", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-054",
+    "slug": "what-did-the-biologist-say-on-beach",
+    "setup": "What did the biologist say at the beach?",
+    "punchline": "I'm really into cell-fies here!",
+    "category": "science",
+    "tags": ["biology", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-055",
+    "slug": "why-cant-you-trust-the-king-of-the-jungle",
+    "setup": "Why can't you trust the king of the jungle to take a test?",
+    "punchline": "Because there are too many cheetahs!",
+    "category": "science",
+    "tags": ["biology", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-056",
+    "slug": "what-did-the-oxygen-say-to-the-magnesium",
+    "setup": "What did the oxygen say to the magnesium?",
+    "punchline": "OMg!",
+    "category": "science",
+    "tags": ["chemistry", "elements"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-057",
+    "slug": "why-did-the-star-go-to-school",
+    "setup": "Why did the star go to school?",
+    "punchline": "To become a little brighter!",
+    "category": "science",
+    "tags": ["space", "school"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-058",
+    "slug": "what-did-the-rock-say-to-the-mineral",
+    "setup": "What did the rock say to the mineral?",
+    "punchline": "You're mine-ral!",
+    "category": "science",
+    "tags": ["geology", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-059",
+    "slug": "why-did-the-molecule-cross-the-road",
+    "setup": "Why did the molecule cross the road?",
+    "punchline": "To bond with the other side!",
+    "category": "science",
+    "tags": ["chemistry", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-060",
+    "slug": "how-does-a-scientist-freshen-breath",
+    "setup": "How does a scientist freshen their breath?",
+    "punchline": "With experi-mints!",
+    "category": "science",
+    "tags": ["lab", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-061",
+    "slug": "why-did-the-rocket-break-up-with-the-satellite",
+    "setup": "Why did the rocket break up with the satellite?",
+    "punchline": "It needed its space!",
+    "category": "science",
+    "tags": ["space", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-062",
+    "slug": "what-did-the-mitochondria-say-to-the-cell",
+    "setup": "What did the mitochondria say to the cell?",
+    "punchline": "I'm the powerhouse around here!",
+    "category": "science",
+    "tags": ["biology", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-063",
+    "slug": "why-did-the-botanist-quit",
+    "setup": "Why did the botanist quit her job?",
+    "punchline": "She was tired of being bushed!",
+    "category": "science",
+    "tags": ["biology", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-064",
+    "slug": "what-did-one-ion-say-to-the-other",
+    "setup": "What did one ion say to the other?",
+    "punchline": "I've got my ion you!",
+    "category": "science",
+    "tags": ["chemistry", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-065",
+    "slug": "why-is-the-sun-so-popular",
+    "setup": "Why is the sun so popular?",
+    "punchline": "Because it's the center of the solar system!",
+    "category": "science",
+    "tags": ["space", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-066",
+    "slug": "what-do-you-call-a-tooth-in-a-glass-of-water",
+    "setup": "What do you call a tooth in a glass of water?",
+    "punchline": "A one molar solution!",
+    "category": "science",
+    "tags": ["chemistry", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-067",
+    "slug": "why-did-the-geologist-get-divorced",
+    "setup": "Why did the geologist get divorced?",
+    "punchline": "Her husband took her for granite!",
+    "category": "science",
+    "tags": ["geology", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-068",
+    "slug": "what-did-the-physics-teacher-say-to-pupil",
+    "setup": "What did the physics teacher say to the student who was late?",
+    "punchline": "You have a lot of potential, but no energy!",
+    "category": "science",
+    "tags": ["physics", "school"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-069",
+    "slug": "why-are-quantum-physicists-bad-at-love",
+    "setup": "Why are quantum physicists bad at love?",
+    "punchline": "When they find the position, they can't find the momentum!",
+    "category": "science",
+    "tags": ["physics", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-070",
+    "slug": "what-do-clouds-wear-under-their-clothes",
+    "setup": "What do clouds wear under their clothes?",
+    "punchline": "Thunderwear!",
+    "category": "science",
+    "tags": ["weather", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-071",
+    "slug": "why-did-the-astronaut-break-up-with-girlfriend",
+    "setup": "Why did the astronaut break up with his girlfriend?",
+    "punchline": "He needed more space!",
+    "category": "science",
+    "tags": ["space", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-072",
+    "slug": "what-does-a-photon-say-at-hotel-check-in",
+    "setup": "What does a photon say when asked if it needs luggage help?",
+    "punchline": "No thanks, I'm traveling light!",
+    "category": "science",
+    "tags": ["physics", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-073",
+    "slug": "why-did-the-planet-go-to-doctor",
+    "setup": "Why did the planet go to the doctor?",
+    "punchline": "It was feeling a little spacey!",
+    "category": "science",
+    "tags": ["space", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-074",
+    "slug": "what-did-silver-say-to-gold",
+    "setup": "What did silver say to gold at the party?",
+    "punchline": "AU, get outta here!",
+    "category": "science",
+    "tags": ["chemistry", "elements"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-075",
+    "slug": "why-did-the-physics-book-look-so-tired",
+    "setup": "Why did the physics book look so tired?",
+    "punchline": "Because it had too many problems with gravity!",
+    "category": "science",
+    "tags": ["physics", "school"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-076",
+    "slug": "what-do-you-call-a-microbiologist-who-travels",
+    "setup": "What do you call a microbiologist who travels the world?",
+    "punchline": "A man of many cultures!",
+    "category": "science",
+    "tags": ["biology", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-077",
+    "slug": "why-is-the-ocean-so-salty",
+    "setup": "Why is the ocean so salty?",
+    "punchline": "Because the land never waves back!",
+    "category": "science",
+    "tags": ["ocean", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-078",
+    "slug": "what-did-the-uranium-say-to-the-beryllium",
+    "setup": "What did uranium-238 say to uranium-235?",
+    "punchline": "I feel your fission, bro!",
+    "category": "science",
+    "tags": ["physics", "elements"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-079",
+    "slug": "why-did-the-plant-go-to-math-class",
+    "setup": "Why did the plant go to math class?",
+    "punchline": "To improve its stem skills!",
+    "category": "science",
+    "tags": ["biology", "school"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-080",
+    "slug": "what-is-a-chemists-favorite-holiday",
+    "setup": "What is a chemist's favorite holiday?",
+    "punchline": "Mole Day!",
+    "category": "science",
+    "tags": ["chemistry", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-081",
+    "slug": "why-is-wind-power-so-popular",
+    "setup": "Why is wind power so popular?",
+    "punchline": "Because it has a lot of fans!",
+    "category": "science",
+    "tags": ["physics", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-082",
+    "slug": "what-did-the-stamen-say-to-the-pistil",
+    "setup": "What did the stamen say to the pistil?",
+    "punchline": "I like your style!",
+    "category": "science",
+    "tags": ["biology", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-083",
+    "slug": "why-did-the-glacier-move-so-slowly",
+    "setup": "Why did the glacier move so slowly?",
+    "punchline": "It got cold feet!",
+    "category": "science",
+    "tags": ["geology", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-084",
+    "slug": "what-did-the-chemist-have-for-lunch",
+    "setup": "What did the chemist have for lunch?",
+    "punchline": "A sub-atomic sandwich!",
+    "category": "science",
+    "tags": ["chemistry", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-085",
+    "slug": "why-did-the-moon-skip-dinner",
+    "setup": "Why did the moon skip dinner?",
+    "punchline": "Because it was full!",
+    "category": "science",
+    "tags": ["space", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-086",
+    "slug": "what-kind-of-music-do-planets-like",
+    "setup": "What kind of music do planets sing?",
+    "punchline": "Nep-tunes!",
+    "category": "science",
+    "tags": ["space", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-087",
+    "slug": "why-is-a-black-hole-so-negative",
+    "setup": "Why is a black hole so negative?",
+    "punchline": "Because it sucks the life out of everything!",
+    "category": "science",
+    "tags": ["space", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-088",
+    "slug": "what-did-gregor-mendel-say-to-his-plants",
+    "setup": "What did Gregor Mendel say to his plants?",
+    "punchline": "What's up, bud?",
+    "category": "science",
+    "tags": ["biology", "classic"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-089",
+    "slug": "why-do-programmers-prefer-dark-mode",
+    "setup": "Why should you never trust an atom in court?",
+    "punchline": "They make up everything!",
+    "category": "science",
+    "tags": ["chemistry", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-090",
+    "slug": "what-did-the-earthquake-say-to-the-other",
+    "setup": "What did one earthquake say to the other earthquake?",
+    "punchline": "It's not my fault!",
+    "category": "science",
+    "tags": ["geology", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-091",
+    "slug": "why-did-the-white-blood-cell-fail-test",
+    "setup": "Why did the white blood cell fail its exam?",
+    "punchline": "It got a B-cell!",
+    "category": "science",
+    "tags": ["biology", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-092",
+    "slug": "how-did-the-astronaut-feel-about-weightlessness",
+    "setup": "How did the astronaut feel about weightlessness?",
+    "punchline": "It was uplifting!",
+    "category": "science",
+    "tags": ["space", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-093",
+    "slug": "why-cant-two-elephants-go-swimming",
+    "setup": "What is a physicist's favorite food?",
+    "punchline": "Fission chips!",
+    "category": "science",
+    "tags": ["physics", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-094",
+    "slug": "what-do-biologists-post-on-social-media",
+    "setup": "What do biologists post on social media?",
+    "punchline": "Cell-fies!",
+    "category": "science",
+    "tags": ["biology", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-095",
+    "slug": "why-did-the-meteor-go-to-hollywood",
+    "setup": "Why did the meteor go to Hollywood?",
+    "punchline": "It wanted to be a star!",
+    "category": "science",
+    "tags": ["space", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-096",
+    "slug": "what-do-you-call-a-clown-in-jail-who-loves-chemistry",
+    "setup": "What element is derived from a Norse god?",
+    "punchline": "Thorium!",
+    "category": "science",
+    "tags": ["chemistry", "elements"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-097",
+    "slug": "why-are-electrons-never-invited-to-parties",
+    "setup": "Why are electrons never invited to parties?",
+    "punchline": "Because they're always so negative!",
+    "category": "science",
+    "tags": ["physics", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-098",
+    "slug": "what-did-one-magnet-say-to-the-other",
+    "setup": "What did one magnet say to the other magnet on Valentine's Day?",
+    "punchline": "I find you very attractive!",
+    "category": "science",
+    "tags": ["physics", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-099",
+    "slug": "why-do-geologists-make-bad-comedians",
+    "setup": "Why do geologists make bad comedians?",
+    "punchline": "Their jokes are too rocky!",
+    "category": "science",
+    "tags": ["geology", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "science-100",
+    "slug": "what-is-a-tornados-favorite-party-game",
+    "setup": "What did the biologist couple name their twins?",
+    "punchline": "Gene and Jean!",
+    "category": "science",
+    "tags": ["biology", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  }
+]

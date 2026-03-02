@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "thanksgiving-001",
+    "slug": "what-did-the-turkey-say-to-the-computer",
+    "setup": "What did the turkey say to the computer?",
+    "punchline": "Google, google, google!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "tech"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "thanksgiving-002",
+    "slug": "why-did-the-pilgrim-cross-the-road",
+    "setup": "Why did the Pilgrim cross the road?",
+    "punchline": "Because the chicken hadn't arrived on the Mayflower yet!",
+    "category": "thanksgiving",
+    "tags": [
+      "pilgrim",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "id": "thanksgiving-003",
+    "slug": "what-do-you-call-a-turkey-on-the-day-after-thanksgiving",
+    "setup": "What do you call a turkey on the day after Thanksgiving?",
+    "punchline": "Lucky!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "thanksgiving-004",
+    "slug": "what-sound-does-a-turkeys-phone-make",
+    "setup": "What sound does a turkey's phone make?",
+    "punchline": "Wing, wing, wing!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "id": "thanksgiving-005",
+    "slug": "why-didnt-the-turkey-eat-dessert",
+    "setup": "Why didn't the turkey eat dessert?",
+    "punchline": "Because he was already stuffed!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "food"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "thanksgiving-006",
+    "slug": "what-did-the-turkey-say-before-thanksgiving",
+    "setup": "What did the turkey say before Thanksgiving?",
+    "punchline": "Drumstick me, I'm dreaming!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "id": "thanksgiving-007",
+    "slug": "why-did-the-cranberries-turn-red",
+    "setup": "Why did the cranberries turn red?",
+    "punchline": "Because they saw the turkey dressing!",
+    "category": "thanksgiving",
+    "tags": [
+      "cranberry",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "thanksgiving-008",
+    "slug": "what-key-has-legs-and-cant-open-doors",
+    "setup": "What key has legs and can't open doors?",
+    "punchline": "A tur-key!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "id": "thanksgiving-009",
+    "slug": "what-do-you-call-a-running-turkey",
+    "setup": "What do you call a running turkey?",
+    "punchline": "Fast food!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "food"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "thanksgiving-010",
+    "slug": "what-role-do-green-beans-play-in-thanksgiving-dinner",
+    "setup": "What role do green beans play in Thanksgiving dinner?",
+    "punchline": "The casse-role!",
+    "category": "thanksgiving",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "id": "thanksgiving-011",
+    "slug": "why-was-the-thanksgiving-soup-so-expensive",
+    "setup": "Why was the Thanksgiving soup so expensive?",
+    "punchline": "It had 24 carrots!",
+    "category": "thanksgiving",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "thanksgiving-012",
+    "slug": "what-do-you-get-when-you-cross-a-turkey-with-a-banjo",
+    "setup": "What do you get when you cross a turkey with a banjo?",
+    "punchline": "A turkey that can pluck itself!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "music"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-06"
+  },
+  {
+    "id": "thanksgiving-013",
+    "slug": "what-did-the-sweet-potato-say-to-the-pumpkin-pie",
+    "setup": "What did the sweet potato say to the pumpkin pie?",
+    "punchline": "You're my butter half!",
+    "category": "thanksgiving",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "thanksgiving-014",
+    "slug": "why-do-turkeys-gobble",
+    "setup": "Why do turkeys gobble?",
+    "punchline": "Because they never learned good table manners!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "manners"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-07"
+  },
+  {
+    "id": "thanksgiving-015",
+    "slug": "what-do-you-wear-to-thanksgiving-dinner",
+    "setup": "What do you wear to Thanksgiving dinner?",
+    "punchline": "A har-vest!",
+    "category": "thanksgiving",
+    "tags": [
+      "harvest",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "thanksgiving-016",
+    "slug": "if-april-showers-bring-may-flowers-what-do-may-flowers-bring-2",
+    "setup": "If April showers bring May flowers, what do May flowers bring?",
+    "punchline": "Pilgrims!",
+    "category": "thanksgiving",
+    "tags": [
+      "pilgrim",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-08"
+  },
+  {
+    "id": "thanksgiving-017",
+    "slug": "what-did-the-gravy-say-to-the-mashed-potatoes",
+    "setup": "What did the gravy say to the mashed potatoes?",
+    "punchline": "I'm all over you!",
+    "category": "thanksgiving",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "thanksgiving-018",
+    "slug": "why-did-the-turkey-join-a-band",
+    "setup": "Why did the turkey join a band?",
+    "punchline": "Because it had the drumsticks!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "music"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-09"
+  },
+  {
+    "id": "thanksgiving-019",
+    "slug": "what-did-the-hipster-say-the-day-after-thanksgiving",
+    "setup": "What did the hipster say the day after Thanksgiving?",
+    "punchline": "I liked the leftovers before they were cool!",
+    "category": "thanksgiving",
+    "tags": [
+      "hipster",
+      "leftovers"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "thanksgiving-020",
+    "slug": "what-do-turkeys-and-computers-have-in-common",
+    "setup": "What do turkeys and computers have in common?",
+    "punchline": "They both have bytes!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "tech"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "id": "thanksgiving-021",
+    "slug": "why-cant-you-take-a-turkey-to-church",
+    "setup": "Why can't you take a turkey to church?",
+    "punchline": "Because they use such fowl language!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "thanksgiving-022",
+    "slug": "what-happened-to-the-turkey-that-got-in-a-fight",
+    "setup": "What happened to the turkey that got in a fight?",
+    "punchline": "He got the stuffing knocked out of him!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-11"
+  },
+  {
+    "id": "thanksgiving-023",
+    "slug": "why-did-the-pumpkin-pie-go-to-the-dentist",
+    "setup": "Why did the pumpkin pie go to the dentist?",
+    "punchline": "Because it needed a filling!",
+    "category": "thanksgiving",
+    "tags": [
+      "pie",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "thanksgiving-024",
+    "slug": "what-did-the-mother-turkey-say-to-her-naughty-son",
+    "setup": "What did the mother turkey say to her naughty son?",
+    "punchline": "If your father could see you now, he'd turn over in his gravy!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "family"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-02-12"
+  },
+  {
+    "id": "thanksgiving-025",
+    "slug": "my-family-told-me-to-stop-telling-thanksgiving-jokes",
+    "setup": "My family told me to stop telling Thanksgiving jokes...",
+    "punchline": "But I said I couldn't quit cold turkey!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-02-13"
+  },
+  {
+    "id": "thanksgiving-026",
+    "slug": "",
+    "setup": "What did the turkey say to the hunter?",
+    "punchline": "Quack, quack, quack!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-027",
+    "slug": "",
+    "setup": "Why did the turkey sit on the tomahawk?",
+    "punchline": "To try to hatchet!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-028",
+    "slug": "",
+    "setup": "What do you call a Thanksgiving turkey that comes back to haunt you?",
+    "punchline": "A poultry-geist!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "thanksgiving-029",
+    "slug": "",
+    "setup": "What's the best thing to put into a pumpkin pie?",
+    "punchline": "Your teeth!",
+    "category": "thanksgiving",
+    "tags": [
+      "pie",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-02"
+  },
+  {
+    "id": "thanksgiving-030",
+    "slug": "",
+    "setup": "Why was the Thanksgiving dinner so expensive?",
+    "punchline": "Because it had 24 karat gold-en corn!",
+    "category": "thanksgiving",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "thanksgiving-031",
+    "slug": "",
+    "setup": "What's a turkey's favorite dessert?",
+    "punchline": "Peach gobbler!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "food"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03"
+  },
+  {
+    "id": "thanksgiving-032",
+    "slug": "",
+    "setup": "What did the pilgrim wear to dinner?",
+    "punchline": "A har-vest and tie!",
+    "category": "thanksgiving",
+    "tags": [
+      "pilgrim",
+      "fashion"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "thanksgiving-033",
+    "slug": "",
+    "setup": "Why did the turkey refuse dessert?",
+    "punchline": "He was already gobble-full!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-04"
+  },
+  {
+    "id": "thanksgiving-034",
+    "slug": "",
+    "setup": "What do you call a turkey on the day of Thanksgiving?",
+    "punchline": "Nervous!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "thanksgiving-035",
+    "slug": "",
+    "setup": "Why did the Pilgrims' pants always fall down?",
+    "punchline": "Because they wore their buckles on their hats!",
+    "category": "thanksgiving",
+    "tags": [
+      "pilgrim",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "id": "thanksgiving-036",
+    "slug": "",
+    "setup": "What smells the best at Thanksgiving dinner?",
+    "punchline": "Your nose!",
+    "category": "thanksgiving",
+    "tags": [
+      "food",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "thanksgiving-037",
+    "slug": "",
+    "setup": "What do you call a stuffed animal at Thanksgiving?",
+    "punchline": "A turkey!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-06"
+  },
+  {
+    "id": "thanksgiving-038",
+    "slug": "",
+    "setup": "Why did the turkey cross the road twice?",
+    "punchline": "To prove he wasn't a chicken!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "thanksgiving-039",
+    "slug": "",
+    "setup": "What's a Pilgrim's favorite kind of music?",
+    "punchline": "Plymouth Rock!",
+    "category": "thanksgiving",
+    "tags": [
+      "pilgrim",
+      "music"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-07"
+  },
+  {
+    "id": "thanksgiving-040",
+    "slug": "",
+    "setup": "What did the turkey say to the corn?",
+    "punchline": "Nice ears!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "thanksgiving-041",
+    "slug": "",
+    "setup": "Why was the turkey put in jail?",
+    "punchline": "The police suspected fowl play!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08"
+  },
+  {
+    "id": "thanksgiving-042",
+    "slug": "",
+    "setup": "What do grateful turkeys say?",
+    "punchline": "Thank gobble-ness!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "wordplay"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "thanksgiving-043",
+    "slug": "",
+    "setup": "Why did the mashed potatoes blush?",
+    "punchline": "Because they saw the turkey's dressing!",
+    "category": "thanksgiving",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09"
+  },
+  {
+    "id": "thanksgiving-044",
+    "slug": "",
+    "setup": "What's the best way to fix a broken pumpkin?",
+    "punchline": "With a pumpkin patch!",
+    "category": "thanksgiving",
+    "tags": [
+      "pumpkin",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "thanksgiving-045",
+    "slug": "",
+    "setup": "What did the leftover turkey say?",
+    "punchline": "Make me a sandwich!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "leftovers"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-10"
+  },
+  {
+    "id": "thanksgiving-046",
+    "slug": "",
+    "setup": "Why did the turkey play the drums?",
+    "punchline": "Because he already had the drumsticks!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "music"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "thanksgiving-047",
+    "slug": "",
+    "setup": "What's a math teacher's favorite part of Thanksgiving dinner?",
+    "punchline": "Pumpkin pi!",
+    "category": "thanksgiving",
+    "tags": [
+      "pie",
+      "math"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-11"
+  },
+  {
+    "id": "thanksgiving-048",
+    "slug": "",
+    "setup": "What do you get when you cross a turkey with a centipede?",
+    "punchline": "Enough drumsticks for everyone!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "classic"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "thanksgiving-049",
+    "slug": "",
+    "setup": "Why did the farmer separate the turkey and the chicken?",
+    "punchline": "He sensed fowl play!",
+    "category": "thanksgiving",
+    "tags": [
+      "turkey",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12"
+  },
+  {
+    "id": "thanksgiving-050",
+    "slug": "",
+    "setup": "What's the sleepiest thing at Thanksgiving dinner?",
+    "punchline": "Nap-kins!",
+    "category": "thanksgiving",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-13"
+  },
+  {
+    "id": "thanksgiving-051",
+    "slug": "what-did-the-turkey-say-to-the-stuffing",
+    "setup": "What did the turkey say to the stuffing?",
+    "punchline": "I'm stuffed just looking at you!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "food"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-052",
+    "slug": "why-did-the-pilgrims-eat-turkey",
+    "setup": "Why did the Pilgrims eat turkey at Thanksgiving?",
+    "punchline": "Because they couldn't fit the moose in the oven!",
+    "category": "thanksgiving",
+    "tags": ["pilgrim", "turkey"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-053",
+    "slug": "what-do-you-call-a-thanksgiving-turkey-who-tells-jokes",
+    "setup": "What do you call a Thanksgiving turkey who tells jokes?",
+    "punchline": "A funny bone — wait, that's the wrong holiday. A comedi-hen!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-054",
+    "slug": "why-did-the-potato-not-want-to-be-mashed",
+    "setup": "Why didn't the potato want to be mashed?",
+    "punchline": "It had too much self a-peel!",
+    "category": "thanksgiving",
+    "tags": ["food", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-055",
+    "slug": "what-did-the-pilgrim-say-to-the-corn",
+    "setup": "What did the Pilgrim say to the corn?",
+    "punchline": "You're a-maize-ing!",
+    "category": "thanksgiving",
+    "tags": ["pilgrim", "food"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-056",
+    "slug": "why-did-the-gravy-win-an-award",
+    "setup": "Why did the gravy win an award?",
+    "punchline": "Because it was a pour performer!",
+    "category": "thanksgiving",
+    "tags": ["food", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-057",
+    "slug": "what-do-you-call-a-turkey-with-no-feathers",
+    "setup": "What do you call a turkey with no feathers?",
+    "punchline": "Thanksgiving dinner!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-058",
+    "slug": "why-was-the-corn-stalk-mad-at-the-farmer",
+    "setup": "Why was the corn stalk mad at the farmer?",
+    "punchline": "He kept pulling its ears!",
+    "category": "thanksgiving",
+    "tags": ["food", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-059",
+    "slug": "what-did-the-bread-roll-say-at-thanksgiving",
+    "setup": "What did the bread roll say at Thanksgiving dinner?",
+    "punchline": "I'm on a roll today!",
+    "category": "thanksgiving",
+    "tags": ["food", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-060",
+    "slug": "why-did-the-turkey-bring-a-microphone",
+    "setup": "Why did the turkey bring a microphone to dinner?",
+    "punchline": "He wanted to do some roasting!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-061",
+    "slug": "what-do-you-call-a-pilgrims-vocabulary",
+    "setup": "What do you call a Pilgrim's vocabulary?",
+    "punchline": "Pilgrim-mar!",
+    "category": "thanksgiving",
+    "tags": ["pilgrim", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-062",
+    "slug": "why-did-the-cranberry-sauce-turn-down-the-invite",
+    "setup": "Why did the cranberry sauce turn down the dinner invite?",
+    "punchline": "It was already in a jam!",
+    "category": "thanksgiving",
+    "tags": ["cranberry", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-063",
+    "slug": "what-do-turkeys-give-thanks-for",
+    "setup": "What do turkeys give thanks for?",
+    "punchline": "Vegetarians!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-064",
+    "slug": "why-did-the-pie-crust-go-to-dentist",
+    "setup": "Why did the pie crust go to the dentist?",
+    "punchline": "It needed a filling!",
+    "category": "thanksgiving",
+    "tags": ["pie", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-065",
+    "slug": "what-did-the-turkey-say-when-he-met-the-president",
+    "setup": "What did the turkey say when he met the president?",
+    "punchline": "Pardon me!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-066",
+    "slug": "why-did-the-sweet-potato-blush",
+    "setup": "Why did the sweet potato blush at the dinner table?",
+    "punchline": "Because it saw the turkey getting undressed!",
+    "category": "thanksgiving",
+    "tags": ["food", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-067",
+    "slug": "what-do-you-call-a-pilgrim-at-the-gym",
+    "setup": "What do you call a Pilgrim at the gym?",
+    "punchline": "A Plymouth Rocker!",
+    "category": "thanksgiving",
+    "tags": ["pilgrim", "sports"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-068",
+    "slug": "why-did-the-turkey-go-to-the-movie",
+    "setup": "Why did the turkey go to the movie theater?",
+    "punchline": "To see a chick flick!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-069",
+    "slug": "what-did-the-tablecloth-say-to-the-table",
+    "setup": "What did the tablecloth say to the table?",
+    "punchline": "Don't worry, I've got you covered!",
+    "category": "thanksgiving",
+    "tags": ["food", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-070",
+    "slug": "why-did-the-turkey-get-detention",
+    "setup": "Why did the turkey get detention at school?",
+    "punchline": "For using fowl language!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "school"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-071",
+    "slug": "what-did-the-oven-say-to-the-turkey",
+    "setup": "What did the oven say to the turkey?",
+    "punchline": "I'm really warming up to you!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-072",
+    "slug": "why-did-the-pilgrim-refuse-to-tell-a-secret",
+    "setup": "Why did the Pilgrim refuse to tell a secret?",
+    "punchline": "Because the corn had ears!",
+    "category": "thanksgiving",
+    "tags": ["pilgrim", "food"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-073",
+    "slug": "what-do-you-call-a-grateful-yam",
+    "setup": "What do you call a grateful yam?",
+    "punchline": "A thank-yam!",
+    "category": "thanksgiving",
+    "tags": ["food", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-074",
+    "slug": "why-did-the-turkey-gobble-up-dessert",
+    "setup": "Why did the turkey gobble up his dessert so fast?",
+    "punchline": "Because he was a gobbler, obviously!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "food"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-075",
+    "slug": "what-did-grandma-say-about-the-thanksgiving-leftovers",
+    "setup": "What did Grandma say about the Thanksgiving leftovers?",
+    "punchline": "They're the gift that keeps on giving — for a week!",
+    "category": "thanksgiving",
+    "tags": ["leftovers", "family"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-076",
+    "slug": "why-did-the-turkey-sit-across-from-everyone",
+    "setup": "Why did the turkey sit across from everyone at the table?",
+    "punchline": "He was tired of being the center of attention!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-077",
+    "slug": "what-do-you-call-a-turkey-who-loves-math",
+    "setup": "What do you call a turkey who loves math?",
+    "punchline": "A mathema-chicken!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "math"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-078",
+    "slug": "why-was-the-butter-so-good-at-thanksgiving",
+    "setup": "Why was the butter so good at the Thanksgiving table?",
+    "punchline": "Because it was on a roll!",
+    "category": "thanksgiving",
+    "tags": ["food", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-079",
+    "slug": "what-did-the-turkey-leg-say-to-the-wing",
+    "setup": "What did the turkey leg say to the wing?",
+    "punchline": "I need a drumroll, please!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "music"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-080",
+    "slug": "why-do-turkeys-always-go-gobble-gobble",
+    "setup": "Why do turkeys always go 'gobble gobble'?",
+    "punchline": "Because they never learned table manners!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "manners"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-081",
+    "slug": "what-did-the-harvest-moon-say",
+    "setup": "What did the harvest moon say to the cornfield?",
+    "punchline": "I'm just here to shed some light on your stalks!",
+    "category": "thanksgiving",
+    "tags": ["harvest", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-082",
+    "slug": "why-was-the-thanksgiving-parade-so-loud",
+    "setup": "Why was the Thanksgiving parade so loud?",
+    "punchline": "Because of all the drum-sticks!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "music"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-083",
+    "slug": "what-do-you-call-a-turkey-thats-been-in-the-sun",
+    "setup": "What do you call a turkey that's been in the sun too long?",
+    "punchline": "Roasted!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-084",
+    "slug": "why-did-the-turkey-go-to-the-gym",
+    "setup": "Why did the turkey go to the gym before Thanksgiving?",
+    "punchline": "To get basted — I mean, buff!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "sports"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-085",
+    "slug": "what-did-the-pilgrim-say-after-a-big-meal",
+    "setup": "What did the Pilgrim say after a big meal?",
+    "punchline": "That was Plym-mouth-watering!",
+    "category": "thanksgiving",
+    "tags": ["pilgrim", "food"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-086",
+    "slug": "why-did-the-pumpkin-pie-win-the-contest",
+    "setup": "Why did the pumpkin pie win the baking contest?",
+    "punchline": "Because it was a cut above the crust!",
+    "category": "thanksgiving",
+    "tags": ["pie", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-087",
+    "slug": "what-did-dad-say-about-the-turkey",
+    "setup": "What did dad say when he saw how big the turkey was?",
+    "punchline": "That bird must have been working out — look at those drumsticks!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "family"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-088",
+    "slug": "why-dont-turkeys-fly-south-for-the-winter",
+    "setup": "Why don't turkeys fly south for the winter?",
+    "punchline": "Because the airline charges too much for their extra baggage!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "travel"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-089",
+    "slug": "what-do-you-call-a-thanksgiving-dinner-without-sides",
+    "setup": "What do you call a Thanksgiving dinner without any sides?",
+    "punchline": "A lonely turkey!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "food"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-090",
+    "slug": "why-did-the-giblets-break-up",
+    "setup": "Why did the giblets break up with the stuffing?",
+    "punchline": "They were tired of being inside the same bird!",
+    "category": "thanksgiving",
+    "tags": ["food", "wordplay"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-091",
+    "slug": "what-did-the-turkey-wish-for",
+    "setup": "What did the turkey wish for at Thanksgiving?",
+    "punchline": "That people would find another bird to pick on!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "classic"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-092",
+    "slug": "why-did-the-cranberry-sauce-go-to-school",
+    "setup": "Why did the cranberry sauce go to school?",
+    "punchline": "To get a little more cultured!",
+    "category": "thanksgiving",
+    "tags": ["cranberry", "wordplay"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-093",
+    "slug": "what-do-you-call-a-turkey-on-a-treadmill",
+    "setup": "What do you call a turkey on a treadmill?",
+    "punchline": "Poultry in motion!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "puns"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-094",
+    "slug": "why-did-everyone-fall-asleep-after-dinner",
+    "setup": "Why did everyone fall asleep after Thanksgiving dinner?",
+    "punchline": "Because the turkey wasn't the only thing that got basted!",
+    "category": "thanksgiving",
+    "tags": ["food", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-095",
+    "slug": "what-happened-when-the-turkey-played-football",
+    "setup": "What happened when the turkey played football?",
+    "punchline": "He got penalized for fowl play!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "sports"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-096",
+    "slug": "why-did-the-green-bean-casserole-feel-left-out",
+    "setup": "Why did the green bean casserole feel left out?",
+    "punchline": "Because nobody ever asks for seconds!",
+    "category": "thanksgiving",
+    "tags": ["food", "classic"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-097",
+    "slug": "what-did-uncle-say-before-carving-the-turkey",
+    "setup": "What did Uncle Bob say before carving the turkey?",
+    "punchline": "This is a knife day to be thankful!",
+    "category": "thanksgiving",
+    "tags": ["family", "puns"],
+    "rating": 3,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-098",
+    "slug": "why-did-the-turkey-start-a-band",
+    "setup": "Why did the turkey start a band?",
+    "punchline": "Because he already had the drumsticks and the wings!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "music"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-099",
+    "slug": "what-do-you-call-an-overweight-pumpkin",
+    "setup": "What do you call an overweight pumpkin?",
+    "punchline": "A plump-kin!",
+    "category": "thanksgiving",
+    "tags": ["pumpkin", "puns"],
+    "rating": 4,
+    "dateAdded": "2026-03-01"
+  },
+  {
+    "id": "thanksgiving-100",
+    "slug": "why-did-the-turkey-bring-a-suitcase",
+    "setup": "Why did the turkey bring a suitcase to Thanksgiving?",
+    "punchline": "Because he heard everyone was going to carve out some time for him!",
+    "category": "thanksgiving",
+    "tags": ["turkey", "wordplay"],
+    "rating": 5,
+    "dateAdded": "2026-03-01"
+  }
+]
