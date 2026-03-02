@@ -1,13 +1,13 @@
-import { Metadata } from 'next';
 import { getJokeOfTheDay, getAllJokes } from '@/lib/jokes';
 import HeroJoke from '@/components/HeroJoke';
+import { generateMetadata as seoMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
+export const metadata = seoMetadata({
   title: 'Dad Joke of the Day | JokeLikeaDad.com',
   description:
     'Get a fresh dad joke every day. Our joke of the day is handpicked from the best dad jokes in our collection.',
-  alternates: { canonical: 'https://jokelikeadad.com/joke-of-the-day' },
-};
+  path: '/joke-of-the-day',
+});
 
 export default function JokeOfTheDayPage() {
   const jotd = getJokeOfTheDay();

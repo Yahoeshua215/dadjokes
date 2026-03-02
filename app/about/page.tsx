@@ -1,12 +1,12 @@
-import { Metadata } from 'next';
 import Link from 'next/link';
+import { generateMetadata as seoMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
+export const metadata = seoMetadata({
   title: 'About | JokeLikeaDad.com',
   description:
     'Learn about JokeLikeaDad.com — the internet\'s best curated collection of dad jokes.',
-  alternates: { canonical: 'https://jokelikeadad.com/about' },
-};
+  path: '/about',
+});
 
 export default function AboutPage() {
   return (

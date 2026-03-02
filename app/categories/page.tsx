@@ -1,13 +1,13 @@
-import { Metadata } from 'next';
 import { getCategories, getJokesByCategory } from '@/lib/jokes';
 import CategoryCard from '@/components/CategoryCard';
+import { generateMetadata as seoMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
+export const metadata = seoMetadata({
   title: 'All Dad Joke Categories | JokeLikeaDad.com',
   description:
     'Browse all dad joke categories. From funny to corny, clean to dirty — find the perfect dad jokes for any occasion.',
-  alternates: { canonical: 'https://jokelikeadad.com/categories' },
-};
+  path: '/categories',
+});
 
 export default function CategoriesPage() {
   const categories = getCategories();
