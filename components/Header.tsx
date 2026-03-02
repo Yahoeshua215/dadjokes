@@ -8,8 +8,6 @@ const NAV_LINKS = [
   { href: '/browse', label: 'Browse' },
   { href: '/top-rated', label: 'Top Rated' },
   { href: '/joke-of-the-day', label: 'Joke of the Day' },
-  { href: '/topics', label: 'Topics' },
-  { href: '/developers', label: 'API' },
 ];
 
 export default function Header() {
