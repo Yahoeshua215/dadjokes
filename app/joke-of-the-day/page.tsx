@@ -18,6 +18,7 @@ export default function JokeOfTheDayPage() {
     month: 'long',
     day: 'numeric',
     year: 'numeric',
+    timeZone: 'America/New_York',
   });
 
   // Get a few recent "past" jokes for the archive feel
@@ -49,7 +50,7 @@ export default function JokeOfTheDayPage() {
                   {i + 1}d ago
                 </span>
                 <div>
-                  <p className="font-serif text-lg">{joke.setup}</p>
+                  <p className="font-joke text-lg">{joke.setup}</p>
                   <p className="mt-2 font-medium text-text-secondary">{joke.punchline}</p>
                 </div>
               </div>

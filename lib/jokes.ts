@@ -47,7 +47,7 @@ export function getJokeOfTheDay(): Joke | undefined {
     const filePath = path.join(process.cwd(), 'data', 'joke-of-the-day.json');
     const data = fs.readFileSync(filePath, 'utf-8');
     const jotdData = JSON.parse(data) as { date: string; jokeId: string }[];
-    const today = new Date();
+    const today = new Date(new Date().toLocaleDateString('en-US', { timeZone: 'America/New_York' }));
     const dayOfYear = Math.floor(
       (today.getTime() - new Date(today.getFullYear(), 0, 0).getTime()) / 86400000
     );

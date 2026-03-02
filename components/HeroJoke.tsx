@@ -17,7 +17,7 @@ export default function HeroJoke({ joke, date }: { joke: Joke; date: string }) {
           <span className="text-xs text-text-secondary">{date}</span>
         </div>
 
-        <p className="font-serif text-2xl sm:text-3xl lg:text-4xl leading-snug mb-6">
+        <p className="font-joke text-2xl sm:text-3xl lg:text-4xl leading-snug mb-6">
           {joke.setup}
         </p>
 

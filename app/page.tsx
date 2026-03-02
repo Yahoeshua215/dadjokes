@@ -16,6 +16,7 @@ export default function HomePage() {
     month: 'long',
     day: 'numeric',
     year: 'numeric',
+    timeZone: 'America/New_York',
   });
 
   const categoryPreviews = categories.map((cat) => ({
@@ -84,7 +85,7 @@ export default function HomePage() {
                   href={`/joke/${joke.slug}`}
                   className="block bg-surface border border-border rounded-xl p-6 hover:border-accent transition-colors"
                 >
-                  <p className="font-serif text-lg">{joke.setup}</p>
+                  <p className="font-joke text-lg">{joke.setup}</p>
                   <p className="mt-2 font-medium text-text-secondary">{joke.punchline}</p>
                 </Link>
               ))}
