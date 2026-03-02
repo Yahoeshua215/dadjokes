@@ -28,6 +28,19 @@ export interface Topic {
   seasonMonth?: number;
 }
 
+export interface Pack {
+  slug: string;
+  name: string;
+  emoji: string;
+  description: string;
+  metaTitle: string;
+  metaDescription: string;
+  tags: string[];
+  categories: string[];
+  relatedPacks: string[];
+  faqs: { question: string; answer: string }[];
+}
+
 export interface Category {
   slug: string;
   name: string;

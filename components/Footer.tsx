@@ -54,6 +54,11 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/packs" className="text-sm text-text-secondary hover:text-foreground transition-colors">
+                  Joke Packs
+                </Link>
+              </li>
+              <li>
                 <Link href="/developers" className="text-sm text-text-secondary hover:text-foreground transition-colors">
                   Free API
                 </Link>

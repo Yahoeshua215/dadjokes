@@ -1,6 +1,7 @@
-import { Joke, Category, Topic } from './types';
+import { Joke, Category, Topic, Pack } from './types';
 import categoriesData from '@/data/categories.json';
 import topicsData from '@/data/topics.json';
+import packsData from '@/data/packs.json';
 import fs from 'fs';
 import path from 'path';
 
@@ -60,6 +61,34 @@ export function getJokesByTags(tags: string[]): Joke[] {
 
 export function getTopicByTag(tag: string): Topic | undefined {
   return getTopics().find(t => t.tags.includes(tag));
+}
+
+// --- Pack functions ---
+
+export function getPacks(): Pack[] {
+  return packsData as Pack[];
+}
+
+export function getPackBySlug(slug: string): Pack | undefined {
+  return getPacks().find(p => p.slug === slug);
+}
+
+export function getPackSlugs(): string[] {
+  return getPacks().map(p => p.slug);
+}
+
+export function getJokesForPack(pack: Pack): Joke[] {
+  const tagJokes = getJokesByTags(pack.tags);
+  const categoryJokes = pack.categories.flatMap(cat => getJokesByCategory(cat));
+  const seen = new Set<string>();
+  const deduped: Joke[] = [];
+  for (const joke of [...tagJokes, ...categoryJokes]) {
+    if (!seen.has(joke.id)) {
+      seen.add(joke.id);
+      deduped.push(joke);
+    }
+  }
+  return deduped;
 }
 
 export function getJokeById(id: string): Joke | undefined {

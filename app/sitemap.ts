@@ -1,10 +1,11 @@
 import { MetadataRoute } from 'next';
-import { getCategorySlugs, getAllJokeSlugs, getTopicSlugs } from '@/lib/jokes';
+import { getCategorySlugs, getAllJokeSlugs, getTopicSlugs, getPackSlugs } from '@/lib/jokes';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://jokelikeadad.com';
   const categorySlugs = getCategorySlugs();
   const topicSlugs = getTopicSlugs();
+  const packSlugs = getPackSlugs();
 
   const categoryPages = categorySlugs.map((slug) => ({
     url: `${baseUrl}/${slug}`,
@@ -15,6 +16,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const topicPages = topicSlugs.map((slug) => ({
     url: `${baseUrl}/topics/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  const packPages = packSlugs.map((slug) => ({
+    url: `${baseUrl}/packs/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
@@ -53,7 +61,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     ...categoryPages,
+    {
+      url: `${baseUrl}/packs`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
     ...topicPages,
+    ...packPages,
     ...jokePages,
     {
       url: `${baseUrl}/top-rated`,
