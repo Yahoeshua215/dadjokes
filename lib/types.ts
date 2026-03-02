@@ -10,6 +10,22 @@ export interface Joke {
   source?: string;
 }
 
+export interface Topic {
+  slug: string;
+  name: string;
+  emoji: string;
+  description: string;
+  metaTitle: string;
+  metaDescription: string;
+  tags: string[];
+  relatedTopics: string[];
+  relatedCategories: string[];
+  faqs: { question: string; answer: string }[];
+  searchVolume?: number;
+  seasonal?: boolean;
+  seasonMonth?: number;
+}
+
 export interface Category {
   slug: string;
   name: string;

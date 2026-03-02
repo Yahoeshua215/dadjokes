@@ -1,8 +1,9 @@
 import Link from 'next/link';
-import { getCategories } from '@/lib/jokes';
+import { getCategories, getTopics } from '@/lib/jokes';
 
 export default function Footer() {
   const categories = getCategories();
+  const popularTopics = getTopics().slice(0, 10);
 
   return (
     <footer className="border-t border-border bg-surface mt-16">
@@ -62,7 +63,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          <div className="lg:col-span-2">
+          <div>
             <h3 className="font-semibold text-sm mb-3">Browse by Category</h3>
             <div className="flex flex-wrap gap-2">
               {categories.map((cat) => (
@@ -74,6 +75,27 @@ export default function Footer() {
                   {cat.emoji} {cat.name}
                 </Link>
               ))}
+            </div>
+          </div>
+
+          <div>
+            <h3 className="font-semibold text-sm mb-3">Popular Topics</h3>
+            <div className="flex flex-wrap gap-2">
+              {popularTopics.map((topic) => (
+                <Link
+                  key={topic.slug}
+                  href={`/topics/${topic.slug}`}
+                  className="text-xs text-text-secondary hover:text-accent bg-background px-3 py-1.5 rounded-full border border-border hover:border-accent transition-colors"
+                >
+                  {topic.emoji} {topic.name}
+                </Link>
+              ))}
+              <Link
+                href="/topics"
+                className="text-xs text-accent hover:text-accent-hover bg-background px-3 py-1.5 rounded-full border border-border hover:border-accent transition-colors"
+              >
+                See all →
+              </Link>
             </div>
           </div>
         </div>

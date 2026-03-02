@@ -1,7 +1,11 @@
-import { Joke, Category } from './types';
+import { Joke, Category, Topic } from './types';
 import categoriesData from '@/data/categories.json';
+import topicsData from '@/data/topics.json';
 import fs from 'fs';
 import path from 'path';
+
+// Module-level cache for build performance
+let _allJokesCache: Joke[] | null = null;
 
 export function getCategories(): Category[] {
   return categoriesData as Category[];
@@ -26,8 +30,36 @@ export function getJokesByCategory(slug: string): Joke[] {
 }
 
 export function getAllJokes(): Joke[] {
+  if (_allJokesCache) return _allJokesCache;
   const slugs = getCategorySlugs();
-  return slugs.flatMap(slug => getJokesByCategory(slug));
+  _allJokesCache = slugs.flatMap(slug => getJokesByCategory(slug));
+  return _allJokesCache;
+}
+
+// --- Topic functions ---
+
+export function getTopics(): Topic[] {
+  return topicsData as Topic[];
+}
+
+export function getTopicBySlug(slug: string): Topic | undefined {
+  return getTopics().find(t => t.slug === slug);
+}
+
+export function getTopicSlugs(): string[] {
+  return getTopics().map(t => t.slug);
+}
+
+export function getJokesByTags(tags: string[]): Joke[] {
+  const allJokes = getAllJokes();
+  const tagSet = new Set(tags);
+  return allJokes.filter(joke =>
+    joke.tags.some(t => tagSet.has(t))
+  );
+}
+
+export function getTopicByTag(tag: string): Topic | undefined {
+  return getTopics().find(t => t.tags.includes(tag));
 }
 
 export function getJokeById(id: string): Joke | undefined {
