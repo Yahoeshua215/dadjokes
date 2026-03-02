@@ -6,15 +6,15 @@ import Breadcrumb from '@/components/Breadcrumb';
 import JokeCard from '@/components/JokeCard';
 
 export const metadata: Metadata = {
-  title: 'Top Rated Dad Jokes (2026) — The 50 Highest Rated | DadJokes.directory',
+  title: 'Top Rated Dad Jokes (2026) — The 50 Highest Rated | JokeLikeaDad.com',
   description:
     'The top 50 highest rated dad jokes, ranked by our editors. Only the best groan-worthy puns and one-liners make this list.',
-  alternates: { canonical: 'https://dadjokes.directory/top-rated' },
+  alternates: { canonical: 'https://jokelikeadad.com/top-rated' },
   openGraph: {
     title: 'Top Rated Dad Jokes — The 50 Highest Rated',
     description:
       'The top 50 highest rated dad jokes, ranked by our editors. Only the best make this list.',
-    url: 'https://dadjokes.directory/top-rated',
+    url: 'https://jokelikeadad.com/top-rated',
   },
 };
 
@@ -25,8 +25,8 @@ export default function TopRatedPage() {
     .slice(0, 50);
 
   const breadcrumbItems = [
-    { name: 'Home', url: 'https://dadjokes.directory' },
-    { name: 'Top Rated', url: 'https://dadjokes.directory/top-rated' },
+    { name: 'Home', url: 'https://jokelikeadad.com' },
+    { name: 'Top Rated', url: 'https://jokelikeadad.com/top-rated' },
   ];
 
   return (

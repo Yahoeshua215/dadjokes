@@ -21,8 +21,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!joke) return {};
 
   const title = `${joke.setup} | Dad Joke`;
-  const description = `${joke.setup} ${joke.punchline} — Browse more ${joke.category} dad jokes at DadJokes.directory.`;
-  const url = `https://dadjokes.directory/joke/${slug}`;
+  const description = `${joke.setup} ${joke.punchline} — Browse more ${joke.category} dad jokes at JokeLikeaDad.com.`;
+  const url = `https://jokelikeadad.com/joke/${slug}`;
 
   return {
     title,
@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title,
       description,
       url,
-      siteName: 'DadJokes.directory',
+      siteName: 'JokeLikeaDad.com',
       type: 'website',
     },
     twitter: {
@@ -57,11 +57,11 @@ export default async function JokePage({ params }: Props) {
     .filter((j) => j.id !== joke.id)
     .slice(0, 3);
 
-  const jokeUrl = `https://dadjokes.directory/joke/${slug}`;
+  const jokeUrl = `https://jokelikeadad.com/joke/${slug}`;
 
   const breadcrumbItems = [
-    { name: 'Home', url: 'https://dadjokes.directory' },
-    { name: category?.name || 'Jokes', url: `https://dadjokes.directory/${joke.category}` },
+    { name: 'Home', url: 'https://jokelikeadad.com' },
+    { name: category?.name || 'Jokes', url: `https://jokelikeadad.com/${joke.category}` },
     { name: joke.setup.slice(0, 50) + (joke.setup.length > 50 ? '...' : ''), url: jokeUrl },
   ];
 

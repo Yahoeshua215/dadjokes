@@ -4,15 +4,15 @@ import { generateFAQSchema, generateBreadcrumbSchema } from '@/lib/schema';
 import { getJokesByCategory } from '@/lib/jokes';
 
 export const metadata: Metadata = {
-  title: 'What Is a Dad Joke? Origin, History & Why We Love Them | DadJokes.directory',
+  title: 'What Is a Dad Joke? Origin, History & Why We Love Them | JokeLikeaDad.com',
   description:
     'What is a dad joke? Learn the origin, history, and characteristics of dad jokes — the wholesome, groan-worthy puns that dads everywhere are famous for.',
-  alternates: { canonical: 'https://dadjokes.directory/what-is-a-dad-joke' },
+  alternates: { canonical: 'https://jokelikeadad.com/what-is-a-dad-joke' },
   openGraph: {
     title: 'What Is a Dad Joke? Origin, History & Why We Love Them',
     description:
       'Everything you need to know about dad jokes — what makes them unique, where they came from, and why they never get old.',
-    url: 'https://dadjokes.directory/what-is-a-dad-joke',
+    url: 'https://jokelikeadad.com/what-is-a-dad-joke',
   },
 };
 
@@ -53,8 +53,8 @@ export default function WhatIsADadJokePage() {
   const exampleJokes = getJokesByCategory('best').slice(0, 3);
 
   const breadcrumbs = [
-    { name: 'Home', url: 'https://dadjokes.directory' },
-    { name: 'What Is a Dad Joke?', url: 'https://dadjokes.directory/what-is-a-dad-joke' },
+    { name: 'Home', url: 'https://jokelikeadad.com' },
+    { name: 'What Is a Dad Joke?', url: 'https://jokelikeadad.com/what-is-a-dad-joke' },
   ];
 
   const articleSchema = {
@@ -65,17 +65,17 @@ export default function WhatIsADadJokePage() {
       'A comprehensive guide to dad jokes — their definition, origin, history, characteristics, and cultural significance.',
     author: {
       '@type': 'Organization',
-      name: 'DadJokes.directory',
-      url: 'https://dadjokes.directory',
+      name: 'JokeLikeaDad.com',
+      url: 'https://jokelikeadad.com',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'DadJokes.directory',
-      url: 'https://dadjokes.directory',
+      name: 'JokeLikeaDad.com',
+      url: 'https://jokelikeadad.com',
     },
     datePublished: '2026-03-01',
     dateModified: '2026-03-01',
-    mainEntityOfPage: 'https://dadjokes.directory/what-is-a-dad-joke',
+    mainEntityOfPage: 'https://jokelikeadad.com/what-is-a-dad-joke',
   };
 
   return (

@@ -43,7 +43,7 @@
 - Current submit form is client-side only, doesn't save
 - Make it functional to generate fresh user-contributed content
 - Builds community + content pipeline without editorial effort
-- **Status**: [ ] Not started
+- **Status**: [~] Skipped — feature removed
 
 ### 7. Free Dad Jokes API (Backlink Magnet)
 - **Effort**: Medium | **Impact**: Medium-High

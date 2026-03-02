@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://dadjokes.directory/sitemap.xml',
+    sitemap: 'https://jokelikeadad.com/sitemap.xml',
   };
 }

@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { getCategorySlugs, getAllJokeSlugs } from '@/lib/jokes';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://dadjokes.directory';
+  const baseUrl = 'https://jokelikeadad.com';
   const categorySlugs = getCategorySlugs();
 
   const categoryPages = categorySlugs.map((slug) => ({
@@ -42,12 +42,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...jokePages,
     {
       url: `${baseUrl}/about`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.3,
-    },
-    {
-      url: `${baseUrl}/submit`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.3,
