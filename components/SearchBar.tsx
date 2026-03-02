@@ -31,7 +31,7 @@ export default function SearchBar({ jokes }: { jokes: Joke[] }) {
         onFocus={() => setIsOpen(true)}
         onBlur={() => setTimeout(() => setIsOpen(false), 200)}
         placeholder="Search jokes..."
-        className="w-full bg-background border border-border rounded-full px-4 py-2.5 text-sm placeholder:text-text-secondary focus:outline-none focus:border-accent transition-colors"
+        className="w-full bg-surface border border-border rounded-full px-4 py-2.5 text-sm placeholder:text-text-secondary focus:outline-none focus:border-accent transition-colors"
       />
       {isOpen && results.length > 0 && (
         <div className="absolute top-full left-0 right-0 mt-2 bg-surface border border-border rounded-xl shadow-lg overflow-hidden z-50">

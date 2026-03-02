@@ -1,15 +1,20 @@
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Header() {
   return (
     <header className="border-b border-border bg-surface sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link href="/" className="flex items-center gap-2">
-            <span className="text-2xl">😄</span>
-            <span className="font-serif text-xl font-bold text-foreground">
-              Joke Like a <span className="text-accent">Dad</span>
-            </span>
+          <Link href="/" className="flex items-center">
+            <Image
+              src="/JLAD-logo-horizontal.png"
+              alt="Joke Like a Dad"
+              width={200}
+              height={40}
+              className="h-8 w-auto"
+              priority
+            />
           </Link>
           <nav className="hidden sm:flex items-center gap-6">
             <Link

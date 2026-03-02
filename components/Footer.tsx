@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { getCategories } from '@/lib/jokes';
 
 export default function Footer() {
@@ -9,11 +10,14 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <Link href="/" className="flex items-center gap-2 mb-4">
-              <span className="text-2xl">😄</span>
-              <span className="font-serif text-lg font-bold">
-                Joke Like a <span className="text-accent">Dad</span>
-              </span>
+            <Link href="/" className="flex items-center mb-4">
+              <Image
+                src="/JLAD-logo.png"
+                alt="Joke Like a Dad"
+                width={80}
+                height={80}
+                className="h-12 w-auto"
+              />
             </Link>
             <p className="text-sm text-text-secondary">
               The internet&apos;s best collection of dad jokes. Groan-worthy puns and
