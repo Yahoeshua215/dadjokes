@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import { getCategory, getCategorySlugs, getJokesByCategory, getCategories } from '@/lib/jokes';
+import { getCategory, getCategorySlugs, getJokesByCategory, getCategories, getTopics } from '@/lib/jokes';
 import { generateBreadcrumbSchema, generateJokeListSchema, generateFAQSchema } from '@/lib/schema';
 import JokeCard from '@/components/JokeCard';
 import Breadcrumb from '@/components/Breadcrumb';
@@ -67,6 +67,12 @@ export default async function CategoryPage({ params }: Props) {
     category.relatedCategories.includes(c.slug)
   );
   const faqs = getFAQs(category.name, slug);
+
+  // Find related topics whose tags overlap with jokes in this category
+  const categoryJokeTags = new Set(jokes.flatMap(j => j.tags));
+  const relatedTopics = getTopics()
+    .filter(t => t.tags.some(tag => categoryJokeTags.has(tag)))
+    .slice(0, 8);
 
   const breadcrumbItems = [
     { name: 'Home', url: 'https://jokelikeadad.com' },
@@ -140,6 +146,25 @@ export default async function CategoryPage({ params }: Props) {
                 >
                   <span>{cat.emoji}</span>
                   <span className="text-sm font-medium">{cat.name}</span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Related Topics */}
+        {relatedTopics.length > 0 && (
+          <section className="mb-12">
+            <h2 className="font-serif text-2xl mb-4">Explore by Topic</h2>
+            <div className="flex flex-wrap gap-3">
+              {relatedTopics.map((t) => (
+                <Link
+                  key={t.slug}
+                  href={`/topics/${t.slug}`}
+                  className="flex items-center gap-2 bg-surface border border-border rounded-full px-4 py-2 hover:border-accent transition-colors"
+                >
+                  <span>{t.emoji}</span>
+                  <span className="text-sm font-medium">{t.name}</span>
                 </Link>
               ))}
             </div>

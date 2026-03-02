@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
+import Link from 'next/link';
 import Fuse from 'fuse.js';
 import { Joke } from '@/lib/types';
 
@@ -35,15 +36,26 @@ export default function SearchBar({ jokes }: { jokes: Joke[] }) {
       />
       {isOpen && results.length > 0 && (
         <div className="absolute top-full left-0 right-0 mt-2 bg-surface border border-border rounded-xl shadow-lg overflow-hidden z-50">
-          {results.map(({ item }) => (
-            <div
-              key={item.id}
-              className="px-4 py-3 hover:bg-background transition-colors border-b border-border last:border-0 cursor-default"
-            >
-              <p className="text-sm font-medium">{item.setup}</p>
-              <p className="text-xs text-text-secondary mt-1">{item.punchline}</p>
-            </div>
-          ))}
+          {results.map(({ item }) =>
+            item.slug ? (
+              <Link
+                key={item.id}
+                href={`/joke/${item.slug}`}
+                className="block px-4 py-3 hover:bg-background transition-colors border-b border-border last:border-0"
+              >
+                <p className="text-sm font-medium">{item.setup}</p>
+                <p className="text-xs text-text-secondary mt-1">{item.punchline}</p>
+              </Link>
+            ) : (
+              <div
+                key={item.id}
+                className="px-4 py-3 hover:bg-background transition-colors border-b border-border last:border-0"
+              >
+                <p className="text-sm font-medium">{item.setup}</p>
+                <p className="text-xs text-text-secondary mt-1">{item.punchline}</p>
+              </div>
+            )
+          )}
         </div>
       )}
     </div>

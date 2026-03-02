@@ -24,6 +24,12 @@ export default function Header() {
               Categories
             </Link>
             <Link
+              href="/topics"
+              className="text-sm text-text-secondary hover:text-foreground transition-colors"
+            >
+              Topics
+            </Link>
+            <Link
               href="/top-rated"
               className="text-sm text-text-secondary hover:text-foreground transition-colors"
             >

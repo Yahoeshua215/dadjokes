@@ -1,4 +1,4 @@
-import { Joke, Category } from './types';
+import { Joke, Category, Topic } from './types';
 
 export function generateWebsiteSchema() {
   return {
@@ -69,6 +69,26 @@ export function generateFAQSchema(faqs: { question: string; answer: string }[]) 
       acceptedAnswer: {
         '@type': 'Answer',
         text: faq.answer,
+      },
+    })),
+  };
+}
+
+export function generateTopicListSchema(jokes: Joke[], topic: Topic) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: topic.name,
+    description: topic.description,
+    numberOfItems: jokes.length,
+    itemListElement: jokes.map((joke, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      item: {
+        '@type': 'CreativeWork',
+        name: joke.setup,
+        text: `${joke.setup} ${joke.punchline}`,
+        ...(joke.slug ? { url: `https://jokelikeadad.com/joke/${joke.slug}` } : {}),
       },
     })),
   };

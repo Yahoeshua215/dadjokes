@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { getJokeBySlug, getAllJokeSlugs, getJokesByCategory, getCategory } from '@/lib/jokes';
+import { getJokeBySlug, getAllJokeSlugs, getJokesByCategory, getCategory, getTopicByTag } from '@/lib/jokes';
 import { generateBreadcrumbSchema, generateJokeFAQSchema } from '@/lib/schema';
 import Breadcrumb from '@/components/Breadcrumb';
 import ShareButtons from '@/components/ShareButtons';
@@ -108,14 +108,25 @@ export default async function JokePage({ params }: Props) {
                   {category.emoji} {category.name}
                 </Link>
               )}
-              {joke.tags.map((tag) => (
-                <span
-                  key={tag}
-                  className="text-xs text-text-secondary bg-background px-2.5 py-1 rounded-full border border-border"
-                >
-                  {tag}
-                </span>
-              ))}
+              {joke.tags.map((tag) => {
+                const topic = getTopicByTag(tag);
+                return topic ? (
+                  <Link
+                    key={tag}
+                    href={`/topics/${topic.slug}`}
+                    className="text-xs text-text-secondary bg-background px-2.5 py-1 rounded-full border border-border hover:border-accent hover:text-accent transition-colors"
+                  >
+                    {tag}
+                  </Link>
+                ) : (
+                  <span
+                    key={tag}
+                    className="text-xs text-text-secondary bg-background px-2.5 py-1 rounded-full border border-border"
+                  >
+                    {tag}
+                  </span>
+                );
+              })}
             </div>
             <div className="flex items-center gap-3">
               <VoteButtons jokeId={joke.id} />

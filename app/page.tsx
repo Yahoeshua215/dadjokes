@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getCategories, getJokesByCategory, getAllJokes, getJokeOfTheDay } from '@/lib/jokes';
+import { getCategories, getJokesByCategory, getAllJokes, getJokeOfTheDay, getTopics } from '@/lib/jokes';
 import { generateWebsiteSchema } from '@/lib/schema';
 import HeroJoke from '@/components/HeroJoke';
 import CategoryCard from '@/components/CategoryCard';
@@ -11,6 +11,7 @@ export default function HomePage() {
   const allJokes = getAllJokes();
   const jotd = getJokeOfTheDay();
   const bestJokes = getJokesByCategory('best').slice(0, 5);
+  const popularTopics = getTopics().slice(0, 12);
 
   const today = new Date().toLocaleDateString('en-US', {
     month: 'long',
@@ -59,6 +60,29 @@ export default function HomePage() {
               <CategoryCard key={category.slug} category={category} previewJoke={preview} />
             ))}
           </div>
+        </section>
+
+        {/* Browse by Topic */}
+        <section className="mb-16">
+          <h2 className="font-serif text-2xl sm:text-3xl mb-6">Browse Dad Jokes by Topic</h2>
+          <div className="flex flex-wrap gap-3">
+            {popularTopics.map((topic) => (
+              <Link
+                key={topic.slug}
+                href={`/topics/${topic.slug}`}
+                className="flex items-center gap-1.5 bg-surface border border-border rounded-full px-4 py-2 hover:border-accent transition-colors"
+              >
+                <span>{topic.emoji}</span>
+                <span className="text-sm font-medium">{topic.name}</span>
+              </Link>
+            ))}
+          </div>
+          <Link
+            href="/topics"
+            className="inline-block mt-4 text-sm text-accent hover:text-accent-hover font-medium transition-colors"
+          >
+            See all topics →
+          </Link>
         </section>
 
         {/* Pillar Content Link */}

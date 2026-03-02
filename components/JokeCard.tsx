@@ -13,17 +13,27 @@ export default function JokeCard({ joke, index }: { joke: Joke; index: number })
   return (
     <div className="bg-surface border border-border rounded-xl p-6 card-hover">
       <div className="flex items-start gap-4">
-        <Link
-          href={`/joke/${joke.slug}`}
-          className="text-sm font-medium text-text-secondary hover:text-accent bg-background rounded-full w-8 h-8 flex items-center justify-center shrink-0 transition-colors"
-          title="View this joke"
-        >
-          {index}
-        </Link>
-        <div className="flex-1 min-w-0">
-          <Link href={`/joke/${joke.slug}`} className="hover:text-accent transition-colors">
-            <p className="font-joke text-lg leading-relaxed">{joke.setup}</p>
+        {joke.slug ? (
+          <Link
+            href={`/joke/${joke.slug}`}
+            className="text-sm font-medium text-text-secondary hover:text-accent bg-background rounded-full w-8 h-8 flex items-center justify-center shrink-0 transition-colors"
+            title="View this joke"
+          >
+            {index}
           </Link>
+        ) : (
+          <span className="text-sm font-medium text-text-secondary bg-background rounded-full w-8 h-8 flex items-center justify-center shrink-0">
+            {index}
+          </span>
+        )}
+        <div className="flex-1 min-w-0">
+          {joke.slug ? (
+            <Link href={`/joke/${joke.slug}`} className="hover:text-accent transition-colors">
+              <p className="font-joke text-lg leading-relaxed">{joke.setup}</p>
+            </Link>
+          ) : (
+            <p className="font-joke text-lg leading-relaxed">{joke.setup}</p>
+          )}
 
           {!revealed ? (
             <button
