@@ -8,7 +8,7 @@
     "metaDescription": "The best dad jokes for Father's Day. Handpicked puns about dads, parenting, and family that are perfect for cards, toasts, and gifts.",
     "tags": ["dad", "parenting", "family"],
     "categories": ["fathers-day"],
-    "relatedPacks": ["birthday-cards", "wedding-speeches"],
+    "relatedPacks": ["birthday-cards", "wedding-speeches", "st-patricks-day"],
     "faqs": [
       {
         "question": "What are the best dad jokes for Father's Day?",
@@ -121,6 +121,31 @@
       {
         "question": "Will these jokes work in a professional presentation?",
         "answer": "A well-placed dad joke can be a great icebreaker in presentations. Pick one related to your topic and use it to open your talk. Just keep it to one \u2014 you're giving a presentation, not a comedy show."
+      }
+    ]
+  },
+  {
+    "slug": "st-patricks-day",
+    "name": "St. Patrick's Day Jokes",
+    "emoji": "\u2618\ufe0f",
+    "description": "The ultimate collection of dad jokes for St. Patrick's Day. From leprechaun puns to shamrock wordplay, these jokes are greener than a field of four-leaf clovers and twice as lucky.",
+    "metaTitle": "50+ St. Patrick's Day Dad Jokes (2026) \u2014 Lucky Laughs",
+    "metaDescription": "The best dad jokes for St. Patrick's Day. Leprechaun puns, shamrock humor, and pot-of-gold wordplay perfect for March 17th celebrations.",
+    "tags": ["leprechaun", "shamrock", "irish", "lucky", "green", "pot-of-gold", "rainbow", "beer"],
+    "categories": ["st-patricks-day"],
+    "relatedPacks": ["fathers-day", "birthday-cards"],
+    "faqs": [
+      {
+        "question": "What are the best dad jokes for St. Patrick's Day?",
+        "answer": "The best St. Patrick's Day dad jokes feature leprechauns, shamrocks, pots of gold, and Irish-themed puns. They're perfect for parties, parades, and making everyone groan in green."
+      },
+      {
+        "question": "Are these St. Patrick's Day jokes family-friendly?",
+        "answer": "Yes! Every joke in this pack is clean and suitable for all ages. Kids and adults alike will enjoy sharing them at St. Patrick's Day celebrations."
+      },
+      {
+        "question": "Can I use these jokes at a St. Patrick's Day party?",
+        "answer": "Absolutely! These jokes are perfect for St. Patrick's Day parties, pub crawls, school celebrations, and anywhere people are wearing green."
       }
     ]
   }

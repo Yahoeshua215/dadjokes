@@ -14,7 +14,9 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return getCategorySlugs().map((slug) => ({ category: slug }));
+  return getCategorySlugs()
+    .filter((slug) => slug !== 'st-patricks-day')
+    .map((slug) => ({ category: slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

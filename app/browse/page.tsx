@@ -58,6 +58,7 @@ const SUBJECT_GROUPS: { label: string; slugs: string[] }[] = [
     slugs: [
       'ghosts', 'vampires', 'skeletons', 'witches', 'zombies', 'pumpkins',
       'santa', 'elves', 'reindeer', 'snowman', 'turkey', 'pirates', 'robots',
+      'leprechaun', 'shamrock', 'irish', 'pot-of-gold', 'lucky', 'beer',
     ],
   },
 ];

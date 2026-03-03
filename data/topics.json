@@ -1370,5 +1370,101 @@
       { "question": "How do I get a teenager to laugh at a dad joke?", "answer": "Delivery matters most with teens. A confident, deadpan delivery followed by complete silence after the punchline often gets the biggest reaction." },
       { "question": "Are these jokes appropriate for teenagers?", "answer": "Yes! All our teen dad jokes are age-appropriate — clever and culturally relevant without crossing any lines." }
     ]
+  },
+  {
+    "slug": "leprechaun",
+    "name": "Leprechaun Dad Jokes",
+    "emoji": "🧙",
+    "description": "These leprechaun dad jokes are short on stature but big on laughs. From tiny shoe puns to pot-of-gold wordplay, this collection will have you feeling lucky — or at least groaning like you found fool's gold.",
+    "metaTitle": "25+ Dad Jokes About Leprechauns — Short on Stature, Big on Laughs",
+    "metaDescription": "The best dad jokes about leprechauns. Short, punny, and packed with Irish charm. Perfect for St. Patrick's Day and beyond.",
+    "tags": ["leprechaun"],
+    "relatedTopics": ["shamrock", "irish", "pot-of-gold", "lucky"],
+    "relatedCategories": ["st-patricks-day", "funny", "for-kids"],
+    "faqs": [
+      { "question": "What are the best leprechaun dad jokes?", "answer": "The best leprechaun dad jokes play on their small size, love of gold, and mischievous nature. Think puns about being short, hiding treasure, and making shoes." },
+      { "question": "Are leprechaun dad jokes just for St. Patrick's Day?", "answer": "While they're perfect for March 17th, leprechaun jokes work anytime you need a little Irish humor or want to add some magic to the conversation." },
+      { "question": "Are these leprechaun jokes kid-friendly?", "answer": "Yes! All of our leprechaun dad jokes are family-friendly and perfect for kids who love fairy tales, magic, and silly puns." }
+    ]
+  },
+  {
+    "slug": "shamrock",
+    "name": "Shamrock Dad Jokes",
+    "emoji": "☘️",
+    "description": "These shamrock dad jokes are un-be-leaf-ably funny. From three-leaf clover puns to four-leaf lucky humor, this collection is a field of green comedy that'll have you clover the moon.",
+    "metaTitle": "25+ Dad Jokes About Shamrocks — Un-be-leaf-ably Funny",
+    "metaDescription": "The best dad jokes about shamrocks and clovers. Green, punny, and perfect for St. Patrick's Day celebrations.",
+    "tags": ["shamrock", "clover"],
+    "relatedTopics": ["leprechaun", "lucky", "irish", "pot-of-gold"],
+    "relatedCategories": ["st-patricks-day", "funny", "corny"],
+    "faqs": [
+      { "question": "What are the best shamrock dad jokes?", "answer": "The best shamrock dad jokes use leaf and clover puns, play on the word 'green,' and reference the lucky four-leaf clover tradition." },
+      { "question": "What's the difference between a shamrock and a four-leaf clover?", "answer": "A shamrock has three leaves and is a symbol of Ireland. A four-leaf clover is a rare mutation considered lucky. Both are excellent sources of dad joke material." },
+      { "question": "Are shamrock jokes good for St. Patrick's Day?", "answer": "Shamrock jokes are essential for St. Patrick's Day! They're the perfect way to celebrate all things green and Irish." }
+    ]
+  },
+  {
+    "slug": "irish",
+    "name": "Irish Dad Jokes",
+    "emoji": "🇮🇪",
+    "description": "Top o' the mornin' to these Irish dad jokes! From Dublin puns to Emerald Isle wordplay, this collection celebrates Irish culture with humor that's as warm as a pint by the fire.",
+    "metaTitle": "25+ Irish Dad Jokes — Top o' the Mornin' Humor",
+    "metaDescription": "The best Irish dad jokes celebrating Irish culture with Dublin puns, Emerald Isle wordplay, and hearty humor. Sláinte to laughs!",
+    "tags": ["irish"],
+    "relatedTopics": ["leprechaun", "shamrock", "beer", "lucky"],
+    "relatedCategories": ["st-patricks-day", "funny", "good"],
+    "faqs": [
+      { "question": "What are the best Irish dad jokes?", "answer": "The best Irish dad jokes celebrate Irish culture with puns about Dublin, the Emerald Isle, Irish dancing, and classic Irish expressions. They're warm, witty, and family-friendly." },
+      { "question": "Are Irish dad jokes appropriate for St. Patrick's Day?", "answer": "Absolutely! Irish dad jokes are a must-have for St. Patrick's Day celebrations. They honor Irish culture through lighthearted, respectful humor." },
+      { "question": "Can I use Irish dad jokes if I'm not Irish?", "answer": "Of course! These jokes celebrate Irish culture in a fun, lighthearted way. Everyone is Irish on St. Patrick's Day, and everyone can enjoy a good pun." }
+    ]
+  },
+  {
+    "slug": "pot-of-gold",
+    "name": "Pot of Gold Dad Jokes",
+    "emoji": "🌈",
+    "description": "Follow the rainbow to these pot-of-gold dad jokes! From treasure puns to rainbow wordplay, this golden collection is worth more than any leprechaun's stash — measured in groans, of course.",
+    "metaTitle": "25+ Dad Jokes About Pots of Gold & Rainbows — Golden Humor",
+    "metaDescription": "The best dad jokes about pots of gold and rainbows. Treasure puns and colorful humor perfect for St. Patrick's Day.",
+    "tags": ["pot-of-gold", "rainbow"],
+    "relatedTopics": ["leprechaun", "lucky", "shamrock", "irish"],
+    "relatedCategories": ["st-patricks-day", "funny", "for-kids"],
+    "faqs": [
+      { "question": "What are the best pot-of-gold dad jokes?", "answer": "The best pot-of-gold jokes play on treasure hunting, rainbows ending, and the classic leprechaun legend. They're golden material for any occasion." },
+      { "question": "Are rainbow and pot-of-gold jokes just for kids?", "answer": "Not at all! While kids love the magical theme, the puns and wordplay work for all ages. Adults appreciate the clever twists just as much." },
+      { "question": "When should I use pot-of-gold dad jokes?", "answer": "Pot-of-gold jokes shine on St. Patrick's Day, rainy days when a rainbow appears, or anytime you want to add some treasure-themed humor." }
+    ]
+  },
+  {
+    "slug": "lucky",
+    "name": "Lucky Dad Jokes",
+    "emoji": "🍀",
+    "description": "Feeling lucky? These lucky dad jokes are all about good fortune, four-leaf clovers, and the color green. Whether it's St. Patrick's Day or you just need a laugh, you've hit the comedy jackpot.",
+    "metaTitle": "25+ Lucky Dad Jokes — You've Hit the Comedy Jackpot",
+    "metaDescription": "The best lucky dad jokes about good fortune, four-leaf clovers, and the color green. You've hit the comedy jackpot with these puns.",
+    "tags": ["lucky", "green"],
+    "relatedTopics": ["shamrock", "leprechaun", "pot-of-gold", "irish"],
+    "relatedCategories": ["st-patricks-day", "funny", "corny"],
+    "faqs": [
+      { "question": "What are the best lucky dad jokes?", "answer": "The best lucky dad jokes play on horseshoes, four-leaf clovers, the color green, and various luck-related superstitions. They're a guaranteed good time." },
+      { "question": "Are lucky jokes just for St. Patrick's Day?", "answer": "Lucky jokes work year-round! Use them on St. Patrick's Day, at casinos, before tests, or anytime someone needs a little extra luck." },
+      { "question": "Do lucky dad jokes actually bring good luck?", "answer": "We can't guarantee good fortune, but we can guarantee a good groan. And honestly, laughter might be the luckiest thing of all." }
+    ]
+  },
+  {
+    "slug": "beer",
+    "name": "Beer Dad Jokes",
+    "emoji": "🍺",
+    "description": "These beer dad jokes are on tap and ready to pour. From hoppy puns to brew-tiful wordplay, this collection is crafted for anyone who appreciates a cold one and a warm laugh.",
+    "metaTitle": "25+ Dad Jokes About Beer — Hoppy Puns on Tap",
+    "metaDescription": "The best dad jokes about beer. Hoppy puns, brew-tiful wordplay, and ale-arious humor on tap. Perfect for happy hour and St. Patrick's Day.",
+    "tags": ["beer"],
+    "relatedTopics": ["irish", "lucky", "coffee", "cooking"],
+    "relatedCategories": ["st-patricks-day", "for-adults", "funny"],
+    "faqs": [
+      { "question": "What are the best beer dad jokes?", "answer": "The best beer dad jokes use puns on hops, ales, lagers, and brewing. They're crafted for maximum groan potential — perfect for happy hour." },
+      { "question": "Are beer dad jokes appropriate for all ages?", "answer": "Our beer dad jokes are all family-friendly! They focus on wordplay about the beverage itself — no drinking culture or intoxication humor." },
+      { "question": "When should I use beer dad jokes?", "answer": "Beer dad jokes are perfect for St. Patrick's Day, brewery tours, barbecues, happy hours, or anytime someone cracks open a cold one." }
+    ]
   }
 ]
