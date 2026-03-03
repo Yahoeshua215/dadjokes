@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { Joke } from '@/lib/types';
 import ShareButtons from './ShareButtons';
 
-export default function HeroJoke({ joke, date }: { joke: Joke; date: string }) {
+export default function HeroJoke({ joke, date, label }: { joke: Joke; date: string; label?: string }) {
   const [revealed, setRevealed] = useState(false);
 
   return (
@@ -12,7 +12,7 @@ export default function HeroJoke({ joke, date }: { joke: Joke; date: string }) {
       <div className="max-w-2xl mx-auto">
         <div className="flex items-center justify-center gap-2 mb-6">
           <span className="text-xs font-medium text-accent bg-accent/10 px-3 py-1 rounded-full">
-            Joke of the Day
+            {label || 'Joke of the Day'}
           </span>
           <span className="text-xs text-text-secondary">{date}</span>
         </div>

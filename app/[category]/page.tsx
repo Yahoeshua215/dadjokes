@@ -1,9 +1,10 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import { getCategory, getCategorySlugs, getJokesByCategory, getCategories, getTopics } from '@/lib/jokes';
+import { getCategory, getCategorySlugs, getJokesByCategory, getCategories, getTopics, getPacksByCategory } from '@/lib/jokes';
 import { generateBreadcrumbSchema, generateJokeListSchema, generateFAQSchema } from '@/lib/schema';
 import JokeCard from '@/components/JokeCard';
 import Breadcrumb from '@/components/Breadcrumb';
+import HeroJoke from '@/components/HeroJoke';
 import FAQAccordion from '@/components/FAQAccordion';
 import JokeFilterBar from '@/components/JokeFilterBar';
 import Link from 'next/link';
@@ -72,11 +73,18 @@ export default async function CategoryPage({ params }: Props) {
   );
   const faqs = getFAQs(category.name, slug);
 
-  // Find related topics whose tags overlap with jokes in this category
+  // Find topics that explicitly list this category as related
   const categoryJokeTags = new Set(jokes.flatMap(j => j.tags));
   const relatedTopics = getTopics()
+    .filter(t => t.relatedCategories.includes(slug))
     .filter(t => t.tags.some(tag => categoryJokeTags.has(tag)))
-    .slice(0, 8);
+    .slice(0, 6);
+
+  // Find packs that include this category
+  const packs = getPacksByCategory(slug);
+
+  // Pick top-rated joke as featured
+  const featuredJoke = [...jokes].sort((a, b) => b.rating - a.rating)[0];
 
   const breadcrumbItems = [
     { name: 'Home', url: 'https://jokelikeadad.com' },
@@ -103,7 +111,7 @@ export default async function CategoryPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(generateFAQSchema(faqs)) }}
       />
 
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumb
           items={[
             { label: 'Home', href: '/' },
@@ -113,33 +121,83 @@ export default async function CategoryPage({ params }: Props) {
         />
 
         {/* Header */}
-        <div className="mb-8">
-          <div className="flex items-center gap-3 mb-3">
-            <span className="text-4xl">{category.emoji}</span>
-            <h1 className="font-serif text-3xl sm:text-4xl">
-              25+ {category.name} That&apos;ll Make You Groan
-            </h1>
-          </div>
-          <p className="text-text-secondary leading-relaxed max-w-2xl">
+        <div className="text-center mb-12">
+          <span className="text-7xl block mb-4">{category.emoji}</span>
+          <h1 className="font-serif text-3xl sm:text-4xl lg:text-5xl mb-4">
+            {category.name}
+          </h1>
+          <p className="text-text-secondary max-w-2xl mx-auto leading-relaxed mb-4">
             {category.description}
           </p>
-          <div className="mt-3">
-            <span className="text-xs font-medium text-accent bg-accent/10 px-3 py-1 rounded-full">
-              {jokes.length} jokes
-            </span>
-          </div>
+          <span className="text-xs font-medium text-accent bg-accent/10 px-3 py-1 rounded-full">
+            {jokes.length} jokes
+          </span>
         </div>
 
-        {/* Joke List */}
-        <Suspense fallback={
-          <div className="space-y-4 mb-12">
-            {jokes.map((joke, i) => (
-              <JokeCard key={joke.id} joke={joke} index={i + 1} />
-            ))}
+        {/* Featured Joke Hero */}
+        {featuredJoke && (
+          <div className="mb-12">
+            <HeroJoke joke={featuredJoke} label="Featured Joke" date={`${jokes.length}+ to explore`} />
           </div>
-        }>
-          <JokeFilterBar jokes={jokes} />
-        </Suspense>
+        )}
+
+        {/* Explore by Topic */}
+        {relatedTopics.length > 0 && (
+          <section className="mb-12">
+            <h2 className="font-serif text-2xl sm:text-3xl mb-6">Explore by Topic</h2>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
+              {relatedTopics.map((topic) => (
+                <Link
+                  key={topic.slug}
+                  href={`/topics/${topic.slug}`}
+                  className="bg-surface border border-border rounded-xl p-5 hover:border-accent transition-colors text-center"
+                >
+                  <span className="text-3xl block mb-2">{topic.emoji}</span>
+                  <span className="font-medium text-sm">{topic.name}</span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Pack Preview */}
+        {packs.length > 0 && (
+          <section className="mb-12">
+            {packs.map((pack) => (
+              <div key={pack.slug} className="bg-surface border border-border rounded-xl p-6 sm:p-8 mb-4 last:mb-0">
+                <div className="flex items-start gap-4">
+                  <span className="text-4xl">{pack.emoji}</span>
+                  <div className="flex-1">
+                    <h2 className="font-serif text-2xl mb-2">{pack.name} Pack</h2>
+                    <p className="text-text-secondary text-sm leading-relaxed mb-4">
+                      {pack.description}
+                    </p>
+                    <Link
+                      href={`/packs/${pack.slug}`}
+                      className="inline-block bg-accent hover:bg-accent-hover text-white font-medium px-5 py-2.5 rounded-full transition-colors text-sm"
+                    >
+                      View the full pack
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </section>
+        )}
+
+        {/* All Jokes */}
+        <section className="mb-12">
+          <h2 className="font-serif text-2xl sm:text-3xl mb-6">All {category.name}</h2>
+          <Suspense fallback={
+            <div className="space-y-4">
+              {jokes.map((joke, i) => (
+                <JokeCard key={joke.id} joke={joke} index={i + 1} />
+              ))}
+            </div>
+          }>
+            <JokeFilterBar jokes={jokes} />
+          </Suspense>
+        </section>
 
         {/* Related Categories */}
         {relatedCategories.length > 0 && (
@@ -154,25 +212,6 @@ export default async function CategoryPage({ params }: Props) {
                 >
                   <span>{cat.emoji}</span>
                   <span className="text-sm font-medium">{cat.name}</span>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
-
-        {/* Related Topics */}
-        {relatedTopics.length > 0 && (
-          <section className="mb-12">
-            <h2 className="font-serif text-2xl mb-4">Explore by Topic</h2>
-            <div className="flex flex-wrap gap-3">
-              {relatedTopics.map((t) => (
-                <Link
-                  key={t.slug}
-                  href={`/topics/${t.slug}`}
-                  className="flex items-center gap-2 bg-surface border border-border rounded-full px-4 py-2 hover:border-accent transition-colors"
-                >
-                  <span>{t.emoji}</span>
-                  <span className="text-sm font-medium">{t.name}</span>
                 </Link>
               ))}
             </div>

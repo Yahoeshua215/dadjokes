@@ -77,6 +77,10 @@ export function getPackSlugs(): string[] {
   return getPacks().map(p => p.slug);
 }
 
+export function getPacksByCategory(categorySlug: string): Pack[] {
+  return getPacks().filter(p => p.categories.includes(categorySlug));
+}
+
 export function getJokesForPack(pack: Pack): Joke[] {
   const tagJokes = getJokesByTags(pack.tags);
   const categoryJokes = pack.categories.flatMap(cat => getJokesByCategory(cat));
