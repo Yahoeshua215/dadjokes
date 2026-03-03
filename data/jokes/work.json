@@ -11,7 +11,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "my-boss-told-me-to-have-a-good-day"
   },
   {
@@ -26,7 +26,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "i-got-fired-from-the-calendar-factory"
   },
   {
@@ -41,7 +41,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-004",
@@ -55,7 +55,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-005",
@@ -69,7 +69,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "what-did-the-janitor-say-when-he-jumped-out-of-the-closet"
   },
   {
@@ -84,7 +84,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-007",
@@ -98,7 +98,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-008",
@@ -112,7 +112,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-009",
@@ -126,7 +126,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-010",
@@ -140,7 +140,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-011",
@@ -154,7 +154,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-012",
@@ -168,7 +168,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "i-used-to-be-a-banker"
   },
   {
@@ -183,7 +183,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "the-rotation-of-earth-really-makes-my-day"
   },
   {
@@ -198,7 +198,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-015",
@@ -212,7 +212,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "why-did-the-invisible-man-turn-down-the-job-offer"
   },
   {
@@ -227,7 +227,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-017",
@@ -241,7 +241,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-018",
@@ -255,7 +255,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-019",
@@ -269,7 +269,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-020",
@@ -283,7 +283,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "why-do-programmers-prefer-dark-mode"
   },
   {
@@ -298,7 +298,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-022",
@@ -312,7 +312,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "whats-the-best-thing-about-elevator-jokes"
   },
   {
@@ -327,7 +327,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-024",
@@ -341,7 +341,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-025",
@@ -355,7 +355,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-13",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-026",
@@ -369,7 +369,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-027",
@@ -383,7 +383,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-028",
@@ -397,7 +397,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-029",
@@ -411,7 +411,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-030",
@@ -425,7 +425,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-031",
@@ -439,7 +439,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-032",
@@ -453,7 +453,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-033",
@@ -467,7 +467,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-034",
@@ -481,7 +481,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-035",
@@ -495,7 +495,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-036",
@@ -509,7 +509,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-06",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-037",
@@ -523,7 +523,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-06",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-038",
@@ -537,7 +537,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-039",
@@ -551,7 +551,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-040",
@@ -565,7 +565,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-041",
@@ -579,7 +579,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-042",
@@ -593,7 +593,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-043",
@@ -607,7 +607,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-044",
@@ -621,7 +621,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-045",
@@ -635,7 +635,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-046",
@@ -649,7 +649,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-11",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-047",
@@ -663,7 +663,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-11",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-048",
@@ -677,7 +677,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-049",
@@ -691,7 +691,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-050",
@@ -705,7 +705,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-13",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-051",
@@ -719,7 +719,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-052",
@@ -733,7 +733,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-053",
@@ -747,7 +747,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-054",
@@ -761,7 +761,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-055",
@@ -775,7 +775,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-056",
@@ -789,7 +789,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-057",
@@ -803,7 +803,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-058",
@@ -817,7 +817,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-059",
@@ -831,7 +831,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-060",
@@ -845,7 +845,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-061",
@@ -859,7 +859,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-062",
@@ -873,7 +873,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-063",
@@ -887,7 +887,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-064",
@@ -901,7 +901,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-065",
@@ -915,7 +915,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-066",
@@ -929,7 +929,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-067",
@@ -943,7 +943,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-068",
@@ -957,7 +957,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-069",
@@ -971,7 +971,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-070",
@@ -985,7 +985,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-071",
@@ -999,7 +999,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-072",
@@ -1013,7 +1013,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-073",
@@ -1027,7 +1027,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-074",
@@ -1041,7 +1041,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-075",
@@ -1055,7 +1055,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-076",
@@ -1069,7 +1069,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-077",
@@ -1083,7 +1083,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-078",
@@ -1097,7 +1097,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-079",
@@ -1111,7 +1111,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-080",
@@ -1125,7 +1125,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-081",
@@ -1139,7 +1139,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-082",
@@ -1153,7 +1153,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-083",
@@ -1167,7 +1167,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-084",
@@ -1181,7 +1181,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-085",
@@ -1195,7 +1195,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-086",
@@ -1209,7 +1209,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-087",
@@ -1223,7 +1223,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-088",
@@ -1237,7 +1237,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-089",
@@ -1251,7 +1251,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-090",
@@ -1265,7 +1265,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-091",
@@ -1279,7 +1279,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-092",
@@ -1293,7 +1293,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-093",
@@ -1307,7 +1307,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-094",
@@ -1321,7 +1321,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-095",
@@ -1335,7 +1335,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-096",
@@ -1349,7 +1349,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-097",
@@ -1363,7 +1363,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-098",
@@ -1377,7 +1377,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-099",
@@ -1391,7 +1391,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "work-100",
@@ -1405,6 +1405,6 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   }
 ]

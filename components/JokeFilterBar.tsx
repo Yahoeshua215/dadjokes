@@ -6,24 +6,21 @@ import JokeCard from './JokeCard';
 
 const AGE_OPTIONS = [
   { value: '', label: 'All ages' },
-  { value: 'little-kids', label: 'Little kids' },
   { value: 'kids', label: 'Kids' },
-  { value: 'tweens', label: 'Tweens' },
   { value: 'teens', label: 'Teens' },
-  { value: 'all-ages', label: 'All-ages rated' },
 ];
 
 const LENGTH_OPTIONS = [
   { value: '', label: 'Any length' },
-  { value: 'short', label: 'Short (< 80 chars)' },
+  { value: 'short', label: 'Short (< 60 chars)' },
   { value: 'medium', label: 'Medium' },
-  { value: 'long', label: 'Long (> 200 chars)' },
+  { value: 'long', label: 'Long (100+ chars)' },
 ];
 
 function getLength(joke: Joke): 'short' | 'medium' | 'long' {
   const total = joke.setup.length + joke.punchline.length;
-  if (total < 80) return 'short';
-  if (total > 200) return 'long';
+  if (total < 60) return 'short';
+  if (total > 100) return 'long';
   return 'medium';
 }
 
@@ -36,7 +33,12 @@ export default function JokeFilterBar({ jokes }: { jokes: Joke[] }) {
   const lengthFilter = searchParams.get('length') ?? '';
 
   const filtered = jokes.filter((joke) => {
-    if (ageFilter && joke.ageRange !== ageFilter) return false;
+    if (ageFilter) {
+      const tiers = ['kids', 'teens', 'adults'];
+      const selected = tiers.indexOf(ageFilter);
+      const joke_tier = tiers.indexOf(joke.ageRange ?? 'teens');
+      if (joke_tier > selected) return false;
+    }
     if (lengthFilter && getLength(joke) !== lengthFilter) return false;
     return true;
   });

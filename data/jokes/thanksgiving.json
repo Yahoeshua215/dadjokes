@@ -11,7 +11,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-002",
@@ -25,7 +25,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-003",
@@ -39,7 +39,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-004",
@@ -53,7 +53,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-005",
@@ -67,7 +67,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-006",
@@ -81,7 +81,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-007",
@@ -95,7 +95,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-04",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-008",
@@ -109,7 +109,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-04",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-009",
@@ -123,7 +123,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-010",
@@ -137,7 +137,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-05",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-011",
@@ -151,7 +151,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-012",
@@ -165,7 +165,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-013",
@@ -179,7 +179,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-014",
@@ -193,7 +193,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-015",
@@ -207,7 +207,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-016",
@@ -221,7 +221,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages",
+    "ageRange": "kids",
     "canonicalSlug": "if-april-showers-bring-may-flowers-what-do-may-flowers-bring"
   },
   {
@@ -236,7 +236,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-09",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-018",
@@ -250,7 +250,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-09",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-019",
@@ -264,7 +264,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-020",
@@ -278,7 +278,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-021",
@@ -292,7 +292,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-022",
@@ -306,7 +306,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-023",
@@ -320,7 +320,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-024",
@@ -334,7 +334,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-025",
@@ -348,7 +348,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-13",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-026",
@@ -362,7 +362,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-027",
@@ -376,7 +376,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-028",
@@ -390,7 +390,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-029",
@@ -404,7 +404,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-02",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-030",
@@ -418,7 +418,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-03",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-031",
@@ -432,7 +432,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-03",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-032",
@@ -446,7 +446,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-04",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-033",
@@ -460,7 +460,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-034",
@@ -474,7 +474,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-05",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-035",
@@ -488,7 +488,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-036",
@@ -502,7 +502,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-06",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-037",
@@ -516,7 +516,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-06",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-038",
@@ -530,7 +530,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-039",
@@ -544,7 +544,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-07",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-040",
@@ -558,7 +558,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-08",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-041",
@@ -572,7 +572,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-08",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-042",
@@ -586,7 +586,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-09",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-043",
@@ -600,7 +600,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-044",
@@ -614,7 +614,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-10",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-045",
@@ -628,7 +628,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-10",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-046",
@@ -642,7 +642,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-11",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-047",
@@ -656,7 +656,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-11",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-048",
@@ -670,7 +670,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-049",
@@ -684,7 +684,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-050",
@@ -698,7 +698,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-13",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-051",
@@ -712,7 +712,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-052",
@@ -726,7 +726,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-053",
@@ -740,7 +740,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-054",
@@ -754,7 +754,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-055",
@@ -768,7 +768,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-056",
@@ -782,7 +782,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-057",
@@ -796,7 +796,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-058",
@@ -810,7 +810,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-059",
@@ -824,7 +824,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-060",
@@ -838,7 +838,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-061",
@@ -852,7 +852,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-062",
@@ -866,7 +866,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-063",
@@ -880,7 +880,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-064",
@@ -894,7 +894,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-065",
@@ -908,7 +908,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-066",
@@ -922,7 +922,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-067",
@@ -936,7 +936,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-068",
@@ -950,7 +950,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-069",
@@ -964,7 +964,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-070",
@@ -978,7 +978,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-071",
@@ -992,7 +992,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-072",
@@ -1006,7 +1006,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-073",
@@ -1020,7 +1020,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-074",
@@ -1034,7 +1034,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-075",
@@ -1048,7 +1048,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-076",
@@ -1062,7 +1062,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-077",
@@ -1076,7 +1076,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-078",
@@ -1090,7 +1090,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-079",
@@ -1104,7 +1104,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-080",
@@ -1118,7 +1118,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-081",
@@ -1132,7 +1132,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-082",
@@ -1146,7 +1146,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-083",
@@ -1160,7 +1160,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-084",
@@ -1174,7 +1174,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-085",
@@ -1188,7 +1188,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-086",
@@ -1202,7 +1202,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-087",
@@ -1216,7 +1216,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-088",
@@ -1230,7 +1230,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-089",
@@ -1244,7 +1244,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-090",
@@ -1258,7 +1258,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-091",
@@ -1272,7 +1272,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-092",
@@ -1286,7 +1286,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-093",
@@ -1300,7 +1300,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-094",
@@ -1314,7 +1314,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-095",
@@ -1328,7 +1328,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-096",
@@ -1342,7 +1342,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-097",
@@ -1356,7 +1356,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-098",
@@ -1370,7 +1370,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-099",
@@ -1384,7 +1384,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "thanksgiving-100",
@@ -1398,6 +1398,6 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   }
 ]

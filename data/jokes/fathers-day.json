@@ -11,7 +11,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-002",
@@ -25,7 +25,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-003",
@@ -39,7 +39,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-004",
@@ -53,7 +53,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-005",
@@ -67,7 +67,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-006",
@@ -81,7 +81,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-007",
@@ -95,7 +95,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-008",
@@ -109,7 +109,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-009",
@@ -123,7 +123,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-010",
@@ -137,7 +137,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-011",
@@ -151,7 +151,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-012",
@@ -165,7 +165,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "i-told-my-son-i-was-named-after-thomas-jefferson"
   },
   {
@@ -180,7 +180,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-014",
@@ -194,7 +194,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-015",
@@ -208,7 +208,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-016",
@@ -222,7 +222,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-017",
@@ -236,7 +236,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-018",
@@ -250,7 +250,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-019",
@@ -264,7 +264,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "how-does-a-penguin-build-its-house"
   },
   {
@@ -279,7 +279,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-021",
@@ -293,7 +293,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "i-only-know-25-letters-of-the-alphabet"
   },
   {
@@ -308,7 +308,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-023",
@@ -322,7 +322,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-024",
@@ -336,7 +336,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-025",
@@ -350,7 +350,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-13",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-026",
@@ -364,7 +364,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-027",
@@ -378,7 +378,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-028",
@@ -392,7 +392,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-029",
@@ -406,7 +406,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-030",
@@ -420,7 +420,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-031",
@@ -434,7 +434,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-032",
@@ -448,7 +448,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-033",
@@ -462,7 +462,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-034",
@@ -476,7 +476,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-035",
@@ -490,7 +490,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-036",
@@ -504,7 +504,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-037",
@@ -518,7 +518,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-06",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-038",
@@ -532,7 +532,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-039",
@@ -546,7 +546,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-040",
@@ -560,7 +560,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-041",
@@ -574,7 +574,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-042",
@@ -588,7 +588,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-043",
@@ -602,7 +602,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-044",
@@ -616,7 +616,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-10",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-045",
@@ -630,7 +630,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-046",
@@ -644,7 +644,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-11",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-047",
@@ -658,7 +658,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-11",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-048",
@@ -672,7 +672,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-049",
@@ -686,7 +686,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-050",
@@ -700,7 +700,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-13",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-051",
@@ -714,7 +714,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-052",
@@ -728,7 +728,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-053",
@@ -742,7 +742,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-054",
@@ -756,7 +756,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-055",
@@ -770,7 +770,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-056",
@@ -784,7 +784,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-057",
@@ -798,7 +798,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-058",
@@ -812,7 +812,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-059",
@@ -826,7 +826,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-060",
@@ -840,7 +840,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-061",
@@ -854,7 +854,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-062",
@@ -868,7 +868,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-063",
@@ -882,7 +882,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-064",
@@ -896,7 +896,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-065",
@@ -910,7 +910,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-066",
@@ -924,7 +924,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-067",
@@ -938,7 +938,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-068",
@@ -952,7 +952,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-069",
@@ -966,7 +966,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-070",
@@ -980,7 +980,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-071",
@@ -994,7 +994,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-072",
@@ -1008,7 +1008,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-073",
@@ -1022,7 +1022,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-074",
@@ -1036,7 +1036,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-075",
@@ -1050,7 +1050,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-076",
@@ -1064,7 +1064,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-077",
@@ -1078,7 +1078,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-078",
@@ -1092,7 +1092,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-079",
@@ -1106,7 +1106,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-080",
@@ -1120,7 +1120,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-081",
@@ -1134,7 +1134,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-082",
@@ -1148,7 +1148,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-083",
@@ -1162,7 +1162,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-084",
@@ -1176,7 +1176,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-085",
@@ -1190,7 +1190,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-086",
@@ -1204,7 +1204,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-087",
@@ -1218,7 +1218,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-088",
@@ -1232,7 +1232,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-089",
@@ -1246,7 +1246,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-090",
@@ -1260,7 +1260,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-091",
@@ -1274,7 +1274,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-092",
@@ -1288,7 +1288,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-093",
@@ -1302,7 +1302,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-094",
@@ -1316,7 +1316,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-095",
@@ -1330,7 +1330,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-096",
@@ -1344,7 +1344,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-097",
@@ -1358,7 +1358,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-098",
@@ -1372,7 +1372,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-099",
@@ -1386,7 +1386,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "fathers-day-100",
@@ -1400,6 +1400,6 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   }
 ]

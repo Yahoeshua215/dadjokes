@@ -11,7 +11,7 @@
     "rating": 4,
     "dateAdded": "2025-01-10",
     "slug": "why-dont-scientists-trust-atoms",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-002",
@@ -25,7 +25,7 @@
     "rating": 5,
     "dateAdded": "2025-01-18",
     "slug": "i-told-my-wife-she-was-drawing-her-eyebrows-too-high",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-003",
@@ -39,7 +39,7 @@
     "rating": 4,
     "dateAdded": "2025-01-25",
     "slug": "what-do-you-call-a-fake-noodle",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-004",
@@ -53,7 +53,7 @@
     "rating": 5,
     "dateAdded": "2025-02-03",
     "slug": "why-did-the-scarecrow-win-an-award",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-005",
@@ -67,7 +67,7 @@
     "rating": 4,
     "dateAdded": "2025-02-14",
     "slug": "im-reading-a-book-about-anti-gravity",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-006",
@@ -81,7 +81,7 @@
     "rating": 3,
     "dateAdded": "2025-02-22",
     "slug": "what-did-the-ocean-say-to-the-beach",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-007",
@@ -95,7 +95,7 @@
     "rating": 4,
     "dateAdded": "2025-03-05",
     "slug": "why-do-cows-have-hooves-instead-of-feet",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-008",
@@ -109,7 +109,7 @@
     "rating": 4,
     "dateAdded": "2025-03-12",
     "slug": "i-used-to-hate-facial-hair-but-then-it-grew-on-me",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-009",
@@ -123,7 +123,7 @@
     "rating": 4,
     "dateAdded": "2025-03-20",
     "slug": "what-do-you-call-a-bear-with-no-teeth",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "what-do-you-call-a-bear-with-no-teeth"
   },
   {
@@ -138,7 +138,7 @@
     "rating": 3,
     "dateAdded": "2025-04-01",
     "slug": "why-couldnt-the-bicycle-stand-up-by-itself",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-011",
@@ -152,7 +152,7 @@
     "rating": 4,
     "dateAdded": "2025-04-10",
     "slug": "i-told-my-computer-i-needed-a-break",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-012",
@@ -166,7 +166,7 @@
     "rating": 4,
     "dateAdded": "2025-04-19",
     "slug": "what-do-you-call-cheese-that-isnt-yours",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "what-do-you-call-cheese-that-isnt-yours"
   },
   {
@@ -181,7 +181,7 @@
     "rating": 3,
     "dateAdded": "2025-05-02",
     "slug": "why-did-the-math-book-look-so-sad",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-014",
@@ -195,7 +195,7 @@
     "rating": 4,
     "dateAdded": "2025-05-15",
     "slug": "im-afraid-for-the-calendar",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "im-afraid-for-the-calendar"
   },
   {
@@ -210,7 +210,7 @@
     "rating": 5,
     "dateAdded": "2025-05-28",
     "slug": "what-do-you-call-a-dog-that-does-magic-tricks",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-016",
@@ -224,7 +224,7 @@
     "rating": 3,
     "dateAdded": "2025-06-05",
     "slug": "why-dont-eggs-tell-jokes",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "why-dont-eggs-tell-jokes"
   },
   {
@@ -239,7 +239,7 @@
     "rating": 4,
     "dateAdded": "2025-06-18",
     "slug": "i-just-got-hit-by-a-rented-car",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-018",
@@ -253,7 +253,7 @@
     "rating": 5,
     "dateAdded": "2025-07-01",
     "slug": "whats-the-best-thing-about-switzerland",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-019",
@@ -267,7 +267,7 @@
     "rating": 4,
     "dateAdded": "2025-07-14",
     "slug": "why-did-the-golfer-bring-two-pairs-of-pants",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-020",
@@ -281,7 +281,7 @@
     "rating": 4,
     "dateAdded": "2025-08-02",
     "slug": "what-did-the-grape-do-when-it-got-stepped-on",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "what-did-the-grape-do-when-it-got-stepped-on"
   },
   {
@@ -296,7 +296,7 @@
     "rating": 4,
     "dateAdded": "2025-08-20",
     "slug": "i-asked-my-dog-what-two-minus-two-is",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-022",
@@ -310,7 +310,7 @@
     "rating": 3,
     "dateAdded": "2025-09-05",
     "slug": "why-do-fathers-take-an-extra-pair-of-socks-when-they-go-golf",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-023",
@@ -324,7 +324,7 @@
     "rating": 4,
     "dateAdded": "2025-09-22",
     "slug": "what-did-the-janitor-say-when-he-jumped-out-of-the-closet",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-024",
@@ -338,7 +338,7 @@
     "rating": 4,
     "dateAdded": "2025-10-10",
     "slug": "how-do-you-organize-a-space-party",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-025",
@@ -352,7 +352,7 @@
     "rating": 5,
     "dateAdded": "2025-10-28",
     "slug": "i-wouldnt-buy-anything-with-velcro",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "i-wouldnt-buy-anything-with-velcro"
   },
   {
@@ -367,7 +367,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-027",
@@ -381,7 +381,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-028",
@@ -395,7 +395,7 @@
     "rating": 5,
     "dateAdded": "2026-03-02",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-029",
@@ -409,7 +409,7 @@
     "rating": 4,
     "dateAdded": "2026-03-02",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-030",
@@ -423,7 +423,7 @@
     "rating": 4,
     "dateAdded": "2026-03-03",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-031",
@@ -437,7 +437,7 @@
     "rating": 4,
     "dateAdded": "2026-03-03",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-032",
@@ -451,7 +451,7 @@
     "rating": 4,
     "dateAdded": "2026-03-04",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-033",
@@ -465,7 +465,7 @@
     "rating": 3,
     "dateAdded": "2026-03-04",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-034",
@@ -479,7 +479,7 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-035",
@@ -493,7 +493,7 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-036",
@@ -507,7 +507,7 @@
     "rating": 3,
     "dateAdded": "2026-03-06",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-037",
@@ -521,7 +521,7 @@
     "rating": 4,
     "dateAdded": "2026-03-06",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-038",
@@ -535,7 +535,7 @@
     "rating": 4,
     "dateAdded": "2026-03-07",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-039",
@@ -549,7 +549,7 @@
     "rating": 5,
     "dateAdded": "2026-03-07",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-040",
@@ -563,7 +563,7 @@
     "rating": 4,
     "dateAdded": "2026-03-08",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-041",
@@ -577,7 +577,7 @@
     "rating": 5,
     "dateAdded": "2026-03-08",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-042",
@@ -591,7 +591,7 @@
     "rating": 3,
     "dateAdded": "2026-03-09",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-043",
@@ -605,7 +605,7 @@
     "rating": 3,
     "dateAdded": "2026-03-09",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-044",
@@ -619,7 +619,7 @@
     "rating": 5,
     "dateAdded": "2026-03-10",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-045",
@@ -633,7 +633,7 @@
     "rating": 4,
     "dateAdded": "2026-03-10",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-046",
@@ -647,7 +647,7 @@
     "rating": 3,
     "dateAdded": "2026-03-11",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-047",
@@ -661,7 +661,7 @@
     "rating": 4,
     "dateAdded": "2026-03-11",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-048",
@@ -675,7 +675,7 @@
     "rating": 4,
     "dateAdded": "2026-03-12",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-049",
@@ -689,7 +689,7 @@
     "rating": 5,
     "dateAdded": "2026-03-12",
     "slug": "",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-050",
@@ -703,7 +703,7 @@
     "rating": 5,
     "dateAdded": "2026-03-13",
     "slug": "whats-the-difference-between-hippo-zippo",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-051",
@@ -717,7 +717,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-did-the-coffee-go-to-police",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-052",
@@ -731,7 +731,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-fish-practices-medicine",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-053",
@@ -745,7 +745,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-do-bees-have-sticky-hair",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-054",
@@ -759,7 +759,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "i-used-to-be-addicted-hokey-pokey",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-055",
@@ -773,7 +773,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-elephant-doesnt-matter",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-056",
@@ -787,7 +787,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-did-the-banker-quit-his-job",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-057",
@@ -801,7 +801,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-disorganized-cats",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-058",
@@ -815,7 +815,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-dont-scientists-trust-stairs",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-059",
@@ -829,7 +829,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-got-job-bakery-kneaded-dough",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-060",
@@ -843,7 +843,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-snowman-with-temper",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-061",
@@ -857,7 +857,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-did-scarecrow-get-promotion",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-062",
@@ -871,7 +871,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "i-tried-write-joke-about-pencil",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-063",
@@ -885,7 +885,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-pony-sore-throat",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-064",
@@ -899,7 +899,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "why-dont-melons-get-married",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-065",
@@ -913,7 +913,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-made-belt-out-of-watches",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-066",
@@ -927,7 +927,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-dinosaur-knows-lot-words",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-067",
@@ -941,7 +941,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-did-old-man-fall-in-well",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-068",
@@ -955,7 +955,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-cow-on-trampoline",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-069",
@@ -969,7 +969,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-dont-play-soccer-enjoy-sport",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-070",
@@ -983,7 +983,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-did-picture-go-to-jail",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-071",
@@ -997,7 +997,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-did-nut-say-when-sneezed",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-072",
@@ -1011,7 +1011,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-did-belt-get-arrested",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-073",
@@ -1025,7 +1025,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "told-friend-drew-eyebrows-too-high",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-074",
@@ -1039,7 +1039,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-lazy-spider",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-075",
@@ -1053,7 +1053,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "why-cant-hear-pterodactyl-bathroom",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-076",
@@ -1067,7 +1067,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "just-found-out-im-colorblind",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-077",
@@ -1081,7 +1081,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-singing-laptop",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-078",
@@ -1095,7 +1095,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-man-fired-orange-juice-factory",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-079",
@@ -1109,7 +1109,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-dentists-call-their-xrays",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-080",
@@ -1123,7 +1123,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "hear-about-claustrophobic-astronaut",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-081",
@@ -1137,7 +1137,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-mexican-lost-his-car",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-082",
@@ -1151,7 +1151,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-do-crabs-never-give-charity",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-083",
@@ -1165,7 +1165,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-used-to-be-shoe-salesman",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-084",
@@ -1179,7 +1179,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-toothless-bear",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-085",
@@ -1193,7 +1193,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-did-teacher-wear-sunglasses",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-086",
@@ -1207,7 +1207,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "tried-start-hot-air-balloon-business",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-087",
@@ -1221,7 +1221,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "what-call-magician-loses-magic",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-088",
@@ -1235,7 +1235,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-did-man-run-around-bed",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-089",
@@ -1249,7 +1249,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "what-did-drummer-call-twin-daughters",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-090",
@@ -1263,7 +1263,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "wasnt-going-get-brain-transplant",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-091",
@@ -1277,7 +1277,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-cow-during-earthquake",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-092",
@@ -1291,7 +1291,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-man-put-money-in-blender",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-093",
@@ -1305,7 +1305,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "cross-joke-with-rhetorical-question",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-094",
@@ -1319,7 +1319,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-do-nurses-like-red-crayons",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-095",
@@ -1333,7 +1333,7 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "wondering-why-frisbee-getting-bigger",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-096",
@@ -1347,7 +1347,7 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-plumber-say-when-bored",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-097",
@@ -1361,7 +1361,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-peppers-make-bad-gossips",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-098",
@@ -1375,7 +1375,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "told-chemistry-joke-other-day",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-099",
@@ -1389,7 +1389,7 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-alligator-detective",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "funny-100",
@@ -1403,6 +1403,6 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-did-bicycle-keep-falling-over",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   }
 ]

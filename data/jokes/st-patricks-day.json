@@ -1,1102 +1,1357 @@
 [
-    {
-        "id": "st-patricks-day-001",
-        "slug": "why-did-the-leprechaun-go-to-jail",
-        "setup": "Why did the leprechaun go to jail?",
-        "punchline": "He was caught green-handed!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "green"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-002",
-        "slug": "what-do-you-call-a-fake-irish-stone",
-        "setup": "What do you call a fake Irish stone?",
-        "punchline": "A sham-rock!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock", "irish"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-003",
-        "slug": "why-do-leprechauns-hate-running",
-        "setup": "Why do leprechauns hate running?",
-        "punchline": "They'd rather jig than jog!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-004",
-        "slug": "how-can-you-tell-if-a-four-leaf-clover-is-lucky",
-        "setup": "How can you tell if a four-leaf clover is lucky?",
-        "punchline": "It's in a field of three-leaf losers!",
-        "category": "st-patricks-day",
-        "tags": ["clover", "lucky"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-005",
-        "slug": "what-did-the-leprechaun-put-in-the-vending-machine",
-        "setup": "What did the leprechaun put in the vending machine?",
-        "punchline": "A lepre-coin!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "gold"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-006",
-        "slug": "why-do-people-wear-shamrocks-on-st-patricks-day",
-        "setup": "Why do people wear shamrocks on St. Patrick's Day?",
-        "punchline": "Because real rocks are too heavy!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-007",
-        "slug": "what-do-you-get-when-you-cross-a-four-leaf-clover-with-poison-ivy",
-        "setup": "What do you get when you cross a four-leaf clover with poison ivy?",
-        "punchline": "A rash of good luck!",
-        "category": "st-patricks-day",
-        "tags": ["clover", "lucky"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-008",
-        "slug": "why-did-the-leprechaun-turn-down-the-promotion",
-        "setup": "Why did the leprechaun turn down the promotion?",
-        "punchline": "He was already short-staffed!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-009",
-        "slug": "what-do-you-call-a-leprechauns-vacation-home",
-        "setup": "What do you call a leprechaun's vacation home?",
-        "punchline": "A lepre-condo!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-010",
-        "slug": "what-happens-when-you-find-a-pot-of-gold-at-the-end-of-the-rainbow",
-        "setup": "What happens when you find a pot of gold at the end of the rainbow?",
-        "punchline": "You get a huge tax bill from the IRS!",
-        "category": "st-patricks-day",
-        "tags": ["pot-of-gold", "rainbow"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-011",
-        "slug": "why-did-the-irish-man-only-drink-two-beers",
-        "setup": "Why did the Irish man only drink two beers on St. Patrick's Day?",
-        "punchline": "Because the third one was on the house, and he couldn't lift it!",
-        "category": "st-patricks-day",
-        "tags": ["beer", "irish"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-012",
-        "slug": "why-are-leprechauns-so-hard-to-get-along-with",
-        "setup": "Why are leprechauns so hard to get along with?",
-        "punchline": "Because they're always short-tempered!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-013",
-        "slug": "what-did-the-shamrock-say-to-the-clover",
-        "setup": "What did the shamrock say to the clover?",
-        "punchline": "I'm rooting for you!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock", "clover"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-014",
-        "slug": "why-do-frogs-love-st-patricks-day",
-        "setup": "Why do frogs love St. Patrick's Day?",
-        "punchline": "Because they're already wearing green!",
-        "category": "st-patricks-day",
-        "tags": ["green"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-015",
-        "slug": "what-did-one-rainbow-say-to-the-other",
-        "setup": "What did one rainbow say to the other on St. Patrick's Day?",
-        "punchline": "Nothing, they just arced at each other!",
-        "category": "st-patricks-day",
-        "tags": ["rainbow"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-016",
-        "slug": "how-did-the-leprechaun-beat-the-irishman-to-the-pot-of-gold",
-        "setup": "How did the leprechaun beat the Irishman to the pot of gold?",
-        "punchline": "He took a shortcut!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "pot-of-gold"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-017",
-        "slug": "why-dont-you-iron-a-four-leaf-clover",
-        "setup": "Why shouldn't you iron a four-leaf clover?",
-        "punchline": "Because you don't want to press your luck!",
-        "category": "st-patricks-day",
-        "tags": ["clover", "lucky"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-018",
-        "slug": "what-do-leprechauns-barbecue-on-st-patricks-day",
-        "setup": "What do leprechauns barbecue on St. Patrick's Day?",
-        "punchline": "Short ribs!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-019",
-        "slug": "what-does-a-leprechaun-call-a-happy-man-wearing-green",
-        "setup": "What does a leprechaun call a happy man wearing green?",
-        "punchline": "A Jolly Green Giant!",
-        "category": "st-patricks-day",
-        "tags": ["green", "leprechaun"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-020",
-        "slug": "why-did-the-pot-of-gold-break-up-with-the-rainbow",
-        "setup": "Why did the pot of gold break up with the rainbow?",
-        "punchline": "It felt like the relationship had no end!",
-        "category": "st-patricks-day",
-        "tags": ["pot-of-gold", "rainbow"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-021",
-        "slug": "what-type-of-bow-cant-be-tied",
-        "setup": "What type of bow can't be tied?",
-        "punchline": "A rainbow!",
-        "category": "st-patricks-day",
-        "tags": ["rainbow"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-022",
-        "slug": "why-do-leprechauns-make-great-secretaries",
-        "setup": "Why do leprechauns make great secretaries?",
-        "punchline": "They're good at shorthand!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-023",
-        "slug": "what-did-the-irish-potato-say-to-his-sweetheart",
-        "setup": "What did the Irish potato say to his sweetheart?",
-        "punchline": "I only have eyes for you!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-024",
-        "slug": "why-did-the-leprechaun-climb-the-rainbow",
-        "setup": "Why did the leprechaun climb the rainbow?",
-        "punchline": "To get to the highest gold standard!",
-        "category": "st-patricks-day",
-        "tags": ["rainbow", "gold"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-025",
-        "slug": "what-instrument-does-a-leprechaun-play-in-a-band",
-        "setup": "What instrument does a leprechaun play in a band?",
-        "punchline": "The shamrock-a!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock", "leprechaun"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-026",
-        "slug": "how-does-a-leprechaun-work-out",
-        "setup": "How does a leprechaun work out?",
-        "punchline": "By pushing his luck!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "lucky"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-027",
-        "slug": "what-do-you-call-an-irish-spider",
-        "setup": "What do you call an Irish spider?",
-        "punchline": "Paddy long legs!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-028",
-        "slug": "why-did-the-man-bring-a-ladder-to-the-bar-on-st-patricks-day",
-        "setup": "Why did the man bring a ladder to the bar on St. Patrick's Day?",
-        "punchline": "He heard the drinks were on the house!",
-        "category": "st-patricks-day",
-        "tags": ["beer"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-029",
-        "slug": "what-do-you-call-a-leprechaun-with-a-sore-throat",
-        "setup": "What do you call a leprechaun with a sore throat?",
-        "punchline": "A little hoarse!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-030",
-        "slug": "what-did-the-gold-coin-say-to-the-pot",
-        "setup": "What did the gold coin say to the pot?",
-        "punchline": "I'm so glad I fell into your life!",
-        "category": "st-patricks-day",
-        "tags": ["gold", "pot-of-gold"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-031",
-        "slug": "why-did-the-leprechaun-stand-on-the-potato",
-        "setup": "Why did the leprechaun stand on the potato?",
-        "punchline": "To keep from falling into the stew!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "irish"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-032",
-        "slug": "what-did-the-leprechaun-say-when-the-video-game-ended",
-        "setup": "What did the leprechaun say when the video game ended?",
-        "punchline": "Game clover!",
-        "category": "st-patricks-day",
-        "tags": ["clover", "leprechaun"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-033",
-        "slug": "why-did-the-shamrock-go-to-the-doctor",
-        "setup": "Why did the shamrock go to the doctor?",
-        "punchline": "It was feeling green!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock", "green"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-034",
-        "slug": "what-do-you-call-a-bulletproof-irish-man",
-        "setup": "What do you call a bulletproof Irish man?",
-        "punchline": "Rick O'Shea!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-035",
-        "slug": "how-do-you-know-if-an-irishman-is-having-a-good-time",
-        "setup": "How do you know if an Irishman is having a good time?",
-        "punchline": "He's Dublin over with laughter!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-036",
-        "slug": "what-do-you-call-a-clover-thats-been-working-out",
-        "setup": "What do you call a clover that's been working out?",
-        "punchline": "Buff-a-clover!",
-        "category": "st-patricks-day",
-        "tags": ["clover"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-037",
-        "slug": "where-can-you-always-find-gold-on-st-patricks-day",
-        "setup": "Where can you always find gold on St. Patrick's Day?",
-        "punchline": "In the dictionary!",
-        "category": "st-patricks-day",
-        "tags": ["gold"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-038",
-        "slug": "why-did-the-leprechaun-open-a-bakery",
-        "setup": "Why did the leprechaun open a bakery?",
-        "punchline": "Because he made great shortbread!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-039",
-        "slug": "what-do-ghosts-drink-on-st-patricks-day",
-        "setup": "What do ghosts drink on St. Patrick's Day?",
-        "punchline": "BOOs!",
-        "category": "st-patricks-day",
-        "tags": ["beer"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-040",
-        "slug": "what-did-the-leprechaun-say-to-the-elf",
-        "setup": "What did the leprechaun say to the elf?",
-        "punchline": "I can't believe we're always getting the short end of the stick!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-041",
-        "slug": "why-is-st-patricks-day-a-great-day-for-pancakes",
-        "setup": "Why is St. Patrick's Day a great day for pancakes?",
-        "punchline": "Because everyone's already flipping over green!",
-        "category": "st-patricks-day",
-        "tags": ["green"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-042",
-        "slug": "what-do-you-call-a-leprechaun-who-collects-aluminum-cans",
-        "setup": "What do you call a leprechaun who collects aluminum cans?",
-        "punchline": "A wee-cycler!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "green"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-043",
-        "slug": "why-did-the-pot-of-gold-start-a-podcast",
-        "setup": "Why did the pot of gold start a podcast?",
-        "punchline": "It had a lot of golden nuggets to share!",
-        "category": "st-patricks-day",
-        "tags": ["pot-of-gold", "gold"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-044",
-        "slug": "how-did-the-shamrock-ace-the-test",
-        "setup": "How did the shamrock ace the test?",
-        "punchline": "It got clover a hundred percent!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock", "clover"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-045",
-        "slug": "what-do-you-call-a-big-irish-celebration",
-        "setup": "What do you call a big Irish celebration?",
-        "punchline": "A shenanigan-za!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-046",
-        "slug": "what-did-the-bartender-say-to-the-green-beer",
-        "setup": "What did the bartender say to the green beer?",
-        "punchline": "You look a bit pale-ale!",
-        "category": "st-patricks-day",
-        "tags": ["beer", "green"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-047",
-        "slug": "why-are-so-few-leprechauns-in-hospitals",
-        "setup": "Why are there so few leprechauns in hospitals?",
-        "punchline": "Because they always feel lucky!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "lucky"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-048",
-        "slug": "what-do-you-get-when-two-leprechauns-have-a-conversation",
-        "setup": "What do you get when two leprechauns have a conversation?",
-        "punchline": "A lot of small talk!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-049",
-        "slug": "why-did-the-rainbow-go-to-school",
-        "setup": "Why did the rainbow go to school?",
-        "punchline": "To improve its spectrum of knowledge!",
-        "category": "st-patricks-day",
-        "tags": ["rainbow"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-050",
-        "slug": "what-did-the-green-say-to-the-rainbow",
-        "setup": "What did the color green say to the rainbow?",
-        "punchline": "Hey, I'm kind of a big deal around here in March!",
-        "category": "st-patricks-day",
-        "tags": ["green", "rainbow"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-051",
-        "slug": "why-do-leprechauns-love-gardening",
-        "setup": "Why do leprechauns love gardening?",
-        "punchline": "Because they have green thumbs!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "green"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-052",
-        "slug": "what-do-you-call-a-lucky-leprechaun-at-a-casino",
-        "setup": "What do you call a leprechaun at a casino?",
-        "punchline": "A small fortune!",
-        "category": "st-patricks-day",
-        "tags": ["lucky", "leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-053",
-        "slug": "what-do-you-call-a-shamrock-that-tells-bad-jokes",
-        "setup": "What do you call a shamrock that tells bad jokes?",
-        "punchline": "A corn-y clover!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock", "clover"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-054",
-        "slug": "why-did-the-gold-coin-go-to-therapy",
-        "setup": "Why did the gold coin go to therapy?",
-        "punchline": "It had too many issues with change!",
-        "category": "st-patricks-day",
-        "tags": ["gold"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-055",
-        "slug": "what-did-ireland-say-to-the-ocean",
-        "setup": "What did Ireland say to the ocean?",
-        "punchline": "Nothing, it just waved!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-056",
-        "slug": "why-do-leprechauns-never-get-angry-on-st-patricks-day",
-        "setup": "Why do leprechauns never get angry on St. Patrick's Day?",
-        "punchline": "They don't want anyone to see their green with envy!",
-        "category": "st-patricks-day",
-        "tags": ["green", "leprechaun"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-057",
-        "slug": "why-did-the-man-order-three-beers-on-st-patricks-day",
-        "setup": "Why did the man always order three beers on St. Patrick's Day?",
-        "punchline": "One for himself and one for each of his brothers back in Ireland!",
-        "category": "st-patricks-day",
-        "tags": ["beer", "irish"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-058",
-        "slug": "what-did-the-four-leaf-clover-say-to-the-three-leaf-clover",
-        "setup": "What did the four-leaf clover say to the three-leaf clover?",
-        "punchline": "You're missing a major leaf of absence!",
-        "category": "st-patricks-day",
-        "tags": ["clover"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-059",
-        "slug": "how-does-a-leprechaun-pay-for-things-online",
-        "setup": "How does a leprechaun pay for things online?",
-        "punchline": "With his Pay-Paddy account!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "gold"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-060",
-        "slug": "why-did-the-beer-go-to-st-patricks-day-parade",
-        "setup": "Why did the beer go to the St. Patrick's Day parade?",
-        "punchline": "It heard there was a lot of hops!",
-        "category": "st-patricks-day",
-        "tags": ["beer"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-061",
-        "slug": "what-would-you-get-if-you-crossed-christmas-with-st-patricks-day",
-        "setup": "What would you get if you crossed Christmas with St. Patrick's Day?",
-        "punchline": "St. O'Claus!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-062",
-        "slug": "why-do-leprechauns-prefer-dollar-bills-over-coins",
-        "setup": "Why do leprechauns prefer dollar bills over coins?",
-        "punchline": "Because they fold easier in their tiny pockets!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "gold"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-063",
-        "slug": "what-do-you-call-a-lucky-horseshoe-on-st-patricks-day",
-        "setup": "What do you call a horseshoe on St. Patrick's Day?",
-        "punchline": "Doubly lucky!",
-        "category": "st-patricks-day",
-        "tags": ["lucky"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-064",
-        "slug": "why-did-the-leprechaun-refuse-to-play-basketball",
-        "setup": "Why did the leprechaun refuse to play basketball?",
-        "punchline": "He was afraid of being dribbled!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-065",
-        "slug": "what-do-you-call-an-irishman-who-keeps-bouncing-off-walls",
-        "setup": "What do you call an Irishman who keeps bouncing off walls?",
-        "punchline": "Rick O'Shea!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-066",
-        "slug": "what-did-the-pot-of-gold-say-at-the-end-of-the-rainbow",
-        "setup": "What did the pot of gold say at the end of the rainbow?",
-        "punchline": "I'm at the end of my rope... I mean bow!",
-        "category": "st-patricks-day",
-        "tags": ["pot-of-gold", "rainbow"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-067",
-        "slug": "what-do-you-call-a-leprechauns-favorite-cereal",
-        "setup": "What is a leprechaun's favorite cereal?",
-        "punchline": "Lucky Charms, obviously. They're magically delicious!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "lucky"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-068",
-        "slug": "why-did-the-shamrock-fail-the-driving-test",
-        "setup": "Why did the shamrock fail the driving test?",
-        "punchline": "It kept running red lights trying to go green!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock", "green"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-069",
-        "slug": "what-did-the-green-beer-say-to-the-regular-beer",
-        "setup": "What did the green beer say to the regular beer?",
-        "punchline": "I'm feeling a little off-color today!",
-        "category": "st-patricks-day",
-        "tags": ["beer", "green"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-070",
-        "slug": "how-does-every-irish-joke-start",
-        "setup": "How does every Irish joke start?",
-        "punchline": "By looking over your shoulder to make sure no one's Dublin-listening!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-071",
-        "slug": "why-did-the-clover-get-promoted",
-        "setup": "Why did the clover get promoted?",
-        "punchline": "It had the best track record — four leaves of experience!",
-        "category": "st-patricks-day",
-        "tags": ["clover", "lucky"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-072",
-        "slug": "what-do-you-call-a-rainbow-that-doesnt-show-up",
-        "setup": "What do you call a rainbow that doesn't show up?",
-        "punchline": "A rain-no-show!",
-        "category": "st-patricks-day",
-        "tags": ["rainbow"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-073",
-        "slug": "why-did-the-leprechaun-go-to-the-dentist",
-        "setup": "Why did the leprechaun go to the dentist?",
-        "punchline": "To get his gold crown fixed!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "gold"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-074",
-        "slug": "what-do-you-get-when-you-combine-a-shamrock-and-a-computer",
-        "setup": "What do you get when you combine a shamrock and a computer?",
-        "punchline": "A four-leaf browser!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-075",
-        "slug": "why-is-the-color-green-so-proud-on-march-17",
-        "setup": "Why is the color green so proud on March 17th?",
-        "punchline": "It's the only day it's not jealous of any other color!",
-        "category": "st-patricks-day",
-        "tags": ["green"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-076",
-        "slug": "what-do-you-call-it-when-a-leprechaun-falls-into-a-river",
-        "setup": "What do you call it when a leprechaun falls into a river?",
-        "punchline": "A wee stream!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-077",
-        "slug": "what-happens-when-a-leprechaun-falls-into-the-irish-sea",
-        "setup": "What happens when a leprechaun falls into the Irish Sea?",
-        "punchline": "He gets wet, same as everyone else!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "irish"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-078",
-        "slug": "why-do-people-wear-green-on-st-patricks-day",
-        "setup": "Why do people wear green on St. Patrick's Day?",
-        "punchline": "Because they'd look silly wearing a whole leprechaun!",
-        "category": "st-patricks-day",
-        "tags": ["green", "leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-079",
-        "slug": "what-did-one-pot-of-gold-say-to-another",
-        "setup": "What did one pot of gold say to the other at the gym?",
-        "punchline": "You're looking like a million bucks!",
-        "category": "st-patricks-day",
-        "tags": ["pot-of-gold", "gold"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-080",
-        "slug": "why-did-the-irish-pug-sit-in-the-shade",
-        "setup": "Why did the Irish pug sit in the shade on St. Patrick's Day?",
-        "punchline": "He didn't want to be a hot dog — he wanted to be a green one!",
-        "category": "st-patricks-day",
-        "tags": ["green", "irish"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-081",
-        "slug": "what-do-leprechauns-love-to-put-on-their-salad",
-        "setup": "What do leprechauns love to put on their salad?",
-        "punchline": "Clover dressing!",
-        "category": "st-patricks-day",
-        "tags": ["clover", "leprechaun"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-082",
-        "slug": "why-did-the-irish-man-only-put-239-beans-in-the-soup",
-        "setup": "Why did the Irishman only put 239 beans in his soup?",
-        "punchline": "Because one more would be too farty!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-083",
-        "slug": "what-did-the-lucky-charm-say-on-a-date",
-        "setup": "What did the lucky charm say on a date?",
-        "punchline": "I'm falling clover heels for you!",
-        "category": "st-patricks-day",
-        "tags": ["lucky", "clover"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-084",
-        "slug": "how-did-the-pot-of-gold-get-to-the-end-of-the-rainbow",
-        "setup": "How did the pot of gold get to the end of the rainbow?",
-        "punchline": "It followed the golden rule — always go toward the light!",
-        "category": "st-patricks-day",
-        "tags": ["pot-of-gold", "rainbow"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-085",
-        "slug": "what-do-you-call-a-leprechaun-prank",
-        "setup": "What do you call a leprechaun prank?",
-        "punchline": "A Saint Pat-trick!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-086",
-        "slug": "why-did-the-beer-feel-special-on-march-17",
-        "setup": "Why did the beer feel special on March 17th?",
-        "punchline": "It was finally cool to be green!",
-        "category": "st-patricks-day",
-        "tags": ["beer", "green"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-087",
-        "slug": "what-is-a-leprechauns-favorite-type-of-music",
-        "setup": "What is a leprechaun's favorite type of music?",
-        "punchline": "Sham-rock and roll!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock", "leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-088",
-        "slug": "why-did-the-gold-go-to-the-rainbow-party",
-        "setup": "Why did the gold go to the rainbow party?",
-        "punchline": "It heard it was going to be the highlight at the end!",
-        "category": "st-patricks-day",
-        "tags": ["gold", "rainbow"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-089",
-        "slug": "how-do-musicians-celebrate-st-patricks-day",
-        "setup": "How do musicians celebrate St. Patrick's Day?",
-        "punchline": "With a jig and a reel good time!",
-        "category": "st-patricks-day",
-        "tags": ["irish"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-090",
-        "slug": "why-did-the-four-leaf-clover-get-a-job",
-        "setup": "Why did the four-leaf clover get a job?",
-        "punchline": "It wanted to make its own fortune!",
-        "category": "st-patricks-day",
-        "tags": ["clover", "lucky"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-091",
-        "slug": "what-does-a-leprechaun-order-at-a-coffee-shop",
-        "setup": "What does a leprechaun order at a coffee shop?",
-        "punchline": "A short black with extra gold!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "gold"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-092",
-        "slug": "why-did-the-shamrock-win-the-talent-show",
-        "setup": "Why did the shamrock win the talent show?",
-        "punchline": "It was naturally lucky with its four-leaf act!",
-        "category": "st-patricks-day",
-        "tags": ["shamrock", "lucky"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-093",
-        "slug": "why-is-a-beer-on-st-patricks-day-like-a-sunburn",
-        "setup": "Why is a beer on St. Patrick's Day like a sunburn?",
-        "punchline": "They're both better when they're not too red and a little green!",
-        "category": "st-patricks-day",
-        "tags": ["beer"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-094",
-        "slug": "what-do-you-call-a-rainbow-after-a-st-patricks-day-party",
-        "setup": "What do you call a rainbow after a St. Patrick's Day party?",
-        "punchline": "A little over the hill!",
-        "category": "st-patricks-day",
-        "tags": ["rainbow"],
-        "rating": 3,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-095",
-        "slug": "why-did-the-pot-of-gold-go-to-school",
-        "setup": "Why did the pot of gold go to school?",
-        "punchline": "To get a little brighter!",
-        "category": "st-patricks-day",
-        "tags": ["pot-of-gold"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-096",
-        "slug": "what-did-the-leprechaun-say-to-the-four-leaf-clover",
-        "setup": "What did the leprechaun say to the four-leaf clover?",
-        "punchline": "I'm your biggest fan — even if I am your smallest!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun", "clover"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-097",
-        "slug": "what-did-the-bartender-say-when-the-leprechaun-asked-for-a-beer",
-        "setup": "What did the bartender say when the leprechaun asked for a beer?",
-        "punchline": "Sorry, I can't serve you — you're already a little stout!",
-        "category": "st-patricks-day",
-        "tags": ["beer", "leprechaun"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-098",
-        "slug": "why-do-leprechauns-make-terrible-thieves",
-        "setup": "Why do leprechauns make terrible thieves?",
-        "punchline": "They can never reach the top shelf!",
-        "category": "st-patricks-day",
-        "tags": ["leprechaun"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-099",
-        "slug": "what-did-the-lucky-penny-say-on-st-patricks-day",
-        "setup": "What did the lucky penny say on St. Patrick's Day?",
-        "punchline": "I'm worth my weight in gold today!",
-        "category": "st-patricks-day",
-        "tags": ["lucky", "gold"],
-        "rating": 4,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    },
-    {
-        "id": "st-patricks-day-100",
-        "slug": "why-is-st-patricks-day-every-dads-favorite-holiday",
-        "setup": "Why is St. Patrick's Day every dad's favorite holiday?",
-        "punchline": "Because the jokes are always so clover!",
-        "category": "st-patricks-day",
-        "tags": ["clover", "lucky"],
-        "rating": 5,
-        "dateAdded": "2026-03-01",
-        "ageRange": "all-ages"
-    }
+  {
+    "id": "st-patricks-day-001",
+    "slug": "why-did-the-leprechaun-go-to-jail",
+    "setup": "Why did the leprechaun go to jail?",
+    "punchline": "He was caught green-handed!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "green"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-002",
+    "slug": "what-do-you-call-a-fake-irish-stone",
+    "setup": "What do you call a fake Irish stone?",
+    "punchline": "A sham-rock!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock",
+      "irish"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-003",
+    "slug": "why-do-leprechauns-hate-running",
+    "setup": "Why do leprechauns hate running?",
+    "punchline": "They'd rather jig than jog!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-004",
+    "slug": "how-can-you-tell-if-a-four-leaf-clover-is-lucky",
+    "setup": "How can you tell if a four-leaf clover is lucky?",
+    "punchline": "It's in a field of three-leaf losers!",
+    "category": "st-patricks-day",
+    "tags": [
+      "clover",
+      "lucky"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-005",
+    "slug": "what-did-the-leprechaun-put-in-the-vending-machine",
+    "setup": "What did the leprechaun put in the vending machine?",
+    "punchline": "A lepre-coin!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "gold"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-006",
+    "slug": "why-do-people-wear-shamrocks-on-st-patricks-day",
+    "setup": "Why do people wear shamrocks on St. Patrick's Day?",
+    "punchline": "Because real rocks are too heavy!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-007",
+    "slug": "what-do-you-get-when-you-cross-a-four-leaf-clover-with-poison-ivy",
+    "setup": "What do you get when you cross a four-leaf clover with poison ivy?",
+    "punchline": "A rash of good luck!",
+    "category": "st-patricks-day",
+    "tags": [
+      "clover",
+      "lucky"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-008",
+    "slug": "why-did-the-leprechaun-turn-down-the-promotion",
+    "setup": "Why did the leprechaun turn down the promotion?",
+    "punchline": "He was already short-staffed!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-009",
+    "slug": "what-do-you-call-a-leprechauns-vacation-home",
+    "setup": "What do you call a leprechaun's vacation home?",
+    "punchline": "A lepre-condo!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-010",
+    "slug": "what-happens-when-you-find-a-pot-of-gold-at-the-end-of-the-rainbow",
+    "setup": "What happens when you find a pot of gold at the end of the rainbow?",
+    "punchline": "You get a huge tax bill from the IRS!",
+    "category": "st-patricks-day",
+    "tags": [
+      "pot-of-gold",
+      "rainbow"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-011",
+    "slug": "why-did-the-irish-man-only-drink-two-beers",
+    "setup": "Why did the Irish man only drink two beers on St. Patrick's Day?",
+    "punchline": "Because the third one was on the house, and he couldn't lift it!",
+    "category": "st-patricks-day",
+    "tags": [
+      "beer",
+      "irish"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-012",
+    "slug": "why-are-leprechauns-so-hard-to-get-along-with",
+    "setup": "Why are leprechauns so hard to get along with?",
+    "punchline": "Because they're always short-tempered!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-013",
+    "slug": "what-did-the-shamrock-say-to-the-clover",
+    "setup": "What did the shamrock say to the clover?",
+    "punchline": "I'm rooting for you!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock",
+      "clover"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-014",
+    "slug": "why-do-frogs-love-st-patricks-day",
+    "setup": "Why do frogs love St. Patrick's Day?",
+    "punchline": "Because they're already wearing green!",
+    "category": "st-patricks-day",
+    "tags": [
+      "green"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-015",
+    "slug": "what-did-one-rainbow-say-to-the-other",
+    "setup": "What did one rainbow say to the other on St. Patrick's Day?",
+    "punchline": "Nothing, they just arced at each other!",
+    "category": "st-patricks-day",
+    "tags": [
+      "rainbow"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-016",
+    "slug": "how-did-the-leprechaun-beat-the-irishman-to-the-pot-of-gold",
+    "setup": "How did the leprechaun beat the Irishman to the pot of gold?",
+    "punchline": "He took a shortcut!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "pot-of-gold"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-017",
+    "slug": "why-dont-you-iron-a-four-leaf-clover",
+    "setup": "Why shouldn't you iron a four-leaf clover?",
+    "punchline": "Because you don't want to press your luck!",
+    "category": "st-patricks-day",
+    "tags": [
+      "clover",
+      "lucky"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-018",
+    "slug": "what-do-leprechauns-barbecue-on-st-patricks-day",
+    "setup": "What do leprechauns barbecue on St. Patrick's Day?",
+    "punchline": "Short ribs!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-019",
+    "slug": "what-does-a-leprechaun-call-a-happy-man-wearing-green",
+    "setup": "What does a leprechaun call a happy man wearing green?",
+    "punchline": "A Jolly Green Giant!",
+    "category": "st-patricks-day",
+    "tags": [
+      "green",
+      "leprechaun"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-020",
+    "slug": "why-did-the-pot-of-gold-break-up-with-the-rainbow",
+    "setup": "Why did the pot of gold break up with the rainbow?",
+    "punchline": "It felt like the relationship had no end!",
+    "category": "st-patricks-day",
+    "tags": [
+      "pot-of-gold",
+      "rainbow"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-021",
+    "slug": "what-type-of-bow-cant-be-tied",
+    "setup": "What type of bow can't be tied?",
+    "punchline": "A rainbow!",
+    "category": "st-patricks-day",
+    "tags": [
+      "rainbow"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-022",
+    "slug": "why-do-leprechauns-make-great-secretaries",
+    "setup": "Why do leprechauns make great secretaries?",
+    "punchline": "They're good at shorthand!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-023",
+    "slug": "what-did-the-irish-potato-say-to-his-sweetheart",
+    "setup": "What did the Irish potato say to his sweetheart?",
+    "punchline": "I only have eyes for you!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-024",
+    "slug": "why-did-the-leprechaun-climb-the-rainbow",
+    "setup": "Why did the leprechaun climb the rainbow?",
+    "punchline": "To get to the highest gold standard!",
+    "category": "st-patricks-day",
+    "tags": [
+      "rainbow",
+      "gold"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-025",
+    "slug": "what-instrument-does-a-leprechaun-play-in-a-band",
+    "setup": "What instrument does a leprechaun play in a band?",
+    "punchline": "The shamrock-a!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock",
+      "leprechaun"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-026",
+    "slug": "how-does-a-leprechaun-work-out",
+    "setup": "How does a leprechaun work out?",
+    "punchline": "By pushing his luck!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "lucky"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-027",
+    "slug": "what-do-you-call-an-irish-spider",
+    "setup": "What do you call an Irish spider?",
+    "punchline": "Paddy long legs!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-028",
+    "slug": "why-did-the-man-bring-a-ladder-to-the-bar-on-st-patricks-day",
+    "setup": "Why did the man bring a ladder to the bar on St. Patrick's Day?",
+    "punchline": "He heard the drinks were on the house!",
+    "category": "st-patricks-day",
+    "tags": [
+      "beer"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-029",
+    "slug": "what-do-you-call-a-leprechaun-with-a-sore-throat",
+    "setup": "What do you call a leprechaun with a sore throat?",
+    "punchline": "A little hoarse!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-030",
+    "slug": "what-did-the-gold-coin-say-to-the-pot",
+    "setup": "What did the gold coin say to the pot?",
+    "punchline": "I'm so glad I fell into your life!",
+    "category": "st-patricks-day",
+    "tags": [
+      "gold",
+      "pot-of-gold"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-031",
+    "slug": "why-did-the-leprechaun-stand-on-the-potato",
+    "setup": "Why did the leprechaun stand on the potato?",
+    "punchline": "To keep from falling into the stew!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "irish"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-032",
+    "slug": "what-did-the-leprechaun-say-when-the-video-game-ended",
+    "setup": "What did the leprechaun say when the video game ended?",
+    "punchline": "Game clover!",
+    "category": "st-patricks-day",
+    "tags": [
+      "clover",
+      "leprechaun"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-033",
+    "slug": "why-did-the-shamrock-go-to-the-doctor",
+    "setup": "Why did the shamrock go to the doctor?",
+    "punchline": "It was feeling green!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock",
+      "green"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-034",
+    "slug": "what-do-you-call-a-bulletproof-irish-man",
+    "setup": "What do you call a bulletproof Irish man?",
+    "punchline": "Rick O'Shea!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-035",
+    "slug": "how-do-you-know-if-an-irishman-is-having-a-good-time",
+    "setup": "How do you know if an Irishman is having a good time?",
+    "punchline": "He's Dublin over with laughter!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-036",
+    "slug": "what-do-you-call-a-clover-thats-been-working-out",
+    "setup": "What do you call a clover that's been working out?",
+    "punchline": "Buff-a-clover!",
+    "category": "st-patricks-day",
+    "tags": [
+      "clover"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-037",
+    "slug": "where-can-you-always-find-gold-on-st-patricks-day",
+    "setup": "Where can you always find gold on St. Patrick's Day?",
+    "punchline": "In the dictionary!",
+    "category": "st-patricks-day",
+    "tags": [
+      "gold"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-038",
+    "slug": "why-did-the-leprechaun-open-a-bakery",
+    "setup": "Why did the leprechaun open a bakery?",
+    "punchline": "Because he made great shortbread!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-039",
+    "slug": "what-do-ghosts-drink-on-st-patricks-day",
+    "setup": "What do ghosts drink on St. Patrick's Day?",
+    "punchline": "BOOs!",
+    "category": "st-patricks-day",
+    "tags": [
+      "beer"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-040",
+    "slug": "what-did-the-leprechaun-say-to-the-elf",
+    "setup": "What did the leprechaun say to the elf?",
+    "punchline": "I can't believe we're always getting the short end of the stick!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-041",
+    "slug": "why-is-st-patricks-day-a-great-day-for-pancakes",
+    "setup": "Why is St. Patrick's Day a great day for pancakes?",
+    "punchline": "Because everyone's already flipping over green!",
+    "category": "st-patricks-day",
+    "tags": [
+      "green"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-042",
+    "slug": "what-do-you-call-a-leprechaun-who-collects-aluminum-cans",
+    "setup": "What do you call a leprechaun who collects aluminum cans?",
+    "punchline": "A wee-cycler!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "green"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-043",
+    "slug": "why-did-the-pot-of-gold-start-a-podcast",
+    "setup": "Why did the pot of gold start a podcast?",
+    "punchline": "It had a lot of golden nuggets to share!",
+    "category": "st-patricks-day",
+    "tags": [
+      "pot-of-gold",
+      "gold"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-044",
+    "slug": "how-did-the-shamrock-ace-the-test",
+    "setup": "How did the shamrock ace the test?",
+    "punchline": "It got clover a hundred percent!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock",
+      "clover"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-045",
+    "slug": "what-do-you-call-a-big-irish-celebration",
+    "setup": "What do you call a big Irish celebration?",
+    "punchline": "A shenanigan-za!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-046",
+    "slug": "what-did-the-bartender-say-to-the-green-beer",
+    "setup": "What did the bartender say to the green beer?",
+    "punchline": "You look a bit pale-ale!",
+    "category": "st-patricks-day",
+    "tags": [
+      "beer",
+      "green"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-047",
+    "slug": "why-are-so-few-leprechauns-in-hospitals",
+    "setup": "Why are there so few leprechauns in hospitals?",
+    "punchline": "Because they always feel lucky!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "lucky"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-048",
+    "slug": "what-do-you-get-when-two-leprechauns-have-a-conversation",
+    "setup": "What do you get when two leprechauns have a conversation?",
+    "punchline": "A lot of small talk!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-049",
+    "slug": "why-did-the-rainbow-go-to-school",
+    "setup": "Why did the rainbow go to school?",
+    "punchline": "To improve its spectrum of knowledge!",
+    "category": "st-patricks-day",
+    "tags": [
+      "rainbow"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-050",
+    "slug": "what-did-the-green-say-to-the-rainbow",
+    "setup": "What did the color green say to the rainbow?",
+    "punchline": "Hey, I'm kind of a big deal around here in March!",
+    "category": "st-patricks-day",
+    "tags": [
+      "green",
+      "rainbow"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-051",
+    "slug": "why-do-leprechauns-love-gardening",
+    "setup": "Why do leprechauns love gardening?",
+    "punchline": "Because they have green thumbs!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "green"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-052",
+    "slug": "what-do-you-call-a-lucky-leprechaun-at-a-casino",
+    "setup": "What do you call a leprechaun at a casino?",
+    "punchline": "A small fortune!",
+    "category": "st-patricks-day",
+    "tags": [
+      "lucky",
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-053",
+    "slug": "what-do-you-call-a-shamrock-that-tells-bad-jokes",
+    "setup": "What do you call a shamrock that tells bad jokes?",
+    "punchline": "A corn-y clover!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock",
+      "clover"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-054",
+    "slug": "why-did-the-gold-coin-go-to-therapy",
+    "setup": "Why did the gold coin go to therapy?",
+    "punchline": "It had too many issues with change!",
+    "category": "st-patricks-day",
+    "tags": [
+      "gold"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-055",
+    "slug": "what-did-ireland-say-to-the-ocean",
+    "setup": "What did Ireland say to the ocean?",
+    "punchline": "Nothing, it just waved!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-056",
+    "slug": "why-do-leprechauns-never-get-angry-on-st-patricks-day",
+    "setup": "Why do leprechauns never get angry on St. Patrick's Day?",
+    "punchline": "They don't want anyone to see their green with envy!",
+    "category": "st-patricks-day",
+    "tags": [
+      "green",
+      "leprechaun"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-057",
+    "slug": "why-did-the-man-order-three-beers-on-st-patricks-day",
+    "setup": "Why did the man always order three beers on St. Patrick's Day?",
+    "punchline": "One for himself and one for each of his brothers back in Ireland!",
+    "category": "st-patricks-day",
+    "tags": [
+      "beer",
+      "irish"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-058",
+    "slug": "what-did-the-four-leaf-clover-say-to-the-three-leaf-clover",
+    "setup": "What did the four-leaf clover say to the three-leaf clover?",
+    "punchline": "You're missing a major leaf of absence!",
+    "category": "st-patricks-day",
+    "tags": [
+      "clover"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-059",
+    "slug": "how-does-a-leprechaun-pay-for-things-online",
+    "setup": "How does a leprechaun pay for things online?",
+    "punchline": "With his Pay-Paddy account!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "gold"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-060",
+    "slug": "why-did-the-beer-go-to-st-patricks-day-parade",
+    "setup": "Why did the beer go to the St. Patrick's Day parade?",
+    "punchline": "It heard there was a lot of hops!",
+    "category": "st-patricks-day",
+    "tags": [
+      "beer"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-061",
+    "slug": "what-would-you-get-if-you-crossed-christmas-with-st-patricks-day",
+    "setup": "What would you get if you crossed Christmas with St. Patrick's Day?",
+    "punchline": "St. O'Claus!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-062",
+    "slug": "why-do-leprechauns-prefer-dollar-bills-over-coins",
+    "setup": "Why do leprechauns prefer dollar bills over coins?",
+    "punchline": "Because they fold easier in their tiny pockets!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "gold"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-063",
+    "slug": "what-do-you-call-a-lucky-horseshoe-on-st-patricks-day",
+    "setup": "What do you call a horseshoe on St. Patrick's Day?",
+    "punchline": "Doubly lucky!",
+    "category": "st-patricks-day",
+    "tags": [
+      "lucky"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-064",
+    "slug": "why-did-the-leprechaun-refuse-to-play-basketball",
+    "setup": "Why did the leprechaun refuse to play basketball?",
+    "punchline": "He was afraid of being dribbled!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-065",
+    "slug": "what-do-you-call-an-irishman-who-keeps-bouncing-off-walls",
+    "setup": "What do you call an Irishman who keeps bouncing off walls?",
+    "punchline": "Rick O'Shea!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-066",
+    "slug": "what-did-the-pot-of-gold-say-at-the-end-of-the-rainbow",
+    "setup": "What did the pot of gold say at the end of the rainbow?",
+    "punchline": "I'm at the end of my rope... I mean bow!",
+    "category": "st-patricks-day",
+    "tags": [
+      "pot-of-gold",
+      "rainbow"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-067",
+    "slug": "what-do-you-call-a-leprechauns-favorite-cereal",
+    "setup": "What is a leprechaun's favorite cereal?",
+    "punchline": "Lucky Charms, obviously. They're magically delicious!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "lucky"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-068",
+    "slug": "why-did-the-shamrock-fail-the-driving-test",
+    "setup": "Why did the shamrock fail the driving test?",
+    "punchline": "It kept running red lights trying to go green!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock",
+      "green"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-069",
+    "slug": "what-did-the-green-beer-say-to-the-regular-beer",
+    "setup": "What did the green beer say to the regular beer?",
+    "punchline": "I'm feeling a little off-color today!",
+    "category": "st-patricks-day",
+    "tags": [
+      "beer",
+      "green"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-070",
+    "slug": "how-does-every-irish-joke-start",
+    "setup": "How does every Irish joke start?",
+    "punchline": "By looking over your shoulder to make sure no one's Dublin-listening!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-071",
+    "slug": "why-did-the-clover-get-promoted",
+    "setup": "Why did the clover get promoted?",
+    "punchline": "It had the best track record — four leaves of experience!",
+    "category": "st-patricks-day",
+    "tags": [
+      "clover",
+      "lucky"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-072",
+    "slug": "what-do-you-call-a-rainbow-that-doesnt-show-up",
+    "setup": "What do you call a rainbow that doesn't show up?",
+    "punchline": "A rain-no-show!",
+    "category": "st-patricks-day",
+    "tags": [
+      "rainbow"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-073",
+    "slug": "why-did-the-leprechaun-go-to-the-dentist",
+    "setup": "Why did the leprechaun go to the dentist?",
+    "punchline": "To get his gold crown fixed!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "gold"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-074",
+    "slug": "what-do-you-get-when-you-combine-a-shamrock-and-a-computer",
+    "setup": "What do you get when you combine a shamrock and a computer?",
+    "punchline": "A four-leaf browser!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-075",
+    "slug": "why-is-the-color-green-so-proud-on-march-17",
+    "setup": "Why is the color green so proud on March 17th?",
+    "punchline": "It's the only day it's not jealous of any other color!",
+    "category": "st-patricks-day",
+    "tags": [
+      "green"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-076",
+    "slug": "what-do-you-call-it-when-a-leprechaun-falls-into-a-river",
+    "setup": "What do you call it when a leprechaun falls into a river?",
+    "punchline": "A wee stream!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-077",
+    "slug": "what-happens-when-a-leprechaun-falls-into-the-irish-sea",
+    "setup": "What happens when a leprechaun falls into the Irish Sea?",
+    "punchline": "He gets wet, same as everyone else!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "irish"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-078",
+    "slug": "why-do-people-wear-green-on-st-patricks-day",
+    "setup": "Why do people wear green on St. Patrick's Day?",
+    "punchline": "Because they'd look silly wearing a whole leprechaun!",
+    "category": "st-patricks-day",
+    "tags": [
+      "green",
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-079",
+    "slug": "what-did-one-pot-of-gold-say-to-another",
+    "setup": "What did one pot of gold say to the other at the gym?",
+    "punchline": "You're looking like a million bucks!",
+    "category": "st-patricks-day",
+    "tags": [
+      "pot-of-gold",
+      "gold"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-080",
+    "slug": "why-did-the-irish-pug-sit-in-the-shade",
+    "setup": "Why did the Irish pug sit in the shade on St. Patrick's Day?",
+    "punchline": "He didn't want to be a hot dog — he wanted to be a green one!",
+    "category": "st-patricks-day",
+    "tags": [
+      "green",
+      "irish"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-081",
+    "slug": "what-do-leprechauns-love-to-put-on-their-salad",
+    "setup": "What do leprechauns love to put on their salad?",
+    "punchline": "Clover dressing!",
+    "category": "st-patricks-day",
+    "tags": [
+      "clover",
+      "leprechaun"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-082",
+    "slug": "why-did-the-irish-man-only-put-239-beans-in-the-soup",
+    "setup": "Why did the Irishman only put 239 beans in his soup?",
+    "punchline": "Because one more would be too farty!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-083",
+    "slug": "what-did-the-lucky-charm-say-on-a-date",
+    "setup": "What did the lucky charm say on a date?",
+    "punchline": "I'm falling clover heels for you!",
+    "category": "st-patricks-day",
+    "tags": [
+      "lucky",
+      "clover"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-084",
+    "slug": "how-did-the-pot-of-gold-get-to-the-end-of-the-rainbow",
+    "setup": "How did the pot of gold get to the end of the rainbow?",
+    "punchline": "It followed the golden rule — always go toward the light!",
+    "category": "st-patricks-day",
+    "tags": [
+      "pot-of-gold",
+      "rainbow"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-085",
+    "slug": "what-do-you-call-a-leprechaun-prank",
+    "setup": "What do you call a leprechaun prank?",
+    "punchline": "A Saint Pat-trick!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-086",
+    "slug": "why-did-the-beer-feel-special-on-march-17",
+    "setup": "Why did the beer feel special on March 17th?",
+    "punchline": "It was finally cool to be green!",
+    "category": "st-patricks-day",
+    "tags": [
+      "beer",
+      "green"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-087",
+    "slug": "what-is-a-leprechauns-favorite-type-of-music",
+    "setup": "What is a leprechaun's favorite type of music?",
+    "punchline": "Sham-rock and roll!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock",
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-088",
+    "slug": "why-did-the-gold-go-to-the-rainbow-party",
+    "setup": "Why did the gold go to the rainbow party?",
+    "punchline": "It heard it was going to be the highlight at the end!",
+    "category": "st-patricks-day",
+    "tags": [
+      "gold",
+      "rainbow"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-089",
+    "slug": "how-do-musicians-celebrate-st-patricks-day",
+    "setup": "How do musicians celebrate St. Patrick's Day?",
+    "punchline": "With a jig and a reel good time!",
+    "category": "st-patricks-day",
+    "tags": [
+      "irish"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-090",
+    "slug": "why-did-the-four-leaf-clover-get-a-job",
+    "setup": "Why did the four-leaf clover get a job?",
+    "punchline": "It wanted to make its own fortune!",
+    "category": "st-patricks-day",
+    "tags": [
+      "clover",
+      "lucky"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-091",
+    "slug": "what-does-a-leprechaun-order-at-a-coffee-shop",
+    "setup": "What does a leprechaun order at a coffee shop?",
+    "punchline": "A short black with extra gold!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "gold"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-092",
+    "slug": "why-did-the-shamrock-win-the-talent-show",
+    "setup": "Why did the shamrock win the talent show?",
+    "punchline": "It was naturally lucky with its four-leaf act!",
+    "category": "st-patricks-day",
+    "tags": [
+      "shamrock",
+      "lucky"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-093",
+    "slug": "why-is-a-beer-on-st-patricks-day-like-a-sunburn",
+    "setup": "Why is a beer on St. Patrick's Day like a sunburn?",
+    "punchline": "They're both better when they're not too red and a little green!",
+    "category": "st-patricks-day",
+    "tags": [
+      "beer"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-094",
+    "slug": "what-do-you-call-a-rainbow-after-a-st-patricks-day-party",
+    "setup": "What do you call a rainbow after a St. Patrick's Day party?",
+    "punchline": "A little over the hill!",
+    "category": "st-patricks-day",
+    "tags": [
+      "rainbow"
+    ],
+    "rating": 3,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-095",
+    "slug": "why-did-the-pot-of-gold-go-to-school",
+    "setup": "Why did the pot of gold go to school?",
+    "punchline": "To get a little brighter!",
+    "category": "st-patricks-day",
+    "tags": [
+      "pot-of-gold"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-096",
+    "slug": "what-did-the-leprechaun-say-to-the-four-leaf-clover",
+    "setup": "What did the leprechaun say to the four-leaf clover?",
+    "punchline": "I'm your biggest fan — even if I am your smallest!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun",
+      "clover"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-097",
+    "slug": "what-did-the-bartender-say-when-the-leprechaun-asked-for-a-beer",
+    "setup": "What did the bartender say when the leprechaun asked for a beer?",
+    "punchline": "Sorry, I can't serve you — you're already a little stout!",
+    "category": "st-patricks-day",
+    "tags": [
+      "beer",
+      "leprechaun"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-098",
+    "slug": "why-do-leprechauns-make-terrible-thieves",
+    "setup": "Why do leprechauns make terrible thieves?",
+    "punchline": "They can never reach the top shelf!",
+    "category": "st-patricks-day",
+    "tags": [
+      "leprechaun"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-099",
+    "slug": "what-did-the-lucky-penny-say-on-st-patricks-day",
+    "setup": "What did the lucky penny say on St. Patrick's Day?",
+    "punchline": "I'm worth my weight in gold today!",
+    "category": "st-patricks-day",
+    "tags": [
+      "lucky",
+      "gold"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  },
+  {
+    "id": "st-patricks-day-100",
+    "slug": "why-is-st-patricks-day-every-dads-favorite-holiday",
+    "setup": "Why is St. Patrick's Day every dad's favorite holiday?",
+    "punchline": "Because the jokes are always so clover!",
+    "category": "st-patricks-day",
+    "tags": [
+      "clover",
+      "lucky"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "ageRange": "teens"
+  }
 ]

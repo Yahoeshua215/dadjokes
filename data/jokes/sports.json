@@ -11,7 +11,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "why-did-the-golfer-bring-two-pairs-of-pants"
   },
   {
@@ -26,7 +26,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-003",
@@ -40,7 +40,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-004",
@@ -54,7 +54,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "why-did-the-bicycle-fall-over"
   },
   {
@@ -69,7 +69,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-006",
@@ -83,7 +83,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-007",
@@ -97,7 +97,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-008",
@@ -111,7 +111,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-009",
@@ -125,7 +125,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-010",
@@ -139,7 +139,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-011",
@@ -153,7 +153,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-012",
@@ -167,7 +167,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-013",
@@ -181,7 +181,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-014",
@@ -195,7 +195,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-015",
@@ -209,7 +209,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-016",
@@ -223,7 +223,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-017",
@@ -237,7 +237,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-018",
@@ -251,7 +251,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-019",
@@ -265,7 +265,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-020",
@@ -279,7 +279,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-021",
@@ -293,7 +293,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-022",
@@ -307,7 +307,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-023",
@@ -321,7 +321,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-024",
@@ -335,7 +335,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages",
+    "ageRange": "teens",
     "canonicalSlug": "why-did-the-gym-close-down"
   },
   {
@@ -350,7 +350,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-13",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-026",
@@ -364,7 +364,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-027",
@@ -378,7 +378,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-028",
@@ -392,7 +392,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-029",
@@ -406,7 +406,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-030",
@@ -420,7 +420,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-031",
@@ -434,7 +434,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-03",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-032",
@@ -448,7 +448,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-033",
@@ -462,7 +462,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-04",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-034",
@@ -476,7 +476,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-035",
@@ -490,7 +490,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-05",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-036",
@@ -504,7 +504,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-037",
@@ -518,7 +518,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-038",
@@ -532,7 +532,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-039",
@@ -546,7 +546,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-07",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-040",
@@ -560,7 +560,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-041",
@@ -574,7 +574,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-08",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-042",
@@ -588,7 +588,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-043",
@@ -602,7 +602,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-044",
@@ -616,7 +616,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-10",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-045",
@@ -630,7 +630,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-046",
@@ -644,7 +644,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-11",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-047",
@@ -658,7 +658,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-11",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-048",
@@ -672,7 +672,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-049",
@@ -686,7 +686,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-050",
@@ -700,7 +700,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-13",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-051",
@@ -714,7 +714,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-052",
@@ -728,7 +728,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-053",
@@ -742,7 +742,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-054",
@@ -756,7 +756,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-055",
@@ -770,7 +770,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-056",
@@ -784,7 +784,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-057",
@@ -798,7 +798,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-058",
@@ -812,7 +812,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-059",
@@ -826,7 +826,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-060",
@@ -840,7 +840,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-061",
@@ -854,7 +854,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-062",
@@ -868,7 +868,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-063",
@@ -882,7 +882,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-064",
@@ -896,7 +896,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-065",
@@ -910,7 +910,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-066",
@@ -924,7 +924,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-067",
@@ -938,7 +938,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-068",
@@ -952,7 +952,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-069",
@@ -966,7 +966,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-070",
@@ -980,7 +980,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-071",
@@ -994,7 +994,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-072",
@@ -1008,7 +1008,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-073",
@@ -1022,7 +1022,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-074",
@@ -1036,7 +1036,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-075",
@@ -1050,7 +1050,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-076",
@@ -1064,7 +1064,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-077",
@@ -1078,7 +1078,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-078",
@@ -1092,7 +1092,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-079",
@@ -1106,7 +1106,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-080",
@@ -1120,7 +1120,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-081",
@@ -1134,7 +1134,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-082",
@@ -1148,7 +1148,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-083",
@@ -1162,7 +1162,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-084",
@@ -1176,7 +1176,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-085",
@@ -1190,7 +1190,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-086",
@@ -1204,7 +1204,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-087",
@@ -1218,7 +1218,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-088",
@@ -1232,7 +1232,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-089",
@@ -1246,7 +1246,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-090",
@@ -1260,7 +1260,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-091",
@@ -1274,7 +1274,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-092",
@@ -1288,7 +1288,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-093",
@@ -1302,7 +1302,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-094",
@@ -1316,7 +1316,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-095",
@@ -1330,7 +1330,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-096",
@@ -1344,7 +1344,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-097",
@@ -1358,7 +1358,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-098",
@@ -1372,7 +1372,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-099",
@@ -1386,7 +1386,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   },
   {
     "id": "sports-100",
@@ -1400,6 +1400,6 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "teens"
   }
 ]

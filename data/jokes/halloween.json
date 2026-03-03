@@ -11,7 +11,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-002",
@@ -25,7 +25,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-003",
@@ -39,7 +39,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-004",
@@ -53,7 +53,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-005",
@@ -67,7 +67,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages",
+    "ageRange": "kids",
     "canonicalSlug": "why-dont-skeletons-fight-each-other"
   },
   {
@@ -82,7 +82,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-03",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-007",
@@ -96,7 +96,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-04",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-008",
@@ -110,7 +110,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-04",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-009",
@@ -124,7 +124,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-05",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-010",
@@ -138,7 +138,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-011",
@@ -152,7 +152,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-012",
@@ -166,7 +166,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-06",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-013",
@@ -180,7 +180,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-014",
@@ -194,7 +194,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-07",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-015",
@@ -208,7 +208,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages",
+    "ageRange": "kids",
     "canonicalSlug": "what-kind-of-music-do-mummies-listen-to"
   },
   {
@@ -223,7 +223,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-017",
@@ -237,7 +237,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-09",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-018",
@@ -251,7 +251,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-09",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-019",
@@ -265,7 +265,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-020",
@@ -279,7 +279,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-021",
@@ -293,7 +293,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-022",
@@ -307,7 +307,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-023",
@@ -321,7 +321,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-024",
@@ -335,7 +335,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-025",
@@ -349,7 +349,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-13",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-026",
@@ -363,7 +363,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-027",
@@ -377,7 +377,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-028",
@@ -391,7 +391,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-029",
@@ -405,7 +405,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-02",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-030",
@@ -419,7 +419,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-03",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-031",
@@ -433,7 +433,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-03",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-032",
@@ -447,7 +447,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-033",
@@ -461,7 +461,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-034",
@@ -475,7 +475,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-05",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-035",
@@ -489,7 +489,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-036",
@@ -503,7 +503,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-06",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-037",
@@ -517,7 +517,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-038",
@@ -531,7 +531,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-039",
@@ -545,7 +545,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-040",
@@ -559,7 +559,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-08",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-041",
@@ -573,7 +573,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-08",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-042",
@@ -587,7 +587,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-043",
@@ -601,7 +601,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-09",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-044",
@@ -615,7 +615,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-045",
@@ -629,7 +629,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-046",
@@ -643,7 +643,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-11",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-047",
@@ -657,7 +657,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-11",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-048",
@@ -671,7 +671,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-049",
@@ -685,7 +685,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-050",
@@ -699,7 +699,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-13",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-051",
@@ -713,7 +713,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-052",
@@ -727,7 +727,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-053",
@@ -741,7 +741,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-054",
@@ -755,7 +755,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-055",
@@ -769,7 +769,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-056",
@@ -783,7 +783,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-057",
@@ -797,7 +797,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-058",
@@ -811,7 +811,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-059",
@@ -825,7 +825,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-060",
@@ -839,7 +839,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-061",
@@ -853,7 +853,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-062",
@@ -867,7 +867,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-063",
@@ -881,7 +881,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-064",
@@ -895,7 +895,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-065",
@@ -909,7 +909,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-066",
@@ -923,7 +923,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-067",
@@ -937,7 +937,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-068",
@@ -951,7 +951,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-069",
@@ -965,7 +965,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-070",
@@ -979,7 +979,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-071",
@@ -993,7 +993,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-072",
@@ -1007,7 +1007,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-073",
@@ -1021,7 +1021,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-074",
@@ -1035,7 +1035,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-075",
@@ -1049,7 +1049,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-076",
@@ -1063,7 +1063,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-077",
@@ -1077,7 +1077,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-078",
@@ -1091,7 +1091,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-079",
@@ -1105,7 +1105,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-080",
@@ -1119,7 +1119,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-081",
@@ -1133,7 +1133,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-082",
@@ -1147,7 +1147,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-083",
@@ -1161,7 +1161,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-084",
@@ -1175,7 +1175,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-085",
@@ -1189,7 +1189,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-086",
@@ -1203,7 +1203,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-087",
@@ -1217,7 +1217,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-088",
@@ -1231,7 +1231,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-089",
@@ -1245,7 +1245,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-090",
@@ -1259,7 +1259,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-091",
@@ -1273,7 +1273,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-092",
@@ -1287,7 +1287,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-093",
@@ -1301,7 +1301,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-094",
@@ -1315,7 +1315,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-095",
@@ -1329,7 +1329,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-096",
@@ -1343,7 +1343,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-097",
@@ -1357,7 +1357,7 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-098",
@@ -1371,7 +1371,7 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-099",
@@ -1385,7 +1385,7 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   },
   {
     "id": "halloween-100",
@@ -1399,6 +1399,6 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "all-ages"
+    "ageRange": "kids"
   }
 ]
