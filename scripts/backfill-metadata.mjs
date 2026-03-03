@@ -12,8 +12,6 @@ const AGE_MAP = {
   'clean': 'kids',
   'best': 'teens',
   'good': 'teens',
-  'best-ever': 'teens',
-  'best-of-all-time': 'teens',
   'bad': 'teens',
   'christmas': 'kids',
   'halloween': 'kids',

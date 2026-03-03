@@ -83,31 +83,9 @@
     "description": "The absolute best dad jokes handpicked from thousands of submissions and rated by real people. This is the ultimate collection of top-tier dad humor that has been tested and proven to get laughs. Consider this your definitive guide to dad joke excellence.",
     "metaTitle": "100+ Best Dad Jokes (2026) — Top-Rated Collection",
     "metaDescription": "The best dad jokes of 2026, ranked and rated. 100+ top-tier jokes handpicked from thousands. The only list you need.",
-    "relatedCategories": ["best-ever", "best-of-all-time", "funny"],
-    "jokeCount": 100,
+    "relatedCategories": ["funny", "good", "corny"],
+    "jokeCount": 242,
     "searchVolume": 51000
-  },
-  {
-    "slug": "best-ever",
-    "name": "Best Dad Jokes Ever",
-    "emoji": "🥇",
-    "description": "The best dad jokes ever told, featuring legendary one-liners and timeless classics that have stood the test of time. These are the jokes that define the genre and set the gold standard for dad humor. If you only memorize a few dad jokes, make it these.",
-    "metaTitle": "100+ Best Dad Jokes Ever (2026) — Legendary Classics",
-    "metaDescription": "The best dad jokes ever told in one place. 100+ legendary, timeless classics that set the gold standard for dad humor.",
-    "relatedCategories": ["best", "best-of-all-time", "funny"],
-    "jokeCount": 100,
-    "searchVolume": 11000
-  },
-  {
-    "slug": "best-of-all-time",
-    "name": "Best Dad Jokes of All Time",
-    "emoji": "🐐",
-    "description": "The greatest dad jokes of all time, the GOAT list that every dad joke enthusiast needs to know. This hall-of-fame collection spans decades of dad humor and includes the most iconic, universally loved jokes ever created. These are the jokes that transcend generations.",
-    "metaTitle": "100+ Best Dad Jokes of All Time (2026) — The GOAT List",
-    "metaDescription": "The best dad jokes of all time, ranked. 100+ all-time greatest hits that every dad joke fan must know. The definitive GOAT list.",
-    "relatedCategories": ["best", "best-ever", "funny"],
-    "jokeCount": 100,
-    "searchVolume": 3600
   },
   {
     "slug": "animal",

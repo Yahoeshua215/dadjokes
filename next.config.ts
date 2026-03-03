@@ -5,6 +5,8 @@ const nextConfig: NextConfig = {
     return [
       { source: '/categories', destination: '/browse', permanent: true },
       { source: '/topics', destination: '/browse', permanent: true },
+      { source: '/best-ever', destination: '/best', permanent: true },
+      { source: '/best-of-all-time', destination: '/best', permanent: true },
     ];
   },
   async headers() {

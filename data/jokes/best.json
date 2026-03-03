@@ -95,8 +95,7 @@
     "rating": 5,
     "dateAdded": "2025-03-22",
     "slug": "why-cant-you-hear-a-pterodactyl-going-to-the-bathroom",
-    "ageRange": "teens",
-    "canonicalSlug": "why-cant-you-hear-a-pterodactyl-going-to-the-bathroom"
+    "ageRange": "teens"
   },
   {
     "id": "best-008",
@@ -1398,6 +1397,1994 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "i-know-a-lot-of-jokes-about-retired-people",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-101",
+    "setup": "I'm reading a horror story in braille.",
+    "punchline": "Something bad is about to happen, I can feel it.",
+    "category": "best",
+    "tags": [
+      "books",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-04",
+    "slug": "im-reading-a-horror-story-in-braille",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-102",
+    "setup": "Why did the old man fall in the well?",
+    "punchline": "Because he couldn't see that well.",
+    "category": "best",
+    "tags": [
+      "elderly",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-16",
+    "slug": "why-did-the-old-man-fall-in-the-well",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-103",
+    "setup": "The rotation of Earth really makes my day.",
+    "punchline": "",
+    "category": "best",
+    "tags": [
+      "science",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-29",
+    "slug": "the-rotation-of-earth-really-makes-my-day",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-104",
+    "setup": "I have a joke about time travel.",
+    "punchline": "But I'm not going to share it. You guys didn't like it.",
+    "category": "best",
+    "tags": [
+      "time-travel",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-02-09",
+    "slug": "i-have-a-joke-about-time-travel",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-105",
+    "setup": "How do you follow Will Smith in the snow?",
+    "punchline": "You follow the fresh prints.",
+    "category": "best",
+    "tags": [
+      "celebrities",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-02-23",
+    "slug": "how-do-you-follow-will-smith-in-the-snow",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-106",
+    "setup": "What has four wheels and flies?",
+    "punchline": "A garbage truck.",
+    "category": "best",
+    "tags": [
+      "vehicles",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-03-07",
+    "slug": "what-has-four-wheels-and-flies",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-107",
+    "setup": "My wife is really mad at the fact that I have no sense of direction.",
+    "punchline": "So I packed up my stuff and right.",
+    "category": "best",
+    "tags": [
+      "marriage",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-03-20",
+    "slug": "my-wife-is-really-mad-at-the-fact-that-i-have-no-sense-of-di",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-108",
+    "setup": "I don't trust those trees.",
+    "punchline": "They seem kind of shady.",
+    "category": "best",
+    "tags": [
+      "nature",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-04-01",
+    "slug": "i-dont-trust-those-trees",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-109",
+    "setup": "Did you hear about the claustrophobic astronaut?",
+    "punchline": "He just needed a little space.",
+    "category": "best",
+    "tags": [
+      "space",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-04-27",
+    "slug": "did-you-hear-about-the-claustrophobic-astronaut",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-110",
+    "setup": "People who use selfie sticks really need to take a long, hard look at themselves.",
+    "punchline": "",
+    "category": "best",
+    "tags": [
+      "technology",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-05-09",
+    "slug": "people-who-use-selfie-sticks-really-need-to-take-a-long-hard",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-111",
+    "setup": "My wife told me I had to stop acting like a flamingo.",
+    "punchline": "So I had to put my foot down.",
+    "category": "best",
+    "tags": [
+      "marriage",
+      "animals"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-05-22",
+    "slug": "my-wife-told-me-i-had-to-stop-acting-like-a-flamingo",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-112",
+    "setup": "Justice is a dish best served cold.",
+    "punchline": "If it were served warm, it would be justwater.",
+    "category": "best",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-06-04",
+    "slug": "justice-is-a-dish-best-served-cold",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-113",
+    "setup": "I bought the world's worst thesaurus yesterday.",
+    "punchline": "Not only is it terrible, it's terrible.",
+    "category": "best",
+    "tags": [
+      "books",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-06-17",
+    "slug": "i-bought-the-worlds-worst-thesaurus-yesterday",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-114",
+    "setup": "Why did the man get fired from the orange juice factory?",
+    "punchline": "He couldn't concentrate.",
+    "category": "best",
+    "tags": [
+      "work",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-07-02",
+    "slug": "why-did-the-man-get-fired-from-the-orange-juice-factory",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-115",
+    "setup": "My friend says to me, \"What rhymes with orange?\"",
+    "punchline": "I said, \"No it doesn't.\"",
+    "category": "best",
+    "tags": [
+      "language",
+      "misdirection"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-07-15",
+    "slug": "my-friend-says-to-me-what-rhymes-with-orange",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-116",
+    "setup": "I just got a new job at a bakery.",
+    "punchline": "I knead the dough.",
+    "category": "best",
+    "tags": [
+      "work",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-07-28",
+    "slug": "i-just-got-a-new-job-at-a-bakery",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-117",
+    "setup": "What's brown and sticky?",
+    "punchline": "A stick.",
+    "category": "best",
+    "tags": [
+      "nature",
+      "anti-humor"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-08-11",
+    "slug": "whats-brown-and-sticky",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-118",
+    "setup": "My therapist says I have a preoccupation with vengeance.",
+    "punchline": "We'll see about that.",
+    "category": "best",
+    "tags": [
+      "therapy",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-08-25",
+    "slug": "my-therapist-says-i-have-a-preoccupation-with-vengeance",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-119",
+    "setup": "Did you hear about the guy who got hit in the head with a can of soda?",
+    "punchline": "He was lucky it was a soft drink.",
+    "category": "best",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-09-07",
+    "slug": "did-you-hear-about-the-guy-who-got-hit-in-the-head-with-a-ca",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-120",
+    "setup": "You know what the loudest pet you can get is?",
+    "punchline": "A trumpet.",
+    "category": "best",
+    "tags": [
+      "music",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-10-04",
+    "slug": "you-know-what-the-loudest-pet-you-can-get-is",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-121",
+    "setup": "I can't believe I got fired from the calendar factory.",
+    "punchline": "All I did was take a day off!",
+    "category": "best",
+    "tags": [
+      "work",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-10-17",
+    "slug": "i-cant-believe-i-got-fired-from-the-calendar-factory",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-122",
+    "setup": "My boss asked me why I only get sick on work days.",
+    "punchline": "I said it must be my weekend immune system.",
+    "category": "best",
+    "tags": [
+      "work",
+      "health"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-11-01",
+    "slug": "my-boss-asked-me-why-i-only-get-sick-on-work-days",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-123",
+    "setup": "I wanted to go on a diet, but I feel like I have way too much on my plate right now.",
+    "punchline": "",
+    "category": "best",
+    "tags": [
+      "food",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-11-15",
+    "slug": "i-wanted-to-go-on-a-diet-but-i-feel-like-i-have-way-too-much",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-124",
+    "setup": "I told my doctor I broke my arm in two places.",
+    "punchline": "He told me to stop going to those places.",
+    "category": "best",
+    "tags": [
+      "medical",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-125",
+    "setup": "What do you call a parade of rabbits hopping backwards?",
+    "punchline": "A receding hare-line.",
+    "category": "best",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-126",
+    "setup": "I asked my dog what's two minus two.",
+    "punchline": "He said nothing.",
+    "category": "best",
+    "tags": [
+      "animals",
+      "math"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-02",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-127",
+    "setup": "What do you call a man with a rubber toe?",
+    "punchline": "Roberto.",
+    "category": "best",
+    "tags": [
+      "names",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-02",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-128",
+    "setup": "I used to hate facial hair.",
+    "punchline": "But then it grew on me.",
+    "category": "best",
+    "tags": [
+      "appearance",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-129",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "They'd crack each other up.",
+    "category": "best",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-03",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-130",
+    "setup": "I once had a dream I was a muffler.",
+    "punchline": "I woke up exhausted.",
+    "category": "best",
+    "tags": [
+      "cars",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-131",
+    "setup": "What do sprinters eat before a race?",
+    "punchline": "Nothing. They fast.",
+    "category": "best",
+    "tags": [
+      "sports",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-132",
+    "setup": "I asked my wife if I was the only one she'd been with.",
+    "punchline": "She said yes, all the others were nines and tens.",
+    "category": "best",
+    "tags": [
+      "marriage",
+      "burn"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-05",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-133",
+    "setup": "I wasn't originally going to get a brain transplant.",
+    "punchline": "But then I changed my mind.",
+    "category": "best",
+    "tags": [
+      "medical",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-05",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-134",
+    "setup": "My wife asked me to stop singing \"Wonderwall\" to her.",
+    "punchline": "I said maybe.",
+    "category": "best",
+    "tags": [
+      "music",
+      "marriage"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-06",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-135",
+    "setup": "Why did the gym close down?",
+    "punchline": "It just didn't work out.",
+    "category": "best",
+    "tags": [
+      "fitness",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-06",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-136",
+    "setup": "I used to think I was indecisive.",
+    "punchline": "But now I'm not so sure.",
+    "category": "best",
+    "tags": [
+      "personality",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-07",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-137",
+    "setup": "Why don't scientists trust atoms?",
+    "punchline": "Because they make up everything.",
+    "category": "best",
+    "tags": [
+      "science",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-138",
+    "setup": "What do you call a boomerang that won't come back?",
+    "punchline": "A stick.",
+    "category": "best",
+    "tags": [
+      "toys",
+      "anti-humor"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-139",
+    "setup": "I told my wife I wanted to be cremated.",
+    "punchline": "She made me an appointment for Tuesday.",
+    "category": "best",
+    "tags": [
+      "marriage",
+      "dark-humor"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-140",
+    "setup": "What's the best way to watch a fly fishing tournament?",
+    "punchline": "Live stream.",
+    "category": "best",
+    "tags": [
+      "fishing",
+      "technology"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-141",
+    "setup": "I have a joke about chemistry.",
+    "punchline": "But I don't think it will get a reaction.",
+    "category": "best",
+    "tags": [
+      "science",
+      "meta"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-142",
+    "setup": "What's the difference between a poorly dressed man on a unicycle and a well-dressed man on a bicycle?",
+    "punchline": "Attire.",
+    "category": "best",
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-10",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-143",
+    "setup": "I told my wife she was drawing her eyebrows too high.",
+    "punchline": "She looked surprised.",
+    "category": "best",
+    "tags": [
+      "marriage",
+      "appearance"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-144",
+    "setup": "What did the ocean say to the shore?",
+    "punchline": "Nothing, it just waved.",
+    "category": "best",
+    "tags": [
+      "nature",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-11",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-145",
+    "setup": "My son asked me, \"Dad, can you put my shoes on?\"",
+    "punchline": "I said, \"I can try, but they probably won't fit me.\"",
+    "category": "best",
+    "tags": [
+      "parenting",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-11",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-146",
+    "setup": "I'm terrified of elevators.",
+    "punchline": "I'm going to start taking steps to avoid them.",
+    "category": "best",
+    "tags": [
+      "buildings",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-12",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-147",
+    "setup": "What did the fried rice say to the shrimp?",
+    "punchline": "Don't wok away from me.",
+    "category": "best",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-12",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-148",
+    "setup": "I've been thinking about taking up meditation.",
+    "punchline": "I figure it's better than sitting around doing nothing.",
+    "category": "best",
+    "tags": [
+      "lifestyle",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-13",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-149",
+    "setup": "I stayed up all night to see where the sun went.",
+    "punchline": "Then it dawned on me.",
+    "category": "best",
+    "tags": [
+      "nature",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-stayed-up-all-night-to-see-the-sun",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-150",
+    "setup": "A man walked into a library and asked for books about paranoia.",
+    "punchline": "The librarian whispered, \"They're right behind you.\"",
+    "category": "best",
+    "tags": [
+      "books",
+      "misdirection"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "man-walked-into-library-paranoia",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-151",
+    "setup": "I went to buy some camouflage trousers the other day.",
+    "punchline": "But I couldn't find any.",
+    "category": "best",
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-went-to-buy-camouflage-trousers",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-152",
+    "setup": "I lost my job at the bank on my very first day.",
+    "punchline": "A woman asked me to check her balance, so I pushed her over.",
+    "category": "best",
+    "tags": [
+      "work",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-lost-my-job-at-the-bank",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-153",
+    "setup": "How do you make a Kleenex dance?",
+    "punchline": "Put a little boogie in it.",
+    "category": "best",
+    "tags": [
+      "music",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "how-do-you-make-a-kleenex-dance",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-154",
+    "setup": "Why did the belt get arrested?",
+    "punchline": "For holding up a pair of pants.",
+    "category": "best",
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-belt-get-arrested",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-155",
+    "setup": "Two goldfish are sitting in a tank.",
+    "punchline": "One looks at the other and says, \"You know how to drive this thing?\"",
+    "category": "best",
+    "tags": [
+      "animals",
+      "misdirection"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "two-goldfish-sitting-in-a-tank",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-156",
+    "setup": "I didn't want to believe that my dad was stealing from his job as a traffic cop.",
+    "punchline": "But when I got home, all the signs were there.",
+    "category": "best",
+    "tags": [
+      "parenting",
+      "law"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "my-dad-was-stealing-from-traffic-cop-job",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-157",
+    "setup": "My wife told me I need to stop acting like a flamingo.",
+    "punchline": "So I put my foot down.",
+    "category": "best",
+    "tags": [
+      "marriage",
+      "animals"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-need-to-stop-acting-like-a-flamingo",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-158",
+    "setup": "What lies at the bottom of the ocean and twitches?",
+    "punchline": "A nervous wreck.",
+    "category": "best",
+    "tags": [
+      "nature",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-lies-at-the-bottom-of-the-ocean",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-159",
+    "setup": "I went to a wedding where two antenna met.",
+    "punchline": "The ceremony wasn't much, but the reception was excellent.",
+    "category": "best",
+    "tags": [
+      "technology",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-went-to-a-wedding-where-two-antenna-met",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-160",
+    "setup": "My grandfather has the heart of a lion.",
+    "punchline": "And a lifetime ban from the zoo.",
+    "category": "best",
+    "tags": [
+      "animals",
+      "dark-humor"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "my-grandfather-has-the-heart-of-a-lion",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-161",
+    "setup": "Did you hear about the kidnapping at the school?",
+    "punchline": "It's fine. He woke up.",
+    "category": "best",
+    "tags": [
+      "school",
+      "misdirection"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "did-you-hear-about-kidnapping-at-school",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-162",
+    "setup": "What does a house wear?",
+    "punchline": "Address.",
+    "category": "best",
+    "tags": [
+      "buildings",
+      "fashion"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-does-a-house-wear-best-ever",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-163",
+    "setup": "I tried to sue the airport for misplacing my luggage.",
+    "punchline": "I lost my case.",
+    "category": "best",
+    "tags": [
+      "travel",
+      "law"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-tried-to-sue-the-airport-misplacing-luggage",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-164",
+    "setup": "Why did the golfer wear two pairs of pants?",
+    "punchline": "In case he got a hole in one.",
+    "category": "best",
+    "tags": [
+      "golf",
+      "clothing"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "why-did-the-golfer-wear-two-pairs-of-pants",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-165",
+    "setup": "I gave all my dead batteries away today.",
+    "punchline": "Free of charge.",
+    "category": "best",
+    "tags": [
+      "technology",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-gave-all-dead-batteries-away",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-166",
+    "setup": "What do Swedish warships have printed on them?",
+    "punchline": "Bar codes, so when they dock they can Scandinavian.",
+    "category": "best",
+    "tags": [
+      "geography",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-swedish-warships-have-printed",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-167",
+    "setup": "I'm addicted to collecting vintage Beatles albums.",
+    "punchline": "I need Help.",
+    "category": "best",
+    "tags": [
+      "music",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "im-addicted-to-collecting-vintage-beatles",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-168",
+    "setup": "My landlord texted saying we need to meet up and talk about how high my heating bill is.",
+    "punchline": "I said, \"Sure, my door is always open.\"",
+    "category": "best",
+    "tags": [
+      "household",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "landlord-talk-about-heating-bill",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-169",
+    "setup": "I don't get why people say \"break a leg\" when you go on stage.",
+    "punchline": "I mean, after all, every cast starts with one.",
+    "category": "best",
+    "tags": [
+      "theater",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "why-people-say-break-a-leg-on-stage",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-170",
+    "setup": "What does a baby computer call his father?",
+    "punchline": "Data.",
+    "category": "best",
+    "tags": [
+      "technology",
+      "parenting"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-does-a-baby-computer-call-his-father",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-171",
+    "setup": "I'm reading a book about submarines.",
+    "punchline": "It's really deep.",
+    "category": "best",
+    "tags": [
+      "books",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "im-reading-a-book-about-submarines",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-172",
+    "setup": "My wife told me to stop singing Wonderwall to her.",
+    "punchline": "I said maybe.",
+    "category": "best",
+    "tags": [
+      "music",
+      "marriage"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "wife-told-me-stop-singing-wonderwall",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-173",
+    "setup": "How does Moses make his coffee?",
+    "punchline": "Hebrews it.",
+    "category": "best",
+    "tags": [
+      "religion",
+      "food"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "how-does-moses-make-his-coffee",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-174",
+    "setup": "What do you call a man who can't stand?",
+    "punchline": "Neil.",
+    "category": "best",
+    "tags": [
+      "names",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-man-who-cant-stand",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-175",
+    "setup": "I ordered a chicken and an egg online.",
+    "punchline": "I'll let you know.",
+    "category": "best",
+    "tags": [
+      "philosophy",
+      "shopping"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-ordered-a-chicken-and-an-egg-online",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-176",
+    "setup": "My wife asked me to stop singing \"I'm a Believer.\"",
+    "punchline": "Then I saw her face.",
+    "category": "best",
+    "tags": [
+      "music",
+      "marriage"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "wife-asked-stop-singing-im-a-believer",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-177",
+    "setup": "When two vegans get in an argument, is it still called a beef?",
+    "punchline": "",
+    "category": "best",
+    "tags": [
+      "food",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "when-two-vegans-get-in-an-argument",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-178",
+    "setup": "To the person who invented zero:",
+    "punchline": "Thanks for nothing.",
+    "category": "best",
+    "tags": [
+      "math",
+      "history"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "to-the-person-who-invented-zero",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-179",
+    "setup": "My doctor said I was going deaf.",
+    "punchline": "That was hard to hear.",
+    "category": "best",
+    "tags": [
+      "medical",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "my-doctor-said-i-was-going-deaf",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-180",
+    "setup": "What do you call a bear with no socks on?",
+    "punchline": "Bare-foot.",
+    "category": "best",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-bear-with-no-socks",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-181",
+    "setup": "I had a dream I was a muffler last night.",
+    "punchline": "I woke up exhausted.",
+    "category": "best",
+    "tags": [
+      "cars",
+      "sleep"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-had-a-dream-i-was-a-muffler-last-night",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-182",
+    "setup": "I used to be a personal trainer, but then I gave my too weak notice.",
+    "punchline": "",
+    "category": "best",
+    "tags": [
+      "fitness",
+      "one-liner"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "used-to-be-personal-trainer-too-weak-notice",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-183",
+    "setup": "I'm afraid for the calendar.",
+    "punchline": "Its days are numbered.",
+    "category": "best",
+    "tags": [
+      "time",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-03",
+    "slug": "im-afraid-for-the-calendar",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-184",
+    "setup": "Dear Math, grow up and solve your own problems.",
+    "punchline": "",
+    "category": "best",
+    "tags": [
+      "math",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-15",
+    "slug": "dear-math-grow-up-and-solve-your-own-problems",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-185",
+    "setup": "You know what's really odd?",
+    "punchline": "Numbers that aren't divisible by two.",
+    "category": "best",
+    "tags": [
+      "math",
+      "anti-humor"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-01-28",
+    "slug": "you-know-whats-really-odd",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-186",
+    "setup": "Why do fathers bring an extra pair of socks when they play golf?",
+    "punchline": "In case they get a hole in one!",
+    "category": "best",
+    "tags": [
+      "golf",
+      "classic"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-02-11",
+    "slug": "why-do-fathers-bring-an-extra-pair-of-socks-when-they-play-g",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-187",
+    "setup": "Wanna hear a joke about a piece of paper?",
+    "punchline": "Never mind... it's tearable.",
+    "category": "best",
+    "tags": [
+      "office",
+      "meta"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-02-24",
+    "slug": "wanna-hear-a-joke-about-a-piece-of-paper",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-188",
+    "setup": "I used to be a banker.",
+    "punchline": "But I lost interest.",
+    "category": "best",
+    "tags": [
+      "money",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-03-06",
+    "slug": "i-used-to-be-a-banker",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-189",
+    "setup": "What did Baby Corn say to Mama Corn?",
+    "punchline": "Where's Pop Corn?",
+    "category": "best",
+    "tags": [
+      "food",
+      "family"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-03-18",
+    "slug": "what-did-baby-corn-say-to-mama-corn",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-190",
+    "setup": "I had a dream that I weighed less than a thousandth of a gram.",
+    "punchline": "I was like, 0mg.",
+    "category": "best",
+    "tags": [
+      "science",
+      "texting"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-04-02",
+    "slug": "i-had-a-dream-that-i-weighed-less-than-a-thousandth-of-a-gra",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-191",
+    "setup": "I don't play soccer because I enjoy the sport.",
+    "punchline": "I'm just doing it for kicks.",
+    "category": "best",
+    "tags": [
+      "sports",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-04-15",
+    "slug": "i-dont-play-soccer-because-i-enjoy-the-sport",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-192",
+    "setup": "What country's capital is growing the fastest?",
+    "punchline": "Ireland. Every day it's Dublin.",
+    "category": "best",
+    "tags": [
+      "geography",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-04-29",
+    "slug": "what-countrys-capital-is-growing-the-fastest",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-193",
+    "setup": "I once got fired from a canned juice company.",
+    "punchline": "Apparently I couldn't concentrate.",
+    "category": "best",
+    "tags": [
+      "work",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-05-11",
+    "slug": "i-once-got-fired-from-a-canned-juice-company",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-194",
+    "setup": "If April showers bring May flowers, what do May flowers bring?",
+    "punchline": "Pilgrims!",
+    "category": "best",
+    "tags": [
+      "history",
+      "nature"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-05-24",
+    "slug": "if-april-showers-bring-may-flowers-what-do-may-flowers-bring",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-195",
+    "setup": "What do you call a toothless bear?",
+    "punchline": "A gummy bear!",
+    "category": "best",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-06-19",
+    "slug": "what-do-you-call-a-toothless-bear",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-196",
+    "setup": "I've been told I'm condescending.",
+    "punchline": "That means I talk down to people.",
+    "category": "best",
+    "tags": [
+      "personality",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-07-03",
+    "slug": "ive-been-told-im-condescending",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-197",
+    "setup": "Did you hear about the circus fire?",
+    "punchline": "It was in tents.",
+    "category": "best",
+    "tags": [
+      "circus",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-07-17",
+    "slug": "did-you-hear-about-the-circus-fire",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-198",
+    "setup": "Can February March?",
+    "punchline": "No, but April May!",
+    "category": "best",
+    "tags": [
+      "calendar",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-07-30",
+    "slug": "can-february-march",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-199",
+    "setup": "I have a joke about trickle-down economics.",
+    "punchline": "But 99% of you won't get it.",
+    "category": "best",
+    "tags": [
+      "politics",
+      "economics"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-08-13",
+    "slug": "i-have-a-joke-about-trickle-down-economics",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-200",
+    "setup": "Spring is here! I got so excited I wet my plants.",
+    "punchline": "",
+    "category": "best",
+    "tags": [
+      "gardening",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-08-26",
+    "slug": "spring-is-here-i-got-so-excited-i-wet-my-plants",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-201",
+    "setup": "I once had a dream I was floating in an ocean of orange soda.",
+    "punchline": "It was more of a Fanta-sea.",
+    "category": "best",
+    "tags": [
+      "food",
+      "dreams"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-09-08",
+    "slug": "i-once-had-a-dream-i-was-floating-in-an-ocean-of-orange-soda",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-202",
+    "setup": "What do you call a factory that sells passable products?",
+    "punchline": "A satisfactory.",
+    "category": "best",
+    "tags": [
+      "work",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-09-21",
+    "slug": "what-do-you-call-a-factory-that-sells-passable-products",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-203",
+    "setup": "How do astronomers organize a party?",
+    "punchline": "They planet.",
+    "category": "best",
+    "tags": [
+      "space",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2025-10-06",
+    "slug": "how-do-astronomers-organize-a-party",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-204",
+    "setup": "I only know 25 letters of the alphabet.",
+    "punchline": "I don't know y.",
+    "category": "best",
+    "tags": [
+      "language",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-10-19",
+    "slug": "i-only-know-25-letters-of-the-alphabet",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-205",
+    "setup": "I asked my wife to let me know next time she has an orgasm.",
+    "punchline": "She said she doesn't like to bother me when I'm at work.",
+    "category": "best",
+    "tags": [
+      "marriage",
+      "burn"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-11-02",
+    "slug": "i-asked-my-wife-to-let-me-know-next-time-she-has-an-orgasm",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-206",
+    "setup": "What did the pirate say on his 80th birthday?",
+    "punchline": "Aye matey!",
+    "category": "best",
+    "tags": [
+      "pirates",
+      "birthdays"
+    ],
+    "rating": 5,
+    "dateAdded": "2025-11-16",
+    "slug": "what-did-the-pirate-say-on-his-80th-birthday",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-207",
+    "setup": "Why couldn't the bicycle stand up by itself?",
+    "punchline": "It was two tired.",
+    "category": "best",
+    "tags": [
+      "vehicles",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-208",
+    "setup": "I got a reversible jacket for Christmas.",
+    "punchline": "I can't wait to see how it turns out.",
+    "category": "best",
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-209",
+    "setup": "What do you call someone who tells dad jokes but has no kids?",
+    "punchline": "A faux pa.",
+    "category": "best",
+    "tags": [
+      "meta",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-02",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-210",
+    "setup": "Why did the invisible man turn down the job?",
+    "punchline": "He couldn't see himself doing it.",
+    "category": "best",
+    "tags": [
+      "work",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-03",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-211",
+    "setup": "My friend keeps saying \"cheer up man it could be worse, you could be stuck underground in a hole full of water.\"",
+    "punchline": "I know he means well.",
+    "category": "best",
+    "tags": [
+      "wordplay",
+      "friends"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-212",
+    "setup": "I've got a great joke about construction.",
+    "punchline": "I'm still working on it.",
+    "category": "best",
+    "tags": [
+      "work",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-04",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-213",
+    "setup": "What did the coffee report to the police?",
+    "punchline": "A mugging.",
+    "category": "best",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-214",
+    "setup": "When does a joke become a dad joke?",
+    "punchline": "When it becomes apparent.",
+    "category": "best",
+    "tags": [
+      "meta",
+      "parenting"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-05",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-215",
+    "setup": "What did the fish say when he swam into a wall?",
+    "punchline": "Dam.",
+    "category": "best",
+    "tags": [
+      "animals",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-06",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-216",
+    "setup": "Why did the Clydesdale give the pony a glass of water?",
+    "punchline": "Because he was a little horse.",
+    "category": "best",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-07",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-217",
+    "setup": "My boss told me to have a good day.",
+    "punchline": "So I went home.",
+    "category": "best",
+    "tags": [
+      "work",
+      "one-liner"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-08",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-218",
+    "setup": "What did one wall say to the other?",
+    "punchline": "I'll meet you at the corner.",
+    "category": "best",
+    "tags": [
+      "buildings",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-08",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-219",
+    "setup": "How does a penguin build its house?",
+    "punchline": "Igloos it together.",
+    "category": "best",
+    "tags": [
+      "animals",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-220",
+    "setup": "Why do dads take an extra pair of socks when they go bowling?",
+    "punchline": "In case they get a spare.",
+    "category": "best",
+    "tags": [
+      "sports",
+      "clothing"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-09",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-221",
+    "setup": "What do you get from a pampered cow?",
+    "punchline": "Spoiled milk.",
+    "category": "best",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-10",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-222",
+    "setup": "A man walks into a bar with a slab of asphalt under his arm.",
+    "punchline": "He says, \"A beer please, and one for the road.\"",
+    "category": "best",
+    "tags": [
+      "bar",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-10",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-223",
+    "setup": "Why do melons have weddings?",
+    "punchline": "Because they cantaloupe.",
+    "category": "best",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-11",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-224",
+    "setup": "I used to be addicted to the hokey pokey.",
+    "punchline": "But I turned myself around.",
+    "category": "best",
+    "tags": [
+      "music",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-11",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-225",
+    "setup": "What did the zero say to the eight?",
+    "punchline": "Nice belt.",
+    "category": "best",
+    "tags": [
+      "math",
+      "fashion"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-12",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-226",
+    "setup": "To the person who stole my glasses:",
+    "punchline": "I will find you. I have contacts.",
+    "category": "best",
+    "tags": [
+      "medical",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-13",
+    "slug": "",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-227",
+    "setup": "Why do Swedish warships have barcodes printed on them?",
+    "punchline": "So when they return to port, they can Scandinavian.",
+    "category": "best",
+    "tags": [
+      "geography",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "why-do-swedish-warships-have-barcodes",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-228",
+    "setup": "I went to a wedding where two antennas met on a roof.",
+    "punchline": "The ceremony wasn't much, but the reception was excellent.",
+    "category": "best",
+    "tags": [
+      "technology",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "two-antennas-met-on-a-roof",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-229",
+    "setup": "My wife told me I was acting like a flamingo.",
+    "punchline": "So I had to put my foot down.",
+    "category": "best",
+    "tags": [
+      "marriage",
+      "animals"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "wife-told-me-acting-like-a-flamingo",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-230",
+    "setup": "I bought some shoes from a drug dealer.",
+    "punchline": "I don't know what he laced them with, but I've been tripping all day.",
+    "category": "best",
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "bought-shoes-from-a-drug-dealer",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-231",
+    "setup": "I tried to catch some fog yesterday.",
+    "punchline": "I mist.",
+    "category": "best",
+    "tags": [
+      "weather",
+      "puns"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "i-tried-to-catch-some-fog",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-232",
+    "setup": "Did you hear about the kidnapping at the elementary school?",
+    "punchline": "It's fine. He woke up.",
+    "category": "best",
+    "tags": [
+      "school",
+      "misdirection"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "kidnapping-at-the-elementary-school",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-233",
+    "setup": "I tried to sue the airport for losing my luggage.",
+    "punchline": "I lost my case.",
+    "category": "best",
+    "tags": [
+      "travel",
+      "law"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "tried-to-sue-the-airport",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-234",
+    "setup": "What do you call a belt made out of watches?",
+    "punchline": "A waist of time.",
+    "category": "best",
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "belt-made-out-of-watches",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-235",
+    "setup": "I went to buy some camo trousers.",
+    "punchline": "But I couldn't find any.",
+    "category": "best",
+    "tags": [
+      "fashion",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "went-to-buy-camo-trousers",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-236",
+    "setup": "I've been thinking about removing my spine.",
+    "punchline": "It's only holding me back.",
+    "category": "best",
+    "tags": [
+      "anatomy",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "thinking-about-removing-my-spine",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-237",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta.",
+    "category": "best",
+    "tags": [
+      "food",
+      "puns"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-01",
+    "slug": "what-do-you-call-a-fake-noodle-goat",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-238",
+    "setup": "What did the drummer name his twin daughters?",
+    "punchline": "Anna One, Anna Two.",
+    "category": "best",
+    "tags": [
+      "music",
+      "family"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "what-did-the-drummer-name-twin-daughters",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-239",
+    "setup": "If a child refuses to nap, are they guilty of resisting a rest?",
+    "punchline": "",
+    "category": "best",
+    "tags": [
+      "parenting",
+      "law"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "child-refuses-to-nap-resisting-a-rest",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-240",
+    "setup": "My landlord texted me saying we need to talk about how high my heating bill is.",
+    "punchline": "I said, \"Sure, my door is always open.\"",
+    "category": "best",
+    "tags": [
+      "household",
+      "wordplay"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "landlord-said-heating-bill-too-high",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-241",
+    "setup": "Why can't you hear a pterodactyl go to the bathroom?",
+    "punchline": "Because the P is silent.",
+    "category": "best",
+    "tags": [
+      "dinosaurs",
+      "spelling"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "cant-hear-a-pterodactyl-go-to-bathroom",
+    "ageRange": "teens"
+  },
+  {
+    "id": "best-242",
+    "setup": "I have a joke about time travel, but I'm not going to share it.",
+    "punchline": "You guys didn't like it.",
+    "category": "best",
+    "tags": [
+      "time-travel",
+      "meta"
+    ],
+    "rating": 5,
+    "dateAdded": "2026-03-01",
+    "slug": "joke-about-time-travel-didnt-like-it",
     "ageRange": "teens"
   }
 ]
