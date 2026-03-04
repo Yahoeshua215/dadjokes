@@ -22,8 +22,8 @@ export default function Header() {
             <Image
               src="/JLAD-logo-horizontal.png"
               alt="Joke Like a Dad"
-              width={200}
-              height={40}
+              width={825}
+              height={148}
               className="h-8 w-auto"
               priority
             />
