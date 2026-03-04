@@ -117,21 +117,48 @@ export function getAllJokeSlugs(): string[] {
     .map(j => j.slug);
 }
 
-export function getJokeOfTheDay(): Joke | undefined {
+function getJOTDData(): { date: string; jokeId: string }[] {
+  const filePath = path.join(process.cwd(), 'data', 'joke-of-the-day.json');
+  const data = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(data) as { date: string; jokeId: string }[];
+}
+
+function toEasternDateString(date: Date): string {
+  return date.toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
+}
+
+export function getJokeOfTheDayForDate(dateStr: string): Joke | undefined {
   try {
-    const filePath = path.join(process.cwd(), 'data', 'joke-of-the-day.json');
-    const data = fs.readFileSync(filePath, 'utf-8');
-    const jotdData = JSON.parse(data) as { date: string; jokeId: string }[];
-    const today = new Date(new Date().toLocaleDateString('en-US', { timeZone: 'America/New_York' }));
-    const dayOfYear = Math.floor(
-      (today.getTime() - new Date(today.getFullYear(), 0, 0).getTime()) / 86400000
-    );
-    const index = dayOfYear % jotdData.length;
-    const jokeId = jotdData[index].jokeId;
-    return getJokeById(jokeId);
+    const jotdData = getJOTDData();
+    const match = jotdData.find(entry => entry.date === dateStr);
+    if (match) return getJokeById(match.jokeId);
+    // Fallback: cycle through the list based on days since the first entry
+    const firstDate = new Date(jotdData[0].date + 'T00:00:00');
+    const targetDate = new Date(dateStr + 'T00:00:00');
+    const daysDiff = Math.floor((targetDate.getTime() - firstDate.getTime()) / 86400000);
+    const index = ((daysDiff % jotdData.length) + jotdData.length) % jotdData.length;
+    return getJokeById(jotdData[index].jokeId);
   } catch {
     return getAllJokes()[0];
   }
+}
+
+export function getJokeOfTheDay(): Joke | undefined {
+  const todayStr = toEasternDateString(new Date());
+  return getJokeOfTheDayForDate(todayStr);
+}
+
+export function getRecentJOTD(count: number): { joke: Joke; date: Date }[] {
+  const results: { joke: Joke; date: Date }[] = [];
+  const now = new Date();
+  for (let i = 1; i <= count; i++) {
+    const d = new Date(now);
+    d.setDate(d.getDate() - i);
+    const dateStr = toEasternDateString(d);
+    const joke = getJokeOfTheDayForDate(dateStr);
+    if (joke) results.push({ joke, date: new Date(dateStr + 'T00:00:00') });
+  }
+  return results;
 }
 
 export function getRandomJoke(): Joke {

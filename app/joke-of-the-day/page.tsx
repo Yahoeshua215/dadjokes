@@ -1,4 +1,4 @@
-import { getJokeOfTheDay, getAllJokes } from '@/lib/jokes';
+import { getJokeOfTheDay, getRecentJOTD } from '@/lib/jokes';
 import HeroJoke from '@/components/HeroJoke';
 import { generateMetadata as seoMetadata } from '@/lib/seo';
 
@@ -11,7 +11,7 @@ export const metadata = seoMetadata({
 
 export default function JokeOfTheDayPage() {
   const jotd = getJokeOfTheDay();
-  const allJokes = getAllJokes();
+  const recentPicks = getRecentJOTD(7);
 
   const today = new Date().toLocaleDateString('en-US', {
     weekday: 'long',
@@ -20,9 +20,6 @@ export default function JokeOfTheDayPage() {
     year: 'numeric',
     timeZone: 'America/New_York',
   });
-
-  // Get a few recent "past" jokes for the archive feel
-  const pastJokes = allJokes.slice(0, 7);
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -40,7 +37,7 @@ export default function JokeOfTheDayPage() {
       <section>
         <h2 className="font-serif text-2xl mb-6">Recent Picks</h2>
         <div className="space-y-4">
-          {pastJokes.map((joke, i) => (
+          {recentPicks.map(({ joke, date }, i) => (
             <div
               key={joke.id}
               className="bg-surface border border-border rounded-xl p-6"
