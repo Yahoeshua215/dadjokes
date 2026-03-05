@@ -1400,5 +1400,96 @@
     "dateAdded": "2026-03-01",
     "slug": "why-peanut-call-the-police",
     "ageRange": "kids"
+  },
+  {
+    "id": "corny-101",
+    "setup": "If a king sleeps on a king sized bed, a queen on a queen sized bed, what kind does a prince sleep on?",
+    "punchline": "An Heir mattress",
+    "category": "corny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "if-a-king-sleeps-on-a-king-sized-bed-a-queen-on-a-queen-sized-bed-what-kind-does",
+    "ageRange": "kids"
+  },
+  {
+    "id": "corny-102",
+    "setup": "I let out a huge sigh when I received another text from the guy next door. \"Hey when you guys get back from the oo can I stop by to grab some ip ties and borrow your bu saw? I'll trade you for some of my ucchinis.\" My wife asked, \"Who sent that??\"",
+    "punchline": "I said, \"It's our no-Z neighbor.\"",
+    "category": "corny",
+    "tags": [
+      "marriage"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-let-out-a-huge-sigh-when-i-received-another-text-from-the-guy-next-door-hey-wh",
+    "ageRange": "kids"
+  },
+  {
+    "id": "corny-103",
+    "setup": "You ever heard of silent tennis?",
+    "punchline": "It's essentially tennis but without the racket.",
+    "category": "corny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "you-ever-heard-of-silent-tennis",
+    "ageRange": "kids"
+  },
+  {
+    "id": "corny-104",
+    "setup": "My young friend was telling me that she failed her exam in Aboriginal music.",
+    "punchline": "Being the supportive father figure type, I took her hand and asked, \"Didja redo it?\"",
+    "category": "corny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-young-friend-was-telling-me-that-she-failed-her-exam-in-aboriginal-music",
+    "ageRange": "kids"
+  },
+  {
+    "id": "corny-105",
+    "setup": "I hurt my back walking like an Egyptian.",
+    "punchline": "Now I have to see a Cairo-practor.",
+    "category": "corny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-hurt-my-back-walking-like-an-egyptian",
+    "ageRange": "kids"
+  },
+  {
+    "id": "corny-106",
+    "setup": "The day I turned 42, my daughter walked up to me and said \"happy...\", and started timing on her watch. After a long silence she said...",
+    "punchline": "\"...40 second birthday\". I was so proud.",
+    "category": "corny",
+    "tags": [
+      "family"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "the-day-i-turned-42-my-daughter-walked-up-to-me-and-said-happy-and-started-timin",
+    "ageRange": "kids"
+  },
+  {
+    "id": "corny-107",
+    "setup": "Funny how in the past everyone owned horses and only the rich owned cars, and now everyone has cars and only the rich have horses...",
+    "punchline": "My how the stables have turned.",
+    "category": "corny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "funny-how-in-the-past-everyone-owned-horses-and-only-the-rich-owned-cars-and-now",
+    "ageRange": "kids"
   }
 ]

@@ -1399,5 +1399,59 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "ageRange": "kids"
+  },
+  {
+    "id": "food-101",
+    "setup": "Walking home last night, I passed a slice of apple pie, an ice cream sundae, and a lemon cheesecake.",
+    "punchline": "I said to myself, \"The streets seem strangely desserted\".",
+    "category": "food",
+    "tags": [
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "walking-home-last-night-i-passed-a-slice-of-apple-pie-an-ice-cream-sundae-and-a-",
+    "ageRange": "kids"
+  },
+  {
+    "id": "food-102",
+    "setup": "I'm never eating goat liver again!",
+    "punchline": "It tastes offal!",
+    "category": "food",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "im-never-eating-goat-liver-again",
+    "ageRange": "kids"
+  },
+  {
+    "id": "food-103",
+    "setup": "My kid hit me with this one today",
+    "punchline": "Why did the coffee call the cops? It was mugged",
+    "category": "food",
+    "tags": [
+      "family",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-kid-hit-me-with-this-one-today",
+    "ageRange": "kids"
+  },
+  {
+    "id": "food-104",
+    "setup": "A hungry traveller stopped at a monastery and was taken to the kitchens where a brother is frying chips.",
+    "punchline": "The brother replied \"No. I'm the chip monk.\"",
+    "category": "food",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "a-hungry-traveller-stopped-at-a-monastery-and-was-taken-to-the-kitchens-where-a-",
+    "ageRange": "kids"
   }
 ]

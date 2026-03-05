@@ -1400,5 +1400,45 @@
     "dateAdded": "2026-03-01",
     "slug": "used-to-hate-math-decimals",
     "ageRange": "teens"
+  },
+  {
+    "id": "bad-101",
+    "setup": "What do you get when you drop a piano on a kid from a great height?",
+    "punchline": "A flat minor",
+    "category": "bad",
+    "tags": [
+      "family",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "what-do-you-get-when-you-drop-a-piano-on-a-kid-from-a-great-height",
+    "ageRange": "teens"
+  },
+  {
+    "id": "bad-102",
+    "setup": "BREAKING: Iran has struck its own submarine with an underwater torpedo in the Persian Gulf, killing all 350 aboard",
+    "punchline": "Whoops wrong sub",
+    "category": "bad",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "breaking-iran-has-struck-its-own-submarine-with-an-underwater-torpedo-in-the-per",
+    "ageRange": "teens"
+  },
+  {
+    "id": "bad-103",
+    "setup": "My son asked why sStar Wars movies came out 4, 5, 6, 1, 2, 3…",
+    "punchline": "I answered in my best yoda impersonation: 'in charge of scheduling, I was' My son loved it, I heard a sigh from my SO, and when I looked at her, she just shook her head.",
+    "category": "bad",
+    "tags": [
+      "family"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-son-asked-why-sstar-wars-movies-came-out-4-5-6-1-2-3",
+    "ageRange": "teens"
   }
 ]

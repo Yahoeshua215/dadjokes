@@ -1406,5 +1406,73 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "ageRange": "teens"
+  },
+  {
+    "id": "work-101",
+    "setup": "My daughter finally started looking for a job. I told her there's an entry level job that people are dying to get into and you start with 3000 people beneath you.",
+    "punchline": "Working at the graveyard isn't for everyone though!",
+    "category": "work",
+    "tags": [
+      "family",
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-daughter-finally-started-looking-for-a-job-i-told-her-theres-an-entry-level-j",
+    "ageRange": "teens"
+  },
+  {
+    "id": "work-102",
+    "setup": "My wife asked me to clean an insect out of the washer.",
+    "punchline": "After I removed it I informed her I debugged her washing machine.",
+    "category": "work",
+    "tags": [
+      "marriage"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-wife-asked-me-to-clean-an-insect-out-of-the-washer",
+    "ageRange": "teens"
+  },
+  {
+    "id": "work-103",
+    "setup": "Where does a network engineer go for number 1?",
+    "punchline": "At His I P address.",
+    "category": "work",
+    "tags": [
+      "math"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "where-does-a-network-engineer-go-for-number-1",
+    "ageRange": "teens"
+  },
+  {
+    "id": "work-104",
+    "setup": "Whenever I'm lonely I always open Excel and go to the first line of the 1,514th column.",
+    "punchline": "It's my Number 1 BFF.",
+    "category": "work",
+    "tags": [
+      "technology",
+      "math"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "whenever-im-lonely-i-always-open-excel-and-go-to-the-first-line-of-the-1514th-co",
+    "ageRange": "teens"
+  },
+  {
+    "id": "work-105",
+    "setup": "How did the computer hackers get away from the scene of crime?",
+    "punchline": "They just ransomware.",
+    "category": "work",
+    "tags": [
+      "technology"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "how-did-the-computer-hackers-get-away-from-the-scene-of-crime",
+    "ageRange": "teens"
   }
 ]
