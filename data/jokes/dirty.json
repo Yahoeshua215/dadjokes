@@ -1398,5 +1398,31 @@
     "dateAdded": "2026-03-01",
     "slug": "wife-wanted-to-feel-like-a-princess",
     "ageRange": "adults"
+  },
+  {
+    "id": "dirty-101",
+    "setup": "Asked my son what he learned in school today. He said \"Gay men like ynoS. Lesbians favour ahamaY, and transgender people prefer esoB.",
+    "punchline": "I knelt down and put my hand on his shoulder and said \"Son, those are just backwards stereo types.\"",
+    "category": "dirty",
+    "tags": [
+      "family"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "asked-my-son-what-he-learned-in-school-today-he-said-gay-men-like-ynos-lesbians-",
+    "ageRange": "adults"
+  },
+  {
+    "id": "dirty-102",
+    "setup": "I went to my doctor today and told him I was having problems with my hearing. He asked, \"Can you describe the symptoms?\" I replied, \"Sure...\"",
+    "punchline": "\"They're yellow, Homer's fat, and Marge has blue hair.\"",
+    "category": "dirty",
+    "tags": [
+      "doctor"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-went-to-my-doctor-today-and-told-him-i-was-having-problems-with-my-hearing-he-",
+    "ageRange": "adults"
   }
 ]

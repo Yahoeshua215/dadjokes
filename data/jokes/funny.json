@@ -1404,5 +1404,425 @@
     "dateAdded": "2026-03-01",
     "slug": "why-did-bicycle-keep-falling-over",
     "ageRange": "teens"
+  },
+  {
+    "id": "funny-101",
+    "setup": "After kissing my wife on the couch she said \"let's take this upstairs\".",
+    "punchline": "\"Ok,\" I said. \"You grab one end and I'll grab the other.\"",
+    "category": "funny",
+    "tags": [
+      "marriage"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "after-kissing-my-wife-on-the-couch-she-said-lets-take-this-upstairs",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-102",
+    "setup": "Did you hear about the Mexican train killer?",
+    "punchline": "He had locomotives.",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "did-you-hear-about-the-mexican-train-killer",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-103",
+    "setup": "Some jerk stole my thesaurus like a jerk.",
+    "punchline": "What a jerk.",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "some-jerk-stole-my-thesaurus-like-a-jerk",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-104",
+    "setup": "I asked a German girl for her number, but I'm still waiting for the rest of the digits",
+    "punchline": "So far, I only have \"nine\"",
+    "category": "funny",
+    "tags": [
+      "math"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-asked-a-german-girl-for-her-number-but-im-still-waiting-for-the-rest-of-the-di",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-105",
+    "setup": "I went out with a grammar teacher last night. I mentioned my colon, she talked about her period.",
+    "punchline": "That's about all we had in comma.",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-went-out-with-a-grammar-teacher-last-night-i-mentioned-my-colon-she-talked-abo",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-106",
+    "setup": "When my wife is sad, I let her colour in my tattoos..",
+    "punchline": "Turns out she just needed a shoulder to crayon.",
+    "category": "funny",
+    "tags": [
+      "marriage"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "when-my-wife-is-sad-i-let-her-colour-in-my-tattoos",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-107",
+    "setup": "Someone keeps stealing the wheels on my car",
+    "punchline": "Shouldn't they be getting tired of this already?",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "someone-keeps-stealing-the-wheels-on-my-car",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-108",
+    "setup": "I heard this today about a person with many facial piercings",
+    "punchline": "\"Her face looks like she fell into a tackle box.\"",
+    "category": "funny",
+    "tags": [
+      "family",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-heard-this-today-about-a-person-with-many-facial-piercings",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-109",
+    "setup": "I published a book on lubricants",
+    "punchline": "It won first place in the non-friction category",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-published-a-book-on-lubricants",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-110",
+    "setup": "What do you call someone who can't stop watching films with strong female leads?",
+    "punchline": "A heroine addict",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "what-do-you-call-someone-who-cant-stop-watching-films-with-strong-female-leads",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-111",
+    "setup": "My landlord sent me a text saying we need to talk about how high my air-conditioning bill is.",
+    "punchline": "I responded: Come by any time, my door is always open.",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-landlord-sent-me-a-text-saying-we-need-to-talk-about-how-high-my-air-conditio",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-112",
+    "setup": "My keyboard is missing the letter 'Z'. I asked it what happened.",
+    "punchline": "It said, \"Nothing much, just snoozing.\"",
+    "category": "funny",
+    "tags": [
+      "technology"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-keyboard-is-missing-the-letter-z-i-asked-it-what-happened",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-113",
+    "setup": "I accidentally sprayed Axe body spray into my mouth.",
+    "punchline": "Now I speak with an Axe scent.",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-accidentally-sprayed-axe-body-spray-into-my-mouth",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-114",
+    "setup": "Tablets were replaced by scrolls, scrolls were replaced by books.",
+    "punchline": "Now we scroll through books on tablets.",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "tablets-were-replaced-by-scrolls-scrolls-were-replaced-by-books",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-115",
+    "setup": "My son asked If you see an Apple Store getting robbed…",
+    "punchline": "does that make you an *iWitness*?",
+    "category": "funny",
+    "tags": [
+      "family"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-son-asked-if-you-see-an-apple-store-getting-robbed",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-116",
+    "setup": "They laughed when I said I wanted to be a comedian.",
+    "punchline": "Well, they're not laughing now.",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "they-laughed-when-i-said-i-wanted-to-be-a-comedian",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-117",
+    "setup": "If I am in the middle of the ocean and I jump, but when I come down I don't hit water, what does this mean?",
+    "punchline": "Island",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "if-i-am-in-the-middle-of-the-ocean-and-i-jump-but-when-i-come-down-i-dont-hit-wa",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-118",
+    "setup": "I love my new hobby: archery...its great",
+    "punchline": "but there are a lot of drawbacks",
+    "category": "funny",
+    "tags": [
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-love-my-new-hobby-archeryits-great",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-119",
+    "setup": "I was addicted to soap.",
+    "punchline": "I'm clean now.",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-was-addicted-to-soap",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-120",
+    "setup": "Paddy says to Mick, \"I found this pen, is it yours?\"",
+    "punchline": "Mick replies, \"I don't know, give it here.\" He tries it and says, \"Yes it is.\" Paddy asks, \"How do you know?\" Mick replies, \"That's my handwriting.\"",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "paddy-says-to-mick-i-found-this-pen-is-it-yours",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-121",
+    "setup": "What kind of jeans does a ghost hunter wear ?",
+    "punchline": "Just a paranormal jean",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "what-kind-of-jeans-does-a-ghost-hunter-wear",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-122",
+    "setup": "Do you know what a Zebra is?",
+    "punchline": "It's twenty six sizes larger than an A bra.",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "do-you-know-what-a-zebra-is",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-123",
+    "setup": "Someone told me my clothes were gay.",
+    "punchline": "I said: \"Yeah they came out of the closet this morning.\"",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "someone-told-me-my-clothes-were-gay",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-124",
+    "setup": "I met my boyfriend while visiting the zoo. There he was, in his uniform...",
+    "punchline": "straightaway I knew he was a keeper",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-met-my-boyfriend-while-visiting-the-zoo-there-he-was-in-his-uniform",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-125",
+    "setup": "Doctor: I'm sorry, but I had to remove your colon",
+    "punchline": "Me why?",
+    "category": "funny",
+    "tags": [
+      "doctor"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "doctor-im-sorry-but-i-had-to-remove-your-colon",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-126",
+    "setup": "The genie asked, \"What's your first wish?\" Steve replied, \"I wish I was rich!\" The genie nodded and said, \"What's your second wish?\"",
+    "punchline": "Rich exclaimed, \"I want lots of money!\"",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "the-genie-asked-whats-your-first-wish-steve-replied-i-wish-i-was-rich-the-genie-",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-127",
+    "setup": "A storm blew away 25% of my roof last night",
+    "punchline": "oof",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "a-storm-blew-away-25-of-my-roof-last-night",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-128",
+    "setup": "People told me I'd never be good at poetry because I'm dyslexic",
+    "punchline": "But so far I've made 3 jugs and a vase and they turned out lovely",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "people-told-me-id-never-be-good-at-poetry-because-im-dyslexic",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-129",
+    "setup": "I've recently discovered I'm terrified of elevators, so I'm taking steps to avoid them.",
+    "punchline": "I was a little afraid of speed bumps too, but I'm slowly getting over them!",
+    "category": "funny",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "ive-recently-discovered-im-terrified-of-elevators-so-im-taking-steps-to-avoid-th",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-130",
+    "setup": "My Granpa knew the Titanic was going to sink the moment he saw the ship. He was screaming, warning people not to get on it!",
+    "punchline": "Security apprehended him, and kicked him out of the movie theater",
+    "category": "funny",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-granpa-knew-the-titanic-was-going-to-sink-the-moment-he-saw-the-ship-he-was-s",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-131",
+    "setup": "AITA for eating my coworker's subway?",
+    "punchline": "Oops, wrong sub!",
+    "category": "funny",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "aita-for-eating-my-coworkers-subway",
+    "ageRange": "teens"
+  },
+  {
+    "id": "funny-132",
+    "setup": "\"Doctor, I think I have ADHD. I can never remember where I parked my Ford.\"",
+    "punchline": "Doctor: That's not how ADHD works. Man: But I keep losing my Focus.",
+    "category": "funny",
+    "tags": [
+      "doctor",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "doctor-i-think-i-have-adhd-i-can-never-remember-where-i-parked-my-ford",
+    "ageRange": "teens"
   }
 ]

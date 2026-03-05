@@ -1398,5 +1398,58 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "ageRange": "kids"
+  },
+  {
+    "id": "math-101",
+    "setup": "An infinite number of mathematicians walk into a bar. The first says \"I'll have a beer.\" The second says \"I'll have half a beer.\" The third says \"I'll have a quarter of a beer.\", etc.",
+    "punchline": "The bartender interrupts them, says \"I know your limit,\" and pours them two beers.",
+    "category": "math",
+    "tags": [
+      "math",
+      "bar-jokes"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "an-infinite-number-of-mathematicians-walk-into-a-bar-the-first-says-ill-have-a-b",
+    "ageRange": "kids"
+  },
+  {
+    "id": "math-102",
+    "setup": "What did the lumberjack say about the mathematician who couldn't dance?",
+    "punchline": "Man, that guy needs to get some logarithm.",
+    "category": "math",
+    "tags": [
+      "math"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "what-did-the-lumberjack-say-about-the-mathematician-who-couldnt-dance",
+    "ageRange": "kids"
+  },
+  {
+    "id": "math-103",
+    "setup": "This soup recipe calls for \"5 potatoes cubed\".",
+    "punchline": "Maybe it's just me, but 125 potatoes seems excessive.",
+    "category": "math",
+    "tags": [
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "this-soup-recipe-calls-for-5-potatoes-cubed",
+    "ageRange": "kids"
+  },
+  {
+    "id": "math-104",
+    "setup": "If you sin 90 times, you'll only get caught 50% of times,",
+    "punchline": "Because sin 90 = cot 45.",
+    "category": "math",
+    "tags": [
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "if-you-sin-90-times-youll-only-get-caught-50-of-times",
+    "ageRange": "kids"
   }
 ]

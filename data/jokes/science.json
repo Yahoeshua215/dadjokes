@@ -1398,5 +1398,47 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "ageRange": "kids"
+  },
+  {
+    "id": "science-101",
+    "setup": "Why can't astronauts eat ice pops",
+    "punchline": "In space no one can hear the ice cream truck",
+    "category": "science",
+    "tags": [
+      "food",
+      "space",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "why-cant-astronauts-eat-ice-pops",
+    "ageRange": "kids"
+  },
+  {
+    "id": "science-102",
+    "setup": "I just discovered that Albert Einstein was a real person..",
+    "punchline": "my whole life I've believed he was a theoretical physicist.",
+    "category": "science",
+    "tags": [
+      "family"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-just-discovered-that-albert-einstein-was-a-real-person",
+    "ageRange": "kids"
+  },
+  {
+    "id": "science-103",
+    "setup": "Why don't Astronaunts listen to gangster rap?",
+    "punchline": "Because there's zero gees in space. (Made it up a few years back).",
+    "category": "science",
+    "tags": [
+      "space",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "why-dont-astronaunts-listen-to-gangster-rap",
+    "ageRange": "kids"
   }
 ]

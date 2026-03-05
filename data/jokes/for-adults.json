@@ -1400,5 +1400,115 @@
     "dateAdded": "2026-03-01",
     "slug": "wife-wanted-zero-to-200-seconds",
     "ageRange": "adults"
+  },
+  {
+    "id": "for-adults-101",
+    "setup": "Today my wife caught me standing on the bathroom scale, sucking in my stomach.",
+    "punchline": "\"That's not gonna work\" she said. \"It sure does\" I said, \" It's the only way I can see the numbers\"",
+    "category": "for-adults",
+    "tags": [
+      "marriage",
+      "math"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "today-my-wife-caught-me-standing-on-the-bathroom-scale-sucking-in-my-stomach",
+    "ageRange": "adults"
+  },
+  {
+    "id": "for-adults-102",
+    "setup": "Wife yells from upstairs: \"Hey do you ever get a really sharp pain in your heart area, almost like someone is using a voodoo doll against you?\"",
+    "punchline": "Husband: \"no\" Wife: \"How about now?\"",
+    "category": "for-adults",
+    "tags": [
+      "marriage"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "wife-yells-from-upstairs-hey-do-you-ever-get-a-really-sharp-pain-in-your-heart-a",
+    "ageRange": "adults"
+  },
+  {
+    "id": "for-adults-103",
+    "setup": "My son was just born and another dad at the nursery congratulated me and said his daughter was born yesterday... said maybe they'll marry eachother.",
+    "punchline": "Sure, like my son is going to marry someone twice his age...",
+    "category": "for-adults",
+    "tags": [
+      "family"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-son-was-just-born-and-another-dad-at-the-nursery-congratulated-me-and-said-hi",
+    "ageRange": "adults"
+  },
+  {
+    "id": "for-adults-104",
+    "setup": "I used to be a romantic and believed love was blind...",
+    "punchline": "Now that I'm older, after many years with a wife and kids, I wish it was deaf and mute too.",
+    "category": "for-adults",
+    "tags": [
+      "marriage",
+      "family"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "i-used-to-be-a-romantic-and-believed-love-was-blind",
+    "ageRange": "adults"
+  },
+  {
+    "id": "for-adults-105",
+    "setup": "My wife just completed a 40 week body building program this morning",
+    "punchline": "It's a girl and weighs 7lbs 12 oz.",
+    "category": "for-adults",
+    "tags": [
+      "marriage"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-wife-just-completed-a-40-week-body-building-program-this-morning",
+    "ageRange": "adults"
+  },
+  {
+    "id": "for-adults-106",
+    "setup": "My wife threatened to divorce me when I said I was going to give our daughter a silly name...",
+    "punchline": "So I called her Bluff...",
+    "category": "for-adults",
+    "tags": [
+      "marriage",
+      "family",
+      "food"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-wife-threatened-to-divorce-me-when-i-said-i-was-going-to-give-our-daughter-a-",
+    "ageRange": "adults"
+  },
+  {
+    "id": "for-adults-107",
+    "setup": "My wife filed for divorce today, said I am too Un-American for her.",
+    "punchline": "Tbh, I saw it coming from a kilometer away.",
+    "category": "for-adults",
+    "tags": [
+      "marriage"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-wife-filed-for-divorce-today-said-i-am-too-un-american-for-her",
+    "ageRange": "adults"
+  },
+  {
+    "id": "for-adults-108",
+    "setup": "My wife died because I couldn't remember her blood type..",
+    "punchline": "She was always strong, even in her last breath she was insisting \"Be positive!\" but it's hard without her",
+    "category": "for-adults",
+    "tags": [
+      "marriage",
+      "food",
+      "wordplay"
+    ],
+    "rating": 4,
+    "dateAdded": "2026-03-05",
+    "slug": "my-wife-died-because-i-couldnt-remember-her-blood-type",
+    "ageRange": "adults"
   }
 ]
