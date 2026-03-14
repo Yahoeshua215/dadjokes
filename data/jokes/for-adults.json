@@ -11,7 +11,14 @@
     "rating": 5,
     "dateAdded": "2025-01-12",
     "slug": "i-asked-my-wife-if-i-was-the-only-one-shed-ever-been-with",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The joke pivots on 'the only one' — a phrase implying romantic exclusivity. The wife's answer confirms he's the only 'one' (as in, the only person rated a 1), while everyone else scored nines and tens. She technically said yes while absolutely destroying him with math.",
+    "howToTell": "Pause just a beat after 'She said yes' to let the false relief land before finishing — that moment of hopeful silence is what makes the sucker punch hit.",
+    "perfectFor": [
+      "At a dinner party when someone asks how you and your wife met",
+      "During a roast of a close friend at his birthday",
+      "When your spouse offers a backhanded compliment and you want to escalate"
+    ]
   },
   {
     "id": "for-adults-002",
@@ -26,7 +33,14 @@
     "dateAdded": "2025-01-22",
     "slug": "why-did-the-coffee-file-a-police-report",
     "ageRange": "adults",
-    "canonicalSlug": "why-did-the-coffee-file-a-police-report"
+    "canonicalSlug": "why-did-the-coffee-file-a-police-report",
+    "whyFunny": "'Mugged' does two jobs simultaneously — it's what happens when you get robbed (exactly why you'd file a police report) and it's the vessel coffee is served in. The setup primes you for a crime story, so 'mugged' lands as both the punchline and the literal conclusion of the premise.",
+    "howToTell": "Say 'It got mugged' with total deadpan confidence and then let the silence sit — people need half a second to hear both meanings at once, and rushing it robs them of that.",
+    "perfectFor": [
+      "At a coffee shop while waiting for your order",
+      "During your morning commute when someone asks how your day is going",
+      "At a work meeting when the coffee machine is broken and everyone is cranky"
+    ]
   },
   {
     "id": "for-adults-003",
@@ -40,7 +54,14 @@
     "rating": 5,
     "dateAdded": "2025-02-05",
     "slug": "my-boss-told-me-to-have-a-good-day",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The joke exploits the gap between what a boss means ('be productive today') and what the words literally say ('have a good day'). Following the instruction literally is both the most logical and the most rebellious move possible — and ironically, going home IS the good day.",
+    "howToTell": "Deliver 'So I went home' with complete innocence, as if it's the only rational conclusion. The flatter your tone, the funnier — you're not being sarcastic, you're being sincere.",
+    "perfectFor": [
+      "During Monday morning small talk at the office",
+      "At happy hour when coworkers are venting about work",
+      "When someone asks why you left the office early on a Friday"
+    ]
   },
   {
     "id": "for-adults-004",
@@ -54,7 +75,14 @@
     "rating": 4,
     "dateAdded": "2025-02-15",
     "slug": "why-dont-some-couples-go-to-the-gym",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Work out' carries both the fitness meaning (exercise) and the relationship meaning (succeed). The setup cleverly pairs couples with gyms so both meanings are primed at the same time, making the punchline land on two levels without having to choose between them.",
+    "howToTell": "Emphasize 'work out' just slightly — not enough to wink at it, but enough to plant the seed. Let the audience do the double-take on their own.",
+    "perfectFor": [
+      "At a gym while chatting between sets",
+      "When a friend mentions their gym membership lapsed around the same time as a breakup",
+      "At a wedding toast when you want to work in a fitness metaphor"
+    ]
   },
   {
     "id": "for-adults-005",
@@ -68,7 +96,14 @@
     "rating": 5,
     "dateAdded": "2025-02-28",
     "slug": "my-wife-told-me-to-stop-impersonating-a-flamingo",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Put my foot down' idiomatically means asserting authority — but it's also literally what you do when you stop standing on one leg like a flamingo. The physical action of ending the impression and the idiomatic expression for standing firm are the exact same motion.",
+    "howToTell": "Give a resigned sigh before 'I had to put my foot down,' as if it was a mature, reluctant decision — then let the image of literally lowering one flamingo leg settle in for the audience.",
+    "perfectFor": [
+      "At a family gathering when recounting minor marital disputes",
+      "During a conversation about bird behavior or a zoo visit",
+      "When someone asks how you handle conflict in your relationship"
+    ]
   },
   {
     "id": "for-adults-006",
@@ -82,7 +117,14 @@
     "rating": 4,
     "dateAdded": "2025-03-08",
     "slug": "i-told-my-therapist-about-my-fear-of-backstories",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The irony is perfect — telling a therapist about your fear of backstories is exactly the thing that triggers a therapist to ask for your backstory. Her response ('let's go back to the beginning') is both clinically textbook and completely tone-deaf to the stated fear. She has diagnosed herself as the problem.",
+    "howToTell": "Say the therapist's line in a calm, warm clinical voice — the professional detachment is what makes the irony so satisfying. She's not being cruel, she just has no idea.",
+    "perfectFor": [
+      "In a therapy-adjacent conversation at a dinner party",
+      "When a friend complains about their therapist asking too many childhood questions",
+      "At a book club when someone keeps demanding character backstory before plot"
+    ]
   },
   {
     "id": "for-adults-007",
@@ -96,7 +138,14 @@
     "rating": 4,
     "dateAdded": "2025-03-19",
     "slug": "my-doctor-said-i-need-to-cut-back-on-sodium",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Take with a grain of salt' means to be skeptical — but the speaker is being told to reduce sodium intake. Using that idiom to dismiss medical advice about salt creates a perfect ironic loop: the grain of salt is both the metaphor for dismissal and the exact substance you're supposed to avoid.",
+    "howToTell": "Deliver it as if you genuinely think you followed the doctor's advice to the letter. The more earnest the tone, the funnier — you're not being flip, you're being helpful.",
+    "perfectFor": [
+      "At a doctor's appointment check-in with other patients",
+      "When someone shares medical advice they're planning to ignore",
+      "At a dinner table when someone reaches for the salt shaker"
+    ]
   },
   {
     "id": "for-adults-008",
@@ -110,7 +159,14 @@
     "rating": 5,
     "dateAdded": "2025-04-02",
     "slug": "i-got-fired-from-the-calendar-factory",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Take a day off' means both calling in sick (what any employee might do) and physically removing a day from a calendar (what a calendar factory worker literally could do). The crime and the phrasing tie together so neatly that the punishment feels almost fair.",
+    "howToTell": "Sound genuinely baffled by the injustice — you are the aggrieved party here, and playing that sincerely makes the wordplay land harder than winking at it.",
+    "perfectFor": [
+      "Around New Year's when everyone is tossing out old calendars",
+      "When a coworker complains about someone calling in sick",
+      "At a job interview when asked 'Why did you leave your last position?'"
+    ]
   },
   {
     "id": "for-adults-009",
@@ -124,7 +180,14 @@
     "rating": 4,
     "dateAdded": "2025-04-14",
     "slug": "why-do-accountants-make-good-lovers",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Figures' works as both financial data (the thing accountants work with professionally) and physical figures (the innuendo). The question sets up a professional framing that makes the double meaning feel earned — you're technically complimenting their career skills.",
+    "howToTell": "Keep a perfectly straight face throughout — this one benefits from being delivered like you genuinely think you're paying accountants a compliment about their professional qualifications.",
+    "perfectFor": [
+      "At a work happy hour with people from finance or accounting",
+      "When someone asks which profession makes the best partners",
+      "During tax season when the accountant in the group is getting praise"
+    ]
   },
   {
     "id": "for-adults-010",
@@ -139,7 +202,14 @@
     "dateAdded": "2025-04-28",
     "slug": "im-so-good-at-sleeping",
     "ageRange": "adults",
-    "canonicalSlug": "im-so-good-at-sleeping"
+    "canonicalSlug": "im-so-good-at-sleeping",
+    "whyFunny": "'With my eyes closed' is an idiom for doing something effortlessly — but sleeping with your eyes closed is literally the default, not an achievement. The joke celebrates a non-accomplishment with maximum confidence, which is exactly where the absurdity lives.",
+    "howToTell": "Deliver with genuine pride, as if you've mastered something most people struggle with. The more earnest the boast, the funnier the complete lack of actual achievement.",
+    "perfectFor": [
+      "In a group chat when someone asks what people are talented at",
+      "At a sleepover when someone starts bragging about skills",
+      "When someone asks if you have any hobbies outside of work"
+    ]
   },
   {
     "id": "for-adults-011",
@@ -153,7 +223,14 @@
     "rating": 5,
     "dateAdded": "2025-05-10",
     "slug": "my-wife-says-i-have-two-faults",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The punchline proves the setup in real time — the speaker doesn't know the second fault because they weren't listening when their wife listed it. The joke is structurally self-defeating in the most elegant possible way: the evidence of the crime is the crime itself.",
+    "howToTell": "Trail off genuinely on 'and something else,' as if you're trying to remember something that simply isn't there. A small confused shrug at the end seals it perfectly.",
+    "perfectFor": [
+      "When your partner is trying to get you to pay attention to something important",
+      "At a couples' gathering when communication habits come up",
+      "During a wedding toast that touches on the realities of marriage"
+    ]
   },
   {
     "id": "for-adults-012",
@@ -167,7 +244,14 @@
     "rating": 5,
     "dateAdded": "2025-05-22",
     "slug": "whats-the-difference-between-a-poorly-dressed-man-on-a-tricy",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Attire' sounds exactly like 'a tire' — the actual physical difference between a tricycle (three) and a bicycle (two). The entire elaborate setup about clothing is a red herring; the answer has nothing to do with fashion and everything to do with counting wheels.",
+    "howToTell": "Pause dramatically before 'Attire' — let the audience's brain spin on the clothing angle for a beat, then drop the single word with complete confidence. Don't explain.",
+    "perfectFor": [
+      "At a formal event where everyone is discussing dress codes",
+      "When someone rides past on a bike during a fashion conversation",
+      "At a cycling club social event where wordplay is appreciated"
+    ]
   },
   {
     "id": "for-adults-013",
@@ -181,7 +265,14 @@
     "rating": 5,
     "dateAdded": "2025-06-03",
     "slug": "i-told-my-wife-she-should-embrace-her-mistakes",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Embrace' has an idiomatic meaning (accept your mistakes) and a literal meaning (hug). The wife takes the advice completely literally — and the person she hugs as her mistake is the speaker. The burn is never stated directly; the audience has to connect that she's embracing him.",
+    "howToTell": "Pause a full beat after 'She gave me a hug.' Let the audience connect the dots themselves — spelling it out would ruin the moment of realization, which is the whole payoff.",
+    "perfectFor": [
+      "At a wedding toast where you're gently roasting the couple",
+      "When someone is beating themselves up over a bad decision",
+      "At a anniversary dinner when the married couple is taking questions"
+    ]
   },
   {
     "id": "for-adults-014",
@@ -195,7 +286,14 @@
     "rating": 4,
     "dateAdded": "2025-06-16",
     "slug": "why-do-programmers-prefer-dark-mode",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Bugs' in programming means code errors — but the joke plays on the literal meaning: actual insects drawn to light sources. The setup gives programmers a technical question, and the punchline satisfies both the logical software explanation and the mundane entomological one simultaneously.",
+    "howToTell": "Deliver it as genuine tech trivia, not as a joke — the more you sound like you're sharing a real insider fact about developer preferences, the harder the double meaning hits.",
+    "perfectFor": [
+      "At a hackathon or tech meetup between sessions",
+      "When onboarding a new developer and they ask why everyone uses dark mode",
+      "During a late-night coding session when someone suggests switching to light mode"
+    ]
   },
   {
     "id": "for-adults-015",
@@ -209,7 +307,14 @@
     "rating": 4,
     "dateAdded": "2025-06-30",
     "slug": "my-wife-accused-me-of-being-immature",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The setup accuses the speaker of immaturity, and the punchline is a live demonstration — responding to an adult accusation from inside a pillow fort is the most immature possible defense. The joke structure is itself the proof of the charge being leveled against him.",
+    "howToTell": "Say 'get out of my pillow fort' with genuine, indignant authority — you are defending sovereign territory and you take that seriously. The more defensive, the funnier.",
+    "perfectFor": [
+      "When a friend or partner accuses you of being childish",
+      "At a sleepover or game night when someone wants to act grown-up",
+      "When your kids are building forts and you've clearly joined in a little too enthusiastically"
+    ]
   },
   {
     "id": "for-adults-016",
@@ -223,7 +328,14 @@
     "rating": 5,
     "dateAdded": "2025-07-12",
     "slug": "i-recently-started-investing-in-stocks",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Bouillonaire' is a genius portmanteau of 'bouillon' (broth/stock) and 'billionaire.' The setup sounds like legitimate financial news before pivoting to soup cubes — 'stocks' pulls double duty as both a financial instrument and a cooking ingredient, and 'bouillonaire' seals the whole thing with a word that shouldn't exist but feels completely inevitable.",
+    "howToTell": "Say the first line completely straight, then list 'beef, chicken, and vegetable' like you're reading a diversified portfolio. Drop 'bouillonaire' with zero fanfare — it should land as a casual aspiration, not a punchline.",
+    "perfectFor": [
+      "At a dinner party when finance bros are talking about their investment portfolios",
+      "While making soup or broth from scratch with someone",
+      "When someone asks what financial goals you've set for the year"
+    ]
   },
   {
     "id": "for-adults-017",
@@ -237,7 +349,14 @@
     "rating": 3,
     "dateAdded": "2025-07-25",
     "slug": "what-did-the-lawyer-say-to-the-other-lawyer",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Anti-humor at its purest — the setup primes you for a legal pun or courtroom wordplay, but the punchline is just a mundane, completely true statement that any two lawyers could say at any time. The comedy comes entirely from the complete absence of comedy, which somehow creates its own comedy.",
+    "howToTell": "Deliver with total confidence, zero hesitation. Don't smirk, don't pause for effect — just say it like it's the most natural thing in the world. The flatter you play it, the more it works on an audience that appreciates meta-humor.",
+    "perfectFor": [
+      "With a comedy-savvy crowd that appreciates anti-humor and subverted expectations",
+      "When someone demands you tell a lawyer joke and you want to disappoint them precisely",
+      "At a law school social event to confuse absolutely everyone"
+    ]
   },
   {
     "id": "for-adults-018",
@@ -251,7 +370,14 @@
     "rating": 4,
     "dateAdded": "2025-08-06",
     "slug": "i-finally-found-out-why-my-car-was-making-that-whining-noise",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Whining noise' sets up the expectation of a mechanical problem — belts, bearings, something under the hood. But kids whining in the back seat is also literally a whining noise, just not the kind you call a mechanic about. The misdirection from automotive mystery to parenting reality is entirely satisfying.",
+    "howToTell": "Draw out the first part as if recounting a genuine mystery you spent weeks on, then drop the punchline flatly — the contrast between the suspense and the mundane answer is everything.",
+    "perfectFor": [
+      "On a road trip when the kids have been particularly vocal",
+      "In a mechanic's waiting room when other parents are around",
+      "At a parent meetup when the conversation turns to road trips"
+    ]
   },
   {
     "id": "for-adults-019",
@@ -265,7 +391,14 @@
     "rating": 5,
     "dateAdded": "2025-08-22",
     "slug": "my-wife-asked-me-to-pass-her-the-lipstick-but-i-accidentally",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The glue stick sealed her lips shut — which is why she 'still isn't talking.' The phrase 'not talking to me' normally signals an argument or silent treatment, but here it's physically, literally accurate. The joke operates on two planes at once and earns both readings.",
+    "howToTell": "Say 'she still isn't talking to me' with a sad, resigned sigh — as if you assume it's because she's upset, completely unaware of the more literal explanation. The obliviousness is the joke.",
+    "perfectFor": [
+      "At a craft night when someone mixes up supplies",
+      "When your partner is giving you the silent treatment and you want to defuse tension with a laugh",
+      "At a makeup tutorial party when someone asks about a product mix-up"
+    ]
   },
   {
     "id": "for-adults-020",
@@ -279,7 +412,14 @@
     "rating": 4,
     "dateAdded": "2025-09-04",
     "slug": "why-do-retired-people-smile-all-the-time",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Retired people literally cannot be fired — they've already left the workforce permanently. The joke reframes workplace anxiety (the fear of losing your job for any reason) as the thing retirees have permanently escaped. Smiling is free when there's no boss to disapprove.",
+    "howToTell": "Deliver with a touch of genuine envy in your voice, as if you've thought about this and it's honestly unfair how freely they get to smile.",
+    "perfectFor": [
+      "At a retirement party when coworkers are wondering what freedom feels like",
+      "When your parents ask why you always look so stressed at work",
+      "At a company all-hands when the mood is particularly tense"
+    ]
   },
   {
     "id": "for-adults-021",
@@ -293,7 +433,14 @@
     "rating": 4,
     "dateAdded": "2025-09-18",
     "slug": "i-used-to-think-i-was-indecisive",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The punchline demonstrates the trait it's discussing in real time — being unsure about whether you're indecisive IS indecisiveness. The joke eats itself in the best possible way: it proves its own point by failing to commit to it.",
+    "howToTell": "Deliver with genuine uncertainty in your voice, as if you still haven't quite landed on how you feel. The slight wobble is the whole joke — you're not performing indecisiveness, you're just being it.",
+    "perfectFor": [
+      "When someone asks you to make a restaurant decision for the group",
+      "At a personality test debrief when someone identifies as an overthinker",
+      "During any conversation where someone is being visibly wishy-washy about something"
+    ]
   },
   {
     "id": "for-adults-022",
@@ -307,7 +454,14 @@
     "rating": 3,
     "dateAdded": "2025-10-02",
     "slug": "my-wife-blocked-me-on-all-social-media",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The speaker has completely missed the point — the wife is upset because she looks bad in the photos, and the husband's solution is to announce that he looks great. The self-absorption is so complete and so oblivious that it circles back to being endearing in a totally clueless way.",
+    "howToTell": "Sound genuinely confused about why you were blocked, and let the 'I look great in them, though' come out as a genuine consolation you're offering yourself. The cluelessness must feel authentic, not performed.",
+    "perfectFor": [
+      "When someone is retelling a social media drama that clearly has two sides",
+      "At a wedding when photos come out and not everyone is equally happy with them",
+      "During a conversation about posting photos of your partner without checking first"
+    ]
   },
   {
     "id": "for-adults-023",
@@ -321,7 +475,14 @@
     "rating": 4,
     "dateAdded": "2025-10-15",
     "slug": "a-man-walks-into-a-library-and-asks-for-books-about-paranoia",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The librarian is giving perfectly normal directions in a perfectly normal librarian whisper — but the words 'they're right behind you' are the exact worst thing you could say to someone who is paranoid. She's accidentally validating the fear while innocently answering the question. She has no idea.",
+    "howToTell": "Actually lower your voice to a whisper when you deliver the librarian's line — matching her delivery physically makes the joke land better in person.",
+    "perfectFor": [
+      "At a bookstore or library when browsing psychology or self-help books",
+      "When a friend tells you they've been feeling anxious and on edge lately",
+      "At a trivia night themed around books or psychology"
+    ]
   },
   {
     "id": "for-adults-024",
@@ -335,7 +496,14 @@
     "rating": 4,
     "dateAdded": "2025-10-30",
     "slug": "i-spent-100-on-a-belt-that-didnt-fit",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Waist' sounds exactly like 'waste' — a huge waste of money. But waist is also the body part a belt is designed for, which is precisely why the belt didn't fit. The wordplay connects the financial failure to the physical reason for it in a single, perfectly efficient pun.",
+    "howToTell": "Let your wife get the last word — deliver her line like it actually stung a little. Selling the burn makes the homophone land cleaner than if you're too cheerful about it.",
+    "perfectFor": [
+      "While online shopping for clothes with your partner",
+      "When returning an ill-fitting item at a store",
+      "At a clothing swap when someone mentions a purchase that didn't work out"
+    ]
   },
   {
     "id": "for-adults-025",
@@ -349,7 +517,14 @@
     "rating": 5,
     "dateAdded": "2025-11-12",
     "slug": "my-wife-and-i-laugh-about-how-competitive-we-are",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Claiming to laugh more IS a competitive act — the speaker can't help competing even while describing their shared competitiveness. The joke proves its own premise by being an example of the thing it's talking about, which is perfectly self-defeating.",
+    "howToTell": "Add just a hint of smug satisfaction when you say 'But I laugh more' — subtle enough to seem almost accidental, obvious enough that the audience knows exactly what you're doing.",
+    "perfectFor": [
+      "During game night when a couple is visibly keeping score of everything",
+      "When someone asks who wears the pants in your relationship",
+      "Anytime a couple insists they're completely equal and don't compete"
+    ]
   },
   {
     "id": "for-adults-026",
@@ -363,7 +538,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Prove it' is exactly what a detective would demand — you need evidence, a burden of proof, a solid case. The response to being told to stop acting like a detective is the most detective-like response possible. The accused demonstrates the crime in the act of denying it.",
+    "howToTell": "Cross your arms and deliver 'Good luck proving that' with the full energy of someone issuing a genuine legal challenge. Commit to the detective mode completely.",
+    "perfectFor": [
+      "When your partner calls you out for being suspicious about something trivial",
+      "At a murder mystery dinner party when someone gets too into the character",
+      "When a friend accuses you of overthinking a completely normal situation"
+    ]
   },
   {
     "id": "for-adults-027",
@@ -377,7 +559,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Nothing would make me happier' is a hyperbole meaning she'd be ecstatic with the necklace — but parsed literally, 'nothing' is the answer to 'what should I get you?' The husband commits fully to the literal reading and wraps it with airtight logical consistency.",
+    "howToTell": "Pause after 'So I got her nothing' and nod, as if you made the only reasonable, generous choice available to you. The self-satisfaction is the whole delivery.",
+    "perfectFor": [
+      "At a birthday party when the topic of gift-giving pressure comes up",
+      "When planning anniversary gifts with other couples who also struggle",
+      "During a conversation about the impossibility of shopping for a spouse"
+    ]
   },
   {
     "id": "for-adults-028",
@@ -391,7 +580,14 @@
     "rating": 5,
     "dateAdded": "2026-03-02",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Companies after me' implies corporate competitors trying to poach you — a textbook salary negotiation tactic. But gas, electric, and water are utility companies coming after you because you owe them money. The professional misdirection pivots perfectly to financial desperation.",
+    "howToTell": "Lead the setup with genuine confidence — you absolutely used this leverage in a real negotiation. Then list the three utilities with just a touch of shame, as if you hadn't quite planned for the follow-up question.",
+    "perfectFor": [
+      "When discussing salary negotiation tactics that didn't go as planned",
+      "At a career counseling session when the topic of leverage comes up",
+      "When bills arrive and your partner asks about the state of your finances"
+    ]
   },
   {
     "id": "for-adults-029",
@@ -405,7 +601,14 @@
     "rating": 4,
     "dateAdded": "2026-03-02",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Buy her flowers' is universally understood as a romantic gesture — but the speaker parses 'buy from her' as a commercial transaction, implying his wife runs a flower shop he was apparently never informed about. The deliberate misread of an extremely common phrase is the whole joke.",
+    "howToTell": "Sound genuinely puzzled, maybe even a little offended that you weren't informed about this business venture she's apparently been running.",
+    "perfectFor": [
+      "On Valentine's Day when the pressure of flower-buying comes up in conversation",
+      "At a farmer's market or florist when couples are shopping together",
+      "When friends debate whether to get their partner flowers for no occasion"
+    ]
   },
   {
     "id": "for-adults-030",
@@ -419,7 +622,14 @@
     "rating": 4,
     "dateAdded": "2026-03-03",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Up to something' means plotting or scheming — but stairs are literally always 'up to something,' their entire architectural purpose being to go up. The inanimate object's defining physical characteristic doubles perfectly as evidence of suspicious intent.",
+    "howToTell": "Say it with total seriousness, as if you've had some personal experiences that have eroded your trust in staircases over the years. A conspiratorial lowering of the voice helps.",
+    "perfectFor": [
+      "When moving into or touring a multi-story home",
+      "While climbing stairs with someone and you're both slightly out of breath",
+      "At an architecture or home design gathering when structural features come up"
+    ]
   },
   {
     "id": "for-adults-031",
@@ -433,7 +643,14 @@
     "rating": 5,
     "dateAdded": "2026-03-03",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'We'll see about that' is a veiled threat — the classic phrase for when you plan to prove someone wrong, possibly through retaliatory action. The response to being diagnosed with a vengeance preoccupation is itself an act of veiled vengeance, proving the therapist completely right in real time.",
+    "howToTell": "Say 'We'll see about that' dead slow, with maximum quiet menace. The contrast between the clinical therapeutic framing and the dark, ominous delivery is the entire joke.",
+    "perfectFor": [
+      "After describing a conflict where you felt wronged and someone questions your reaction",
+      "At a trivia night after losing a round you were absolutely certain you'd win",
+      "When someone challenges your reputation for being competitive or grudge-holding"
+    ]
   },
   {
     "id": "for-adults-032",
@@ -447,7 +664,14 @@
     "rating": 4,
     "dateAdded": "2026-03-04",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Can stop any time' is what every addict says — the classic denial. But brake fluid is the literal substance that makes a car stop. So he can stop any time — he has a tank full of stopping power. The denial and the literal truth are delivered in the same four words.",
+    "howToTell": "Deliver with a knowing, concerned head-shake — like you're sharing a genuine worry about a friend in denial. Let the audience discover the brake fluid angle themselves rather than nudging them toward it.",
+    "perfectFor": [
+      "At a car show or auto shop when conversation drifts to unusual topics",
+      "When someone is talking about a friend with a bad habit they refuse to acknowledge",
+      "During a long road trip when the group is comfortable and looking to pass time"
+    ]
   },
   {
     "id": "for-adults-033",
@@ -461,7 +685,14 @@
     "rating": 4,
     "dateAdded": "2026-03-04",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "A lunge is literally a big step forward — it is the defining physical motion of the exercise. 'A big step forward' also idiomatically means meaningful progress. So the act of accepting the fitness advice and the description of that acceptance are the same physical movement.",
+    "howToTell": "Nod thoughtfully as you deliver 'That would be a big step forward,' as if you're genuinely reflecting on the advice rather than tossing out a pun. Contemplative sells it.",
+    "perfectFor": [
+      "At the gym when someone suggests an exercise you haven't tried",
+      "During a New Year's resolution conversation about getting in shape",
+      "When a personal trainer offers unsolicited lifestyle advice"
+    ]
   },
   {
     "id": "for-adults-034",
@@ -475,7 +706,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The joke hinges on the speaker treating an obvious phishing scam as a genuine windfall. 'Things are finally going my way' communicates real relief and optimism — which is exactly what makes the naivety funny. The more sincere the gratitude, the more absurd the thing being grateful for.",
+    "howToTell": "Sound genuinely uplifted, like someone who has had a run of bad luck and is finally catching a break. The sincerity of the relief is the entire joke.",
+    "perfectFor": [
+      "When talking about email spam with family members who might be susceptible to scams",
+      "At a cybersecurity workshop when phishing examples come up",
+      "When a friend shows you a 'you've won!' notification on their phone"
+    ]
   },
   {
     "id": "for-adults-035",
@@ -489,7 +727,14 @@
     "rating": 3,
     "dateAdded": "2026-03-05",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Guinness World Records is associated with impressive, admirable feats — the joke subverts that expectation by naming a deeply unimpressive and legally troubling achievement. The neighborhood-specific qualifier ('in our street') makes the record grimly specific and funnier than a broader claim would be.",
+    "howToTell": "Lead with genuine neighborhood pride about the Guinness record before casually naming the category, as if it's any other achievement worth celebrating.",
+    "perfectFor": [
+      "When neighbors are trading gossip at a block party",
+      "When describing a colorful character in your neighborhood to someone who's never met them",
+      "When the topic of unusual local celebrities or notorious residents comes up"
+    ]
   },
   {
     "id": "for-adults-036",
@@ -503,7 +748,14 @@
     "rating": 5,
     "dateAdded": "2026-03-06",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Lost my case' means both losing a legal lawsuit and losing a suitcase — and the airline literally lost the luggage. The legal defeat and the original luggage loss are described in the same phrase. It's wordplay with zero excess: one phrase, two complete failures, perfect economy.",
+    "howToTell": "Sigh heavily before 'I lost my case' — the resignation of someone who has been wronged twice (luggage AND lawsuit) sells the joke far better than playing it for laughs.",
+    "perfectFor": [
+      "At an airport during a delay when everyone is already frustrated",
+      "When a friend is venting about a terrible travel experience",
+      "During a conversation about airline horror stories and whether you can fight back"
+    ]
   },
   {
     "id": "for-adults-037",
@@ -517,7 +769,14 @@
     "rating": 4,
     "dateAdded": "2026-03-06",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'On a roll' is an idiom for momentum and a winning streak — but butter goes on a roll (a bread roll). The pretending-to-be-butter premise plants the food context just firmly enough that 'on a roll' clicks as both the excuse for continuing and a literal food pairing.",
+    "howToTell": "Say 'But I'm on a roll' with upbeat, unapologetic confidence — as if you genuinely see no compelling reason to stop. Commitment to the bit sells both the pun and the character.",
+    "perfectFor": [
+      "At a breakfast table when someone is being annoyingly high-energy",
+      "While baking bread or visiting a bakery with someone",
+      "During a conversation about refusing to give up on a joke that's run too long"
+    ]
   },
   {
     "id": "for-adults-038",
@@ -531,7 +790,14 @@
     "rating": 4,
     "dateAdded": "2026-03-07",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Lost interest' pulls double duty as losing enthusiasm for a job (the perfectly normal reason you'd quit) and interest rates — the literal product that banking sells. The joke is a single sentence that contains its own setup and punchline, which is why it hits before you even finish processing it.",
+    "howToTell": "Drop it conversationally, as if it just occurred to you mid-story about your career history. The more casual and offhand it sounds, the better — a formal joke structure would actually undermine this one.",
+    "perfectFor": [
+      "When someone asks why you changed careers or left a previous job",
+      "At a finance networking event when you want to break the ice",
+      "During a conversation about job burnout or finding your passion"
+    ]
   },
   {
     "id": "for-adults-039",
@@ -545,7 +811,14 @@
     "rating": 5,
     "dateAdded": "2026-03-07",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Hit the roof' idiomatically means to become extremely angry — but with a trampoline where the bed used to be, hitting the roof is literally physically possible. The home improvement decision creates the exact environment in which the idiom becomes geometrically accurate.",
+    "howToTell": "Deliver 'She hit the roof' as if describing her emotional state in the traditional sense — let the trampoline image backfill naturally for the audience as they replay the sentence.",
+    "perfectFor": [
+      "When telling a story about a home renovation decision your partner didn't approve",
+      "When someone describes their spouse being furious about something",
+      "At a furniture store when someone suggests something outrageous for the bedroom"
+    ]
   },
   {
     "id": "for-adults-040",
@@ -559,7 +832,14 @@
     "rating": 5,
     "dateAdded": "2026-03-08",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Tiers' (layers of a wedding cake) is a perfect homophone for 'tears' (crying at an emotional wedding). The tearful wedding context primes you completely for crying, so 'tiers' hits as both the pastry description and the expected emotional response — even the dessert was moved.",
+    "howToTell": "Pause briefly after 'emotional' to let the image of a weepy wedding settle, then deliver 'Even the cake was in tiers' like you're describing the architecture of the dessert table, not making a pun.",
+    "perfectFor": [
+      "At a wedding reception when someone asks how another wedding you attended was",
+      "When someone shows you photos of a beautiful multi-tiered wedding cake",
+      "During a conversation about the most emotional moments people have witnessed at weddings"
+    ]
   },
   {
     "id": "for-adults-041",
@@ -573,7 +853,14 @@
     "rating": 4,
     "dateAdded": "2026-03-08",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Packed up and left' is the standard phrase — but since the speaker has no sense of direction, they went 'right' instead of 'left.' The punchline literally enacts the flaw being complained about. The missing word 'left' is replaced by its opposite, which proves the whole accusation.",
+    "howToTell": "Let the punchline trail off cleanly after 'right' — no explanation needed. The missing 'left' is exactly what makes it work, and any attempt to explain it immediately deflates it.",
+    "perfectFor": [
+      "When getting lost on a road trip and everyone is blaming the navigator",
+      "When someone complains about a partner who refuses to use GPS",
+      "At a group hike where someone keeps confidently leading everyone the wrong way"
+    ]
   },
   {
     "id": "for-adults-042",
@@ -587,7 +874,14 @@
     "rating": 4,
     "dateAdded": "2026-03-09",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The 'bad news/worse news' structure creates a hierarchy of dread, but the punchline reframes the bad news as actually the better news by comparison — the patient's one remaining day is already half gone because of the doctor's procrastination. The horror is entirely in the math.",
+    "howToTell": "Pause after 'I forgot to call you yesterday' and let the audience do the calculation silently. The quiet after that line is the punch — don't rush to fill it.",
+    "perfectFor": [
+      "At a dark humor gathering where the crowd has been sufficiently warmed up",
+      "When friends are swapping unbelievable 'my doctor did what?' stories",
+      "At a medical professional's roast or end-of-year party"
+    ]
   },
   {
     "id": "for-adults-043",
@@ -601,7 +895,14 @@
     "rating": 5,
     "dateAdded": "2026-03-09",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Russian dolls (matryoshkas) are literally full of themselves — each doll contains another doll inside. 'Full of themselves' is an insult for arrogance or self-obsession, but matryoshkas achieve this in the most physical, undeniable sense possible. The critique is geometrically accurate.",
+    "howToTell": "Say it with genuine disdain, as if you've been personally offended by the attitude of these dolls on multiple occasions. Total commitment to the absurd complaint is what sells it.",
+    "perfectFor": [
+      "At an international gift shop or souvenir store",
+      "When someone unwraps a matryoshka doll as a gift",
+      "During a conversation about things that are overrated as home decor or collectibles"
+    ]
   },
   {
     "id": "for-adults-044",
@@ -615,7 +916,14 @@
     "rating": 5,
     "dateAdded": "2026-03-10",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Take the spider out' gets reinterpreted as taking it out socially rather than out of the house. Then 'web developer' is a double callback — spiders make webs, and web developer is a real tech career. The joke builds an absurd scenario and pays it off with a pun that works on two levels.",
+    "howToTell": "Tell it like a sincere character piece about an unexpectedly nice new friend you made, completely ignoring the fact that this friend is a spider. The more genuine the affection for the spider, the funnier.",
+    "perfectFor": [
+      "Among tech workers who will immediately catch the 'web developer' reference",
+      "When your partner asks what happened to that spider in the corner you were supposed to deal with",
+      "At an animal rights gathering when someone talks about humane pest removal"
+    ]
   },
   {
     "id": "for-adults-045",
@@ -629,7 +937,14 @@
     "rating": 4,
     "dateAdded": "2026-03-10",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'A big plus' idiomatically means a significant advantage or bonus — but the Swiss flag is literally a large white cross (a plus sign) on a red background. The geographic reference makes this wordplay feel specific and satisfying rather than generic.",
+    "howToTell": "Shrug genuinely on 'Not sure,' as if you've been trying to think of Switzerland's selling points and keep coming up short, then brighten slightly on the flag line like you've finally landed on something.",
+    "perfectFor": [
+      "During a travel conversation where someone asks about European destinations",
+      "When planning a trip to Switzerland and people ask what the appeal is",
+      "At a geography or world flags trivia night"
+    ]
   },
   {
     "id": "for-adults-046",
@@ -643,7 +958,14 @@
     "rating": 4,
     "dateAdded": "2026-03-11",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Parallel lines never intersecting is mathematical fact — but framing it as a tragedy for two lines who have so much in common gives it the full emotional weight of a doomed romance. Math and human longing are expressed in the same sentence, and somehow they both hold up.",
+    "howToTell": "Deliver with genuine wistfulness, as if the plight of these parallel lines has moved you personally. A dramatic sigh or a slow headshake communicates the appropriate level of devastation.",
+    "perfectFor": [
+      "In a high school geometry class when the mood needs lightening",
+      "When two friends who would obviously get along somehow never manage to meet",
+      "At a math-themed party for the nerdiest among you"
+    ]
   },
   {
     "id": "for-adults-047",
@@ -657,7 +979,14 @@
     "rating": 4,
     "dateAdded": "2026-03-11",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Work out' means both exercise (the gym's entire purpose) and succeeding as a couple (the language of relationships). A failed gym date becomes a metaphor for a failed connection, but the phrase carries both meanings simultaneously and neither one undercuts the other.",
+    "howToTell": "Sound genuinely resigned about the relationship not working out rather than the inconvenience of the stand-up. The gym date was secondary; the connection was the real loss.",
+    "perfectFor": [
+      "When a first date story ends in disaster and you're looking for the silver lining",
+      "At a gym when you see someone clearly waiting for someone who isn't showing up",
+      "When friends are swapping dating disaster stories and you want a clean, punchy entry"
+    ]
   },
   {
     "id": "for-adults-048",
@@ -671,7 +1000,14 @@
     "rating": 5,
     "dateAdded": "2026-03-12",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The most iconic lyric in Wonderwall is 'maybe' — so responding to a request to stop singing the song by saying 'maybe' is technically quoting the very song you've been asked to stop. It's defiant compliance: acknowledging the request while refusing to honor it in the most Oasis-appropriate way possible.",
+    "howToTell": "Deliver 'I said maybe' with exactly the same ambiguous, slightly dreamy detachment as the song itself. Anyone who knows Wonderwall will get it immediately, and even people who don't will sense the commitment.",
+    "perfectFor": [
+      "At a karaoke night where someone inevitably selects Wonderwall",
+      "When an Oasis song comes on and someone in the group objects",
+      "At a '90s-themed party when someone announces they hate that song"
+    ]
   },
   {
     "id": "for-adults-049",
@@ -685,7 +1021,14 @@
     "rating": 3,
     "dateAdded": "2026-03-12",
     "slug": "",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The claim is completely false — 'gnihton' is nonsense, which means nothing, but not in the linguistic sense the speaker intends. The joke rewards people who catch the logical sleight of hand while also landing as absurdist for those who take a moment to process why it feels off.",
+    "howToTell": "Deliver with genuine excitement, like someone who has just made a real breakthrough in linguistics. The more enthusiastic and certain you seem, the funnier the reveal that it's actually meaningless.",
+    "perfectFor": [
+      "Among word game enthusiasts who will immediately push back on the claim",
+      "At a trivia night when you want to confidently plant a false fact",
+      "When someone is showing off their knowledge of palindromes and you want to contribute"
+    ]
   },
   {
     "id": "for-adults-050",
@@ -699,7 +1042,14 @@
     "rating": 4,
     "dateAdded": "2026-03-13",
     "slug": "wife-wanted-feel-special-valentines",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Showing someone your private search history is an act of vulnerability — but the implication is that the search history is specifically about her, making her feel uniquely thought-about in the most modern, surveillance-adjacent way imaginable. The joke leaves the exact content deliberately ambiguous.",
+    "howToTell": "Sound completely sincere about what a romantic gesture this was. The satisfaction in 'very special indeed' should be genuine — you nailed it.",
+    "perfectFor": [
+      "On Valentine's Day when creative gift ideas are being exchanged",
+      "When someone asks about ways to show your partner they're always on your mind",
+      "At a couples game night when the topic of phones and privacy inevitably comes up"
+    ]
   },
   {
     "id": "for-adults-051",
@@ -713,7 +1063,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "wife-told-me-i-was-average",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Mean' in everyday language is unkind — but in mathematics, the mean IS the average. The speaker returns the insult by calling the wife 'mean,' which simultaneously burns her character AND describes her statistically as average. It's a statistical counterattack disguised as an emotional one.",
+    "howToTell": "Deliver 'I told her she was mean' with calm, composed confidence — as if you fired back the perfect retort without even trying. Let the audience discover the math angle on their own.",
+    "perfectFor": [
+      "At a math class or statistics meetup where number jokes land",
+      "When someone gives you backhanded feedback and you need a comeback",
+      "At a data science or analytics team happy hour"
+    ]
   },
   {
     "id": "for-adults-052",
@@ -727,7 +1084,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "asked-waiter-if-fish-fresh",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The question 'is the fish fresh?' is completely normal at any restaurant — but the waiter's response reveals you're not at a restaurant. The absurdity lives entirely in the mismatch: asking food quality questions in an entirely inappropriate context, with a mild innuendo the audience fills in themselves.",
+    "howToTell": "Sound completely confused and mildly affronted by the waiter's clarification — you genuinely just wanted to know about the quality of the fish.",
+    "perfectFor": [
+      "At a seafood restaurant when the waiter is recommending the daily special",
+      "When someone asks for an honest review of a new restaurant you've been to",
+      "At a bachelor party when the evening takes an unexpected turn"
+    ]
   },
   {
     "id": "for-adults-053",
@@ -741,7 +1105,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "wife-says-two-faults-everything",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Two faults' sets up the expectation of a limited, specific list — but 'everything I say and everything I do' is a total, comprehensive demolition. She technically named two categories, but those two categories cover all possible human behavior. The restraint of saying 'two' makes the unlimited scope of the answer devastating.",
+    "howToTell": "Deliver with a slightly tired acceptance, as if your wife has a point and you've made peace with it. The concession lands better than playing defensive.",
+    "perfectFor": [
+      "During a toast at a wedding or anniversary dinner that calls for a little honesty",
+      "When someone asks what you and your partner argue about most",
+      "At a marriage counseling roleplay when humor is needed to break the tension"
+    ]
   },
   {
     "id": "for-adults-054",
@@ -755,7 +1126,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "told-wife-wanted-be-cremated",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Cremation is normally arranged posthumously — something your family handles after you're gone. The wife scheduling it immediately, while the speaker is very much alive, implies either terrifying efficiency or something considerably more sinister. The calendar specificity of 'Tuesday' makes it somehow worse.",
+    "howToTell": "End on 'Tuesday' without any commentary or reaction. The casual scheduling is the whole joke — any attempt to editorialize it lands flat.",
+    "perfectFor": [
+      "At a dark comedy gathering where the crowd has been warmed up to gallows humor",
+      "When discussing funeral planning conversations that went sideways",
+      "At a Halloween party when death comes up casually in conversation"
+    ]
   },
   {
     "id": "for-adults-055",
@@ -769,7 +1147,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "dentist-told-me-need-crown",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "A dental crown is a tooth cap — a clinical procedure you didn't ask for. A crown is also a symbol of royalty. 'I know, right?' responds to the dental recommendation as though the dentist is finally confirming something the speaker has long suspected about their own regal status.",
+    "howToTell": "Say 'I know, right?' with complete, unironic sincerity — possibly touching your head where a crown might rest. The confidence of someone who genuinely believes they deserve one is everything.",
+    "perfectFor": [
+      "In the waiting room at the dentist when people are sharing procedure dread",
+      "When someone complains about the cost of dental work",
+      "At a medieval-themed event when someone mentions oral health in passing"
+    ]
   },
   {
     "id": "for-adults-056",
@@ -783,7 +1168,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "got-universal-remote-for-birthday",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Universal' means it works with all devices — but 'changes everything' is a dramatic idiom for transformative significance. A universal remote that controls everything would technically change everything. The hyperbolic reaction to a modest birthday gift is both absurd and technically defensible.",
+    "howToTell": "Say 'This changes everything' with the complete gravity of someone describing a philosophical or civilizational shift. Dead serious delivery on a very mundane gadget.",
+    "perfectFor": [
+      "At a birthday party where the gifts have been a little underwhelming",
+      "During a conversation about the best inventions of the modern era",
+      "When someone is evangelizing about a new gadget with suspiciously outsized enthusiasm"
+    ]
   },
   {
     "id": "for-adults-057",
@@ -797,7 +1189,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "wife-said-needed-more-space",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Needs more space' is relationship-speak for emotional or personal distance — but the speaker takes it as an interior design concern and solves it by removing her from the premises entirely. The literalism is both absurd and, in its own twisted way, logically consistent.",
+    "howToTell": "Sound completely reasonable and even generous — you heard what she needed and you solved it. The helpfulness is what makes the cluelessness so funny.",
+    "perfectFor": [
+      "When a partner says they need some time alone and you want to respond with humor",
+      "At a home design conversation about a small apartment feeling cramped",
+      "When someone is recounting a relationship miscommunication that escalated unnecessarily"
+    ]
   },
   {
     "id": "for-adults-058",
@@ -811,7 +1210,14 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-scientists-never-trust-elevators",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Letting people down' means disappointing someone — but an elevator literally lets people down (transports them downward, that's its job). Scientists, who deal in observable facts, would presumably look at the pattern and reach the obvious conclusion about the elevator's character.",
+    "howToTell": "Deliver with the confident authority of someone explaining a documented scientific observation. The more reasonable your tone, the more absurd the premise becomes.",
+    "perfectFor": [
+      "In a high-rise office building when the elevator is painfully slow",
+      "At a science conference or fair between presentations",
+      "When someone complains about a colleague who keeps disappointing the team"
+    ]
   },
   {
     "id": "for-adults-059",
@@ -825,7 +1231,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "friend-didnt-understand-cloning",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'That makes two of us' is a phrase meaning you share the same experience — but if two people exist because of cloning, it would literally make two of someone. The expression and the subject of the conversation are a perfect accidental collision.",
+    "howToTell": "Say 'That makes two of us' with a sage, satisfied nod — as if you've offered a genuinely profound response rather than a pun hiding in plain language.",
+    "perfectFor": [
+      "In a biology class or after watching a science documentary about genetics",
+      "When discussing sci-fi plots involving cloning in movies or TV shows",
+      "When two people simultaneously admit they don't understand the same technical concept"
+    ]
   },
   {
     "id": "for-adults-060",
@@ -839,7 +1252,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "accidentally-swallowed-scrabble-tiles",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Spell disaster' idiomatically means things will go very badly — but Scrabble tiles literally spell words, and if they make it through intact, they might literally spell something in the bathroom. The stomach contents enabling wordplay in the most undignified possible setting is where the absurdity fully lives.",
+    "howToTell": "Share the setup like a genuine medical concern, then deliver 'spell disaster' with slow, dawning realization — as if the full implications of the situation are only now becoming clear to you.",
+    "perfectFor": [
+      "At a board game night when Scrabble is on the table",
+      "When someone escalates a toilet humor conversation and you want to take it somewhere more sophisticated",
+      "During a word game discussion about the most inconvenient possible letters to draw"
+    ]
   },
   {
     "id": "for-adults-061",
@@ -853,7 +1273,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "wife-and-i-happy-twenty-years",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The expected completion is 'then we got married' — something warm that extends the happiness. Instead, 'then we met' rewinds the timeline, suggesting that meeting each other was the end of happiness rather than the beginning. The romantic narrative is inverted in the most economical possible way.",
+    "howToTell": "Pause after 'twenty years' — let people assume you'll say something warm, then drop 'then we met' very quietly. The quieter the delivery, the darker and funnier the comedy.",
+    "perfectFor": [
+      "At a wedding toast where some knowing dark humor is welcome",
+      "During a couples' game night after everyone has loosened up",
+      "When someone asks how long you've been married and wants the honest version"
+    ]
   },
   {
     "id": "for-adults-062",
@@ -867,7 +1294,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "writing-book-reverse-psychology",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Please don't buy it' is the reverse psychology — by asking you not to buy the book, the author is using the book's own subject matter to market it. The joke is aware of exactly what it's doing, and that self-awareness is simultaneously the punchline and the demonstration.",
+    "howToTell": "Say 'Please don't buy it' with total sincerity, maybe even putting your hands up as if warding people off. The more you seem to genuinely not want people to buy it, the more perfectly the joke works.",
+    "perfectFor": [
+      "At a book fair or author event when someone asks about your current project",
+      "When pitching a creative project to friends who you know will dig the meta layer",
+      "In a marketing class when reverse psychology campaigns come up as a case study"
+    ]
   },
   {
     "id": "for-adults-063",
@@ -881,7 +1315,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "wife-says-house-is-haunted",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The casual mention of 'three hundred years' is the entire reveal — the speaker is the ghost, so naturally they haven't noticed any supernatural activity. The haunting is the narrator, not the house, and that single detail recontextualizes the whole setup with one throwaway number.",
+    "howToTell": "Say 'three hundred years' completely casually, as if it's a perfectly normal amount of time to have lived somewhere. The nonchalance of a ghost who doesn't know they're a ghost is everything.",
+    "perfectFor": [
+      "At a Halloween party when ghost stories are being shared",
+      "While watching a haunted house movie when someone says 'why don't they just leave?'",
+      "When you've lived in the same neighborhood so long you feel like part of the furniture"
+    ]
   },
   {
     "id": "for-adults-064",
@@ -895,7 +1336,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "make-bike-out-of-spaghetti",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Rode pasta' sounds identical to 'rode past her' — the natural next line in the story. The joke earns its food pun by fully committing to the absurd premise of a spaghetti bicycle first, so by the time 'pasta' arrives, it feels inevitable rather than cheap.",
+    "howToTell": "Pause after 'she couldn't believe it' to let the image of you actually riding a spaghetti bike crystallize for a moment, then deliver 'rode pasta' like it's the most natural sentence you've ever said.",
+    "perfectFor": [
+      "At an Italian restaurant with the right crowd and the right energy",
+      "During a cooking show viewing party when pasta is involved",
+      "When someone is building something unconventional in the garage and you need to one-up their absurdity"
+    ]
   },
   {
     "id": "for-adults-065",
@@ -909,7 +1357,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "wife-asked-makes-her-look-sexy",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The expected response is beauty products or lingerie — but the speaker solves the problem by altering his own perception rather than anything about her appearance. What's notable is that the joke implicates the teller rather than insulting the wife, which is what keeps it from being mean-spirited.",
+    "howToTell": "Deliver the punchline like you genuinely solved the problem efficiently and are slightly proud of the creative approach. A satisfied nod and zero apology.",
+    "perfectFor": [
+      "At a couples' comedy night where both partners are in on the joke",
+      "When someone asks about creative gift ideas for a partner",
+      "At a party when marriage honesty becomes the topic"
+    ]
   },
   {
     "id": "for-adults-066",
@@ -923,7 +1378,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "told-psychiatrist-everyone-hates-me",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The psychiatrist offers technically accurate reassurance — not everyone hates you, because not everyone has met you. But the qualifier implies it's only a matter of time. The comfort and the insult are delivered in the same breath, which is a masterclass in therapeutic ambiguity.",
+    "howToTell": "Do the psychiatrist's voice as warm and professionally caring as possible. The more competent and reassuring he sounds, the funnier the thing he's actually saying becomes.",
+    "perfectFor": [
+      "When a friend is in a self-deprecating spiral and you want to technically agree with them",
+      "At therapy-adjacent social gatherings where the crowd appreciates dry humor",
+      "When someone says 'nobody likes me' and you want to offer genuinely precise comfort"
+    ]
   },
   {
     "id": "for-adults-067",
@@ -937,7 +1399,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "used-think-brain-most-important",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The observation questions its own reliability — the brain is evaluating the brain's importance, which is a genuine philosophical conflict of interest. 'Look what's telling me that' is simultaneously a self-deprecating joke and an actual epistemological puzzle that has kept real philosophers busy for centuries.",
+    "howToTell": "Pause after the first line as if you've genuinely been wrestling with this for a while. The 'then I thought' should feel like a real moment of dawning, uncomfortable realization.",
+    "perfectFor": [
+      "In a philosophy class or during a deep intellectual late-night conversation",
+      "At a science and society event when the mind-body problem comes up",
+      "When someone is confidently making claims about how the human mind works"
+    ]
   },
   {
     "id": "for-adults-068",
@@ -951,7 +1420,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "wife-slam-head-into-keyboard",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The garbled text 'jokindkfasjklfas' is what actually happens when a head hits a keyboard — the joke is written as if the threat was carried out mid-sentence. The medium becomes the message in real time, and the incomplete word is the proof of the event.",
+    "howToTell": "This one lives best in written form. If telling it verbally, trail off into random syllables mid-word and slap a hand on the nearest surface for effect — the physical gesture makes the premise land without the visual.",
+    "perfectFor": [
+      "In a text message or group chat where the garbled text appears on screen",
+      "When someone tells you to put your phone down during a conversation",
+      "At a comedy writing workshop exploring jokes that only work in specific formats"
+    ]
   },
   {
     "id": "for-adults-069",
@@ -965,7 +1441,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "wife-blaming-ruining-her-birthday",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Not knowing it was her birthday is exactly how birthdays get ruined — the defense is identical to the offense. The denial and the confession are the same statement, and the speaker's complete obliviousness to this fact is what makes it so perfectly sad and funny at once.",
+    "howToTell": "Sound genuinely indignant and confused about why you're being blamed. The obliviousness must feel completely authentic — any hint of self-awareness kills it.",
+    "perfectFor": [
+      "When someone is recounting a partner miscommunication that escalated badly",
+      "At a birthday party where someone clearly forgot the birthday until the last minute",
+      "During a conversation about who in the relationship manages important dates"
+    ]
   },
   {
     "id": "for-adults-070",
@@ -979,7 +1462,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "went-buy-camouflage-trousers",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Camouflage is designed to make things invisible or extremely hard to see — so not being able to find camouflage trousers in a store is exactly what the pattern is designed to achieve. The product works so well it defeats the customer trying to purchase it.",
+    "howToTell": "Deliver with genuine frustration, as if the store was unhelpful and you left empty-handed. The more authentically annoyed you sound, the funnier the logical inevitability of the situation.",
+    "perfectFor": [
+      "At an outdoor, hunting, or military surplus store",
+      "During a conversation about shopping trips that didn't go as planned",
+      "When someone asks what you've been up to and you want a punchline at the end of a mundane story"
+    ]
   },
   {
     "id": "for-adults-071",
@@ -993,7 +1483,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "doctor-told-me-going-deaf",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Hard to hear' means emotionally difficult to receive (devastating news) and also literally difficult to perceive sound — which is precisely the condition being diagnosed. The bad news and the idiom used to describe receiving bad news land in the same four words.",
+    "howToTell": "Pause after the setup, then say 'The news was hard to hear' with genuine, heavy emotion — as if you haven't caught the double meaning yourself. The sincerity of the grief is what sells it.",
+    "perfectFor": [
+      "When someone shares difficult medical news in conversation and you want to respond with careful humor",
+      "At a health-related gathering when the topic of aging and its indignities comes up",
+      "When discussing the emotional weight of doctor's appointments"
+    ]
   },
   {
     "id": "for-adults-072",
@@ -1007,7 +1504,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "broke-arm-in-two-places",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Broke his arm in two places' means the arm has two fracture points — but the doctor interprets 'two places' as two locations where the arm was broken. His prescription to 'stop going to those places' treats the locations as the hazard, not the bone. Terrible medical advice that's technically responsive to what was said.",
+    "howToTell": "Deliver the doctor's advice with calm, professional authority — he genuinely believes this is responsible medical guidance and he stands behind it.",
+    "perfectFor": [
+      "In a doctor's office waiting room with another patient who seems like they'd appreciate it",
+      "When someone is describing an injury from the gym or sports",
+      "At a first aid training course when the instructor is looking for a moment of levity"
+    ]
   },
   {
     "id": "for-adults-073",
@@ -1021,7 +1525,14 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "joke-about-procrastination",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The joke IS the procrastination — refusing to tell the procrastination joke because you'll get to it later is the punchline and the demonstration at the same time. The form and the content are perfectly, efficiently unified in two sentences.",
+    "howToTell": "Don't explain it. Just say 'I'll tell you later' and move on completely. If they press you on when, say 'later' again. Hold the bit for as long as you can.",
+    "perfectFor": [
+      "When someone asks you to tell a joke and you need a moment to think of one",
+      "In a presentation about productivity or time management when the mood needs lightening",
+      "Whenever someone calls you out on your procrastination habits"
+    ]
   },
   {
     "id": "for-adults-074",
@@ -1035,7 +1546,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "wife-asked-if-i-was-listening",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "If she's asking whether he was listening, that means the conversation was already underway — and he missed all of it. From his perspective, 'Are you listening?' literally is how the conversation started. The obliviousness is logically airtight and it confirms everything she suspected.",
+    "howToTell": "Sound genuinely puzzled by this unconventional conversation opener. Full commitment to having missed absolutely everything that came before that moment.",
+    "perfectFor": [
+      "During a conversation about communication habits in relationships",
+      "At a couples' event when the topic of listening comes up",
+      "When you've zoned out during a long explanation and someone asks 'are you following?'"
+    ]
   },
   {
     "id": "for-adults-075",
@@ -1049,7 +1567,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "couldnt-figure-seatbelt-worked",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Clicked' is both the literal sound of a seatbelt locking into place and the idiom for suddenly understanding something. The physical sensation and the cognitive breakthrough are described by the exact same word, and both happened at precisely the same moment.",
+    "howToTell": "Snap your fingers or mime fastening a seatbelt on 'clicked' — the physical gesture adds a layer to the double meaning that pure words can't fully capture.",
+    "perfectFor": [
+      "During a road trip or any extended car conversation",
+      "When someone has an 'aha' moment about something they've been struggling with",
+      "At a driving school when instructors are demonstrating basic safety features"
+    ]
   },
   {
     "id": "for-adults-076",
@@ -1063,7 +1588,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "cheer-up-stuck-underground-hole",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Means well' is an idiom for someone with good intentions who falls short in execution — but an underground hole full of water is literally a well. 'He means well' is both the charitable interpretation of a terrible friend and the word for the exact thing he keeps describing. The idiom and the subject are the same word.",
+    "howToTell": "Sound genuinely appreciative and slightly defensive of your friend, as if you're protecting him from criticism nobody raised. The loyalty to someone who is clearly terrible at comfort is the tone.",
+    "perfectFor": [
+      "When a friend gives terrible-but-well-meaning advice and you're defending them",
+      "While camping or hiking when someone tries to motivate the group with grim comparisons",
+      "At a support group where consolation attempts consistently miss the mark"
+    ]
   },
   {
     "id": "for-adults-077",
@@ -1077,7 +1609,14 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "was-addicted-to-soap-once",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Clean' means both free from addiction (the standard recovery phrase) and literally clean — which is exactly what soap does. Recovery from soap addiction leaves you in the most technically clean possible state. The virtue of the substance and the virtue of its absence are described by the same word.",
+    "howToTell": "Say 'But I'm clean now' with the quiet pride and relief of someone genuinely in recovery. The more serious the delivery, the funnier — this is a support group moment, not a punchline.",
+    "perfectFor": [
+      "At a bathroom or home goods store when someone recommends a new soap",
+      "When someone asks if you have any unusual former habits",
+      "During a conversation about unexpected things people have gotten overly attached to"
+    ]
   },
   {
     "id": "for-adults-078",
@@ -1091,7 +1630,14 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-man-who-cant-stand",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Neil' sounds exactly like 'kneel' — what you do when you can't stand upright. Someone who cannot stand would be kneeling, or 'Neil-ing.' The name and the action share a perfect homophone that makes the punchline both a name and a description simultaneously.",
+    "howToTell": "Deliver 'Neil' flatly and immediately, with no lead-up. The quicker the response, the more naturally the phonetic connection lands — any pause creates unnecessary anticipation for a one-word punchline.",
+    "perfectFor": [
+      "When someone named Neil is in the group and you want to introduce the joke with context",
+      "At a physical therapy gathering where mobility is already the topic",
+      "During a name-based pun competition where one-word answers are respected"
+    ]
   },
   {
     "id": "for-adults-079",
@@ -1105,7 +1651,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "bought-worlds-worst-thesaurus",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "A thesaurus's entire purpose is to provide synonyms — if the world's worst thesaurus only offers the same word twice, it has completely failed its one job. Saying 'it's terrible, it's terrible' instead of 'it's terrible, it's dreadful' IS the worst-thesaurus experience delivered live.",
+    "howToTell": "Look mildly frustrated on the second 'terrible,' as if you're still actively struggling to find a better word and coming up empty. The lived frustration of a failed word search in real time is the whole bit.",
+    "perfectFor": [
+      "At a bookstore when browsing reference materials with someone",
+      "During a creative writing workshop when vocabulary tools come up",
+      "When someone is complaining about a poorly written book and you want to one-up their critique"
+    ]
   },
   {
     "id": "for-adults-080",
@@ -1119,7 +1672,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "wife-said-more-affectionate",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'More affectionate' means show more love to your wife — but the speaker interprets it as a quantity problem and doubles the number of recipients. The solution technically increases total affection dispensed while missing the original request in the most spectacular way possible.",
+    "howToTell": "Sound proud of the efficient solution you've engineered. You identified a problem, you scaled up appropriately. The self-satisfaction is key.",
+    "perfectFor": [
+      "At a couples' comedy night where everyone can laugh at the absurdity together",
+      "When discussing relationship advice that got catastrophically misinterpreted",
+      "At a wedding when the vows mention being attentive and the crowd laughs knowingly"
+    ]
   },
   {
     "id": "for-adults-081",
@@ -1133,7 +1693,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "went-to-seafood-disco",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Pulled a mussel' sounds identical to 'pulled a muscle' — the standard injury you'd sustain from dancing too enthusiastically. But mussels are seafood, and you're at a seafood disco. The dance floor injury and the shellfish share a perfect homophone, and the venue provides everything you need to earn it.",
+    "howToTell": "Wince slightly when you say 'pulled a mussel' — sell the physical pain of the injury while the food reference hides in plain sound. Don't telegraph the wordplay.",
+    "perfectFor": [
+      "At a seafood restaurant after dancing at a wedding or event",
+      "When telling an injury story that happened to involve dancing",
+      "At a beach town bar where music and shellfish are both on the menu"
+    ]
   },
   {
     "id": "for-adults-082",
@@ -1147,7 +1714,14 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "wife-texted-heart-emoji",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "A heart emoji is a universal romantic gesture — but a cardiogram is also a heart-wave pattern. The speaker's response treats the symbol of love as a potential medical emergency with genuine concern. The obliviousness to romance combined with hypervigilance about cardiac health is the joke.",
+    "howToTell": "Sound genuinely concerned — you were trying to be a responsible, attentive spouse. The sincerity of the medical worry is what makes the romantic failure funny.",
+    "perfectFor": [
+      "During a conversation about technology undermining romance",
+      "When someone shares a screenshot of a confusing text exchange with their partner",
+      "At a hospital or medical professional social event where emoji misreads hit differently"
+    ]
   },
   {
     "id": "for-adults-083",
@@ -1161,7 +1735,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "reading-horror-story-braille",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'I can feel it' is the classic horror movie phrase for sensing impending doom — but reading Braille is done entirely by feeling. The metaphorical dread and the literal physical act of reading are expressed by the exact same phrase in the most natural possible way.",
+    "howToTell": "Whisper 'I can feel it' with appropriate dread — as if something truly terrible is coming. The horror tone does all the work and the Braille angle lands a moment later.",
+    "perfectFor": [
+      "At a book club where horror is the genre of the month",
+      "On Halloween when ghost stories are being exchanged",
+      "When someone is visibly anxious about where a plot is heading and you want to participate"
+    ]
   },
   {
     "id": "for-adults-084",
@@ -1175,7 +1756,14 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "wife-asked-doing-on-computer",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Cheap flights' sets up vacation anticipation perfectly — but 'flights' here refers to trajectories, not airline tickets. The pivot from travel planning to something entirely different uses the same word to bait and switch the wife's hopes. The absurdist recontextualization of 'flights' is the whole engine.",
+    "howToTell": "Let her excitement genuinely build in the setup before the reveal comes quickly and flatly. The faster the pivot from vacation dreams to reality, the sharper the contrast.",
+    "perfectFor": [
+      "At a late-night gathering with close friends who share a very specific sense of humor",
+      "When discussing search history mix-ups in the tech privacy context",
+      "Among friends who appreciate pure absurdist humor with no landing zone"
+    ]
   },
   {
     "id": "for-adults-085",
@@ -1189,7 +1777,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "two-windmills-standing-in-field",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Metal fan' means both a fan of heavy metal music and a large fan made of metal — which is exactly what a windmill is. The windmill answers a music question by describing its own physical construction, and it's completely self-referentially accurate.",
+    "howToTell": "Give the windmill's answer with genuine enthusiasm, as if it's excited to finally be talking about metal with someone who asked. The enthusiasm makes the double meaning land even more satisfyingly.",
+    "perfectFor": [
+      "At an outdoor festival near wind turbines when the scenery gives you the opening",
+      "During a renewable energy discussion when someone needs a mood lift",
+      "When someone asks your favorite music genre and you want to pivot into a joke"
+    ]
   },
   {
     "id": "for-adults-086",
@@ -1203,7 +1798,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "wife-drawing-eyebrows-too-low",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Drawing eyebrows too low (too close to the eyes) creates the visual expression of anger or a furrowed brow. So 'she looked angry' is both the expected emotional response to unsolicited appearance criticism AND the literal visual consequence of the eyebrow positioning. The insult self-fulfills.",
+    "howToTell": "Deliver 'She looked angry' with slight puzzlement, as if you're not entirely sure which variable — the comment or the eyebrows — was responsible for her expression.",
+    "perfectFor": [
+      "At a makeup tutorial event where eyebrow placement is actively being discussed",
+      "When recounting a beauty-related comment that went sideways",
+      "Among friends who do their own makeup and understand the power of brow position"
+    ]
   },
   {
     "id": "for-adults-087",
@@ -1217,7 +1819,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "man-walks-bar-roll-tarmac",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'One for the road' is the classic phrase for a last drink before driving home — but the man has literally brought a piece of road with him. His final drink order becomes a direct address to the tarmac, treating the asphalt as a companion who also needs a pint.",
+    "howToTell": "Gesture toward an imaginary roll of tarmac beside you when you deliver the line — the physical acknowledgment of the road as a drinking companion sells the premise.",
+    "perfectFor": [
+      "At a pub when someone orders 'one for the road' before leaving",
+      "At a construction or civil engineering company happy hour",
+      "During road trip planning when someone suggests stopping for a drink before hitting the highway"
+    ]
   },
   {
     "id": "for-adults-088",
@@ -1231,7 +1840,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "wife-left-me-because-insecure",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The dramatic relationship breakdown is immediately undercut by the mundane explanation — she didn't leave, she went to get coffee. But the panic of assuming abandonment over a coffee run is itself a live demonstration of the insecurity he just described as the reason she left. The correction proves the diagnosis.",
+    "howToTell": "Sound genuinely devastated in the first sentence, then relieved and slightly sheepish in the correction. The full emotional whiplash in two sentences, delivered sincerely, is the whole bit.",
+    "perfectFor": [
+      "When sharing a couples' anecdote that sounds far worse out of context",
+      "At a therapy or support group setting when someone catastrophizes a minor absence",
+      "When a friend panics about a delayed text message and you want to illustrate the point"
+    ]
   },
   {
     "id": "for-adults-089",
@@ -1245,7 +1861,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "how-do-you-make-motherboard",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Motherboard' is computer hardware — but 'make a mother bored' is a phrase that literally means doing something tedious to a mother. The IT guy interprets the question as 'how do you bore a mom?' and answers from extensive personal experience. The tech term splits perfectly into domestic tedium.",
+    "howToTell": "Have the IT guy's response delivered with the weary resignation of someone who has accidentally bored many mothers with job descriptions and has accepted this as part of his life.",
+    "perfectFor": [
+      "At an IT department social event when the mood needs lightening",
+      "During a tech explainer conversation when you want to break the tension",
+      "When someone asks how to explain their job to parents who don't understand tech"
+    ]
   },
   {
     "id": "for-adults-090",
@@ -1259,7 +1882,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "cant-believe-fired-calendar-factory",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Take a day off' means both a sick day (what any employee does) and physically removing a day from a calendar (what you'd do at a calendar factory). The crime and the phrasing fit together so neatly that the termination feels almost logical — he did exactly what you should never do with a calendar.",
+    "howToTell": "Channel genuine workplace indignation — this was an unjust firing and you're still processing it. The more aggrieved you sound, the better the wordplay lands.",
+    "perfectFor": [
+      "On the first day back after a holiday when everyone is complaining about work",
+      "When discussing employee rights and what counts as reasonable absence",
+      "At a New Year's party when people are throwing away old calendars"
+    ]
   },
   {
     "id": "for-adults-091",
@@ -1273,7 +1903,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "wife-walked-in-getting-dressed",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The wife's comment is a fitness critique — but 'push-ups' fired back could mean either a workout critique on her physique or a comment on a particular style of undergarment. The innuendo is left delightfully ambiguous, which means both readings are simultaneously valid and the audience picks their interpretation.",
+    "howToTell": "Deliver your comeback with maximum calm confidence — you had the perfect retort ready, you fired it, and you stand by it completely. No hesitation.",
+    "perfectFor": [
+      "At a gym after a workout when couples are comparing notes on their sessions",
+      "During a conversation about marriage honesty that has gotten a little too candid",
+      "At a comedy roast of a married couple where both people are fair game"
+    ]
   },
   {
     "id": "for-adults-092",
@@ -1287,7 +1924,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "rotation-earth-makes-my-day",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Makes my day' is an idiom for something that brings genuine joy — but the earth's rotation literally makes the day (one full rotation equals 24 hours). The astronomical mechanism responsible for every single day and the casual expression of gratitude for something you enjoy are the exact same statement.",
+    "howToTell": "Say it like you've just been struck by a moment of quiet, genuine appreciation. A slightly dreamy, content delivery works best — you're not making a joke, you're sharing a feeling.",
+    "perfectFor": [
+      "During an astronomy class or at a planetarium before the show begins",
+      "On a particularly beautiful sunny day when someone asks what's making you smile",
+      "At a science trivia night when the mood needs a moment of warmth"
+    ]
   },
   {
     "id": "for-adults-093",
@@ -1301,7 +1945,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "asked-north-korean-friend",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Can't complain' is a cheerful, mundane response meaning things are going reasonably well — but for a North Korean citizen, complaining publicly is literally prohibited and potentially dangerous. The pleasant pleasantry carries an entirely bleak political reality just below the surface.",
+    "howToTell": "Deliver the line completely neutrally, as if it's a perfectly normal exchange. Let the audience do the political calculation quietly on their own — pointing it out would undermine the whole effect.",
+    "perfectFor": [
+      "At a political science gathering with a crowd comfortable with dark humor",
+      "Among friends who follow international news and can read the subtext",
+      "During a conversation about freedom of speech when the topic needs a deft pivot"
+    ]
   },
   {
     "id": "for-adults-094",
@@ -1315,7 +1966,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "failed-driving-test-today",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The correct answer is 'stop' — but the speaker gives the most honest possible answer about their actual behavior at red lights, which is extremely relatable and completely illegal. The accidental confession makes the test failure feel not just understandable but inevitable.",
+    "howToTell": "Sound genuinely baffled by the failure, as if you provided the most accurate and candid answer you possibly could and don't understand why that wasn't appreciated.",
+    "perfectFor": [
+      "When a teenager is retelling their driving test results to unsympathetic parents",
+      "During a conversation about distracted driving that needs some self-aware humor",
+      "When you catch yourself reaching for your phone at a red light"
+    ]
   },
   {
     "id": "for-adults-095",
@@ -1329,7 +1987,14 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "great-joke-about-nepotism",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Nepotism is favoritism toward family members — so restricting the joke to your own children IS nepotism. The refusal to share the joke is itself a live act of the thing the joke is about, which makes the joke's existence and its withholding both part of the same bit.",
+    "howToTell": "Say 'I'll only tell it to my kids' with the protective confidence of someone who has genuinely thought through the appropriate distribution rights for this material.",
+    "perfectFor": [
+      "In a workplace conversation about fairness, favoritism, or hiring practices",
+      "At a family dinner when career advancement and opportunity come up",
+      "During a comedy writing workshop about meta and self-referential humor"
+    ]
   },
   {
     "id": "for-adults-096",
@@ -1343,7 +2008,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "wife-wanted-somewhere-expensive",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Gas stations are genuinely, painfully expensive — fuel prices being a constant source of financial dread. The joke subverts the romantic anniversary expectation by technically fulfilling the 'expensive' requirement with the least romantic destination imaginable.",
+    "howToTell": "Sound like you thought this was a genuinely great solution to the problem she presented. The more pleased with yourself, the funnier the gap between your self-assessment and the reality.",
+    "perfectFor": [
+      "Around an anniversary when gift planning and budget come up in conversation",
+      "When gas prices are making headlines and everyone is already complaining",
+      "At a dinner celebrating a couple's milestone where affectionate roasting is welcome"
+    ]
   },
   {
     "id": "for-adults-097",
@@ -1357,7 +2029,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "addicted-to-twitter",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Don't follow you' is the doctor's way of saying he doesn't understand the problem — but on Twitter, 'follow' is the core platform action. The doctor is simultaneously saying he can't track the argument AND that he's not a follower in the account-action sense. Two rejections delivered in three words.",
+    "howToTell": "Have the doctor deliver the line with professional concern — as if he genuinely tried to engage and just couldn't get on board. The sincerity of the failed attempt is the joke.",
+    "perfectFor": [
+      "In a social media addiction conversation when someone mentions their screen time",
+      "At a tech or journalism gathering where Twitter's turbulent existence is already being discussed",
+      "When someone is explaining why they finally deleted their account"
+    ]
   },
   {
     "id": "for-adults-098",
@@ -1371,7 +2050,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "boss-asked-why-sick-work-days",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "A 'weekend immune system' doesn't exist — it's a fictional medical concept invented on the spot to explain a very obvious pattern. The commitment to a plausible-sounding but completely fake scientific explanation rather than just admitting the truth is what makes it work.",
+    "howToTell": "Deliver with the conviction of someone who genuinely believes this is a documented medical phenomenon that their boss should probably read about and respect.",
+    "perfectFor": [
+      "On a Monday when you definitely called in 'sick' on the previous Friday",
+      "At a workplace health and wellness seminar when the mood needs a break",
+      "When a coworker confides that they 'coincidentally' get sick before every long weekend"
+    ]
   },
   {
     "id": "for-adults-099",
@@ -1385,7 +2071,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "told-financial-advisor-insecure",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The financial advisor offers comfort about money stability — but the speaker was talking about their emotional state. 'Isn't going anywhere' reassures that the money is safe while accidentally confirming it's also not growing, which wraps an insult inside a comfort inside a misunderstanding.",
+    "howToTell": "Have the financial advisor sound warmly professional, as if he absolutely nailed the reassurance and is proud of how helpful he's been. The obliviousness from a position of authority is the joke.",
+    "perfectFor": [
+      "During tax season when financial anxiety is running high for everyone",
+      "At a financial planning seminar when the theoretical gets a little too close to reality",
+      "When someone complains that their savings account isn't gaining any real interest"
+    ]
   },
   {
     "id": "for-adults-100",
@@ -1399,7 +2092,14 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "wife-wanted-zero-to-200-seconds",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'0 to 200 in seconds' is a car performance spec for acceleration — clearly she wants something fast and exciting. A bathroom scale goes from 0 to 200 pounds the instant you step on it. The automotive desire is answered with a weight measurement device, which is also a burn so subtle it arrives a moment late.",
+    "howToTell": "Describe the purchase like you found the perfect technical match for the exact specifications she provided. The more earnest the problem-solving framing, the sharper the burn lands.",
+    "perfectFor": [
+      "Around the holidays when gift shopping disasters are being traded as stories",
+      "When discussing what to get a partner who loves cars and speed",
+      "At a couples' roast or anniversary toast where affectionate burns are on the menu"
+    ]
   },
   {
     "id": "for-adults-101",
@@ -1413,7 +2113,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "today-my-wife-caught-me-standing-on-the-bathroom-scale-sucking-in-my-stomach",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Sucking in your stomach is universally associated with trying to look thinner — so the wife assumes that's the goal and correctly calls it out. But the speaker's actual reason is purely practical: the belly was physically blocking the view of the numbers. The pragmatic admission is somehow more devastating than the vanity it replaces.",
+    "howToTell": "Deliver the final line with the matter-of-fact tone of an engineer explaining a workaround — completely un-embarrassed, almost proud of the solution. The pragmatism is funnier than defensiveness.",
+    "perfectFor": [
+      "At a gym when weight and body image come up in conversation",
+      "When someone is complaining about a bathroom scale that's hard to read",
+      "During a health and wellness conversation when the mood needs a moment of levity"
+    ]
   },
   {
     "id": "for-adults-102",
@@ -1426,7 +2133,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "wife-yells-from-upstairs-hey-do-you-ever-get-a-really-sharp-pain-in-your-heart-a",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "The setup sounds like a genuine health check — someone concerned about cardiac symptoms. 'How about now?' reveals she has a voodoo doll and was actively stabbing it while asking. The medical framing primes you for concern, and the supernatural reveal implies intent that is both absurd and slightly alarming.",
+    "howToTell": "The wife's first question should sound entirely genuine — like someone checking in about potential health symptoms. The 'How about now?' lands best delivered with quiet, satisfied menace.",
+    "perfectFor": [
+      "On Halloween when supernatural themes are already in the air",
+      "When a couple has been bickering all day and one side makes a dark peace offering",
+      "At a party where someone just confessed their heart is broken and you want to pivot"
+    ]
   },
   {
     "id": "for-adults-103",
@@ -1439,7 +2153,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "my-son-was-just-born-and-another-dad-at-the-nursery-congratulated-me-and-said-hi",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "Both babies are newborns — but 'twice his age' applied to a one-day-old is technically accurate when the son is only twelve hours old. The speaker applies adult relationship age-gap concerns to hospital nursery arithmetic, treating a 24-hour age difference with the gravity of a significant generational mismatch.",
+    "howToTell": "Sound genuinely skeptical about the proposed match, as if you've done the math carefully and found the age gap unacceptable by any reasonable standard.",
+    "perfectFor": [
+      "In a new parent's group when other babies' ages and futures inevitably come up",
+      "At a baby shower when the game of pairing up future kids gets out of hand",
+      "When grandparents start casually planning arranged futures for infants"
+    ]
   },
   {
     "id": "for-adults-104",
@@ -1453,7 +2174,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "i-used-to-be-a-romantic-and-believed-love-was-blind",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Love is blind' is a cliché about overlooking flaws — but the speaker's lived experience has revealed that sight isn't the only problematic sense. Expanding the metaphor to include deafness and muteness is a weary, knowing escalation that every parent of young kids will recognize immediately.",
+    "howToTell": "Deliver with genuine exhaustion and fond exasperation — not bitterness. The tired love of a veteran parent who wouldn't actually trade any of it is the right tone.",
+    "perfectFor": [
+      "At a parent meetup where everyone understands the beautiful chaos of family life",
+      "At a wedding toast from a seasoned married person who's earned the perspective",
+      "When a newlywed or newly pregnant friend asks what marriage or parenthood is really like"
+    ]
   },
   {
     "id": "for-adults-105",
@@ -1466,7 +2194,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "my-wife-just-completed-a-40-week-body-building-program-this-morning",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'40-week body building program' is pregnancy reframed as athletic achievement — and it's technically, entirely accurate. The reveal that the result is a baby recontextualizes the whole thing as both absurd framing and genuine celebration. She did build something, and the stats are impressive.",
+    "howToTell": "Lead with the fitness framing completely straight-faced, as if reporting athletic results at a competition, then announce the birth stats with the same clinical, matter-of-fact delivery.",
+    "perfectFor": [
+      "At a baby shower or birth announcement when the family is in a celebratory mood",
+      "In a fitness-obsessed friend group when announcing a pregnancy or birth",
+      "On a parenting forum where gym culture and new parenthood overlap"
+    ]
   },
   {
     "id": "for-adults-106",
@@ -1481,7 +2216,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "my-wife-threatened-to-divorce-me-when-i-said-i-was-going-to-give-our-daughter-a-",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Called her bluff' is a poker term for testing whether a threat is genuine — but the speaker named the daughter 'Bluff.' The sentence is simultaneously true in two ways: he named the daughter Bluff, which is also the act of calling the wife's bluff. The idiom and the action are the same word.",
+    "howToTell": "Pause after 'So I called her Bluff...' and let people decide whether the daughter or the threat is what got called. The deliberate ambiguity is the joke — don't resolve it.",
+    "perfectFor": [
+      "At a baby naming ceremony or shower where name choices are being debated",
+      "In a poker group when relationship anecdotes inevitably surface",
+      "When discussing unconventional baby names and what you'd actually dare to call a kid"
+    ]
   },
   {
     "id": "for-adults-107",
@@ -1494,7 +2236,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "my-wife-filed-for-divorce-today-said-i-am-too-un-american-for-her",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Un-American' means failing to embody American values — and Americans use miles, not kilometers. Describing how far in advance you saw it coming in kilometers is exactly the kind of un-American behavior she was complaining about. The proof of the charge is delivered in the unit of measurement used to defend against it.",
+    "howToTell": "Sound slightly defensive about having seen it coming so early, without any awareness that 'kilometer' is the self-own that validates everything she said.",
+    "perfectFor": [
+      "When discussing metric vs. imperial measurement systems with any mixed group",
+      "Around the 4th of July or any patriotic occasion when American identity is in the air",
+      "In an international group where unit systems are already a running cultural joke"
+    ]
   },
   {
     "id": "for-adults-108",
@@ -1509,6 +2258,13 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "my-wife-died-because-i-couldnt-remember-her-blood-type",
-    "ageRange": "adults"
+    "ageRange": "adults",
+    "whyFunny": "'Be positive' is both a motivational phrase — the kind of thing a strong, optimistic person says in their final moments — and B positive, a specific blood type. The information she was desperately trying to communicate and the life advice she was giving were the same words at the most critical possible moment.",
+    "howToTell": "Deliver with genuine sadness and real admiration for her strength — the darker the sincerity, the more it lands as darkly funny rather than mean-spirited. This one earns its place with emotional commitment.",
+    "perfectFor": [
+      "In a dark humor group where the crowd has established trust and nothing is off limits",
+      "At a blood drive to lighten the mood between donations",
+      "When someone is telling a medical emergency story where communication and clarity were everything"
+    ]
   }
 ]

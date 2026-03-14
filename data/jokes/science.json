@@ -11,7 +11,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The phrase 'make up' does double duty here — atoms literally compose all matter, but 'make up' also means to fabricate or lie. The word 'literally' is the cherry on top, because it plays against the colloquial, exaggerated use of the word while being scientifically accurate at the same time.",
+    "howToTell": "Deliver 'literally everything' with a slow, dramatic emphasis — the pause before it lands gives the double meaning a second to click for the audience.",
+    "perfectFor": [
+      "A chemistry class when a student asks why they have to study atomic theory",
+      "A science museum visit when someone asks what everything is made of",
+      "Any conversation where someone says they can't trust anyone"
+    ]
   },
   {
     "id": "science-002",
@@ -25,7 +32,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Designer genes' sounds exactly like 'designer jeans,' the aspirational fashion staple — but swapped for the biological blueprint of life. The joke works because it plants the mundane fashion context first (a date, clothing), then yanks you sideways into molecular biology with a homophone you didn't see coming.",
+    "howToTell": "Say 'Designer genes' with the same casual confidence you'd use if you were actually talking about expensive denim — the flatter you deliver it, the funnier the pivot.",
+    "perfectFor": [
+      "A biology class covering genetics and DNA",
+      "When someone at a party asks what a biologist does for fun",
+      "A genetics conference icebreaker"
+    ]
   },
   {
     "id": "science-003",
@@ -39,7 +53,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The punchline 'reaction' means both the chemical process at the heart of all chemistry AND an emotional response from the audience — it's simultaneously self-deprecating and scientifically on-brand. The meta layer of a joke complaining that the joke won't work makes it work, which is the sneaky brilliance of it.",
+    "howToTell": "Pause slightly after 'chemistry joke' and let your audience lean in, then deliver the punchline with a resigned shrug — the self-aware defeat sells it perfectly.",
+    "perfectFor": [
+      "Opening a chemistry lesson when the class looks bored",
+      "At a science department party when people aren't laughing",
+      "When a fellow science teacher asks for a quick joke"
+    ]
   },
   {
     "id": "science-004",
@@ -53,7 +74,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Chemistry' does all the heavy lifting here — it's the common word for romantic spark or connection AND the literal scientific discipline, making it hilariously apt that a physicist-biologist couple would split for exactly this reason. The fact that chemistry is its own separate science from both physics and biology makes the disciplinary breakup feel weirdly logical.",
+    "howToTell": "Stress 'no chemistry' like you're genuinely diagnosing a failed relationship — deadpan works best so the science pun sneaks up on the listener.",
+    "perfectFor": [
+      "A STEM department mixer where physicists and biologists are mingling awkwardly",
+      "Explaining interdisciplinary science to students",
+      "When two science nerds are clearly crushing on each other"
+    ]
   },
   {
     "id": "science-005",
@@ -67,7 +95,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Earth is literally the only planet in our solar system with confirmed life, so the insult 'you have no life' is scientifically accurate while also landing as a classic schoolyard diss. The anthropomorphization of Earth as a smug planet throwing shade at its neighbors is both endearing and perfectly timed.",
+    "howToTell": "Channel Earth's smugness — deliver 'no life' with a slight eye roll, as if Earth is the cool kid in the solar system who knows it.",
+    "perfectFor": [
+      "A planetarium show when the guide gets to Earth in the solar system tour",
+      "A space camp session on why Earth is unique",
+      "Watching a Mars documentary when the barren red landscape comes on screen"
+    ]
   },
   {
     "id": "science-006",
@@ -81,7 +116,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Last quarter' is both the final 25 cents of a broke person's wallet AND the last quarter phase of the moon's lunar cycle — the setup about being broke perfectly primes the financial interpretation before the astronomy one clicks. It's a clean, crisp double meaning that works because both definitions are equally familiar.",
+    "howToTell": "Set up the 'broke' premise like you're about to tell a classic money joke, then let 'last quarter' land without any wink — the astronomy connection should hit a beat after.",
+    "perfectFor": [
+      "A late-night stargazing session when the moon is in its last quarter phase",
+      "An astronomy class explaining lunar phases",
+      "Chatting with kids who just learned about the moon's cycles"
+    ]
   },
   {
     "id": "science-007",
@@ -95,7 +137,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Comet books' is a cheerful mash-up of 'comic books' and comets — those icy space wanderers that streak through the solar system. The setup about planets reading is delightfully absurd, and the pun earns a grin from the sheer ridiculousness of a planet flipping through a comet-themed graphic novel.",
+    "howToTell": "Say 'Comet books!' with genuine enthusiasm, as if you're recommending a great read — the sincerity makes the silliness pop.",
+    "perfectFor": [
+      "A kids' astronomy class when the topic of comets comes up",
+      "A library reading event with a space theme",
+      "Bedtime with young kids who love both space and stories"
+    ]
   },
   {
     "id": "science-008",
@@ -109,7 +158,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Na' is sodium's chemical symbol on the periodic table — but said aloud it sounds exactly like the casual dismissal 'nah,' as in the joke wasn't funny. The punchline IS the punchline reaction, which is peak absurdist comedy. It works in text and out loud, which is rare.",
+    "howToTell": "Deliver 'Na.' with a flat, totally unimpressed expression — like you know the joke bombed. The deadpan is the whole bit.",
+    "perfectFor": [
+      "A chemistry class covering the periodic table of elements",
+      "When someone asks you to tell a science joke and you want to subvert expectations",
+      "Texting a fellow chemistry nerd who will get it immediately"
+    ]
   },
   {
     "id": "science-009",
@@ -123,7 +179,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Three elements — helium (heal 'em), curium (cure 'em), and barium (bury 'em) — are mapped perfectly onto the escalating stages of treating a sick person, from optimism to burial. The rhythm of 'can't helium, can't curium' builds comic momentum so that 'barium' lands like a dark, inevitable conclusion.",
+    "howToTell": "Say each element pun at a slightly faster pace, building urgency — then hit 'barium' with a defeated shrug. The escalation is what makes it sing.",
+    "perfectFor": [
+      "A chemistry class right when students are learning the periodic table",
+      "A science-themed party game where everyone's been challenged to tell chemistry jokes",
+      "Visiting a friend who works in a lab and you want to make them groan"
+    ]
   },
   {
     "id": "science-010",
@@ -137,7 +200,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Brighter' works two ways — intellectual brightness (being smarter from education) and actual luminosity, since the sun is already the brightest object in our solar system. The joke is charmingly absurd because the sun is already 4.5 billion years old and presumably knows everything, yet here it is hitting the books.",
+    "howToTell": "Pause after 'to get a little...' and let the word 'brighter' arrive with a grin — the beat before the punchline gives people just enough time to guess wrong.",
+    "perfectFor": [
+      "A solar system unit in an elementary school science class",
+      "Back-to-school season when you want a nerdy welcome-back joke",
+      "During a nature walk on a sunny day with kids"
+    ]
   },
   {
     "id": "science-011",
@@ -151,7 +221,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Waves' is both the ocean's signature physical feature — water waves created by wind and tidal forces — and the most basic human greeting gesture. The setup frames the ocean as a social creature trying to be polite, and the punchline is so perfectly simple it's almost elegant in its dual meaning.",
+    "howToTell": "Give a cheerful little hand wave as you say 'It waves!' — the physical gesture doubles the joke and gets a bigger reaction from kids especially.",
+    "perfectFor": [
+      "At the beach when kids are watching waves roll in",
+      "An oceanography or earth science lesson on wave physics",
+      "Breaking the ice with a coastal-themed group or sailing club"
+    ]
   },
   {
     "id": "science-012",
@@ -165,7 +242,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'My fault' is the polite apology you'd give after bumping into someone AND the geological term for the fracture between tectonic plates — the very thing responsible for earthquakes. The scenario of plates apologizing for crashing into each other, using the word that describes their collision, is perfectly constructed.",
+    "howToTell": "Say 'Sorry, my fault!' with a genuinely sheepish, apologetic tone — as if one plate is actually embarrassed about causing an earthquake.",
+    "perfectFor": [
+      "An earth science class covering plate tectonics and geological faults",
+      "After a mild earthquake when people are a bit rattled but safe",
+      "A geology field trip when pointing out fault lines in rock formations"
+    ]
   },
   {
     "id": "science-013",
@@ -179,7 +263,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A 'solution' in chemistry is a liquid mixture where one substance is dissolved in another — but it's also the answer to any problem. Chemists literally work with solutions all day in the lab, so calling them great problem-solvers because they 'have all the solutions' is both a professional compliment and a science pun at the same time.",
+    "howToTell": "Deliver 'all the solutions' with a confident nod, like you're genuinely impressed by chemists — let the pun land naturally rather than telegraphing it.",
+    "perfectFor": [
+      "A chemistry lab session when students are working on experiments",
+      "A STEM career fair where chemists are presenting",
+      "Handing a chemistry student a beaker and needing a quick laugh"
+    ]
   },
   {
     "id": "science-014",
@@ -193,7 +284,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Degrees' brilliantly bridges two meanings: academic degrees (the thermometer bragging about credentials) and degrees of temperature (literally what a thermometer measures). The setup casts the graduated cylinder as having an academic achievement, which the thermometer one-ups by pointing out it actually measures degrees for a living.",
+    "howToTell": "Give the thermometer a slightly pompous, competitive tone — like it's been waiting to put the graduated cylinder in its place at the next lab equipment meeting.",
+    "perfectFor": [
+      "A chemistry or physics lab class when students are setting up equipment",
+      "A science teacher's staff room joke when academic seasons come up",
+      "Any conversation about credentials or one-upmanship"
+    ]
   },
   {
     "id": "science-015",
@@ -207,7 +305,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Traveling light' means packing minimally for a trip, but a photon — a particle of light — is literally traveling as light itself. The layered absurdity is that a photon at an airport is already ridiculous, and then it turns out the reason it has no bags is because it IS light, which is both scientifically accurate and perfectly punny.",
+    "howToTell": "Set up the airport scene casually, then let 'traveling light' roll out with an innocent smile — the physics nerd in the room will groan with delight.",
+    "perfectFor": [
+      "A physics class covering the properties and behavior of light",
+      "At an airport when there's a long layover and you need to entertain someone",
+      "A science camp session on optics or electromagnetism"
+    ]
   },
   {
     "id": "science-016",
@@ -221,7 +326,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Fission chips' is a spot-on phonetic swap of 'fish and chips' — the classic British comfort meal — with nuclear fission, the process of splitting atomic nuclei to release energy. Pairing the most mundane, cozy food with the most extreme physics process is what makes the joke pop.",
+    "howToTell": "Say 'Fission chips!' with the same enthusiasm you'd have if it were actually a delicious meal — maybe even mime holding a plate.",
+    "perfectFor": [
+      "A nuclear physics class or lecture on fission reactions",
+      "A British-themed science event or pub quiz",
+      "Lunch with physicist colleagues who appreciate a layered pun"
+    ]
   },
   {
     "id": "science-017",
@@ -235,7 +347,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Helium is a lighter-than-air gas — things filled with helium go UP, not down. So 'couldn't put it down' plays against the scientific reality: a helium book, logically, would be impossible to keep down. The phrase also means 'couldn't stop reading,' which makes it a perfectly ambiguous pun about both irresistible books and buoyant gases.",
+    "howToTell": "Pause just long enough after the setup for someone to imagine a scientist reading — then let 'couldn't put it down' drift in with a light, breezy delivery (pun intended).",
+    "perfectFor": [
+      "A chemistry class the day helium and noble gases come up",
+      "A book club with science enthusiasts",
+      "A library event or school reading night with a STEM twist"
+    ]
   },
   {
     "id": "science-018",
@@ -249,7 +368,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is a clever remix of the classic 'why did the chicken cross the road' with biology lab equipment — 'the other slide' swaps 'the other side' for a microscope slide, the thin glass sheet you mount specimens on. It layers the familiar joke structure with a perfectly placed science term.",
+    "howToTell": "Play it completely straight, like a proper 'why did X cross Y' joke — the formula primes people for a road, so 'slide' hits with a satisfying sideways punch.",
+    "perfectFor": [
+      "A biology class during a microscopy lab session",
+      "A microbiology or nursing program icebreaker",
+      "Any situation where someone is prepping microscope slides"
+    ]
   },
   {
     "id": "science-019",
@@ -263,7 +389,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Granite' sounds almost identical to 'granted' in the idiom 'take for granted,' and granite is also a very common rock that geologists handle constantly — making limestone's complaint doubly ironic since geologists literally handle rocks all day. The injured dignity of a limestone rock feeling underappreciated is comedy gold.",
+    "howToTell": "Say 'Don't take me for granite!' with genuine, slightly wounded feeling — the limestone really means it.",
+    "perfectFor": [
+      "A geology field trip when identifying different rock types",
+      "An earth science class on igneous vs. sedimentary rocks",
+      "A kitchen showroom visit where someone is browsing granite countertops"
+    ]
   },
   {
     "id": "science-020",
@@ -277,7 +410,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Up to something' means both scheming or being suspicious AND the literal physical direction stairs go — upward. Scientists are people who demand reproducible evidence and distrust things they can't verify, so their skepticism toward stairs being 'up to something' is a funny collision of scientific rigor and everyday paranoia.",
+    "howToTell": "Deliver it with mock suspicion, like you've personally been burned by a staircase before — a slightly narrowed eye goes a long way.",
+    "perfectFor": [
+      "A physics class discussion on potential energy and height",
+      "An engineering building tour when someone asks why scientists prefer elevators",
+      "Any office setting where someone complains about taking the stairs"
+    ]
   },
   {
     "id": "science-021",
@@ -291,7 +431,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A quark is one of the fundamental particles of matter in quantum physics — and it sounds exactly like a duck's quack. The joke merges two completely different domains (subatomic particle physics and duck sounds) through a single word that perfectly straddles both, which is the kind of improbable wordplay that earns a genuine surprised laugh.",
+    "howToTell": "Ask 'What does a subatomic duck say?' as if it's a perfectly reasonable question, then deliver 'Quark!' like you're both a physics professor and a duck impersonator.",
+    "perfectFor": [
+      "A quantum physics class when quarks and subatomic particles are introduced",
+      "A particle physics documentary watch party",
+      "A science fair where you want to entertain the crowd between presentations"
+    ]
   },
   {
     "id": "science-022",
@@ -305,7 +452,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Reaction' does double work — in chemistry, a reaction is what you're literally trying to get in the lab, and in workplace terms, 'no reaction from management' means being ignored or unsupported. The lab technician's grievance is both scientifically and professionally valid, which makes the resignation feel totally justified.",
+    "howToTell": "Deliver it with the resigned tone of someone who has genuinely been through a toxic workplace — it works best as a commiserating joke among colleagues.",
+    "perfectFor": [
+      "A break room conversation with fellow lab workers venting about work",
+      "A chemistry department social event where people are letting off steam",
+      "A workplace comedy set for a science-heavy audience"
+    ]
   },
   {
     "id": "science-023",
@@ -319,7 +473,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Flying saucers' means both the classic UFO shape — a staple of space mythology — and the actual small plate (a saucer) you'd put under a cup when serving. The joke reimagines the astronaut's dinner party as one where everything floats, and the dinnerware just happens to already have an aeronautic name.",
+    "howToTell": "Let 'flying saucers!' land with a big grin — this one is unapologetically corny and plays best with kids who love both space and the word 'saucer.'",
+    "perfectFor": [
+      "A space-themed birthday party or dinner",
+      "A kids' space camp dinner table",
+      "Watching a UFO documentary and wanting to lighten the mood"
+    ]
   },
   {
     "id": "science-024",
@@ -333,7 +494,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Twister the board game involves spinning, tangled bodies, and chaotic physical movement — which maps perfectly onto a tornado's spiraling, destructive motion. The game is literally named after the meteorological phenomenon, making this one of those rare jokes where the punchline is the most obvious possible answer and yet it still works.",
+    "howToTell": "Say 'Twister!' with the excitement of someone who just remembered the game exists — it's fun and punchy and kids always get it.",
+    "perfectFor": [
+      "A weather unit in an elementary science class covering tornadoes",
+      "A rainy indoor day when someone pulls out the board game Twister",
+      "A storm chaser documentary viewing with friends"
+    ]
   },
   {
     "id": "science-025",
@@ -347,7 +515,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-13",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Path of least resistance' is a physics principle — electric current flows through the easiest available route — but it's also a common expression for taking the lazy or easy way out, which is exactly how you'd get lost. The electron's navigational failure is both physically accurate and a relatable life critique.",
+    "howToTell": "Deliver 'path of least resistance' as if it's a reasonable excuse — shrug your shoulders like the electron made a perfectly sensible choice that happened to go wrong.",
+    "perfectFor": [
+      "A physics class covering electric circuits and resistance",
+      "When someone in a group keeps taking shortcuts and making things worse",
+      "An electrical engineering study session that needs a quick break"
+    ]
   },
   {
     "id": "science-026",
@@ -361,7 +536,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This riff on the classic atom trust joke swaps in 'literally' to make the scientific accuracy even more explicit — atoms do literally make up all matter, yet 'make up' also means to fabricate or lie. The word 'literally' adds a layer of faux sincerity that makes the pun feel more indignant and emphatic.",
+    "howToTell": "Punch 'literally' with mock exasperation — like you can't believe atoms would have the audacity to make up everything.",
+    "perfectFor": [
+      "A chemistry class warm-up when starting a unit on atomic structure",
+      "Telling science jokes at a family gathering with curious kids",
+      "Responding to someone who says 'I literally trust everyone'"
+    ]
   },
   {
     "id": "science-027",
@@ -375,7 +557,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Lava' sounds almost identical to 'love ya' — the molten rock that volcanoes erupt is the same sound as a casual affectionate declaration. The image of a volcano having a romantic partner and expressing heartfelt feelings through its literal substance is wonderfully absurd and warm at the same time.",
+    "howToTell": "Say 'I lava you' with genuine warmth, as if the volcano really means it — the sincerity of delivery makes the pun feel sweet rather than groan-worthy.",
+    "perfectFor": [
+      "A geology class or earth science lesson on volcanic activity",
+      "Valentine's Day cards for science-loving partners",
+      "A Hawaii vacation or volcano national park visit"
+    ]
   },
   {
     "id": "science-028",
@@ -389,7 +578,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "In math, multiplying and dividing are opposite operations — but bacteria actually reproduce by a process called binary fission, where one cell divides into two, thereby multiplying their population. The joke exploits the paradox that dividing (cell division) results in more bacteria, not fewer — which is biologically true and mathematically confusing.",
+    "howToTell": "Pause after 'multiply' so the audience starts nodding, then hit 'by dividing' — the contradiction should cause a satisfying double-take.",
+    "perfectFor": [
+      "A biology class covering cell reproduction and binary fission",
+      "A math class looking for cross-subject humor",
+      "A microbiology lab when working with bacterial cultures"
+    ]
   },
   {
     "id": "science-029",
@@ -403,7 +599,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Electrons carry a negative electrical charge — that's a literal fact of particle physics — but 'stop being so negative' is also what you'd say to a pessimistic friend who won't stop complaining. The proton, being positively charged, is basically the optimist of the atomic world telling the electron to cheer up.",
+    "howToTell": "Deliver the proton's line with exasperated positivity — like someone who has genuinely had enough of their negative coworker's attitude.",
+    "perfectFor": [
+      "A physics class introducing atomic charges and particle properties",
+      "When someone is being relentlessly negative and you want to call it out with humor",
+      "A chemistry or physics club social event"
+    ]
   },
   {
     "id": "science-030",
@@ -417,7 +620,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Elements' in the joke does two things: it refers to the 118+ chemical elements on the actual periodic table AND the colloquial 'too many elements to juggle,' meaning too many moving parts or responsibilities. The image of the periodic table as an overwhelmed office worker drowning in tasks is relatable and charming.",
+    "howToTell": "Sigh slightly before the punchline — give the periodic table some genuine sympathy. It's carrying a lot.",
+    "perfectFor": [
+      "A chemistry class when students first encounter the full periodic table",
+      "Commiserating with someone overwhelmed at work",
+      "A study session when someone has too much to memorize"
+    ]
   },
   {
     "id": "science-031",
@@ -431,7 +641,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Lab retrievers' smashes together 'Labrador retrievers' — one of the world's most popular dog breeds — with laboratory (lab), where scientists do their work. The truncated 'Lab' is doing double duty as both 'Labrador' and 'laboratory,' making it a compact, elegant pun that lands immediately.",
+    "howToTell": "Say 'Lab retrievers!' with the same proud energy as someone showing off their dog — the enthusiasm makes it feel natural rather than like a setup.",
+    "perfectFor": [
+      "A science department break room when someone mentions their dog",
+      "A school science fair when you need to warm up the crowd",
+      "A vet's office waiting room if someone happens to have an actual Lab"
+    ]
   },
   {
     "id": "science-032",
@@ -445,7 +662,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Misty-eyed' means emotional and teary — but fog IS made of tiny water droplets and mist, so the fog is literally misty by definition. The breakup framing sets up a dramatic emotional scene, then the punchline reminds you that the fog can't help being misty — it's just weather.",
+    "howToTell": "Shake your head sympathetically when you say 'misty-eyed' — like you feel for the cloud but also understand why this relationship was doomed.",
+    "perfectFor": [
+      "A weather and atmosphere unit in earth science class",
+      "A foggy morning drive when someone comments on the weather",
+      "A meteorology-themed trivia night"
+    ]
   },
   {
     "id": "science-033",
@@ -459,7 +683,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Helium's chemical symbol is He, so two isotopes of helium would be He + He = HeHe — which is also how you write out a laugh in text. The scientist is both annotating a chemistry discovery AND giggling about it, all with two letters. It's science nerd humor operating at maximum efficiency.",
+    "howToTell": "Say 'HeHe!' with the laugh of someone who thinks this is absolutely hilarious — the scientist is amused and so should you be.",
+    "perfectFor": [
+      "A chemistry class on isotopes and noble gases",
+      "Any time someone on a science team actually makes a discovery and needs a celebratory joke",
+      "Texting a chemistry-obsessed friend something that will make them do an actual spit-take"
+    ]
   },
   {
     "id": "science-034",
@@ -473,7 +704,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Potential energy' in physics is stored energy waiting to be released — but 'no potential' in a relationship means no future together. The breakup is framed in the exact language of classical mechanics, making it feel like the physicist was the one who diagnosed the relationship and issued a formal scientific conclusion.",
+    "howToTell": "Deliver it clinically — like the physicist wrote up a lab report on the breakup. The more matter-of-fact the tone, the funnier it lands.",
+    "perfectFor": [
+      "A physics class introducing potential vs. kinetic energy",
+      "A interdisciplinary science social event with biologists and physicists",
+      "When two science nerds are breaking up and need to acknowledge it in nerd terms"
+    ]
   },
   {
     "id": "science-035",
@@ -487,7 +725,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Argon is a noble gas on the periodic table, and pirates are famous for their 'Arrr!' — so 'Arrrgon' fuses pirate speech with the chemical element in one syllable of theatrical pronunciation. It's a silly crossover that requires knowing both pirate clichés and the periodic table, which is a delightfully specific Venn diagram.",
+    "howToTell": "Roll the 'Arrr' in 'Arrrgon' as dramatically as possible — lean into full pirate energy when you hit the punchline.",
+    "perfectFor": [
+      "A chemistry class during a lesson on noble gases",
+      "Talk Like a Pirate Day with a science-class twist",
+      "A Halloween costume party where someone is dressed as a pirate scientist"
+    ]
   },
   {
     "id": "science-036",
@@ -501,7 +746,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Cell division' is the biological process by which cells reproduce — but the setup about a cell phone getting pregnant makes the listener momentarily confused, before 'cell' in 'cell phone' clicks as a pun on biological cells. The joke exploits the shared word 'cell' across two very different domains.",
+    "howToTell": "Pause a beat between 'cell' and 'division' so your audience has just enough time to recognize the biology term and groan appreciatively.",
+    "perfectFor": [
+      "A biology class covering mitosis and cell reproduction",
+      "When someone is complaining their old phone is slow and 'splitting apart'",
+      "A STEM-themed trivia night with biology questions"
+    ]
   },
   {
     "id": "science-037",
@@ -515,7 +767,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'More space' is the classic breakup line for needing personal space in a relationship — but in this case, comets and asteroids literally live in space, and the comet is asking for more of the actual vacuum of space around it. The astronomical setting makes the personal space complaint feel both cosmic and mundane.",
+    "howToTell": "Say 'It needed more space' with a dramatic exhale, like the comet was genuinely feeling suffocated by the asteroid belt.",
+    "perfectFor": [
+      "A space science class covering comets and asteroids in the solar system",
+      "When two people in your friend group are going through a breakup and you need to defuse tension",
+      "A planetarium field trip when the guide discusses space objects"
+    ]
   },
   {
     "id": "science-038",
@@ -529,7 +788,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Amino acid' — the building blocks of proteins and essential to all life — sounds like 'a mean-oh acid' when split differently, transforming a fundamental biochemical compound into an acid that's just got a bad attitude. The personality swap from biology to character critique is unexpected and satisfying.",
+    "howToTell": "Draw out 'a-mean-oh' with a slightly menacing tone, as if this particular acid has been giving everyone trouble in the lab.",
+    "perfectFor": [
+      "A biochemistry class introducing amino acids and protein synthesis",
+      "A biology lab when someone is working with acidic solutions",
+      "A chemistry or AP Biology review session that needs an energy boost"
+    ]
   },
   {
     "id": "science-039",
@@ -543,7 +809,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Neutrons have no electrical charge — that's a core fact of atomic physics — and 'no charge' at a club means free admission. The joke reframes the neutron's defining physical property as a financial perk, making the subatomic particle the savviest club-goer in the atom.",
+    "howToTell": "Deliver 'no charge' with a little shrug, as if the neutron is just explaining its situation to the bouncer — completely matter of fact.",
+    "perfectFor": [
+      "A physics class when introducing the three subatomic particles and their charges",
+      "A college physics study session when people need a five-minute break",
+      "A science party when someone makes a bouncer joke and you pivot to particles"
+    ]
   },
   {
     "id": "science-040",
@@ -557,7 +830,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Bedrock' is the solid layer of rock beneath the soil — but it's also a 'bed + rock,' which maps perfectly onto a sleeping (bed) dinosaur that is now a fossil (rock). For bonus points, Bedrock is also where the Flintstones lived, adding a pop culture layer to the geology pun.",
+    "howToTell": "Say 'A bedrock!' with the satisfied grin of someone who has waited their whole life to make this joke at a natural history museum.",
+    "perfectFor": [
+      "A natural history museum visit during the dinosaur fossil exhibit",
+      "A geology or paleontology class discussing sedimentary rock formation",
+      "A kids' dinosaur-themed birthday party"
+    ]
   },
   {
     "id": "science-041",
@@ -571,7 +851,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Magnetic attraction is a real physical force — opposite poles literally pull each other together — but 'attraction' also describes romantic interest in a person. Magnets having a healthy relationship because of their literal electromagnetic attraction is a beautiful case of science and romance sharing the same vocabulary.",
+    "howToTell": "Say it warmly, like you're genuinely happy for the magnets — it's a surprisingly wholesome science pun and the sweet tone sells it.",
+    "perfectFor": [
+      "A physics class on magnetism and electromagnetic forces",
+      "A chemistry or physics teacher's Valentine's Day class activity",
+      "When you spot a fridge magnet collection and need to make someone groan"
+    ]
   },
   {
     "id": "science-042",
@@ -585,7 +872,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The real answer is 'Deoxyribonucleic Acid' — a famously difficult-to-pronounce string of letters that most people struggle to spell. The punchline 'National Dyslexics Association' keeps the correct initials (DNA) while also making a self-aware joke about letters being rearranged, which is exactly what dyslexia involves.",
+    "howToTell": "Pause as if you're about to give the serious, technical answer — then drop 'National Dyslexics Association' with a completely straight face.",
+    "perfectFor": [
+      "A biology class introduction to genetics and DNA structure",
+      "A medical or nursing school icebreaker",
+      "Any gathering of people who remember struggling with the word 'deoxyribonucleic'"
+    ]
   },
   {
     "id": "science-043",
@@ -599,7 +893,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The classic 'fungi/fun guy' pun gets a biology-specific twist here — the biologist already knows mushrooms belong to the kingdom Fungi, which makes the punchline doubly satisfying for science nerds who see the setup coming from a mile away and still enjoy the landing. The meta layer of 'the biologist already knew that' winks at the audience.",
+    "howToTell": "Deliver '— but the biologist already knew that!' with a knowing nod toward any science person in the room — they'll appreciate being acknowledged.",
+    "perfectFor": [
+      "A biology class during a unit on fungi and classification of organisms",
+      "A mycology hiking tour where someone spots a wild mushroom",
+      "A dinner party where mushrooms are on the menu"
+    ]
   },
   {
     "id": "science-044",
@@ -613,7 +914,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Fe is iron's chemical symbol (from the Latin 'ferrum'), and 'Fe-breeze' is a perfect phonetic swap for Febreze, the air freshener brand. The joke pairs an element whose symbol most people don't expect (Fe for iron) with a household product whose name suddenly makes scientific sense.",
+    "howToTell": "Say 'Fe-breeze' confidently, as if it's the most natural brand name in the world — let the audience connect Fe = iron on their own for maximum payoff.",
+    "perfectFor": [
+      "A chemistry class on the transition metals and why Fe represents iron",
+      "When someone sprays Febreze and there's a chemistry nerd in the room",
+      "A periodic table review game where you need a hint about iron's symbol"
+    ]
   },
   {
     "id": "science-045",
@@ -627,7 +935,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Bedrock' gets a romantic spin here — 'make your bed rock' as in an exciting evening, versus bedrock as the foundational geological layer beneath the earth's surface. The geologist's professional expertise doubles as a cheeky personal recommendation, which is a classic pun structure.",
+    "howToTell": "Raise an eyebrow and deliver 'make your bedrock' with a confident smirk — it's a bold joke and fully committing to it is half the humor.",
+    "perfectFor": [
+      "A geology class when students are asking what geologists actually do",
+      "A speed dating event with a science theme",
+      "A field geology course when the group needs a laugh during a long hike"
+    ]
   },
   {
     "id": "science-046",
@@ -641,7 +956,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Mitosis' sounds almost exactly like 'My toes is!' — the cry of someone whose toe just got stepped on. Mitosis is also the process by which cells divide and replicate, making the cell's pain complaint doubly apt since cells that are sisters came from mitosis in the first place. The setup creates the perfect pain scenario for the pun to land.",
+    "howToTell": "Say 'Mitosis!' with a sharp, injured yelp — really commit to the pain. The funnier the wince, the bigger the laugh.",
+    "perfectFor": [
+      "A biology class teaching the stages of cell division",
+      "A science-themed improv comedy session",
+      "Any moment when someone actually steps on your toe and you're in a science classroom"
+    ]
   },
   {
     "id": "science-047",
@@ -655,7 +977,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Full of hot air' means someone who talks a lot without saying anything meaningful — a classic insult — but balloons are literally filled with air (or heated air in hot air balloons). The physics of balloon inflation maps perfectly onto the expression for empty boastfulness.",
+    "howToTell": "Shake your head disapprovingly when you say 'full of hot air' — like the balloon has disappointed you personally with its inflated sense of self.",
+    "perfectFor": [
+      "A physics class discussing gas properties, pressure, and buoyancy",
+      "A birthday party where someone is blowing up balloons",
+      "When someone at work is clearly talking a lot but saying nothing"
+    ]
   },
   {
     "id": "science-048",
@@ -669,7 +998,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Pyrite is famously nicknamed 'fool's gold' because it looks like gold and has tricked many prospectors — so gold calling pyrite 'a fool's errand' is the real thing insulting the imposter. 'Fool's errand' (a pointless task) also echoes 'fool's gold,' making the insult a direct reference to pyrite's notorious reputation.",
+    "howToTell": "Have gold deliver the line with aristocratic disdain — it has every right to be smug about being the real thing.",
+    "perfectFor": [
+      "A geology or mineralogy class distinguishing fool's gold from actual gold",
+      "A gold rush history lesson",
+      "A mining museum visit or prospecting trip"
+    ]
   },
   {
     "id": "science-049",
@@ -683,7 +1019,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Argon is a noble gas on the periodic table, and 'argon' sounds exactly like 'are gone' — so the noble gas's friends have literally argon (gone away). Noble gases are already famously unreactive and isolated, which makes the loneliness of this gas feel scientifically true and emotionally devastating.",
+    "howToTell": "Deliver 'all its friends argon' with genuine melancholy — give the noble gas some sympathy. It's alone by nature and now by circumstance.",
+    "perfectFor": [
+      "A chemistry class covering the noble gases and Group 18 of the periodic table",
+      "Saying goodbye to someone leaving a job or moving away",
+      "A chemistry-themed going-away party"
+    ]
   },
   {
     "id": "science-050",
@@ -697,7 +1040,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-13",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Nep-tunes' smashes Neptune — the eighth planet — with 'tunes,' the casual word for music tracks. The joke works because Neptune is the planet furthest from the sun in our current classification, and imagining it as the planets' DJ or playlist curator is both absurd and charming.",
+    "howToTell": "Say 'Nep-tunes!' with the energy of someone excitedly recommending a playlist — like you've personally curated the perfect interplanetary music library.",
+    "perfectFor": [
+      "A solar system lesson when covering the outer planets",
+      "A space-themed playlist event or party",
+      "A planetarium show when Neptune comes up in the tour"
+    ]
   },
   {
     "id": "science-051",
@@ -711,7 +1061,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A buffer solution in chemistry resists changes in pH — it stabilizes acids and bases, essentially 'toughening up' a solution. The gym-going acid wants to become a buffer, which is both the chemistry definition AND 'buffer' as in getting more muscular and tough. The acid has ambitions and a solid training plan.",
+    "howToTell": "Say 'buffer solution' with the determined nod of someone who has been going to the gym consistently for three months and is seeing results.",
+    "perfectFor": [
+      "A chemistry class teaching acid-base chemistry and buffer solutions",
+      "A gym conversation with someone who also happens to be a chemistry teacher",
+      "A biochemistry study group that needs an energy break"
+    ]
   },
   {
     "id": "science-052",
@@ -725,7 +1082,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Saturn is famous for its spectacular ring system — so when Mars asks Saturn to 'give me a ring,' the classic 'call me sometime' phrase becomes a request for one of Saturn's actual planetary rings. The joke makes Saturn sound like a generous friend who happens to have rings to spare.",
+    "howToTell": "Deliver 'Give me a ring sometime!' with a casual, friendly vibe — like Mars and Saturn are old acquaintances catching up at a solar system reunion.",
+    "perfectFor": [
+      "A solar system lesson when students are learning about Saturn's rings",
+      "A planetarium show during Saturn's segment",
+      "A space-themed party where someone mentions they love Saturn"
+    ]
   },
   {
     "id": "science-053",
@@ -739,7 +1103,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Conducts itself well' is the phrase adults use for good behavior and proper decorum — but in physics, conductance is the ability of a material to allow electric current to flow through it. Electricity behaving well at school because it's a good conductor is the most logical compliment you can give it.",
+    "howToTell": "Say it with a proud parent's tone — electricity has been a model student and you want the world to know it.",
+    "perfectFor": [
+      "A physics class on electrical circuits, conductors, and insulators",
+      "A school report card conversation with a physics twist",
+      "An electricity safety lesson where you want to keep students engaged"
+    ]
   },
   {
     "id": "science-054",
@@ -753,7 +1124,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Cell-fies' sounds exactly like 'selfies' — the self-portraits everyone takes on their phones — but replaces 'self' with 'cell,' the fundamental unit of life that biologists study. A biologist at the beach photographing sea life cells is not only in their element but apparently also addicted to documenting it.",
+    "howToTell": "Mime holding up a phone for a selfie when you say 'cell-fies' — the physical action makes the pun land even better.",
+    "perfectFor": [
+      "A marine biology field trip to the beach",
+      "A cell biology class when someone brings up social media",
+      "A family beach day when there's a biologist in the group"
+    ]
   },
   {
     "id": "science-055",
@@ -767,7 +1145,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Cheetahs' sounds exactly like 'cheaters' — the animals that are infamous for their speed exist in a jungle where exam integrity is apparently compromised. The King of the Jungle (lion) can't be trusted on tests not because of its own behavior but because the fastest land animal happens to be running rampant and sharing answers.",
+    "howToTell": "Shake your head at the sorry state of jungle academia — the disappointment in cheetah-related academic misconduct sells this one.",
+    "perfectFor": [
+      "A biology class covering African savanna animals",
+      "Exam week when everyone is stressed and needs a laugh",
+      "A wildlife documentary watching session featuring cheetahs"
+    ]
   },
   {
     "id": "science-056",
@@ -781,7 +1166,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "O is oxygen's symbol and Mg is magnesium's — so O + Mg = OMg, which is also the textspeak exclamation 'OMG' (Oh My God). The joke works as a chemistry formula AND as oxygen expressing genuine surprise or excitement at meeting magnesium, which is completely accurate since O and Mg react vigorously when ignited.",
+    "howToTell": "Deliver 'OMg!' with the exact same energy as a teenager reading a shocking text — wide eyes, maybe a hand to the mouth.",
+    "perfectFor": [
+      "A chemistry class covering chemical symbols and the periodic table",
+      "When demonstrating the magnesium ribbon burning reaction in a lab",
+      "A science communication event aimed at making chemistry feel relatable"
+    ]
   },
   {
     "id": "science-057",
@@ -795,7 +1187,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Stars emit light and are literally bright — getting 'brighter' from school means both intellectual improvement and increased luminosity. The joke has the same structure as the sun going to school joke (science-010) but frames the aspiring student as a star rather than our specific sun, which is a slightly more modest astronomical ambition.",
+    "howToTell": "Say 'a little brighter' with a hopeful, encouraging tone — like you believe in this star's educational journey.",
+    "perfectFor": [
+      "An astronomy class covering stellar classification and brightness",
+      "A back-to-school night at an elementary school",
+      "Encouraging a young student who's been working hard"
+    ]
   },
   {
     "id": "science-058",
@@ -809,7 +1208,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Mine-ral' splits 'mineral' into 'mine' (possessive) + 'ral,' making it sound like the rock is territorially claiming the mineral as its own. Rocks are literally composed of minerals, so the possessive declaration is geologically accurate — the mineral really is part of the rock.",
+    "howToTell": "Say 'You're mine-ral!' with playful possessiveness — like the rock is being affectionately jealous about its mineral content.",
+    "perfectFor": [
+      "A geology class on rocks vs. minerals and their composition",
+      "A rock and mineral collection show or gem fair",
+      "A hands-on earth science lab where students identify rock specimens"
+    ]
   },
   {
     "id": "science-059",
@@ -823,7 +1229,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Chemical bonding — the process by which atoms and molecules form connections — is the chemistry term hiding inside 'bond with the other side.' The classic 'why did X cross the road' format primes you for a punchline about destination, and 'bond' delivers both the social desire to connect and the molecular chemistry definition simultaneously.",
+    "howToTell": "Play the setup completely straight in the classic 'why did X cross the road' voice — the familiarity of the format is what makes the chemistry punchline land.",
+    "perfectFor": [
+      "A chemistry class introducing chemical bonding and molecular structure",
+      "A science fair opening ceremony when the host needs a quick warm-up",
+      "Teaching kids the difference between atoms and molecules"
+    ]
   },
   {
     "id": "science-060",
@@ -837,7 +1250,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Experi-mints' is a perfect portmanteau of 'experiments' and 'mints' — the scientist's breath freshener is also their professional identity. The joke makes scientific experimentation sound delicious and minty, which is a surprisingly pleasing combo. The two words share enough syllables that the swap is smooth and satisfying.",
+    "howToTell": "Offer an imaginary mint to whoever you're telling it to when you say 'experi-mints' — the physical gesture makes the pun land with extra flair.",
+    "perfectFor": [
+      "A science lab class opener to get students in the right headspace",
+      "Handing out mints at a science department event",
+      "A science fair where vendors are giving out candy samples"
+    ]
   },
   {
     "id": "science-061",
@@ -851,7 +1271,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The rocket asking for 'its space' in the breakup context is the personal space plea — but rockets literally operate in space, and once they deploy a satellite, they do separate and need to go their own way. The dynamics of a rocket-satellite deployment are genuinely relatable as a breakup story.",
+    "howToTell": "Have the rocket deliver the breakup line matter-of-factly — like it's been thinking about this for a while and has finally worked up the courage.",
+    "perfectFor": [
+      "A space science class on rocket launches and satellite deployment",
+      "A NASA or space agency themed event",
+      "When someone in your group needs more personal space and you want to lighten the mood"
+    ]
   },
   {
     "id": "science-062",
@@ -865,7 +1292,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'The mitochondria is the powerhouse of the cell' is perhaps the most meme'd biology fact of all time — virtually everyone who has taken a middle school science class has this drilled into their memory. The joke leans into that shared knowledge by having the mitochondria announce itself with the pride of something that knows it's famous.",
+    "howToTell": "Have the mitochondria deliver the line like a celebrity making an entrance — chest out, confident, fully aware of its own importance.",
+    "perfectFor": [
+      "A biology class covering cellular organelles",
+      "Any gathering of people who remember middle school science class",
+      "A biology meme fan who will immediately recognize the reference"
+    ]
   },
   {
     "id": "science-063",
@@ -879,7 +1313,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Bushed' is British and Australian slang for exhausted — totally worn out — but a botanist working with plants would literally be surrounded by bushes all day. The botanist's burnout complaint uses the exact vocabulary of her daily work environment, which is a tidy little pun.",
+    "howToTell": "Deliver 'bushed' with genuine exhaustion — slump your shoulders a little. The botanist is done and she needs everyone to know it.",
+    "perfectFor": [
+      "A botany or plant biology class when students look tired",
+      "A garden center or nursery where the staff looks run down",
+      "A horticulture program icebreaker"
+    ]
   },
   {
     "id": "science-064",
@@ -893,7 +1334,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'I've got my eye on you' is the classic flirtatious or suspicious phrase — and swapping 'eye' for 'ion' (a charged atom that has gained or lost electrons) turns a surveillance statement into a chemistry flirtation. Ions are actually attracted to oppositely charged ions, so the romantic subtext is chemically valid.",
+    "howToTell": "Deliver 'I've got my ion you' with a sly, meaningful look — like the ion has been paying close attention and wants the other ion to know it.",
+    "perfectFor": [
+      "A chemistry class covering ions, ionic bonds, and electrolytes",
+      "A Valentine's Day science card or message",
+      "A chemistry lab when two students are clearly flirting and you need to acknowledge it cleverly"
+    ]
   },
   {
     "id": "science-065",
@@ -907,7 +1355,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Being 'the center of attention' is what popular people crave — and the sun is literally the gravitational center of the solar system, with everything else orbiting around it. The sun's popularity is completely justified by its physical position, which makes it both astronomically correct and socially on point.",
+    "howToTell": "Shrug as you say it — like the sun's popularity is just an unavoidable astronomical fact that everyone has to deal with.",
+    "perfectFor": [
+      "A solar system lesson on heliocentric models",
+      "When someone is being the center of attention and you want a subtle comment",
+      "A planetarium's introduction to the solar system tour"
+    ]
   },
   {
     "id": "science-066",
@@ -921,7 +1376,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A 'molar solution' in chemistry refers to concentration (one mole of solute per liter of solvent) — and a 'molar' is also the name for your large back teeth. One molar (tooth) in a solution (glass of water) becomes a perfectly valid chemistry measurement term. This is top-tier science wordplay.",
+    "howToTell": "Say 'one molar solution' like you're reading directly from a chemistry textbook — the clinical precision of the delivery is what makes it funny.",
+    "perfectFor": [
+      "A chemistry class on concentration, molarity, and solution chemistry",
+      "A dentist's waiting room with a chemistry teacher present",
+      "A science trivia night when the chemistry round comes up"
+    ]
   },
   {
     "id": "science-067",
@@ -935,7 +1397,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Took for granted' is the classic relationship complaint about being underappreciated, and 'granite' is one of the most common igneous rocks that geologists work with constantly. The husband's failure to appreciate the geologist uses the exact rock type she probably spends her career examining, which is a perfect contextual pun.",
+    "howToTell": "Deliver the punchline with sympathetic head-shaking — the geologist deserved better and geology puns deserve more credit.",
+    "perfectFor": [
+      "A geology field trip when the group needs a laugh",
+      "A talk about geology careers when someone asks if geologists have interesting lives",
+      "A kitchen renovation discussion where granite countertops come up"
+    ]
   },
   {
     "id": "science-068",
@@ -949,7 +1418,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "In physics, potential energy and kinetic energy are paired concepts — potential energy is stored energy, kinetic energy is energy in motion. A student who has 'a lot of potential but no energy' is being criticized in the exact language of classical mechanics, and the teacher's complaint is both an academic evaluation and a physics lesson simultaneously.",
+    "howToTell": "Deliver it with the weary but fond tone of a teacher who has been waiting to use this line all year — it's disappointed but invested.",
+    "perfectFor": [
+      "A physics class covering potential vs. kinetic energy",
+      "A parent-teacher conference with a physics teacher who loves puns",
+      "Motivating a student who clearly has talent but isn't applying themselves"
+    ]
   },
   {
     "id": "science-069",
@@ -963,7 +1439,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Heisenberg's Uncertainty Principle states that you cannot simultaneously know both the exact position and the exact momentum of a particle — and this joke maps that quantum limitation directly onto the inability to have both location and direction (momentum) in a relationship. It's one of the most elegant science puns because the physics analogy is actually accurate.",
+    "howToTell": "Pause between 'find the position' and 'can't find the momentum' to let the Heisenberg reference dawn on anyone in the audience who recognizes it.",
+    "perfectFor": [
+      "A quantum mechanics or modern physics class introducing Heisenberg's Uncertainty Principle",
+      "A physics department social event",
+      "Impressing someone on a date by proving you understand quantum mechanics"
+    ]
   },
   {
     "id": "science-070",
@@ -977,7 +1460,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Thunderwear' is a spot-on phonetic swap for 'underwear' — and thunder is what clouds are most associated with during storms. The image of clouds having undergarments made of literal thunder is both absurd and somehow completely natural-sounding. It's a kids' joke that also makes adults groan with pleasure.",
+    "howToTell": "Say 'Thunderwear!' with the confidence of a meteorologist who has been sitting on this joke for fifteen years.",
+    "perfectFor": [
+      "A weather unit in elementary school science covering storms and thunder",
+      "A rainy day indoor recess when kids need cheering up",
+      "A storm chaser meet-up or weather enthusiast gathering"
+    ]
   },
   {
     "id": "science-071",
@@ -991,7 +1481,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is the classic space/personal-space pun — astronauts literally go to space for their job, so 'needing more space' is both a relationship need and a professional calling. The joke works because the excuse is completely plausible for an astronaut and completely unacceptable as a breakup reason simultaneously.",
+    "howToTell": "Shrug as you deliver the punchline — the astronaut's reason is so obvious to them that they're a bit baffled by the girlfriend's confusion.",
+    "perfectFor": [
+      "A space exploration unit or NASA-themed class",
+      "A conversation where someone mentions they're an astronaut or aerospace engineer",
+      "Any breakup discussion where you want to inject some levity"
+    ]
   },
   {
     "id": "science-072",
@@ -1002,10 +1499,18 @@
     "tags": [
       "physics",
       "puns"
+      
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is a delightful variation on the photon airport joke — the hotel bellhop version adds a new setting where 'traveling light' (packing minimally) and traveling as a photon (a particle of light) collide. The photon politely declining assistance is a charming scenario that works because it's self-consistent: a photon really wouldn't have bags.",
+    "howToTell": "Have the photon deliver the line pleasantly, like a very well-mannered guest who doesn't want to be a bother to the bellhop.",
+    "perfectFor": [
+      "A physics class on the dual nature of light",
+      "A hotel stay conversation when someone packs extremely light",
+      "An optics or electromagnetism lecture that needs a mid-class laugh"
+    ]
   },
   {
     "id": "science-073",
@@ -1019,7 +1524,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Feeling spacey' means distracted, unfocused, or out of it — and planets live in space, so feeling spacey is their default condition. The doctor visit premise sets up a sympathetic scenario before the punchline deflates it with the most astronomically obvious self-description a planet could give.",
+    "howToTell": "Deliver 'a little spacey' with a tired, slightly dazed quality — channel the planet's genuine disorientation.",
+    "perfectFor": [
+      "A solar system unit in an elementary or middle school science class",
+      "When someone seems distracted during a study session",
+      "A space-themed event where you need a quick crowd warm-up"
+    ]
   },
   {
     "id": "science-074",
@@ -1033,7 +1545,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "AU is the chemical symbol for gold (from the Latin 'aurum'), and 'AU, get outta here!' sounds exactly like the exclamation 'Oh, get outta here!' — the slang expression of disbelief or friendly dismissal. Silver using gold's own chemical symbol as an exclamation is delightfully rude in the best way.",
+    "howToTell": "Have silver deliver 'AU, get outta here!' with the energy of someone who just heard something unbelievable — wide eyes, a little incredulous laugh.",
+    "perfectFor": [
+      "A chemistry class on precious metals and their chemical symbols",
+      "A jewelry store conversation when someone knows their elements",
+      "A periodic table review game where Au comes up"
+    ]
   },
   {
     "id": "science-075",
@@ -1047,7 +1566,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Problems with gravity' means both the physics textbook problems about gravitational force (which fill every chapter) and having difficulty with gravity as a concept — or emotionally, having 'problems' (issues). The book has been dragged down by gravity both literally and figuratively.",
+    "howToTell": "Say it sympathetically, like the physics book has been through a lot — it's heavy, it's full of problems, and gravity isn't making it any easier.",
+    "perfectFor": [
+      "A physics class working through gravitational force problem sets",
+      "When a student is struggling with a heavy textbook and heavy content simultaneously",
+      "An AP Physics review session when everyone needs a breather"
+    ]
   },
   {
     "id": "science-076",
@@ -1061,7 +1587,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "In microbiology, a 'culture' is a colony of bacteria or microorganisms grown in a controlled environment — the lab staple. But 'a man of many cultures' also means someone well-traveled and worldly. A globetrotting microbiologist literally collects cultures from around the world in both senses simultaneously.",
+    "howToTell": "Deliver 'many cultures' with a refined, cosmopolitan air — like you're describing someone genuinely impressive who also happens to maintain Petri dishes from every continent.",
+    "perfectFor": [
+      "A microbiology class introducing bacterial culture techniques",
+      "A conversation about international scientific research collaborations",
+      "A STEM career fair panel when a microbiologist describes their travel for research"
+    ]
   },
   {
     "id": "science-077",
@@ -1075,7 +1608,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Salty' in modern slang means bitter or resentful — so the ocean is mad about something. The reason? The land 'never waves back,' which plays on ocean waves (the physical phenomenon) and waving as a social greeting. The ocean is friendless and snubbed, which explains both its salt content and its mood.",
+    "howToTell": "Deliver it with mock sympathy for the ocean — it's been waving at the land for millions of years and getting nothing back. That would make anyone salty.",
+    "perfectFor": [
+      "A marine science class introducing ocean salinity",
+      "A beach trip when someone tastes the salt water and pulls a face",
+      "When someone in your friend group is being noticeably salty and you need a gentle roast"
+    ]
   },
   {
     "id": "science-078",
@@ -1089,7 +1629,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Fission' — the nuclear process of splitting atoms that powers nuclear reactors — sounds like 'feeling' in 'I feel you,' the slang expression of empathy. Uranium-238 empathizing with uranium-235 (the isotope that actually undergoes fission in reactors) is nuclear physics as emotional support, and 'bro' makes it feel like two isotopes having a genuine moment.",
+    "howToTell": "Deliver it with genuine bro energy — like U-238 really gets what U-235 has been going through at the reactor.",
+    "perfectFor": [
+      "A nuclear physics class introducing isotopes and fission reactions",
+      "A documentary watching session about nuclear energy",
+      "A physics department social where nuclear engineers are present"
+    ]
   },
   {
     "id": "science-079",
@@ -1103,7 +1650,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A plant's stem is the main structural support that carries water and nutrients — but STEM (Science, Technology, Engineering, and Math) is also the educational acronym. The plant taking math class to improve its 'stem skills' is simultaneously working on its literal anatomy and its academic credentials.",
+    "howToTell": "Nod approvingly at the plant's initiative — it's taking its STEM education seriously, which deserves respect.",
+    "perfectFor": [
+      "A biology class covering plant anatomy and vascular systems",
+      "A STEM program promotional event",
+      "An educational fair where science and math curricula are being highlighted"
+    ]
   },
   {
     "id": "science-080",
@@ -1117,7 +1671,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Mole Day is an actual holiday celebrated by chemistry enthusiasts on October 23 (10/23), referencing Avogadro's number (6.022 × 10²³) — a mole is the unit chemists use to count atoms and molecules. It's both a real celebration and a pun on 'mole' the animal holiday, making it insider knowledge that chemistry students love.",
+    "howToTell": "Announce 'Mole Day!' with the excitement of someone who has October 23rd marked on their calendar in red.",
+    "perfectFor": [
+      "A chemistry class during the stoichiometry and the mole unit chapter",
+      "October 23rd, obviously",
+      "A chemistry club gathering where everyone is already aware of Mole Day's significance"
+    ]
   },
   {
     "id": "science-081",
@@ -1131,7 +1692,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Wind turbines have fan-like blades that spin to generate electricity — they're literally giant fans. But 'having a lot of fans' also means being popular with supporters and admirers. Wind power's popularity is confirmed by both its physical design (fans) and its growing fanbase (supporters of renewable energy).",
+    "howToTell": "Say it with the enthusiasm of a renewable energy advocate who also just realized they made a pun — equal parts proud and surprised.",
+    "perfectFor": [
+      "A physics or environmental science class on renewable energy sources",
+      "Driving past a wind farm and needing to fill the silence",
+      "A climate or sustainability conversation that needs a light moment"
+    ]
   },
   {
     "id": "science-082",
@@ -1145,7 +1713,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The pistil is the female reproductive part of a flower — and its topmost part is literally called the 'style.' So the stamen complimenting the pistil's 'style' is both a genuine fashion compliment and an anatomically accurate description of part of the pistil's structure. It's a very polite botanical flirtation.",
+    "howToTell": "Have the stamen deliver the compliment with genuine admiration — it's a sincere compliment that happens to also be a botany lesson.",
+    "perfectFor": [
+      "A biology class on plant reproduction and flower anatomy",
+      "A botany walk or garden tour where flower parts are being identified",
+      "A gardening club meeting that needs an icebreaker"
+    ]
   },
   {
     "id": "science-083",
@@ -1159,7 +1734,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Cold feet' means hesitation or reluctance to commit — usually said about someone backing out of a decision — and glaciers literally have cold feet because they are made of ice and move across frozen ground. A glacier getting cold feet is the most geologically appropriate reason for slow movement anyone could give.",
+    "howToTell": "Shrug as if the glacier's cold feet are both understandable and a bit frustrating — it's been moving this slowly for 10,000 years and still can't commit.",
+    "perfectFor": [
+      "An earth science or climate class covering glaciers and glacial movement",
+      "A hiking trip to a glaciated landscape",
+      "When someone is stalling on a decision and you want to gently roast them"
+    ]
   },
   {
     "id": "science-084",
@@ -1173,7 +1755,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Sub-atomic' refers to particles smaller than an atom — quarks, electrons, protons — but it also sounds like 'submarine sandwich,' the popular lunch item. The chemist ordered a submarine sandwich and described it in the only vocabulary they know: particle physics. The most relatable lunch described in the least relatable way.",
+    "howToTell": "Say 'sub-atomic sandwich' with the nonchalant tone of someone reading a menu — like this is a perfectly normal lunch order at the campus deli.",
+    "perfectFor": [
+      "A chemistry or physics class covering subatomic particles",
+      "A lunch break at a science conference",
+      "Visiting a deli with a physics professor who can't turn off their brain"
+    ]
   },
   {
     "id": "science-085",
@@ -1187,7 +1776,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The full moon is a real lunar phase where the moon appears completely illuminated — but 'being full' is also why you'd skip dinner after a big meal. The moon has a perfectly valid astronomical excuse for not eating, and it lands because the lunar phase name and the dinner excuse are word-for-word identical.",
+    "howToTell": "Pat your stomach knowingly when you say 'it was full' — really commit to the moon's post-meal satisfaction.",
+    "perfectFor": [
+      "A lunar phases lesson in an astronomy or earth science class",
+      "A full moon night when someone spots the moon and you need a quick joke",
+      "A space-themed dinner party when you're discussing the night sky"
+    ]
   },
   {
     "id": "science-086",
@@ -1201,7 +1797,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is a variation on the 'what do planets listen to' joke (science-050), here framing planets as performers singing their own music rather than listeners. Neptune as 'Nep-tunes' works because Neptune is the outermost planet and therefore the most celestially remote musician, giving the interplanetary music scene an intriguing headliner.",
+    "howToTell": "Sing 'Nep-tunes!' slightly off-key for maximum commitment to the premise — the planets are amateur musicians and we should embrace that.",
+    "perfectFor": [
+      "A planetary science lesson covering Neptune's discovery and features",
+      "A kids' music class with a space theme",
+      "A carpool with science-curious kids who like space and songs"
+    ]
   },
   {
     "id": "science-087",
@@ -1215,7 +1818,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Black holes are regions of spacetime where gravity is so intense that nothing — not even light — can escape, which means they literally 'suck in' all surrounding matter. But 'sucks the life out of everything' is also what you say about a relentlessly negative, energy-draining person. The black hole's personality is completely consistent with its astrophysics.",
+    "howToTell": "Deliver 'sucks the life out of everything' with the exhausted sigh of someone who has just spent too long near the event horizon.",
+    "perfectFor": [
+      "An astrophysics class introducing black holes and event horizons",
+      "A black hole documentary viewing party",
+      "When someone at work is being a total energy vampire and you want an astronomical metaphor"
+    ]
   },
   {
     "id": "science-088",
@@ -1229,7 +1839,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Gregor Mendel was the 19th-century monk who founded genetics by experimenting with pea plants — so greeting his plants with 'What's up, bud?' is both a casual hello AND a botany term, since a 'bud' is the part of a plant that develops into a flower. Mendel talking to his plants like old friends is historically plausible and botanically accurate.",
+    "howToTell": "Channel Mendel's warm, monastic calm when delivering 'What's up, bud?' — he genuinely cared about those pea plants.",
+    "perfectFor": [
+      "A genetics class introducing Mendel's experiments and the history of heredity",
+      "A botany or biology class when plant anatomy comes up",
+      "A garden center visit or spring planting session"
+    ]
   },
   {
     "id": "science-089",
@@ -1243,7 +1860,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is the courtroom variation of the atom trust joke, which adds a legal dimension: in court, 'making up' testimony means perjury and lying under oath, which is deeply untrustworthy. Atoms are already compositionally guilty of making up all matter, so their testimony would be inadmissible — and the jury would presumably be made of atoms too.",
+    "howToTell": "Deliver it with the gravity of a legal argument — the atom's credibility is being seriously challenged and you take the matter quite seriously.",
+    "perfectFor": [
+      "A chemistry class reviewing atomic structure with a legal-themed twist",
+      "A mock trial or debate class that could use a science crossover moment",
+      "When someone makes an obvious bluff and you want a scientific burn"
+    ]
   },
   {
     "id": "science-090",
@@ -1257,7 +1881,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Earthquakes are caused by movement along geological faults — the fractures in the Earth's crust — so an earthquake saying 'it's not my fault' is a denial that is literally geologically impossible. The earthquake IS the fault, and its protestation of innocence is the most self-incriminating thing it could possibly say.",
+    "howToTell": "Have the earthquake deliver the line with completely unearned innocence — defensive, confused, maybe a little offended by the accusation.",
+    "perfectFor": [
+      "An earth science class on earthquakes, tectonic plates, and fault lines",
+      "When someone refuses to take responsibility for something obviously their fault",
+      "A California-themed event where earthquakes are a regular part of life"
+    ]
   },
   {
     "id": "science-091",
@@ -1271,7 +1902,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "B-cells are a real type of white blood cell (B lymphocytes) that produce antibodies — they're a key part of the immune system. But 'got a B' also means receiving a B grade on an exam, which isn't failing but also isn't great. The white blood cell's immune biology and its academic performance collapse into a single grade.",
+    "howToTell": "Wince slightly at 'B-cell' — it's not failing exactly, but the white blood cell clearly expected better of itself.",
+    "perfectFor": [
+      "A biology class on the immune system, white blood cells, and lymphocytes",
+      "A medical school study group that needs a study break",
+      "A conversation about report cards with a science-teacher parent"
+    ]
   },
   {
     "id": "science-092",
@@ -1285,7 +1923,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Uplifting' means emotionally inspiring and positive — but in the context of weightlessness, being 'uplifted' is also physically literal: you float upward when gravity isn't pulling you down. The astronaut's emotional response is described in terms that double as a description of what weightlessness physically does to a body.",
+    "howToTell": "Spread your arms slightly as you say 'uplifting' — mime floating just a little to reinforce the physical meaning alongside the emotional one.",
+    "perfectFor": [
+      "A space science class covering microgravity and life aboard the ISS",
+      "After watching footage of astronauts floating in space",
+      "A motivational talk at a STEM event where you want a space metaphor"
+    ]
   },
   {
     "id": "science-093",
@@ -1299,7 +1944,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Another angle on the nuclear physicist's favorite meal, this time asking more broadly about physicists in general — fission chips (nuclear fission + fish and chips) is the perfect meal for someone who thinks about splitting atoms all day. The British comfort food getting a nuclear physics rebrand is a satisfying swap.",
+    "howToTell": "Answer it like you're recommending a genuinely great restaurant: 'Oh, definitely fission chips — have you tried them?'",
+    "perfectFor": [
+      "A physics class covering nuclear fission and energy release",
+      "A physics department potluck or lunch event",
+      "Watching a documentary about nuclear power and someone asks what to order for delivery"
+    ]
   },
   {
     "id": "science-094",
@@ -1313,7 +1965,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Cell-fies' swaps the 'self' in 'selfies' for 'cell' — the fundamental unit of life that biologists study under microscopes all day. The joke paints biologists as social media influencers who document their cell specimens the way others document their faces, which is actually a pretty accurate description of modern science communication.",
+    "howToTell": "Mime holding up a phone toward a microscope when you say 'Cell-fies' — really commit to the biologist influencer persona.",
+    "perfectFor": [
+      "A biology class covering cell biology and microscopy",
+      "A science communication or STEM outreach discussion",
+      "A lab event where someone is actually photographing specimens"
+    ]
   },
   {
     "id": "science-095",
@@ -1327,7 +1986,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "When meteors enter Earth's atmosphere and burn brightly, we call them 'shooting stars' — so a meteor literally becoming a star in the sky is its actual scientific behavior. A meteor heading to Hollywood for stardom is a space object chasing the celebrity version of what it naturally does: streak across the sky and be seen by everyone.",
+    "howToTell": "Let the meteor have its dreams — deliver 'wanted to be a star' with genuine encouragement, like you're rooting for it to make it.",
+    "perfectFor": [
+      "An astronomy class on meteors, meteorites, and meteor showers",
+      "A meteor shower viewing night when people are watching the sky",
+      "A conversation with someone who has Hollywood aspirations"
+    ]
   },
   {
     "id": "science-096",
@@ -1341,7 +2007,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Thorium (Th) is a radioactive element named after Thor, the Norse god of thunder — so the question is a trivia setup where the punchline is genuinely factual. The joke works best with people who don't immediately know that thorium exists, giving it a satisfying 'wait, really?' quality.",
+    "howToTell": "Pause after the setup as if this is genuinely a riddle — then drop 'Thorium!' with the confidence of someone who definitely knows their periodic table.",
+    "perfectFor": [
+      "A chemistry class on the actinide series and radioactive elements",
+      "A Marvel movie watch party where Thor is featured",
+      "A Norse mythology discussion where someone brings up modern references"
+    ]
   },
   {
     "id": "science-097",
@@ -1355,7 +2028,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Electrons carry a negative electrical charge — that's just fundamental physics — and 'being negative' is also the party-ruining personality trait of a pessimist or complainer. The electron's social exclusion is entirely self-inflicted by its own atomic nature, and it probably has a lot of feelings about this.",
+    "howToTell": "Shake your head at the electrons with a mix of sympathy and exasperation — they really can't help it, but it doesn't make them easier to be around.",
+    "perfectFor": [
+      "A physics class on subatomic particles and electrical charges",
+      "When someone in the group is being conspicuously negative and you want to call it out scientifically",
+      "A chemistry or physics department holiday party invitation list discussion"
+    ]
   },
   {
     "id": "science-098",
@@ -1369,7 +2049,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Magnetic attraction is a literal electromagnetic force — opposite poles are physically drawn together. On Valentine's Day, 'I find you very attractive' is the most romantic thing you can say, and magnets aren't being metaphorical at all. The joke's charm is that the magnet's declaration is 100% sincere and 100% scientifically accurate.",
+    "howToTell": "Deliver the line with all the tender sincerity of a magnet genuinely expressing its electromagnetic feelings — this is a real confession.",
+    "perfectFor": [
+      "A physics class on magnetism and magnetic force on Valentine's Day",
+      "A Valentine's card for a physics teacher or science-loving partner",
+      "A science-themed Valentine's Day party"
+    ]
   },
   {
     "id": "science-099",
@@ -1383,7 +2070,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Rocky' means uneven, bumpy, or unstable — which is what you'd say about a rough comedy performance. But geologists spend their careers studying rocks, so their jokes being 'rocky' is both a critique of their humor AND a description of their entire professional expertise. They're experts in rocks; it follows that their jokes would be too.",
+    "howToTell": "Wince apologetically as you say 'too rocky' — you're criticizing geologists but you respect them enormously as scientists.",
+    "perfectFor": [
+      "A geology class when a student attempts a geology pun",
+      "A geology department talent show or social event",
+      "Any situation where a geologist attempts standup comedy"
+    ]
   },
   {
     "id": "science-100",
@@ -1397,7 +2091,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Gene' is both a common name and the biological unit of heredity — the segment of DNA that codes for traits. 'Jean' sounds identical to 'Gene' but is the feminine spelling, so the twins have names that are homophones of each other AND the biologist parents have named their children after the literal building blocks of life. It's affectionate, nerdy, and exactly what a biologist couple would do.",
+    "howToTell": "Announce 'Gene and Jean!' with the delighted pride of parents who just made the most appropriate naming decision in genetic history.",
+    "perfectFor": [
+      "A genetics class introducing genes and heredity",
+      "A baby shower for biologist or genetics researcher parents",
+      "A conversation about unusual baby names with science-minded people"
+    ]
   },
   {
     "id": "science-101",
@@ -1412,7 +2113,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "why-cant-astronauts-eat-ice-pops",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is a riff on the famous 'Alien' tagline — 'In space, no one can hear you scream' — remixed into the mundane impossibility of hearing an ice cream truck in the vacuum of space. Sound can't travel in a vacuum, so astronauts genuinely can't hear the truck coming, which is both scientifically accurate and a brilliantly absurd excuse for missing dessert.",
+    "howToTell": "Deliver the punchline in the slow, ominous tone of a horror movie trailer — then let the absurdity of ice cream trucks in space sink in.",
+    "perfectFor": [
+      "A physics class on sound waves and the properties of a vacuum",
+      "A movie night watching the Alien franchise",
+      "A summer ice cream outing with kids who love space facts"
+    ]
   },
   {
     "id": "science-102",
@@ -1425,7 +2133,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "i-just-discovered-that-albert-einstein-was-a-real-person",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The joke plays on the double meaning of 'theoretical' — Einstein really was a theoretical physicist (as opposed to an experimental one), but the punchline pretends the speaker thought 'theoretical physicist' meant Einstein himself was fictional or hypothetical. The confusion between his job title and his existence is wonderfully dumb and works best on quick re-read.",
+    "howToTell": "Deliver the revelation with genuine shock — you truly cannot believe Einstein was real. The more sincere the confusion, the better the payoff.",
+    "perfectFor": [
+      "A physics class introducing Einstein and his contributions to modern physics",
+      "A science history lecture covering the theory of relativity",
+      "A trivia night with a physics round when Einstein comes up"
+    ]
   },
   {
     "id": "science-103",
@@ -1439,6 +2154,13 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "why-dont-astronaunts-listen-to-gangster-rap",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "'Zero G' (zero gravity) is the condition of weightlessness in space — and 'G' in gangster rap culture means gangster, so 'zero Gs' means both no gravity AND no gangsters. The pun works across physics and hip-hop slang simultaneously, making it a crossover joke that rewards listeners from both worlds.",
+    "howToTell": "Drop 'zero gees' with the casual authority of someone who lives in both the physics lab and the hip-hop world and sees no contradiction.",
+    "perfectFor": [
+      "A physics class covering microgravity and weightlessness in orbit",
+      "A space camp session when the mood needs lifting",
+      "Any conversation where someone is playing gangster rap and someone else mentions space"
+    ]
   }
 ]

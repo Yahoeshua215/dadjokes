@@ -12,7 +12,14 @@
     "rating": 5,
     "dateAdded": "2026-02-01",
     "ageRange": "teens",
-    "canonicalSlug": "why-did-the-golfer-bring-two-pairs-of-pants"
+    "canonicalSlug": "why-did-the-golfer-bring-two-pairs-of-pants",
+    "whyFunny": "The joke pivots on \"hole in one\" — one of golf's greatest achievements that also describes a hole appearing in a single piece of clothing. The setup leads you to think about golf strategy, then pulls the rug with a laundry problem. The fact that golfers actually do pack extra gear makes the logic feel almost reasonable, which is what sells the twist.",
+    "howToTell": "Say \"in case he got a hole in one\" slowly and matter-of-factly, like you're offering sincere packing advice — the comedy lives in the deadpan delivery.",
+    "perfectFor": [
+      "Standing at the first tee while someone rummages through their golf bag",
+      "At a pro shop when someone's debating which pants to buy",
+      "Watching the Masters on TV when someone aces a par-3"
+    ]
   },
   {
     "id": "sports-002",
@@ -26,7 +33,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"The ball\" does double duty here — Cinderella famously fled the royal ball at midnight, and a soccer ball is exactly what you can't run from as a player. The mismatch of a fairy tale character being evaluated by athletic standards is its own absurd delight.",
+    "howToTell": "Pause right before \"the ball\" to let them feel the buildup, then drop it flat. No winking — the word does the work on its own.",
+    "perfectFor": [
+      "At a kids' soccer practice when a fairy tale movie just came out",
+      "During a princess-themed birthday party that somehow includes a soccer net",
+      "When a teammate keeps shying away from shooting chances in a rec league game"
+    ]
   },
   {
     "id": "sports-003",
@@ -40,7 +54,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-02",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Catch you later\" is the most natural goodbye phrase imaginable, yet when a glove says it to a ball, the word \"catch\" suddenly means something entirely literal and physical. The joke works because it gives inanimate sports equipment the most appropriate send-off line possible.",
+    "howToTell": "Deliver it casually, like the glove is just heading out — give a little wave if you're feeling committed.",
+    "perfectFor": [
+      "Wrapping up a Little League practice when everyone's packing their gear",
+      "At the end of a backyard catch session when it's time for dinner",
+      "During a baseball card trade when two kids are saying goodbye"
+    ]
   },
   {
     "id": "sports-004",
@@ -55,7 +76,14 @@
     "rating": 5,
     "dateAdded": "2026-02-02",
     "ageRange": "teens",
-    "canonicalSlug": "why-did-the-bicycle-fall-over"
+    "canonicalSlug": "why-did-the-bicycle-fall-over",
+    "whyFunny": "\"Two-tired\" is a perfect phonetic collision — it sounds exactly like \"too tired\" while also being a literal description of a bicycle's anatomy. The joke works on two tracks simultaneously: physical exhaustion and basic bike geometry, making it feel inevitable once you hear it.",
+    "howToTell": "Slump your shoulders a little as you say \"two-tired,\" leaning into the exhaustion angle — then let the double meaning register on their face.",
+    "perfectFor": [
+      "At the end of a long group bike ride when everyone's legs are shot",
+      "In a bike shop when someone wheels in a flat-tired bicycle",
+      "Before the start of a charity cycling event to loosen up the crowd"
+    ]
   },
   {
     "id": "sports-005",
@@ -69,7 +97,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-03",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Match\" is doing two jobs at once — it's both the British/international word for a soccer game and the small flammable stick used to light things. The setup about lighting up a stadium primes you for a technical answer about floodlights, making \"a soccer match\" feel both obvious and surprising.",
+    "howToTell": "Ask the setup with genuine curiosity, as if you're stumped by stadium lighting infrastructure — then deliver \"a soccer match\" with a shrug.",
+    "perfectFor": [
+      "At a World Cup watch party when the stadium lights flick on during warmups",
+      "While lighting the grill at a soccer-themed tailgate",
+      "When a non-soccer fan asks why the game is called a \"match\""
+    ]
   },
   {
     "id": "sports-006",
@@ -83,7 +118,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-03",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Dribbling\" is the perfect crossover word — it describes both bouncing a basketball and the act of saliva escaping one's mouth. The absurd image of NBA players as messy eaters because of their sport's core skill is what makes it stick.",
+    "howToTell": "Shake your head sympathetically, like messy eating is just an unfortunate side effect of their training.",
+    "perfectFor": [
+      "During halftime snacks when someone spills their food watching an NBA game",
+      "Teaching young kids to dribble who are also notoriously messy eaters",
+      "At a sports bar when someone's eating wings while watching a game"
+    ]
   },
   {
     "id": "sports-007",
@@ -97,7 +139,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-04",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Root\" is the whole game here — cheerleaders root for their team as their literal job description, and root beer is the drink that carries their favorite activity right in its name. It's the most on-brand beverage choice imaginable once you see the connection.",
+    "howToTell": "Say \"Root beer!\" with full pep rally energy — channel the spirit of someone who is genuinely rooting for a cold drink.",
+    "perfectFor": [
+      "At a pep rally while someone's handing out sodas",
+      "Watching a game with cheerleaders on the sideline",
+      "At a concession stand when someone orders a root beer next to a cheerleader"
+    ]
   },
   {
     "id": "sports-008",
@@ -111,7 +160,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-04",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Quarterback\" splits perfectly into \"quarter\" (25 cents) and \"back\" (returned money), making it a legitimate banking transaction while also being the most important player on the field. The mundane errand of going to the bank becomes a hilarious football metaphor because the word works both ways.",
+    "howToTell": "Play it completely straight — say it like the coach had a totally normal reason to visit the bank, and let the football connection land on them.",
+    "perfectFor": [
+      "Super Bowl party when the quarterback is dominating and someone mentions money",
+      "Tailgate conversation with a finance-minded football fan",
+      "Fantasy football draft day when someone's debating whether to pick a QB"
+    ]
   },
   {
     "id": "sports-009",
@@ -125,7 +181,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The entire comedic premise is logical demolition — a boomerang's one and only defining characteristic is that it returns to you. Strip that away and you haven't just failed; you've invented an object that already exists and is significantly less impressive. The answer \"a stick\" is so anticlimactic it becomes perfect.",
+    "howToTell": "Deadpan is everything here. Say \"A stick\" with total confidence, like you've just solved a great mystery.",
+    "perfectFor": [
+      "At a park when someone tosses a frisbee that doesn't come back",
+      "On a camping trip when someone whittles a stick and pretends it's a boomerang",
+      "When a kid throws something and runs after it instead of waiting for it to return"
+    ]
   },
   {
     "id": "sports-010",
@@ -139,7 +202,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-05",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Higher level\" plays against the physical image of a ladder — you'd only need a ladder if \"higher level\" were literal rather than figurative. The joke reframes competitive rankings as a height problem, which gives the struggling player a very DIY solution to being outclassed.",
+    "howToTell": "Say \"higher level\" with a slight upward hand gesture, then let the ladder logic click into place.",
+    "perfectFor": [
+      "At a tennis tournament when someone just lost badly to a top seed",
+      "When a club player signs up for a division above their skill level",
+      "Watching Wimbledon when the commentators talk about the rankings"
+    ]
   },
   {
     "id": "sports-011",
@@ -153,7 +223,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Ball hog\" is already a real basketball insult for players who refuse to pass, and a hog is literally another word for a pig — so the joke collapses animal taxonomy and sports criticism into one air-tight label. The fact that it's also an accurate description of how pigs behave makes it feel inevitable.",
+    "howToTell": "Say it confidently and immediately, as if the connection is too obvious to delay.",
+    "perfectFor": [
+      "When a player on the court keeps driving instead of passing",
+      "During an NBA game when a star refuses to distribute the ball",
+      "At youth basketball when a kid has ball hog tendencies and it's time for a light lesson"
+    ]
   },
   {
     "id": "sports-012",
@@ -167,7 +244,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Fans\" does the elegant double shift — cheering spectators who pack the stands and the mechanical fans that circulate air. The setup about a stadium being \"cool\" primes you for a temperature explanation, but it turns out the crowds were the answer all along, in both senses.",
+    "howToTell": "Deliver \"because it's full of fans\" with a knowing smile, like you've just revealed a deep architectural secret.",
+    "perfectFor": [
+      "At a hot summer day game when everyone's sweating in the bleachers",
+      "Talking about stadium design with someone who's never been to a ballpark",
+      "During a sell-out game when the energy in the crowd is electric"
+    ]
   },
   {
     "id": "sports-013",
@@ -181,7 +265,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-07",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Outstanding in his field\" is a classic idiom meaning exceptionally talented, but a scarecrow is literally an object that stands out in a farm field — both definitions apply with equal accuracy. The football field adds a third layer: the playing field where you'd actually want to be outstanding.",
+    "howToTell": "Build up the setup with some respect for this scarecrow's career trajectory, then land \"outstanding in his field\" with a slight pause after \"outstanding.\"",
+    "perfectFor": [
+      "At a football tailgate in a stadium parking lot surrounded by farm country",
+      "When a kid's team gets an unlikely star player who nobody expected",
+      "During fall football season when corn fields and football overlap in the same weekend"
+    ]
   },
   {
     "id": "sports-014",
@@ -195,7 +286,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-07",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Ghoulie\" mashes together \"ghoul\" (the spooky creature) and \"goalie\" (the hockey position) into one word that almost sounds like both. The joke earns extra credit for putting a ghost in the most stationary, guardian-like position — which does feel like something a ghost would gravitate toward.",
+    "howToTell": "Say \"Ghoulie!\" with a little spooky wobble in your voice, like a friendly haunting.",
+    "perfectFor": [
+      "At a Halloween hockey game or costume skate night",
+      "When watching a goalie who seems to materialize out of nowhere to stop a shot",
+      "At a kids' hockey camp in October when the holidays start creeping in"
+    ]
   },
   {
     "id": "sports-015",
@@ -209,7 +307,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Same powerful \"hole in one\" pivot as the pants version, but with socks the imagery gets even more specific — a hole in a sock is a mundane wardrobe malfunction everyone has experienced, making it weirdly relatable. The contrast between golf's prestige achievement and a sad holey sock is the engine of the joke.",
+    "howToTell": "Deliver it as practical golf packing advice — serious and matter-of-fact, like you learned this the hard way at Augusta.",
+    "perfectFor": [
+      "At the pro shop when someone's stocking up on gear before a round",
+      "In the locker room before a tournament when someone's rummaging through their bag",
+      "When watching a hole-in-one get celebrated on TV and someone asks what the big deal is"
+    ]
   },
   {
     "id": "sports-016",
@@ -223,7 +328,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Jog your memory\" is such a common expression for recalling something that we've forgotten it contains an actual running speed. A runner who \"jogs their memory\" is doing so both figuratively and at a literal pace — it's the most natural-sounding profession-specific solution.",
+    "howToTell": "Say it casually, like the answer just occurred to you mid-conversation — the understated delivery sells the wordplay best.",
+    "perfectFor": [
+      "At the start of a morning run when someone forgets where they parked",
+      "At a track meet when a runner forgets their race bib number",
+      "During a running club meeting when someone brings up an old route they can't quite remember"
+    ]
   },
   {
     "id": "sports-017",
@@ -237,7 +349,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-09",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The \"backstroke\" in swimming means moving through the water on your back — but combining it with going \"back in time\" creates a literal interpretation where swimming backward through time is the swimmer's preferred method of time travel. It's a silly but internally consistent logic.",
+    "howToTell": "Give a little backstroke arm motion as you deliver the punchline — the physical mime makes the double meaning land faster.",
+    "perfectFor": [
+      "At swim team practice when someone's working on their backstroke technique",
+      "Poolside during a summer Olympics watch party",
+      "At an aquatic center when a kid asks why the backstroke swimmer looks like they're going the wrong way"
+    ]
   },
   {
     "id": "sports-018",
@@ -251,7 +370,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-09",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Tennis-sea\" lands in that sweet spot where \"tennis\" and \"Tennessee\" are close enough to share syllables, while \"sea\" perfectly describes where a fish would play its matches. It's a layered pun — sport name + geography + natural habitat — all crammed into one nonsense word.",
+    "howToTell": "Stretch \"tennis-sea\" out slightly so both halves are audible — rush it and the Tennessee connection gets lost.",
+    "perfectFor": [
+      "At a lake house with a tennis court visible from the dock",
+      "When visiting an aquarium near a tennis club",
+      "During a road trip through Tennessee with someone who loves both tennis and fishing"
+    ]
   },
   {
     "id": "sports-019",
@@ -265,7 +391,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Use their heads\" is the idiom for thinking smartly, but in soccer, heading the ball is a literal technique where players strike it with their forehead. The joke compliments soccer players on their academic habits using the exact same skill they use to redirect a cross into the net.",
+    "howToTell": "Tap your temple knowingly as you say \"use their heads\" — the gesture adds a wink without overselling it.",
+    "perfectFor": [
+      "At a back-to-school night when soccer parents are discussing their kids' grades",
+      "During a soccer skills session when a coach is teaching heading technique",
+      "When a soccer-obsessed kid gets a good report card"
+    ]
   },
   {
     "id": "sports-020",
@@ -279,7 +412,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-10",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"strike\" in bowling means knocking down all ten pins — so the pins \"going on strike\" after being knocked down is them simultaneously achieving the thing that just defeated them AND staging a labor protest. The workers' rebellion angle gives the joke unexpected political depth for a punchline about bowling.",
+    "howToTell": "Let the outrage of the pins come through — say \"went on strike\" with righteous indignation on their behalf.",
+    "perfectFor": [
+      "When someone bowls a strike at a birthday party or league night",
+      "At a bowling alley when the pins take a suspiciously long time to reset",
+      "During a conversation about workers' rights that somehow veers into sports"
+    ]
   },
   {
     "id": "sports-021",
@@ -293,7 +433,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-11",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Draw a foul\" is basketball lingo for baiting an opponent into committing a penalty, but \"draw\" also means to sketch something with pencil. The image of a player sitting on the bench with a sketchpad, artistically rendering a foul call, is absurd and completely logical at the same time.",
+    "howToTell": "Mime sketching on an imaginary pad before delivering \"draw a foul\" — the physical bit earns the punchline.",
+    "perfectFor": [
+      "During an NBA game when a player flops dramatically to draw a call",
+      "At youth basketball practice when someone explains what drawing a foul means",
+      "Watching a game with an art student who doesn't know basketball lingo"
+    ]
   },
   {
     "id": "sports-022",
@@ -307,7 +454,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-11",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Bat\" is one of baseball's most perfectly hidden double meanings — the flying nocturnal mammal and the wooden implement used to hit are the same word. The setup frames it as an animal quiz, which makes the sporting answer feel like a trick the whole time.",
+    "howToTell": "One word, delivered with full confidence. No setup needed beyond the question — \"A bat!\" lands best when it's completely unadorned.",
+    "perfectFor": [
+      "At a baseball game when a kid spots a bat flying overhead at dusk",
+      "Sports trivia night when animal and baseball questions end up in the same round",
+      "At a Little League game where the kids are fascinated by the equipment"
+    ]
   },
   {
     "id": "sports-023",
@@ -321,7 +475,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Fans\" does its classic dual shift — the spectators who left the stadium AND the cooling fans that would have circulated air. The joke implies that without the crowd, both the atmosphere and the temperature are ruined, which is a darkly accurate description of a losing team's empty home stadium.",
+    "howToTell": "Shake your head sadly, like the empty stadium is genuinely unfortunate for thermal reasons.",
+    "perfectFor": [
+      "When a struggling team's home game has poor attendance",
+      "At a late-season game for a team out of playoff contention",
+      "When someone complains about the heat at an outdoor stadium while referencing the thin crowd"
+    ]
   },
   {
     "id": "sports-024",
@@ -336,7 +497,14 @@
     "rating": 5,
     "dateAdded": "2026-02-12",
     "ageRange": "teens",
-    "canonicalSlug": "why-did-the-gym-close-down"
+    "canonicalSlug": "why-did-the-gym-close-down",
+    "whyFunny": "\"Work out\" is both the thing gyms exist to help you do and the idiom for something succeeding or coming together — so the gym failed at the very thing it was built around. It's a closed-loop joke: the gym didn't work out, in every possible sense.",
+    "howToTell": "Shrug with genuine sympathy, like the gym had a real shot but circumstances conspired against it.",
+    "perfectFor": [
+      "When someone mentions their gym membership lapsed or their gym shut down",
+      "During New Year's resolution conversations about fitness plans falling apart",
+      "Walking past an empty storefront that used to be a gym"
+    ]
   },
   {
     "id": "sports-025",
@@ -350,7 +518,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-13",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Parasail\" splits into \"para\" (echoing parasite, the insect-adjacent category) and \"sail\" (the water sports motion), creating a word that describes both an airborne insect and a water sport in one stretch. The absurd image of a bug rigged up for parasailing is also just inherently funny.",
+    "howToTell": "Commit completely and move on quickly — this one rewards confidence over explanation.",
+    "perfectFor": [
+      "At the beach while watching parasailers overhead and bugs on the sand",
+      "During a surf lesson when someone notices a bug riding a wave",
+      "At a beach bonfire when someone sees a moth flying near the water"
+    ]
   },
   {
     "id": "sports-026",
@@ -364,7 +539,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Kicked around\" is an idiom for being mistreated or pushed from place to place, which is also the exact literal experience of a soccer ball's entire career. The library as the refuge is a great misdirect — you'd expect an educational reason, but the ball just needs a break from the abuse.",
+    "howToTell": "Voice a little sympathy for the poor ball as you deliver the setup — the emotional investment in the ball's suffering makes the punchline funnier.",
+    "perfectFor": [
+      "At youth soccer practice after a particularly intense session",
+      "When a player complains about being bounced around the field by an aggressive opponent",
+      "While returning library books and someone's soccer gear is visible in the car"
+    ]
   },
   {
     "id": "sports-027",
@@ -378,7 +560,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Punch\" is both the defining action of boxing and a classic party beverage, and the joke exploits the fact that they share a word with zero modification. The single-word punchline lands like — well, a punch — exactly because it's so immediate and unavoidable.",
+    "howToTell": "Jab the air lightly as you say \"Punch!\" — the physical punctuation makes the single-word answer feel complete.",
+    "perfectFor": [
+      "At a boxing match watch party when someone heads to the drink table",
+      "At a party with an actual punch bowl near a TV showing a fight",
+      "At a boxing gym on someone's birthday when there's punch available"
+    ]
   },
   {
     "id": "sports-028",
@@ -392,7 +581,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-02",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Serve his country\" is both the patriotic call to military duty and the volleyball player's primary skill — the serve. The joke earns extra weight because serving in both contexts requires real commitment and technique, making the crossover feel almost sincere.",
+    "howToTell": "Stand tall and deliver \"to serve his country\" with genuine patriotic gravity — the more seriously you play it, the better the laugh.",
+    "perfectFor": [
+      "At a 4th of July BBQ with a volleyball net set up in the backyard",
+      "At a military appreciation sports event combining service and athletics",
+      "Beach volleyball session when someone mentions a friend who joined the service"
+    ]
   },
   {
     "id": "sports-029",
@@ -406,7 +602,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Tee\" sounds exactly like the letter T and is also the small peg every golf round begins with — the object is named after the letter or vice versa, and the joke collapses both meanings into the most satisfying one-word answer. It's the kind of wordplay that feels obvious once you hear it but never obvious until you do.",
+    "howToTell": "Ask slowly — \"What's a golfer's... favorite letter?\" — and let them try to guess before you land the T/tee.",
+    "perfectFor": [
+      "At the driving range while someone's teeing up their first ball of the day",
+      "When handing someone a golf tee before their turn",
+      "During a round when someone asks if there are any alphabet-themed sports traditions"
+    ]
   },
   {
     "id": "sports-030",
@@ -420,7 +623,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-03",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Home run\" in baseball means circling all the bases and returning to home plate — but with a suitcase, the player seems prepared to literally run home, bag packed and ready to travel. The luggage reframes an athletic achievement as a domestic departure.",
+    "howToTell": "Say \"hit a home run\" with total sincerity, like the player was just being strategically prepared for the commute afterward.",
+    "perfectFor": [
+      "At the end of a baseball game when someone's rushing to catch a flight",
+      "Little League awards night when home run hitters are being celebrated",
+      "At a baseball travel tournament when teams are hauling their gear through airports"
+    ]
   },
   {
     "id": "sports-031",
@@ -434,7 +644,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-03",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Downhill from here\" is the idiom of doom — things only getting worse from this point — but for a ski instructor on day one, it's also a perfectly literal and encouraging description of exactly what skiing involves. The phrase sounds like a warning and a welcome simultaneously.",
+    "howToTell": "Say it with the warm, reassuring confidence of a ski instructor who has no idea it sounds like a threat.",
+    "perfectFor": [
+      "When strapping on skis for the first time at the top of a bunny slope",
+      "At the ski resort check-in when your group is nervous about the runs",
+      "Sending a friend off on their first ski trip with a send-off that sounds vaguely ominous"
+    ]
   },
   {
     "id": "sports-032",
@@ -448,7 +665,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Dunk\" works in both arenas — slamming a basketball through the hoop AND submerging a donut in coffee. Basketball players' skill set turns out to have a delicious off-court application, and the crossover makes complete spatial sense: you raise something and drop it through a hole.",
+    "howToTell": "Mime dunking a donut into an invisible coffee mug on the word \"dunk\" — the gesture makes the double meaning physical and undeniable.",
+    "perfectFor": [
+      "Halftime donut run at an NBA game",
+      "When a basketball player walks into a donut shop",
+      "Post-practice treat stop at a donut place with the team"
+    ]
   },
   {
     "id": "sports-033",
@@ -462,7 +686,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-04",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Sinking skater\" is a vivid alliterative image — a hockey player going down with the ship while still wearing skates, which would be remarkably unhelpful in a boat emergency. The \"sinking\" also works as sports slang for a player whose performance is cratering.",
+    "howToTell": "Let the alliteration ring out — \"sinking skater\" sounds best when you give both S's their full weight.",
+    "perfectFor": [
+      "At a hockey game when a player is having a terrible night",
+      "At a lake near a rink when someone jokes about skating on thin ice",
+      "When someone on the hockey team is going through a scoring drought"
+    ]
   },
   {
     "id": "sports-034",
@@ -476,7 +707,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-05",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Top of their class\" means academic excellence, but for a sprinter it's also where they literally finish on the track — ahead of the class. The second half \"never finish last\" closes the loop: it's motivational advice dressed as a groan-worthy pun about race results.",
+    "howToTell": "Build to \"never finish last!\" with some gusto — the more like a coach you sound, the better the laughs.",
+    "perfectFor": [
+      "Track and field day at school when athletes and academics overlap",
+      "Graduation weekend for a student who was also a sprinter",
+      "Motivating a young runner before a race with a joke instead of pressure"
+    ]
   },
   {
     "id": "sports-035",
@@ -490,7 +728,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-05",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Quarterback\" disassembles into \"quarter\" (the coin) and \"back\" (returned), making an angry coach at a malfunctioning vending machine suddenly sound like he's demanding his star player. The specific frustration of losing money to a vending machine is universally relatable, which makes the football pivot land even harder.",
+    "howToTell": "Act out the vending machine saga — mime pressing the button, watching nothing come out, then yelling — before delivering the punchline.",
+    "perfectFor": [
+      "At a sports arena with vending machines during a timeout",
+      "At football practice when someone's snack run goes wrong",
+      "Any situation involving a vending machine eating a coin near a football fan"
+    ]
   },
   {
     "id": "sports-036",
@@ -504,7 +749,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Wok star\" is a portmanteau of \"wok\" (the cooking pan synonymous with high-heat martial-arts-adjacent cuisine) and \"rock star\" — the ultimate compliment for someone at the top of their game. The pun works because both martial arts and wok cooking require fast, precise, powerful movements.",
+    "howToTell": "Say \"Wok star!\" with rockstar flair — like you're announcing a headliner at a music festival that also serves stir fry.",
+    "perfectFor": [
+      "At an Asian restaurant after a martial arts class down the street",
+      "When a dojo hosts a team dinner with stir-fry on the menu",
+      "Watching a cooking competition show while also catching a martial arts highlight reel"
+    ]
   },
   {
     "id": "sports-037",
@@ -518,7 +770,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Baseball \"bats\" are the equipment, but nocturnal \"bats\" are the flying mammals that genuinely do sleep all day. The joke offers a ridiculous but internally consistent zoological explanation for stadium scheduling, as if the equipment's animal namesake were calling the shots.",
+    "howToTell": "Deliver it like a nature documentary fact — calm, authoritative, as if this is common knowledge that explains everything.",
+    "perfectFor": [
+      "At a night game tailgate when someone wonders why this particular game is so late",
+      "When explaining baseball to a kid who also loves animals",
+      "During a bat conservation presentation that somehow came up at a sports event"
+    ]
   },
   {
     "id": "sports-038",
@@ -532,7 +791,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Get a kick out of\" is the idiom for finding someone deeply enjoyable, but a football being kicked by a punter literally gets a kick — repeatedly and with great force — out of that specific person. The affectionate phrasing turns a violent athletic act into a touching compliment.",
+    "howToTell": "Say it with warm sincerity, like the football is expressing genuine fondness. The more earnest, the funnier.",
+    "perfectFor": [
+      "During a game when the punter has a spectacular kick deep into the opponent's end zone",
+      "At a football fan gathering when someone asks which position is most underrated",
+      "When a player thanks their kicker after a key field goal wins a game"
+    ]
   },
   {
     "id": "sports-039",
@@ -546,7 +812,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-07",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "In tennis, \"love\" means zero — it's the score for having no points. So a tennis player saying \"love means nothing\" is both a devastating romantic statement and a technically accurate description of their scoring system. The double reading makes them sound cold-hearted and perfectly athletic at once.",
+    "howToTell": "Say it with a resigned, almost philosophical sadness — like you're delivering hard relationship advice, not a tennis joke.",
+    "perfectFor": [
+      "Watching a match that starts at love-love and someone makes a romantic comment",
+      "Valentine's Day conversations that turn to sports",
+      "At a tennis club mixer where singles are both playing and mingling"
+    ]
   },
   {
     "id": "sports-040",
@@ -560,7 +833,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-08",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Fencing weapons — épées, sabers, foils — are literally heavy metal instruments used in sport. The genre \"heavy metal\" is an extreme music style, but the fencer's preference is explained by their equipment rather than their taste. It's a materials science pun disguised as a music question.",
+    "howToTell": "Throw up a subtle rock hand gesture on \"Heavy metal!\" if you're feeling bold — the crossover of sport and genre calls for it.",
+    "perfectFor": [
+      "At a fencing practice or tournament when music comes up",
+      "When a sports fan who loves metal music discovers fencing",
+      "At a sword-themed party where someone asks what's on the playlist"
+    ]
   },
   {
     "id": "sports-041",
@@ -574,7 +854,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-08",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This third spin on the \"hole in one\" pun lands on a jacket — a more formal garment than pants or socks, which makes the wardrobe emergency feel slightly more dramatic. The joke's staying power across different articles of clothing shows how versatile the core pun is.",
+    "howToTell": "Deliver it as cold-weather practical wisdom — say it like you're discussing layering strategy for an early morning round, not telling a joke.",
+    "perfectFor": [
+      "A chilly early morning tee time when someone's debating how to dress",
+      "Browsing at a golf apparel shop when someone's picking between outerwear options",
+      "When someone arrives at the course overdressed and needs a light explanation"
+    ]
   },
   {
     "id": "sports-042",
@@ -588,7 +875,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-09",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Food foul\" smashes \"food\" and \"foul\" together — a referee's call and the adjective for spoiled or bad food. Combine that with \"judge\" meaning both an authoritative official and someone who evaluates quality, and you've got a dining critic referee hybrid that somehow makes sense.",
+    "howToTell": "Say \"Food foul judge\" with the grave authority of someone announcing a penalty on the field — the gravitas elevates the silliness.",
+    "perfectFor": [
+      "At a restaurant with particularly strict or opinionated service",
+      "When a food critic's review reads like a referee's call sheet",
+      "At a sports-themed restaurant when the waiter is running the table like a game"
+    ]
   },
   {
     "id": "sports-043",
@@ -602,7 +896,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Dribbling\" returns for another lap — this time connecting the ball-bouncing technique with the kind of drool-based moisture that makes floors wet. The court maintenance scenario gives the dribbling-as-messy joke a physical consequence: actual moisture damage to hardwood floors.",
+    "howToTell": "Voice genuine concern about the court conditions, like you're a facilities manager reporting a real problem.",
+    "perfectFor": [
+      "At an intense NBA game when the floor crew keeps coming out to wipe the court",
+      "Youth basketball with very young players who are quite literally also dribbling",
+      "Halftime conversation about why players slide around so much on hardwood"
+    ]
   },
   {
     "id": "sports-044",
@@ -616,7 +917,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-10",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A kickflip is a specific skateboarding trick where the board rotates under the rider's feet — combining that with the direction \"to the kitchen\" creates the image of a skater literally trick-riding their way to get a snack. It's the most efficient and impressive method of hunger management possible.",
+    "howToTell": "Say \"kickflip to the kitchen\" with full skater energy, like it's the obvious and totally sick solution to hunger.",
+    "perfectFor": [
+      "At a skate park when someone announces they're starving",
+      "Watching skateboarding competition videos at home when someone suggests a snack break",
+      "When a skater friend says they're heading inside and you need a send-off line"
+    ]
   },
   {
     "id": "sports-045",
@@ -630,7 +938,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Handle the pressure\" is the idiom for staying composed in stressful situations, but a weightlifter manages literal physical pressure — hundreds of pounds of gravitational force pressing down on them every single rep. Their composure isn't mental fortitude; it's professional qualifications.",
+    "howToTell": "Deliver it with a zen-like calm, as if the weightlifter's serenity is completely self-explanatory.",
+    "perfectFor": [
+      "At the gym when someone marvels at how relaxed a powerlifter looks mid-set",
+      "A powerlifting competition when someone asks how the athletes stay so composed",
+      "When a friend who lifts seems unflappable in a stressful non-gym situation"
+    ]
   },
   {
     "id": "sports-046",
@@ -644,7 +959,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-11",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Rex-tra cover\" breaks T-Rex's name into \"Rex\" and \"extra,\" then adds \"cover\" — a real fielding position in cricket. So the dinosaur is simultaneously named and placed on the field in one hyphenated absurdity. Cricket's elaborate fielding position names make the pun both niche and satisfying.",
+    "howToTell": "Slow down on \"Rex-tra\" so both the dinosaur name and the fielding term register clearly — rush it and the cricket fans miss the position reference.",
+    "perfectFor": [
+      "At a cricket match watching the fielding placements shift",
+      "When a dinosaur museum is near a cricket ground and someone makes the connection",
+      "Cricket club trivia night when sports and natural history somehow merge"
+    ]
   },
   {
     "id": "sports-047",
@@ -658,7 +980,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-11",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Saving\" is the goalkeeper's signature skill — stopping goals from going in — but it's also what you do with money at a bank. The joke positions goalies as both elite athletes and responsible financial planners, with the same innate talent driving both achievements.",
+    "howToTell": "Nod wisely, like you've uncovered the secret financial advantage of playing goalkeeper professionally.",
+    "perfectFor": [
+      "Watching a goalkeeper make an incredible string of saves in a big match",
+      "Youth soccer tryouts when a kid wants to be a goalkeeper and the parents ask why",
+      "A financial literacy conversation that somehow involves soccer fans"
+    ]
   },
   {
     "id": "sports-048",
@@ -672,7 +1001,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-12",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Fast\" collapses two meanings in one syllable — to abstain from eating AND to be quick. Sprinters who are famously fast turn out to practice fasting, making their diet as impressive as their race times. The dramatic pause after \"Nothing\" makes \"they fast\" hit like a finishing tape.",
+    "howToTell": "Pause meaningfully after \"Nothing —\" like you're about to reveal a serious nutritional secret, then land \"they fast\" with calm finality.",
+    "perfectFor": [
+      "Pre-race meal discussion at a track meet when athletes are talking nutrition",
+      "Intermittent fasting conversation that drifts into sports",
+      "Warming up for a sprint event when someone asks what the athletes ate"
+    ]
   },
   {
     "id": "sports-049",
@@ -686,7 +1022,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Get a lock\" in wrestling means securing a joint hold that immobilizes an opponent — but a key is literally what you use to get a lock open. The wrestler's strategy involves both a tactical submission hold and a hardware store accessory, which is wonderfully impractical.",
+    "howToTell": "Act out turning an invisible key as you say \"get a lock on his opponent\" — the mime bridges the two meanings perfectly.",
+    "perfectFor": [
+      "Watching a wrestling match when a submission hold gets locked in",
+      "MMA viewing party when someone lands a kimura or armbar",
+      "When a friend is trying to solve a particularly tricky puzzle and needs \"a lock on it\""
+    ]
   },
   {
     "id": "sports-050",
@@ -700,7 +1043,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-13",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Twisted position\" describes both a complex yoga pose — physically contorted, demanding flexibility — and a morally corrupt situation that gets someone arrested. The yoga teacher ends up in trouble for the very thing she teaches, which is satisfying circular logic.",
+    "howToTell": "Raise one eyebrow as you say \"twisted position\" — let the word carry both meanings and watch it land.",
+    "perfectFor": [
+      "At a yoga class when the instructor holds an impossibly pretzel-like pose",
+      "After watching a yoga tutorial that ends with an extremely advanced contortion",
+      "At a wellness retreat when someone's found in a compromising scenario"
+    ]
   },
   {
     "id": "sports-051",
@@ -714,7 +1064,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The \"hole in one\" pun gets its shoe-based iteration here — a hole in a shoe is a specific wardrobe malfunction with real walking consequences, making the backup pair feel like genuine emergency planning. The golfer's superstition is both athlete-logical and structurally absurd.",
+    "howToTell": "Say it like responsible golfer packing advice, straight-faced — let the footwear logic speak for itself.",
+    "perfectFor": [
+      "Shopping for golf shoes at a pro shop when someone debates buying a backup pair",
+      "Standing at the first tee when someone's shoes look a little worn",
+      "A golf trip packing conversation when someone asks what to bring"
+    ]
   },
   {
     "id": "sports-052",
@@ -728,7 +1085,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Brick\" is real basketball slang for a shot that hits the rim or backboard awkwardly and doesn't go in — someone who keeps throwing bricks is, taxonomically, a bricklayer. The joke promotes a construction job title based entirely on someone's shooting deficiency.",
+    "howToTell": "Deliver it sympathetically, like you're trying to find the bright side of a player's career pivot.",
+    "perfectFor": [
+      "Watching a cold-shooting player brick three-pointers in the fourth quarter",
+      "Pickup basketball when someone's having a rough offensive night",
+      "NBA postgame analysis when a player had a particularly rough shooting night"
+    ]
   },
   {
     "id": "sports-053",
@@ -742,7 +1106,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Tie the score\" means to equalize the match and is one of the most dramatic moments in soccer — but string is literally what you use to tie things. The player's preparation is both over-literal and completely on-strategy, making their equipment bag the most commitment to one pun imaginable.",
+    "howToTell": "Hold up an imaginary piece of string as you say \"tie\" — make the physical connection visible before the punchline lands.",
+    "perfectFor": [
+      "Watching a desperate comeback with the equalizer still needed in stoppage time",
+      "World Cup final when both teams are level in the second half",
+      "Soccer practice when a coach talks about the importance of tying up loose ends defensively"
+    ]
   },
   {
     "id": "sports-054",
@@ -756,7 +1127,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Pitcher fit\" inverts the phrase \"pitching a fit\" (throwing a tantrum) while calling out the player's position — a pitcher who pitches fits. The reversal is clean: the player throws tantrums the same way they throw pitches, professionally and repeatedly.",
+    "howToTell": "Say it like it's an official baseball designation — as if \"pitcher fit\" were an actual roster classification in the MLB rulebook.",
+    "perfectFor": [
+      "When a pitcher argues with the umpire on the mound and gets ejected",
+      "Little League when a kid loses it after giving up a hit",
+      "A baseball sports bar when someone's team's pitcher is imploding emotionally on the mound"
+    ]
   },
   {
     "id": "sports-055",
@@ -770,7 +1148,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Traveling\" in basketball is a violation — taking too many steps without dribbling — and it's also just what you do when you go on vacation. Basketball players literally cannot travel without it being a foul call, making every holiday a potential technical violation.",
+    "howToTell": "Blow an imaginary referee's whistle and gesture a traveling call — T-shape arms — as you deliver the punchline.",
+    "perfectFor": [
+      "Planning a trip with a group that includes basketball fans",
+      "NBA offseason conversations about players' summer plans",
+      "Airport sports bar when a basketball game is on and someone mentions their vacation"
+    ]
   },
   {
     "id": "sports-056",
@@ -784,7 +1169,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Cats are instinctive hunters who catch everything that moves — bugs, mice, toys, laser dots — making \"catcher\" both the obvious baseball position and a factual description of feline behavior. It's the most natural career placement for the species.",
+    "howToTell": "Deliver \"Catcher!\" as if it's a complete and obvious answer — no elaboration needed, the cat has been placed.",
+    "perfectFor": [
+      "Watching baseball with a cat in the room who keeps pouncing at the TV",
+      "At a Little League game when a kid asks what positions animals would play",
+      "During a pet and sports conversation mashup that veers into team roster territory"
+    ]
   },
   {
     "id": "sports-057",
@@ -798,7 +1190,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Pass-time\" is spelled to highlight the football \"pass\" inside the word \"pastime\" (leisure activity). The football player's trip to the library sounds cultured, but it's really just him searching for more ways to practice his position skills — reading as passing, in his mind.",
+    "howToTell": "Say \"pass-time\" with a very slight emphasis on \"pass\" — enough to make the football reference audible without telegraphing the pun.",
+    "perfectFor": [
+      "Before a football game when someone mentions the players' off-field activities",
+      "A conversation about football players pursuing education during the offseason",
+      "At a football-themed reading event or literacy drive"
+    ]
   },
   {
     "id": "sports-058",
@@ -812,7 +1211,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Drive me crazy\" is the idiom for someone being infuriating, but the hockey stick literally drives the puck — propelling it across the ice at speed. The puck has a legitimate complaint framed in the most accurate relationship terms possible.",
+    "howToTell": "Voice the puck with exasperated affection — annoyed but also kind of dependent on the stick, like a long-term strained partnership.",
+    "perfectFor": [
+      "Watching a hockey game when the stick handling is particularly aggressive",
+      "Hockey practice when someone's stick technique keeps misdirecting the puck",
+      "When someone's being pestered and you reach for a sports-flavored complaint"
+    ]
   },
   {
     "id": "sports-059",
@@ -826,7 +1232,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Below par\" in golf is actually good — it means scoring fewer strokes than the benchmark, which is the goal. But \"below par\" in everyday language means substandard. So golfers keeping their voices below par is them doing something excellent (golf-wise) while sounding like they're being restrained.",
+    "howToTell": "Whisper the punchline with theatrical reverence — shushing yourself while saying it doubles down on the quiet course atmosphere.",
+    "perfectFor": [
+      "At Augusta during a hushed gallery moment on the 18th green",
+      "A country club event where the etiquette is strict and the atmosphere is library-quiet",
+      "When a non-golfer asks why golf crowds are so silent compared to other sports"
+    ]
   },
   {
     "id": "sports-060",
@@ -840,7 +1253,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Quarterback couch\" mashes the most glamorous position in football (quarterback) with the universal symbol of laziness (couch potato / couch). A quarterback couch leads the offense from a seated, horizontal position — which is actually where most armchair quarterbacks operate anyway.",
+    "howToTell": "Say it like you're announcing a new official roster position — gravely and formally.",
+    "perfectFor": [
+      "Watching football from the couch with someone who keeps calling plays from their seat",
+      "Fantasy football draft day when someone's team is full of underperformers",
+      "When a friend keeps critiquing the quarterback from the living room all game"
+    ]
   },
   {
     "id": "sports-061",
@@ -854,7 +1274,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Batter\" is both a baseball hitter and the liquid mixture used in baking and cooking — and a truly exceptional batter is valuable in both professions. The team's recruitment of a baker is the most rational cross-industry hire if you evaluate both job descriptions on the same word.",
+    "howToTell": "Deliver \"a good batter\" like it's a completely sound personnel decision that needs no further justification.",
+    "perfectFor": [
+      "A baseball game when the offense is struggling and someone says they need a better lineup",
+      "At a Little League bake sale where parents joke about the team's batting",
+      "Watching a cooking competition with someone who also loves baseball stats"
+    ]
   },
   {
     "id": "sports-062",
@@ -868,7 +1295,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Vault\" is the gymnastics apparatus gymnasts leap over and the secure room where banks store their money — making a gymnast who works at a bank the most dually qualified vault specialist possible. Their resume makes perfect sense in both industries.",
+    "howToTell": "Say \"vault specialist\" with professional confidence, as if this dual-expertise career path is completely unremarkable.",
+    "perfectFor": [
+      "At a gymnastics meet when someone talks about what the athletes do outside the gym",
+      "At a bank when the teller mentions they have an athletic background",
+      "Career day conversation mixing sports and finance"
+    ]
   },
   {
     "id": "sports-063",
@@ -882,7 +1316,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Shoot for the stars\" is a classic motivational expression meaning to aim high, but the basketball player took it as literal celestial instruction — hence the ladder for reaching actual astronomical heights. The gap between the coach's inspirational intent and the player's literal interpretation is the whole joke.",
+    "howToTell": "Do a dramatic motivational coach voice for the setup, then deliver the ladder revelation with straight-faced sincerity.",
+    "perfectFor": [
+      "Youth basketball pep talk when a coach uses inspirational clichés",
+      "Team meeting before a big game when someone takes metaphors too literally",
+      "Sports leadership event when someone discusses motivational language"
+    ]
   },
   {
     "id": "sports-064",
@@ -896,7 +1337,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Serving\" is the tennis player's most fundamental stroke AND the waiter's entire job description. The joke finds the exact word that makes both professions sound equally qualified, and the answer \"Tennis\" lands because it's the one sport built around a word that waiters own.",
+    "howToTell": "Ask casually, then answer with full confidence on \"Tennis\" — like the connection is obvious to everyone in the food service industry.",
+    "perfectFor": [
+      "At a restaurant when the service is exceptional and a tennis match is on the TV",
+      "Tennis club brunch when a waiter who clearly has athletic footwork serves the table",
+      "When a very attentive waiter comes by for the fifth time asking if everything's okay"
+    ]
   },
   {
     "id": "sports-065",
@@ -910,7 +1358,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Future's so bright you gotta wear shades\" is the classic song line turned into a sports brag — one goal has apparently launched this player's career into sun-requiring territory. It's a hero moment turned fashion statement, with the sunglasses as evidence of peak confidence.",
+    "howToTell": "Say it with full rockstar confidence, like the player is already shopping for endorsements after the goal celebration.",
+    "perfectFor": [
+      "Immediately after someone scores a brilliant goal in a big match",
+      "Soccer highlights reel viewing when a player has an iconic goal celebration",
+      "End-of-season soccer awards party when someone had a breakout year"
+    ]
   },
   {
     "id": "sports-066",
@@ -924,7 +1379,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The football, which is kicked at or through the goalposts on every field goal and extra point attempt, does literally keep coming back — it's practically a standing date. The romantic promise \"I'll always come back to you\" is both a heartfelt pledge and a faithful description of kicking game mechanics.",
+    "howToTell": "Say it with dramatic, old-Hollywood romantic sincerity — the football means every word of this vow.",
+    "perfectFor": [
+      "Football watching with a romantic partner who doesn't know the sport that well",
+      "Super Bowl date night when field goals are flying",
+      "Valentine's Day weekend that overlaps with playoff football"
+    ]
   },
   {
     "id": "sports-067",
@@ -938,7 +1400,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This is a masterpiece of logical misdirection — you expect a technical explanation about water entry angles or equipment buoyancy, and instead you get a basic spatial argument that is undeniably, embarrassingly correct. If they fell forward, they'd land inside the boat. The joke works precisely because the answer is so obvious it takes a second to hit.",
+    "howToTell": "Pause after \"they'd still be in the boat\" and wait — let them work through the geometry themselves before the laughter arrives.",
+    "perfectFor": [
+      "Before a scuba diving trip when someone asks about entry technique",
+      "On a boat when first-timers are asking questions about diving protocol",
+      "A diving certification class icebreaker when the instructor covers water entry"
+    ]
   },
   {
     "id": "sports-068",
@@ -952,7 +1421,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Slap-shot grizzly\" combines the hockey technique (a slap shot, where the stick slaps the ice before hitting the puck) with the species of bear famous for its powerful slapping paws. The grizzly's natural weaponry makes it the most technically appropriate animal for the slap shot position.",
+    "howToTell": "Say \"slap-shot grizzly\" with some growl energy — let the bear's natural authority come through.",
+    "perfectFor": [
+      "A hockey game in a mountain town near bear country",
+      "When a team has a bear as their mascot and someone asks what position it would play",
+      "Talking hockey with someone who's also into wildlife"
+    ]
   },
   {
     "id": "sports-069",
@@ -966,7 +1442,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Hog the puck\" means to selfishly control the puck without passing, and a hog is literally a pig — so pigs hogging the puck is both their sports failure and their species accurately described. It's the most on-brand team sports problem imaginable for swine.",
+    "howToTell": "Shake your head with the frustration of someone who has genuinely tried and failed to skate with pigs.",
+    "perfectFor": [
+      "Youth hockey when a player refuses to pass and it's time for a gentle lesson",
+      "Farm visit conversation with someone who also plays hockey",
+      "Hockey coaching discussion about sharing the puck and playing as a team"
+    ]
   },
   {
     "id": "sports-070",
@@ -980,7 +1463,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Bogey man\" is the boogeyman — the scary creature from under the bed — but in golf, a bogey is one stroke over par, which is a small but stinging disappointment. A golfer who cries at bogeys is both haunted by their scores AND doing a very accurate impression of a childhood monster.",
+    "howToTell": "Say \"bogey man\" with just a hint of spooky theatrics, then let the golf meaning settle in over the scare.",
+    "perfectFor": [
+      "After bogey-ing a hole when someone's visibly frustrated on the course",
+      "A Halloween golf tournament where the theming writes itself",
+      "On the 19th hole when someone's reviewing their scorecard with dismay"
+    ]
   },
   {
     "id": "sports-071",
@@ -994,7 +1484,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Stealing a base\" is one of baseball's most exciting plays — a runner advancing to the next base without a hit — but the word \"stole\" is also the past tense of theft. The player did something every baseball coach wants and got arrested for it, because stealing is still stealing.",
+    "howToTell": "Deliver it dead serious, like you're reporting genuine sports crime news that just crossed the wire.",
+    "perfectFor": [
+      "A Little League game when a player successfully steals second base",
+      "Baseball sports bar when a stolen base wins a tight game",
+      "Teaching kids baseball rules when someone asks what stealing a base means"
+    ]
   },
   {
     "id": "sports-072",
@@ -1008,7 +1505,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Fans\" is the classic dual-use word — supporters who adore the players and cooling devices that move air. Soccer players staying cool via their fans is both a celebrity perk and a practical thermal solution, and both interpretations are completely plausible.",
+    "howToTell": "Say \"their fans\" with a knowing smile, like the players have figured out a clever climate management hack.",
+    "perfectFor": [
+      "Hot summer soccer game when players are sweating through their kits",
+      "Fan appreciation event when the crowd's energy is visibly affecting the players",
+      "World Cup watching when someone marvels at how composed the players look in the heat"
+    ]
   },
   {
     "id": "sports-073",
@@ -1022,7 +1526,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Chops\" lands on three meanings simultaneously — karate chops (the hand-strike technique), pork or lamb chops (deli menu items), and \"chops\" as slang for skill or talent. The karate master's career pivot makes perfect professional sense if you understand that his signature move is right there in the deli counter.",
+    "howToTell": "Deliver a quick karate hand motion on \"chops\" — make the physical bridge between the dojo and the deli counter unmistakable.",
+    "perfectFor": [
+      "Dojo near a deli when someone notices the proximity",
+      "Martial arts + cooking show fan who appreciates the crossover",
+      "Sports nutrition discussion that mentions protein-heavy deli meats"
+    ]
   },
   {
     "id": "sports-074",
@@ -1036,7 +1547,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Knock your socks off\" means to impress someone enormously, but a bowling ball's entire purpose is to physically knock things down — specifically the pins it's talking to. The threat is both boastful and completely literal, and the pins have no response available.",
+    "howToTell": "Say it with the swagger of a very confident bowling ball that has done this many times before.",
+    "perfectFor": [
+      "Before the first frame of a bowling birthday party",
+      "Watching someone line up a strike shot in a league competition",
+      "When someone's going for a perfect game and the tension is building"
+    ]
   },
   {
     "id": "sports-075",
@@ -1050,7 +1568,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"A good roll\" means a winning streak or momentum — being \"on a roll\" — but it's also exactly what you'd find at a bakery. The team's pre-game carb run doubles as a metaphor for what they actually need to get their season going.",
+    "howToTell": "Nod like the bakery trip was a completely sound strategic decision, not a pun at all.",
+    "perfectFor": [
+      "Team dinner when bread rolls are on the table and the offense is struggling",
+      "Football game halftime when someone mentions the team needs to build momentum",
+      "Bakery near a stadium when players happen to stop in before a game"
+    ]
   },
   {
     "id": "sports-076",
@@ -1064,7 +1589,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Strip away the ball and all you have left is the statistical reality of basketball players: they are extremely tall. Without the defining equipment, the sport reveals itself as the world's most height-specific gathering. It's a reductive observation that's impossible to argue with.",
+    "howToTell": "Shrug, like it's the most natural reclassification in the world — just adjust the room's purpose to fit the people in it.",
+    "perfectFor": [
+      "Pickup basketball when someone forgot to bring the ball to the court",
+      "NBA draft conversation when someone makes height jokes about prospects",
+      "Basketball conditioning drills that don't involve any actual ball work"
+    ]
   },
   {
     "id": "sports-077",
@@ -1078,7 +1610,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"The net\" is what divides a tennis court and what fishermen use to capture fish — so fish have very good, species-specific reasons to avoid nets. Their fear of the net is both a tennis tactical problem and an existential survival instinct, making their retirement from the sport completely understandable.",
+    "howToTell": "Nod with empathy for the fish — they've been through enough with nets already without adding tennis to their problems.",
+    "perfectFor": [
+      "Tennis court near a lake or ocean when someone spots fish in the water",
+      "Fishing trip with a friend who also loves tennis",
+      "A tennis player who's also an avid fisherman being introduced to both hobbies at once"
+    ]
   },
   {
     "id": "sports-078",
@@ -1092,7 +1631,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Goal digger\" is a perfect rebranding of \"gold digger\" — someone who pursues wealth — with the soccer player's scoring obsession woven right in. The player who buys everything is driven by goals in both the financial and athletic sense, making them a very motivated striker.",
+    "howToTell": "Say it with just a little side-eye, like you've identified a very specific type of soccer player-shopper.",
+    "perfectFor": [
+      "Watching a selfish striker chase personal goal tallies instead of team play",
+      "Transfer window discussion when a club is splashing cash",
+      "Soccer team captain conversation about chasing individual stats vs. wins"
+    ]
   },
   {
     "id": "sports-079",
@@ -1106,7 +1652,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Bow and arrows\" sounds remarkably like \"bows and aches\" — the rhythm echoes the kind of complaint you'd bring to a doctor. The archer's equipment doubles as her medical symptoms, meaning her sport literally gave her the diagnosis.",
+    "howToTell": "Voice genuine concern as you deliver the setup, then say \"bow and arrows\" with the gravitas of a serious medical condition.",
+    "perfectFor": [
+      "At an archery range after a long practice session with sore shoulders",
+      "Robin Hood conversation when someone asks what the downsides of archery are",
+      "Sports medicine discussion involving repetitive-motion injuries in shooting sports"
+    ]
   },
   {
     "id": "sports-080",
@@ -1120,7 +1673,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Bag carrier\" is a real expression for someone doing the less glamorous carrying work, and it's exactly what a running back does — carries things (ball or bags) through gaps and around defenders. The player's athletic skills translate seamlessly to grocery logistics.",
+    "howToTell": "Say it like you've coined the perfect unofficial title for a dual-use athlete who shops and scores.",
+    "perfectFor": [
+      "Grocery store run before a football game when a player is spotted shopping",
+      "Fantasy football draft when discussing the value of running backs who can catch passes",
+      "Football + errands conversation when someone asks what running backs do in the offseason"
+    ]
   },
   {
     "id": "sports-081",
@@ -1134,7 +1694,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Shot the ball\" is basketball's most basic offensive action, but \"shot\" in a legal context means firing a weapon — an arrestable offense. The player's entirely normal game activity becomes a criminal confession when removed from the sports context.",
+    "howToTell": "Deliver it deadpan and slightly alarmed, like you've just realized this player is in serious trouble.",
+    "perfectFor": [
+      "Watching a three-pointer go up at the buzzer",
+      "End-of-game highlight watching when the winning shot is replayed",
+      "Pickup basketball when someone's having an exceptional shooting night"
+    ]
   },
   {
     "id": "sports-082",
@@ -1148,7 +1715,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Sportsman-ship\" splits \"sportsmanship\" — the virtue of playing fair and with grace — and adds an actual ship to contain the football players. The compound word becomes a vessel once you hyphenate it, making this a nautical sportsmanship award and a floating compliment simultaneously.",
+    "howToTell": "Say it with the gravity of presenting an award — this is a high honor for both the athletes and the watercraft.",
+    "perfectFor": [
+      "Fishing trip with a group of football fans who are being particularly gracious",
+      "End-of-season football banquet when sportsmanship awards are being given out",
+      "A charity boat race involving a football team"
+    ]
   },
   {
     "id": "sports-083",
@@ -1162,7 +1736,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Golf's notorious plaid aesthetic gets a logical justification: if you wear stripes, you've accidentally dressed like a referee, which is already wearing the most official outfit on any sports field. The golfer's fashion choice is actually an identity-protection strategy.",
+    "howToTell": "Say it with fashion authority, like you've just explained a very practical style decision to someone who didn't understand golf's dress code.",
+    "perfectFor": [
+      "Golf clothing shopping when someone picks up a plaid option",
+      "Before teeing off when someone's outfit sparks a style conversation",
+      "A golf fashion discussion among players who take their on-course look seriously"
+    ]
   },
   {
     "id": "sports-084",
@@ -1176,7 +1757,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Ten-ish\" sounds exactly like \"tennis\" when you squint your ears at it — and it's a perfectly casual, approximate time of day. The answer is both a reasonable sleep schedule and a sport name disguised as a vague morning commitment.",
+    "howToTell": "Pause after the question, like you're doing mental math, then drop \"Ten-ish\" with casual certainty — the imprecision sells the pun.",
+    "perfectFor": [
+      "Tennis practice scheduling conversation when someone asks what time to show up",
+      "Wimbledon watch party morning when people are deciding when to tune in",
+      "When a tennis-obsessed friend is notoriously hard to pin down on timing"
+    ]
   },
   {
     "id": "sports-085",
@@ -1190,7 +1778,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Balance\" is the financial record of an account at a bank AND the equilibrium and footwork control central to soccer skill. A soccer ball checking its balance is both a prudent financial errand and an athletic self-assessment — and it turns out both are important for a successful career.",
+    "howToTell": "Say it like the soccer ball made a very responsible and proactive financial decision.",
+    "perfectFor": [
+      "Soccer skills training when a coach emphasizes balance and footwork",
+      "Financial literacy conversation where sports get used as metaphors",
+      "Youth soccer parent meeting when fees and skills both come up"
+    ]
   },
   {
     "id": "sports-086",
@@ -1204,7 +1799,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Fowl shooter\" is a perfect phonetic overlap with \"foul shooter\" — the player at the free throw line — while a chicken is quite literally a fowl. The joke drops a bird into the most pressure-filled moment in basketball, where they also wouldn't be very good.",
+    "howToTell": "Say it with sports announcer gravity — \"Ladies and gentlemen, at the free throw line... a fowl shooter.\"",
+    "perfectFor": [
+      "A close game with important free throws on the line",
+      "Watching a player who's a notoriously bad free throw shooter miss again",
+      "Poultry farm near a gym that's somehow in the same conversation"
+    ]
   },
   {
     "id": "sports-087",
@@ -1218,7 +1820,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Tied up\" means both being literally knotted (what happens to rope) and being preoccupied or unavailable — plus a tied game score. The rope's football career failed because its natural physical state kept interfering with availability and, probably, route running.",
+    "howToTell": "Say it with genuine sympathy for the rope's failed tryout — it had real potential before the knot situation.",
+    "perfectFor": [
+      "Football tryout conversation when someone gets cut from the team",
+      "Tug-of-war at a school sports day before football practice starts",
+      "Team building activities that use ropes and someone makes a sports crossover comment"
+    ]
   },
   {
     "id": "sports-088",
@@ -1232,7 +1841,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"A real catch\" is a romantic compliment meaning someone is desirable as a partner — but it also describes baseball's catcher, who receives everything the pitcher throws. The pitcher complimenting the batter on Valentine's Day with the exact word that names another player's position is perfectly layered.",
+    "howToTell": "Deliver it with genuine Valentine's Day sincerity — the pitcher really means this compliment, even if it came out a little sporty.",
+    "perfectFor": [
+      "Valentine's Day at a baseball stadium or batting cage",
+      "When baseball couples use sports metaphors in their relationship",
+      "Spring training season that overlaps with February 14th"
+    ]
   },
   {
     "id": "sports-089",
@@ -1246,7 +1862,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Running long stems\" fuses \"running long\" (a track distance event) with the plant stem, making horticulture and athletics share the same skill set. The career change is absurd but phonetically logical — her training prepared her for exactly the gardening challenge she now faces.",
+    "howToTell": "Nod approvingly, like this career transition is the natural and obvious endpoint of long-distance training.",
+    "perfectFor": [
+      "Track and field awards when someone mentions a runner pursuing other interests",
+      "When someone who ran cross country mentions they took up gardening",
+      "Spring track season when gardens are also starting to bloom"
+    ]
   },
   {
     "id": "sports-090",
@@ -1260,7 +1883,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Downhill spiral\" is the idiom for things deteriorating rapidly after a crisis — but for a snowboarder, going downhill in a spiral is Tuesday. Their romantic devastation aligns perfectly with their sport's trajectory, giving the heartbreak a very athletic visual.",
+    "howToTell": "Wince with sympathetic understanding — this person is really going through it, and also they're very good at spiraling downhill.",
+    "perfectFor": [
+      "Ski resort après-ski bar when someone mentions a recent breakup",
+      "Winter sports conversation that takes an emotional turn",
+      "When a snowboarder friend is going through relationship trouble during ski season"
+    ]
   },
   {
     "id": "sports-091",
@@ -1274,7 +1904,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Touch base\" is the business-world expression for checking in with someone, but baseball players literally touch bases — it's a core mechanical requirement of their sport. They're the most reliable friends imaginable, consistently following up by professional obligation.",
+    "howToTell": "Warm and genuine — say it like you genuinely recommend baseball players as friends, based on this specific scheduling quality.",
+    "perfectFor": [
+      "Baseball team reunion when old teammates reconnect after years apart",
+      "When catching up with a friend and saying \"we should touch base more often\"",
+      "Little League end-of-season party when parents reflect on team friendships formed"
+    ]
   },
   {
     "id": "sports-092",
@@ -1288,7 +1925,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Kicking me around\" means being treated poorly or pushed from place to place — but a basketball shoe does physically push the ball around the court. The ball's complaint is both an emotional protest and an accurate technical description of what shoes do to balls during a game.",
+    "howToTell": "Voice the basketball with whiny indignation — it's had enough and it wants the shoe to know.",
+    "perfectFor": [
+      "Sneaker shopping conversation before basketball season",
+      "Watching an intense dribbling session where the ball really does get pushed around",
+      "When someone's complaining about being mistreated and a basketball is nearby"
+    ]
   },
   {
     "id": "sports-093",
@@ -1302,7 +1946,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Kick it up a notch\" is Emeril Lagasse's famous cooking exclamation about intensifying flavor — but soccer players kicking things is literally their sport. The team is fueling up to kick better, and the cooking catchphrase maps perfectly onto their pre-game strategy.",
+    "howToTell": "Channel full cooking show host energy on \"kick it up a notch\" — the Emeril impression elevates it.",
+    "perfectFor": [
+      "Pre-game team pasta dinner when the chef metaphors start flying",
+      "Watching a cooking competition show with someone who also loves soccer",
+      "Soccer team nutrition conversation when someone asks why they always eat pasta before matches"
+    ]
   },
   {
     "id": "sports-094",
@@ -1316,7 +1967,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"No more serves to give\" echoes the viral internet expression \"no more f**ks to give\" — total emotional exhaustion — but replaces it with the tennis serve, the action the retired player has finally, professionally stopped performing. They've aged out of both obligations simultaneously.",
+    "howToTell": "Say it with the weary, liberated wisdom of someone who has genuinely reached the end of their giving capacity — tennis and otherwise.",
+    "perfectFor": [
+      "Watching a tennis legend's retirement announcement match",
+      "Tennis club conversation when a veteran member hangs up their racket",
+      "When a burned-out athlete announces they're done competing"
+    ]
   },
   {
     "id": "sports-095",
@@ -1330,7 +1988,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Draw a play\" in football means diagramming a strategic route or assignment on a whiteboard or clipboard — but \"draw\" also means to sketch with a pencil. The player's literal interpretation of game planning requires proper art supplies.",
+    "howToTell": "Tap an imaginary pencil on an invisible clipboard as you say it — the sports-office physical bit sells the dual meaning.",
+    "perfectFor": [
+      "Football film room when the whiteboard comes out and someone grabs a marker",
+      "When a football player is spotted with a pencil and someone asks why",
+      "Coaching staff conversation about play design and creative strategy"
+    ]
   },
   {
     "id": "sports-096",
@@ -1344,7 +2009,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Slam dunk-er fish\" mashes the basketball's most thrilling scoring move with a fish species suffix — like a sunfish or blowfish but specifically adapted for dunking. The compound creature gets a name that completely describes both its aquatic nature and its basketball specialty.",
+    "howToTell": "Say it with sports announcer energy, like you're calling the most unexpected dunk you've ever seen at the aquarium.",
+    "perfectFor": [
+      "Aquarium visit where someone makes basketball comparisons to the fish tank",
+      "Basketball near a lake or coastal area when fish are spotted",
+      "When a kid asks what their pet fish's favorite sport would be"
+    ]
   },
   {
     "id": "sports-097",
@@ -1358,7 +2030,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"slice\" in golf is one of the most dreaded mishits — the ball curves drastically off course and into trouble. A slice of cake is everyone's favorite dessert. Golfers who avoid cake are doing so to prevent being associated with their worst shot, which is a very irrational but emotionally coherent fear.",
+    "howToTell": "Deliver it with the alarm of someone who just realized birthday cake presents a genuine risk to their golf game.",
+    "perfectFor": [
+      "A golf birthday party where cake is served on the course",
+      "The 19th hole when dessert is offered and a golfer had a bad round with slicing",
+      "Watching the Masters when someone brings cake to the viewing party"
+    ]
   },
   {
     "id": "sports-098",
@@ -1372,7 +2051,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Snooze baller\" riffs on \"baller\" — sports slang for someone with exceptional skill — by prefixing it with the most anti-athletic thing possible: sleeping through your game. The pitcher's nap makes them the most chilled-out elite athlete in the rotation.",
+    "howToTell": "Yawn dramatically before delivering the punchline — put yourself in the pitcher's sleepy shoes.",
+    "perfectFor": [
+      "Early morning baseball practice when someone's clearly still half asleep on the mound",
+      "When a pitcher is underperforming and someone wonders if they're even awake",
+      "Slumber party sports talk when someone insists they could pitch in their sleep"
+    ]
   },
   {
     "id": "sports-099",
@@ -1386,7 +2072,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The \"two-tired/too tired\" wordplay returns in its most athletic context — the bicycle isn't just exhausted, it has literally two tires that qualify it for this specific brand of fatigue. Its sports retirement is grounded in both emotional burnout and structural reality.",
+    "howToTell": "Lean back and exhale slowly as you say \"two-tired\" — embody the bicycle's complete competitive exhaustion.",
+    "perfectFor": [
+      "Long cycling race spectating when riders are visibly spent in the final stretch",
+      "Tour de France conversation when someone asks how the cyclists keep going",
+      "When a bike commuter gets home after a brutal day and someone asks if they want to play a sport"
+    ]
   },
   {
     "id": "sports-100",
@@ -1400,6 +2093,13 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Wide receiver of applause\" repurposes the football position — a wide receiver catches throws — and applies it to a magician who catches the crowd's appreciation. The magician doesn't just receive applause, they receive it wide and enthusiastically, exactly as a wideout runs their route.",
+    "howToTell": "Present it with a magician's theatrical flourish — this dual-career athlete deserves a proper reveal.",
+    "perfectFor": [
+      "Halftime magic show at a football game when someone makes the performer connection",
+      "When a wide receiver makes an impossible catch that looks like a magic trick",
+      "Super Bowl halftime show conversation when someone wonders what the performers' day jobs are"
+    ]
   }
 ]

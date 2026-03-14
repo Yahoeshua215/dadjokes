@@ -12,7 +12,14 @@
     "rating": 5,
     "dateAdded": "2026-02-01",
     "ageRange": "teens",
-    "canonicalSlug": "my-boss-told-me-to-have-a-good-day"
+    "canonicalSlug": "my-boss-told-me-to-have-a-good-day",
+    "whyFunny": "The joke weaponizes a totally innocent workplace pleasantry — 'have a good day' — as a loophole to clock out early. The employee treats the boss's friendly send-off as genuine permission, which is absurdly logical. The twist works because we all recognize the phrase as hollow small talk, but here it gets taken at full, glorious face value.",
+    "howToTell": "Say the setup with a straight face, then pause a beat before 'So I went home!' — deliver it like the most reasonable conclusion you've ever reached.",
+    "perfectFor": [
+      "After surviving a brutal Monday at the office",
+      "On a Friday afternoon when the clock refuses to move",
+      "At a work happy hour when someone asks why you left early last week"
+    ]
   },
   {
     "id": "work-002",
@@ -27,7 +34,14 @@
     "rating": 5,
     "dateAdded": "2026-02-01",
     "ageRange": "teens",
-    "canonicalSlug": "i-got-fired-from-the-calendar-factory"
+    "canonicalSlug": "i-got-fired-from-the-calendar-factory",
+    "whyFunny": "'Take a day off' does double duty — it means calling in sick, but at a calendar factory it means physically ripping a page off the product. The genius is that the workplace offense and the factory action are described by the exact same phrase. The injustice feels real because the employee technically did nothing wrong by either definition.",
+    "howToTell": "Deliver 'all I did' with maximum indignation — you truly cannot believe they fired you for this. The outrage has to feel genuine for the pun to sneak up on the audience.",
+    "perfectFor": [
+      "When a coworker calls in sick on a suspicious Friday",
+      "During a performance review conversation about attendance",
+      "At an office party when people are swapping firing horror stories"
+    ]
   },
   {
     "id": "work-003",
@@ -41,7 +55,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Soda pressing' is a mashup of 'so depressing' and the literal act of pressing soda cans — the double meaning clicks perfectly because can crushing is, in fact, pressing. The pun earns its groan because both interpretations fit the situation: the job is depressing AND it's literally soda being pressed.",
+    "howToTell": "Ham up 'soda pressing' with a dramatic, deflated sigh — like the job really got to you emotionally. The more resigned you sound, the better.",
+    "perfectFor": [
+      "While crushing empty cans after a backyard BBQ",
+      "When a coworker complains about their soul-crushing job",
+      "At a recycling facility tour or Earth Day office event"
+    ]
   },
   {
     "id": "work-004",
@@ -55,7 +76,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-02",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Sole destroying' sounds identical to 'soul-destroying' — the phrase for utterly demoralizing work — while referencing the literal soles of shoes being shredded in a recycling shop. Both meanings are equally valid: the job destroys souls AND destroys shoe soles. The pun works because neither interpretation is a stretch.",
+    "howToTell": "Pause just a beat after 'shoe recycling shop' to let the footwear setting sink in before dropping 'sole destroying' — that tiny setup makes the wordplay feel earned.",
+    "perfectFor": [
+      "At a shoe store when commiserating about a tough shift",
+      "When someone asks about the worst job you ever had",
+      "While sorting through old sneakers for a donation drive"
+    ]
   },
   {
     "id": "work-005",
@@ -70,7 +98,14 @@
     "rating": 5,
     "dateAdded": "2026-02-03",
     "ageRange": "teens",
-    "canonicalSlug": "what-did-the-janitor-say-when-he-jumped-out-of-the-closet"
+    "canonicalSlug": "what-did-the-janitor-say-when-he-jumped-out-of-the-closet",
+    "whyFunny": "'Supplies!' sounds exactly like 'Surprise!' — and the janitor's natural habitat is the supply closet, making this the one situation where a jump-scare and a word about cleaning products are phonetically identical. The context does all the heavy lifting: you don't need to explain a thing, the setup handles it.",
+    "howToTell": "Really commit to the surprise energy when you say 'Supplies!' — throw your hands up or jump slightly if the moment allows. The physical sell makes it land every time.",
+    "perfectFor": [
+      "At an office birthday party when the janitor happens to walk in",
+      "While cleaning out a storage room with coworkers",
+      "Anytime someone pops out unexpectedly from behind a door or cubicle"
+    ]
   },
   {
     "id": "work-006",
@@ -84,7 +119,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-03",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The setup weaponizes recruiting jargon — 'companies are after me' sounds like a rival headhunting pitch, but the reveal flips it to debt collectors. The mundane reality of overdue bills punctures the professional bravado in one perfectly timed list. The boss walked right into it.",
+    "howToTell": "Build the first half with maximum confidence, like you're holding all the cards — then rattle off the utilities quickly. The speed of the deflation is the entire punchline.",
+    "perfectFor": [
+      "During salary negotiations where you're stretching the truth a bit",
+      "At a happy hour when colleagues are trading job offer war stories",
+      "When a coworker brags about being recruited and you need to bring the energy back down"
+    ]
   },
   {
     "id": "work-007",
@@ -98,7 +140,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-04",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Count on' is the key double meaning here — it means emotional reliance, and it's also what calculators literally do. An accountant walking away from a calculator because she can 'only count on herself' is professionally ironic and emotionally relatable at the same time.",
+    "howToTell": "Lean into the dramatic breakup energy — deliver 'she could only count on herself' with theatrical heartbreak. The more soap-opera the reading, the better the math pun lands.",
+    "perfectFor": [
+      "During tax season when the spreadsheet crashes at the worst moment",
+      "At an accounting department team lunch",
+      "When a calculator's battery dies mid-project and someone's genuinely annoyed"
+    ]
   },
   {
     "id": "work-008",
@@ -112,7 +161,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-04",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The joke takes the eco-friendly 'paperless office' trend to its grimly logical conclusion — no paper is fine until it isn't. The punchline doesn't say the quiet part out loud; it just says 'the bathroom,' and everyone's brain does the rest. The gap between progressive policy and basic human need is where the laugh lives.",
+    "howToTell": "Play the setup earnestly, then let 'the bathroom' land with a resigned pause and a slight grimace. The audience needs half a second to connect the dots, and that delay is the joke.",
+    "perfectFor": [
+      "During a company sustainability or go-green initiative meeting",
+      "When IT announces the office is going completely digital",
+      "At any green-office policy kickoff where people are taking it very seriously"
+    ]
   },
   {
     "id": "work-009",
@@ -126,7 +182,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Outstanding in your field' is the gold standard workplace compliment — but scarecrows literally stand in fields all day. The pun is airtight because both meanings are equally accurate: the scarecrow deserves the promotion AND has been physically outstanding in an actual field the entire time.",
+    "howToTell": "Deliver 'outstanding in his field' with the same gravity you'd use in a genuine performance review. The deadpan sells it — if you smile too early, you give away the game.",
+    "perfectFor": [
+      "At an employee awards ceremony or promotion announcement",
+      "When introducing someone as the best in their field",
+      "While driving past a farm field on a company retreat"
+    ]
   },
   {
     "id": "work-010",
@@ -140,7 +203,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This is a rare two-for-one pun: 'canned' means both getting fired AND what happens to juice in a factory, while 'concentrate' means focused attention AND orange juice concentrate. Both pairs land simultaneously. Getting fired for not concentrating at a juice factory hits on every level.",
+    "howToTell": "Pause after 'canned' — let the first meaning register before 'couldn't concentrate' delivers the second layer. The staggered reveal rewards anyone paying attention.",
+    "perfectFor": [
+      "At a job interview when they ask about previous work experience",
+      "While pouring morning OJ before a work meeting",
+      "At an office breakfast when someone asks about your work history"
+    ]
   },
   {
     "id": "work-011",
@@ -154,7 +224,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-06",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The joke exposes a universal truth: only someone entirely removed from the working world could feel genuine joy on a Monday. 'Retired!' is both the logical answer and a small dream — the single word does an enormous amount of emotional work for everyone who's ever hated a Monday morning.",
+    "howToTell": "Let the question hang just long enough for people to wrack their brains — then hit 'Retired!' with cheerful conviction. The simpler the delivery, the harder it lands.",
+    "perfectFor": [
+      "At a Monday morning team standup when the energy is visibly dead",
+      "In the break room while everyone is dragging after the weekend",
+      "At a going-away party for a coworker who's actually retiring"
+    ]
   },
   {
     "id": "work-012",
@@ -169,7 +246,14 @@
     "rating": 5,
     "dateAdded": "2026-02-06",
     "ageRange": "teens",
-    "canonicalSlug": "i-used-to-be-a-banker"
+    "canonicalSlug": "i-used-to-be-a-banker",
+    "whyFunny": "'Lost interest' means both giving up on a job and the literal financial product that bankers deal in. The economy of the pun is its strength — just three words do all the work. A banker who lost interest is failing at the one thing their entire industry runs on.",
+    "howToTell": "Deliver 'lost interest' with a flat, unbothered shrug — the understated tone makes the banking pun hit harder than any dramatic reading could.",
+    "perfectFor": [
+      "When someone asks why you changed careers",
+      "At a finance industry happy hour or networking event",
+      "While waiting in a notoriously long line at the bank"
+    ]
   },
   {
     "id": "work-013",
@@ -184,7 +268,14 @@
     "rating": 4,
     "dateAdded": "2026-02-07",
     "ageRange": "teens",
-    "canonicalSlug": "the-rotation-of-earth-really-makes-my-day"
+    "canonicalSlug": "the-rotation-of-earth-really-makes-my-day",
+    "whyFunny": "'Makes my day' is an idiom for something uplifting — but the Earth's rotation is also literally what creates a day. The single addendum 'Literally.' is what makes this more than a science fact: it reframes a cliché as cosmic precision. The joke is smug in the best possible way.",
+    "howToTell": "Say 'makes my day' sincerely, then add 'Literally.' with a knowing nod and a comfortable pause after it — let the nerdiness marinate before anyone responds.",
+    "perfectFor": [
+      "At a science department meeting or STEM event",
+      "During small talk at a sunrise team-building retreat",
+      "When a coworker says something made their day and you want to redirect the conversation"
+    ]
   },
   {
     "id": "work-014",
@@ -198,7 +289,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-07",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Shifts' means both work shifts (putting in time) and the Shift key on a keyboard. Getting fired from a keyboard factory for not putting in enough Shift keys is both a performance criticism and a product quality issue at the same time — the factory setting makes the pun completely inevitable.",
+    "howToTell": "Say 'putting in enough shifts' in a genuinely offended tone, like the accusation still stings. Bonus points if you mime typing while saying it.",
+    "perfectFor": [
+      "At a tech company team lunch when keyboard preferences come up",
+      "When someone asks why you left your last job",
+      "During a keyboard shortcut training session at work"
+    ]
   },
   {
     "id": "work-015",
@@ -213,7 +311,14 @@
     "rating": 4,
     "dateAdded": "2026-02-08",
     "ageRange": "teens",
-    "canonicalSlug": "why-did-the-invisible-man-turn-down-the-job-offer"
+    "canonicalSlug": "why-did-the-invisible-man-turn-down-the-job-offer",
+    "whyFunny": "'See himself doing it' is the classic job-doubt phrase — but for an invisible man, literally seeing himself is physically impossible. The literal and figurative uses of 'see yourself' crash together with perfect logic. It's a joke where the character's supernatural condition explains an entirely normal professional feeling.",
+    "howToTell": "Ask the question with genuine curiosity, then deliver the punchline as if the answer is obvious — because for an invisible man, it really is.",
+    "perfectFor": [
+      "When declining a job offer or turning down a project that isn't a good fit",
+      "At a career fair when talking about poor job matches",
+      "During a team brainstorm about role assignments"
+    ]
   },
   {
     "id": "work-016",
@@ -227,7 +332,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Hole business' sounds like 'whole business' — the phrase for being done with the entire operation — but in a donut factory, holes are literally the product. The resignation and the job description share the same words. The pun sneaks up on you because 'tired of the whole business' reads perfectly naturally at first.",
+    "howToTell": "Deliver with the weary resignation of someone who has made and stared at too many donuts. You're done — with the job and with the holes.",
+    "perfectFor": [
+      "While eating donuts at an office meeting",
+      "When someone mentions a friend who works at a bakery",
+      "On National Donut Day when the office kitchen fills up"
+    ]
   },
   {
     "id": "work-017",
@@ -241,7 +353,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-09",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Dilates' sounds like 'he delays' — procrastinating or putting things off — while dilating pupils is a genuine optometry procedure. A lazy eye doctor who 'dilates' (delays) everything is professional negligence explained through an eye exam term. The wordplay stacks a medical fact on top of a character flaw.",
+    "howToTell": "Set up 'lazy eye doctor' casually, then slow down slightly on 'dilates' to give the wordplay a moment to register. A slight squint doesn't hurt either.",
+    "perfectFor": [
+      "At an optometrist appointment waiting room when you need to kill time",
+      "When a colleague is chronically late to every single meeting",
+      "At a healthcare industry social or conference mixer"
+    ]
   },
   {
     "id": "work-018",
@@ -255,7 +374,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-09",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Making cents' sounds identical to 'making sense' — the workplace cliché for someone who's lost the plot. At a coin factory, literally stopping production of cents is the actual job failure, while making no sense describes someone who's checked out. Monetary production and workplace logic merge in two words.",
+    "howToTell": "Say 'stopped making cents' with complete seriousness. The homophone does all the funny work if you play it completely straight.",
+    "perfectFor": [
+      "During a performance review conversation about productivity",
+      "At a finance or accounting team meeting",
+      "When explaining to someone why a project got cancelled"
+    ]
   },
   {
     "id": "work-019",
@@ -269,7 +395,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Grew on me' means to gradually like something — but beards literally grow on you, on your face. The pun is sneaky because it reads perfectly as an idiom until you realize the literal interpretation is exactly what a beard does. It works as a genuine sentence and as a biological description simultaneously.",
+    "howToTell": "Tell it like a genuine personal growth story — the naturalness of the delivery is what makes the pun land without warning. If you sound like you're setting up a joke, the payoff shrinks.",
+    "perfectFor": [
+      "When someone at work grows a beard over a long weekend",
+      "At a No-Shave November office check-in",
+      "While discussing personal style changes at a casual team lunch"
+    ]
   },
   {
     "id": "work-020",
@@ -284,7 +417,14 @@
     "rating": 5,
     "dateAdded": "2026-02-10",
     "ageRange": "teens",
-    "canonicalSlug": "why-do-programmers-prefer-dark-mode"
+    "canonicalSlug": "why-do-programmers-prefer-dark-mode",
+    "whyFunny": "'Bugs' means both the software errors every developer dreads AND actual insects that are attracted to light — a basic fact of nature. Dark mode is a genuine programmer preference, so the setup is plausible, and 'light attracts bugs' works as a tech explanation and an entomology lesson at the same time.",
+    "howToTell": "Ask the question in a genuinely puzzled tone, like you've always wondered. Then deliver 'light attracts bugs' with total tech-bro deadpan — no winking, no smiling.",
+    "perfectFor": [
+      "At a developer team standup or sprint planning session",
+      "During a software demo when an actual bug appears on screen",
+      "When onboarding a new developer and explaining the team's IDE preferences"
+    ]
   },
   {
     "id": "work-021",
@@ -298,7 +438,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Kneaded dough' sounds exactly like 'needed dough' — the baker's essential task of kneading bread dough doubles as slang for needing money. The pun is especially tight because the motivation for taking the job (needing cash) happens to match the core job requirement (kneading dough). You couldn't design a better fit.",
+    "howToTell": "Deliver with a sheepish grin, like you're slightly embarrassed you took a job just because you 'kneaded' it financially.",
+    "perfectFor": [
+      "While baking bread with coworkers at a team cooking event",
+      "At a bakery or café where you're celebrating a colleague",
+      "When asked why you took a side job or changed careers"
+    ]
   },
   {
     "id": "work-022",
@@ -313,7 +460,14 @@
     "rating": 5,
     "dateAdded": "2026-02-11",
     "ageRange": "teens",
-    "canonicalSlug": "whats-the-best-thing-about-elevator-jokes"
+    "canonicalSlug": "whats-the-best-thing-about-elevator-jokes",
+    "whyFunny": "'Work on so many levels' is the ultimate meta-pun — elevators literally have levels (floors), and good comedy works on multiple levels simultaneously. This joke proves its own point by being a joke about jokes that is itself funny on multiple levels. It's self-referential, and it earns it.",
+    "howToTell": "Build the setup with genuine enthusiasm, then pause just after 'levels' and let the groan roll in before you add any reaction of your own.",
+    "perfectFor": [
+      "In an actual elevator with coworkers between floors — timing perfection",
+      "At an office comedy night or workplace talent show",
+      "As a warm-up joke at the very start of a meeting or speech"
+    ]
   },
   {
     "id": "work-023",
@@ -327,7 +481,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The joke reframes a low salary as comedy content — the pay is so laughably bad it qualifies as the website's joke. 'Joke' does double duty as a content request and an insult to the compensation package. The employee technically completed the assignment while roasting the company simultaneously.",
+    "howToTell": "Say 'so I put up my salary' with complete pride, as if you nailed the brief and went above and beyond the assignment.",
+    "perfectFor": [
+      "During a salary negotiation that isn't going your way",
+      "At a company all-hands when compensation comes up",
+      "At a happy hour venting session about pay transparency"
+    ]
   },
   {
     "id": "work-024",
@@ -341,7 +502,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Other slide' swaps 'other side' from the world's most famous joke with 'slide' — a PowerPoint term. It's a format parody that works because everyone knows the original structure, so the substitution is instant and satisfying. The joke earns extra points for using presentation software as a vehicle.",
+    "howToTell": "Use the exact same earnest delivery as the original chicken joke — the format familiarity is the setup. Swap in 'slide' with a straight face and let the recognition do the work.",
+    "perfectFor": [
+      "Right before kicking off a work presentation to warm up the room",
+      "During a meeting when transitioning to the next slide",
+      "At an office trivia night with a PowerPoint-themed round"
+    ]
   },
   {
     "id": "work-025",
@@ -355,7 +523,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-13",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Make up everything' is already a classic atom pun (atoms literally make up all matter) — but adding 'including excuses for being late' grounds the science joke in a relatable office complaint. The second half extends what could've been a quick science pun into a whole workplace character flaw.",
+    "howToTell": "Start the punchline at a confident clip, then tack on 'including excuses for being late' like it just occurred to you. The afterthought delivery makes it feel spontaneous.",
+    "perfectFor": [
+      "At a science company or research lab office party",
+      "During a meeting when someone arrives late with an elaborate excuse",
+      "At a STEM happy hour where everyone knows the atom joke already"
+    ]
   },
   {
     "id": "work-026",
@@ -369,7 +544,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'I needed a break' is a burnout complaint — but the computer interprets it as a search query and serves up Kit-Kat ads, whose entire tagline is 'Have a break.' The joke skewers targeted advertising while capturing the very real WFH experience of your devices knowing too much about your emotional state.",
+    "howToTell": "Sound genuinely baffled and slightly betrayed by the targeted ads — the confusion needs to feel real because honestly, it's not far from actual reality.",
+    "perfectFor": [
+      "During a WFH burnout conversation with remote teammates",
+      "When someone complains about creepy ad targeting on their phone",
+      "At a mental health awareness day event at the office"
+    ]
   },
   {
     "id": "work-027",
@@ -383,7 +565,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Excel 'cells' are the grid squares of a spreadsheet, but 'issues in every cell' also reads as mental health language for deep-seated problems. The therapy framing makes the tech metaphor feel warm and relatable — the spreadsheet is burnt out, and frankly, so is everyone who maintains it.",
+    "howToTell": "Deliver with genuine empathy for the spreadsheet — it's been through a lot. A concerned tone makes the pun land more softly than playing it as a punchline.",
+    "perfectFor": [
+      "After a grueling data cleanup project that took three times as long as expected",
+      "During an Excel training session that has gone very off the rails",
+      "At an accounting or finance team outing when everyone needs to laugh"
+    ]
   },
   {
     "id": "work-028",
@@ -397,7 +586,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'About time!' is an exclamation of impatience — meaning something was long overdue — and also a literal description of what a clock factory is about: time. The phrase serves as both an exasperated reaction and a product description. The overlap is clean and instant.",
+    "howToTell": "Say 'about time!' with a triumphant flourish, as if you'd been waiting years for this job to come through. The enthusiasm makes the double meaning funnier.",
+    "perfectFor": [
+      "When announcing you finally landed a new job after a long search",
+      "At a watchmaker's trade show or horological event",
+      "When someone shows up late to work and you want to roast them gently"
+    ]
   },
   {
     "id": "work-029",
@@ -411,7 +607,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-02",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Multiply her efforts' uses a math operation — multiplication — as a productivity metaphor. A math teacher who multiplies her efforts is both professionally impressive and mathematically literal. The alignment between the subject she teaches and the reason she was promoted is what makes the pun feel earned rather than forced.",
+    "howToTell": "Say 'multiply her efforts' like it's a direct quote from the performance review — the corporate sincerity is what brings out the math pun.",
+    "perfectFor": [
+      "At a teacher appreciation event or education conference",
+      "When praising a math-savvy coworker who genuinely multitasks at a high level",
+      "During a back-to-school season office chat"
+    ]
   },
   {
     "id": "work-030",
@@ -425,7 +628,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-03",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'We'll see about that!' is the universal idle threat — but in context, it IS the vengeance behavior the boss just warned about. The response simultaneously denies the accusation and proves it. The joke is a logical trap that closes perfectly in five words.",
+    "howToTell": "Deliver 'We'll see about that' with calm, measured menace — not shouting, not frantic. The restraint is what makes it menacing and funny at the same time.",
+    "perfectFor": [
+      "After getting a bad performance review when you need to channel the energy somewhere",
+      "When a coworker steals your credit on a project again",
+      "At a work happy hour roasting the boss safely behind their back"
+    ]
   },
   {
     "id": "work-031",
@@ -439,7 +649,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-03",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Folded' means a business went bankrupt — and it's exactly what you do with a blanket. The word fits so naturally in both contexts that the punchline feels inevitable. Getting the double meaning requires zero explanation because the factory product and the business failure share one perfect verb.",
+    "howToTell": "Deliver 'but it folded' with the casual resignation of someone who's made peace with the company going under and moved on.",
+    "perfectFor": [
+      "When discussing a startup that went out of business",
+      "When a coworker's previous employer went under and the story comes up",
+      "At a business school alumni event swapping war stories"
+    ]
   },
   {
     "id": "work-032",
@@ -453,7 +670,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Reflect on your performance' is standard performance review language — and mirrors literally reflect. Bringing a physical mirror as a self-assessment tool takes the metaphor to its most absurd literal conclusion. The employee is following HR advice to the letter.",
+    "howToTell": "Ask the setup with a puzzled look, then deliver 'reflect on his performance' in the measured tone of an HR rep explaining annual review protocols.",
+    "perfectFor": [
+      "During annual performance review season when everyone is suddenly very self-aware",
+      "At a professional development or leadership coaching workshop",
+      "When a coworker is either unusually introspective or completely oblivious"
+    ]
   },
   {
     "id": "work-033",
@@ -467,7 +691,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-04",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Lying on the job' normally means dishonesty at work — but in a mattress factory, lying on mattresses is literally the testing process. The workplace misconduct accusation turns out to be the most reasonable occupational activity imaginable. Getting fired for doing your job correctly is the punchline.",
+    "howToTell": "Sound appropriately scandalized by the accusation — because in a mattress factory, what else would you do? The outrage at the injustice sells it.",
+    "perfectFor": [
+      "When telling stories about the strangest job you ever had",
+      "At a mattress store when the salesperson demonstrates how to test a bed",
+      "On a lazy Friday when it's clear everyone has checked out"
+    ]
   },
   {
     "id": "work-034",
@@ -481,7 +712,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-05",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Dino-snore' blends 'dinosaur' and 'snore' into one goofy portmanteau — a sleeping prehistoric creature in an office break room is absurd enough, and the snoring pun makes the absurdity official. It's designed to make kids groan and adults smile at how committed the wordplay is.",
+    "howToTell": "Say 'dino-snore' with enthusiastic emphasis — you have to commit to the bit completely or the silly portmanteau falls flat.",
+    "perfectFor": [
+      "When a coworker visibly falls asleep during a long meeting",
+      "At a team lunch where someone is clearly running on zero sleep",
+      "At a bring-your-kid-to-work day or any kid-friendly office event"
+    ]
   },
   {
     "id": "work-035",
@@ -495,7 +733,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Draining' means both exhausting or demoralizing AND the literal act of draining a pool. The job complaint and the core task of the job are described by the exact same word. It's a rare case where the wordplay requires zero stretch — pool maintenance really is draining, in every sense.",
+    "howToTell": "Say 'the work was draining' with maximum fatigue in your voice, like you could feel the energy leaving your body. The tiredness needs to be real.",
+    "perfectFor": [
+      "At a summer team outing near a pool when someone asks about side gigs",
+      "When someone complains about an exhausting project that never seemed to end",
+      "At a neighborhood BBQ where the pool conversation comes up"
+    ]
   },
   {
     "id": "work-036",
@@ -509,7 +754,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-06",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Coffee comes in a mug, and 'getting mugged' is slang for being robbed. The coffee was literally mugged — placed into a mug — but the police-report framing treats this as an assault. Elevating a morning ritual to a crime scene gives the office's most important beverage the dramatic arc it deserves.",
+    "howToTell": "Play the setup with full true-crime seriousness — the more gravely you treat the coffee's trauma, the harder the punchline hits.",
+    "perfectFor": [
+      "At the office coffee machine first thing on a Monday morning",
+      "When someone steals a coworker's labeled coffee mug from the kitchen",
+      "At a team meeting where someone arrives clutching their cup like a lifeline"
+    ]
   },
   {
     "id": "work-037",
@@ -523,7 +775,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-06",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Brief' means both a short document and the adjective for being concise. A two-word resume is extremely brief, and the self-satisfied explanation 'I like to keep things brief' is itself brief — the joke is meta about its own economy. It also gently mocks the advice to keep your resume to one page, taken to an extreme.",
+    "howToTell": "Deliver 'I like to keep things brief' with a satisfied nod, like you've single-handedly solved the hiring process.",
+    "perfectFor": [
+      "At a networking event when someone asks about your resume",
+      "During a job fair when small talk turns to career documents",
+      "When helping a friend revise a resume that is definitely too long"
+    ]
   },
   {
     "id": "work-038",
@@ -537,7 +796,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Fire hydrants have no-parking zones — so a factory full of them would technically be surrounded by a massive no-parking perimeter stretching in every direction. The joke applies the fire hydrant traffic rule literally and at scale, turning a city ordinance into a catastrophic employee commute problem.",
+    "howToTell": "Say it matter-of-factly, like this was a genuine daily frustration that finally made you quit. The logistical complaint needs to feel real.",
+    "perfectFor": [
+      "When circling for parking in a frustrating urban area",
+      "During a work commute complaint session when parking stories get competitive",
+      "At a city planning or municipal government professional event"
+    ]
   },
   {
     "id": "work-039",
@@ -551,7 +817,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-07",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Cache' (computer memory storage) sounds exactly like 'cash' — the developer burned through their financial savings, but the pun frames it as exhausted computer cache. The financial recklessness and the technical oversight are described by one phonetically perfect word.",
+    "howToTell": "Say 'all his cache' with a rueful shake of the head — make the financial regret and the technical term feel indistinguishable.",
+    "perfectFor": [
+      "At a developer team happy hour when someone orders the expensive round",
+      "When discussing startup burn rate at a tech networking event",
+      "During a code review when someone notes the app is running out of memory"
+    ]
   },
   {
     "id": "work-040",
@@ -565,7 +838,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-08",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Spell disaster' typically means to be a catastrophe — but Scrabble tiles literally spell things, and a bathroom trip after swallowing them could literally spell out words. The dual meaning of 'spell' and the Scrabble scenario collide with perfect logic. The absurdity of the scenario makes the wordplay feel earned.",
+    "howToTell": "Set up the Scrabble swallowing with concern, then deliver 'spell disaster' with dawning horror — like you just realized the pun as you said it.",
+    "perfectFor": [
+      "During a board game night at the office or a team game event",
+      "At a Scrabble club or word game competition",
+      "During a casual desk-side conversation about weird workplace mishaps"
+    ]
   },
   {
     "id": "work-041",
@@ -579,7 +859,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-08",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Holding up' means both physically supporting pants AND committing a robbery. The belt is guilty of doing its literal job — suspending trousers — but the framing makes it a workplace crime when that's happening during business hours. The absurdity of pressing charges against office accessories is the entire joke.",
+    "howToTell": "State the arrest with mock severity, like this is a serious HR violation. The committed corporate tone makes the silliness of a belt on trial much funnier.",
+    "perfectFor": [
+      "During a workplace dress code discussion or policy update meeting",
+      "When HR sends an email about professional attire standards",
+      "When someone shows up on casual Friday a bit too casual"
+    ]
   },
   {
     "id": "work-042",
@@ -593,7 +880,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Helium makes voices go high and squeaky — anyone at a helium factory would be surrounded by that sound all day. 'I refuse to be spoken to in that tone!' takes wounded offense at the inevitable helium voice, as if the factory's entire output is a personal affront. The mock dignity is what makes it funny.",
+    "howToTell": "Deliver with maximum wounded dignity — the more offended you sound, the funnier the implication of constant helium-voice exposure becomes.",
+    "perfectFor": [
+      "At a party right after someone inhales a balloon and talks like a cartoon",
+      "When a coworker does an annoying silly voice impression during a meeting",
+      "At a science fair or chemistry demo where helium balloons are involved"
+    ]
   },
   {
     "id": "work-043",
@@ -607,7 +901,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-09",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Put your foot down' means to assert yourself firmly — but flamingos famously stand on one foot, so putting the foot down is literally the opposite of flamingo behavior. The idiom for standing up to authority and the correction of the flamingo stance are described by the exact same physical act.",
+    "howToTell": "Say 'I had to put my foot down' with quiet, composed determination. The stillness of the delivery gives the flamingo punchline room to bloom.",
+    "perfectFor": [
+      "When standing up to a difficult boss or unreasonable client request",
+      "During a conflict resolution or assertiveness training workshop",
+      "At a zoo or wildlife event where someone points out the flamingos"
+    ]
   },
   {
     "id": "work-044",
@@ -621,7 +922,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Hold things together' is an emotional idiom for coping under pressure — and also exactly what a stapler's job is. The office supply having an existential breakdown that mirrors overworked employee burnout is poignant and funny in equal measure. The stapler's resignation is completely justified.",
+    "howToTell": "Deliver 'couldn't hold things together anymore' with genuine sympathy for the stapler — it's been through a lot, and it deserves acknowledgment.",
+    "perfectFor": [
+      "During a brutal end-of-quarter crunch when morale is visibly crumbling",
+      "When the office supplies are running dangerously low and nobody's ordered more",
+      "At a team meeting right after a chaotic project finally wraps"
+    ]
   },
   {
     "id": "work-045",
@@ -635,7 +943,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Rip-off' means a scam or a bad deal — but velcro literally makes a ripping sound when it separates. The bitter job complaint and the sonic signature of velcro are captured in exactly the same two words. The economy of the pun is the whole appeal.",
+    "howToTell": "Say 'what a rip-off!' with genuine bitterness, like you're still not over the whole experience. The resentment needs to feel real.",
+    "perfectFor": [
+      "When venting about a bad freelance gig or terrible side job",
+      "At a craft fair or maker event where someone's jacket has a loud velcro strap",
+      "When someone rips a velcro closure loudly during a quiet meeting"
+    ]
   },
   {
     "id": "work-046",
@@ -649,7 +964,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-11",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Shelf-ish' sounds like 'selfish' while evoking the shelf where snacks live. A coworker who hoards food on a metaphorical shelf — not sharing, not contributing — is petty-office-behavior gold. The pun earns its place because the snack location and the personality flaw collide in one word.",
+    "howToTell": "Deliver 'shelf-ish!' with a meaningful look toward the snack area or the kitchen, as if you're subtly calling out a specific person in the room.",
+    "perfectFor": [
+      "In the break room when the communal snack stash keeps mysteriously depleting",
+      "During a team bonding event organized around food sharing",
+      "At a potluck where someone reliably shows up empty-handed"
+    ]
   },
   {
     "id": "work-047",
@@ -663,7 +985,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-11",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The setup sounds like a classic salary negotiation power play — rival companies are recruiting you. The reveal flips it completely: these 'companies' are utility providers chasing unpaid bills. The specific trio of electricity, water, and internet feels painfully accurate to modern life, which is what elevates it beyond the similar version with older utility names.",
+    "howToTell": "Build the first half with all the confidence of someone holding a competing offer letter, then list the utilities fast — the speed of the crash-landing is the whole punchline.",
+    "perfectFor": [
+      "Right before a performance review where you're angling for a raise",
+      "At a happy hour with colleagues venting about salary and cost of living",
+      "During a team lunch when rent and bills inevitably come up"
+    ]
   },
   {
     "id": "work-048",
@@ -677,7 +1006,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-12",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Ink-digestion' sounds like 'indigestion' — the common stomach ailment — while incorporating 'ink,' the pen's essential substance. A pen suffering from an ink-related digestive complaint is the kind of absurd office supply anthropomorphism that works because it takes the setup completely seriously.",
+    "howToTell": "Ask with genuine concern, then deliver 'ink-digestion' as if it's an actual medical diagnosis being read off a chart.",
+    "perfectFor": [
+      "During a meeting when someone's pen dramatically runs dry",
+      "At an office supply restocking run when someone grabs a pen",
+      "While signing a long stack of contracts or paperwork with a coworker"
+    ]
   },
   {
     "id": "work-049",
@@ -691,7 +1027,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-12",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Going through the reams' sounds like 'going through the motions' — the idiom for doing things mechanically without meaning. Reams are units of paper, and a paper company employee processing reams endlessly has made the workplace routine and the literal product the same image of joyless repetition.",
+    "howToTell": "Say it with the dull, hollow tone of someone who has processed their ten-thousandth ream and lost all sense of time and purpose.",
+    "perfectFor": [
+      "In conversation about a repetitive desk job that felt like Groundhog Day",
+      "At an office supply store when someone grabs the largest pack of paper",
+      "When the printer jams again and you have to reload paper for the fifth time today"
+    ]
   },
   {
     "id": "work-050",
@@ -705,7 +1048,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-13",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'A little lighter' earns its keep twice — a Zippo is physically small and light, AND a lighter is what a Zippo produces. The hippo-Zippo rhyme sets up the contrast perfectly, and the word 'lighter' carries both the weight comparison and the function of the product in one compact phrase.",
+    "howToTell": "Ask the question conspiratorially, like you've been sitting on this one all day. Let 'a little lighter' land with a knowing grin — the rhyme makes the setup playful enough that the double meaning feels like a reward.",
+    "perfectFor": [
+      "At a work picnic or BBQ when someone is fumbling with a lighter",
+      "During a trivia night at the office or a bar outing",
+      "As a warm-up joke at the very start of a team meeting or presentation"
+    ]
   },
   {
     "id": "work-051",
@@ -719,7 +1069,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Going in circles' is the universal frustration of unproductive meetings — but it also literally describes circular motion, which echoes the agenda that never gets anywhere. The metaphor is both critiquing and embodying the problem. Every person who's ever sat in a recurring meeting that accomplishes nothing feels this.",
+    "howToTell": "Deliver with the exhausted fatalism of someone who's sat through one too many hour-long meetings about scheduling the next meeting.",
+    "perfectFor": [
+      "Before a recurring weekly standup that somehow never accomplishes anything",
+      "During a retrospective where everyone is openly frustrated",
+      "At an office party roasting the company's meeting culture"
+    ]
   },
   {
     "id": "work-052",
@@ -733,7 +1090,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The gap between the Slack status we set and what we're actually doing is a near-universal remote work truth. 'Focusing' is the white lie everyone tells while watching the clock. The punchline turns a relatable digital performance into a confession that lands because it's true for nearly everyone in the room.",
+    "howToTell": "Say it with just a hint of guilt and a conspiratorial smile — this is a confession, not a boast. The eye contact makes it funnier.",
+    "perfectFor": [
+      "During a remote work all-hands meeting when someone brings up productivity",
+      "At a coworker's WFH desk setup tour when Slack is visible on screen",
+      "During an 11:45am team check-in call when everyone is clearly preoccupied with lunch"
+    ]
   },
   {
     "id": "work-053",
@@ -747,7 +1111,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Unresolved issues' is therapy-speak for emotional baggage — but a report's actual problems are also called issues. A document with data gaps, conflicting findings, and formatting errors literally has too many issues that were never resolved. The mental health metaphor and the project management reality share the exact same vocabulary.",
+    "howToTell": "Deliver the punchline in the measured, slightly concerned tone of a therapist explaining a patient's situation in a case review.",
+    "perfectFor": [
+      "During an end-of-quarter reporting crunch when the data won't cooperate",
+      "When an analyst's report gets returned with seventeen pages of reviewer comments",
+      "At a data or analytics team happy hour when everyone needs to decompress"
+    ]
   },
   {
     "id": "work-054",
@@ -761,7 +1132,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The boss's insult ('turning this place into a circus') gets spun into a compliment via 'juggling tasks' — both a circus skill and a productivity term. The employee reframes pointed criticism as a performance highlight, which is peak workplace self-preservation instinct expressed through a perfectly placed pun.",
+    "howToTell": "React to 'circus' with a brief, genuine pause of consideration — then deliver 'juggling tasks' with sincere pride, as if you completely missed that it was an insult.",
+    "perfectFor": [
+      "After a chaotic week at work when everything was simultaneously on fire",
+      "In a performance review meeting that is visibly going sideways",
+      "At a company all-hands when you need something to break the tension"
+    ]
   },
   {
     "id": "work-055",
@@ -775,7 +1153,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Strong connection' means a good signal in network terms — but in workplace culture, connecting with colleagues is considered essential to getting promoted. The WiFi's technical capability becomes a metaphor for professional networking, and the pun works because both meanings are completely legitimate reasons for promotion.",
+    "howToTell": "Deliver 'strong connection' with the enthusiasm of a manager announcing the most well-deserved promotion they've ever seen. The sincerity makes the tech pun land.",
+    "perfectFor": [
+      "At an IT department appreciation event or tech team gathering",
+      "Right after the office WiFi comes back from a catastrophic outage",
+      "During a networking event when someone talks about making professional connections"
+    ]
   },
   {
     "id": "work-056",
@@ -789,7 +1174,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The response is the very thing it denies — claiming to be 'the best' at anything is inherently competitive. The self-own proves the coworker's point while technically offering a defense. It's a perfectly constructed logical loop that the speaker hasn't noticed at all.",
+    "howToTell": "Say 'I was the best at not being competitive' with total, unironic sincerity. The oblivious confidence is the entire joke — any hint of self-awareness kills it.",
+    "perfectFor": [
+      "During an office team sports day or friendly competition event",
+      "At a sales team gathering where competitive energy is always in the air",
+      "When someone accuses you of being the most competitive person in any group setting"
+    ]
   },
   {
     "id": "work-057",
@@ -803,7 +1195,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Pressed to meet you' merges 'pleased to meet you' with the printing press action — printers literally press ink onto paper in the print process. The social formality of an introduction and the mechanical process of printing collapse into one polite greeting from an office appliance.",
+    "howToTell": "Say 'pressed to meet you' with the formal warmth of a first handshake — the printer's genuine good manners make it funnier than playing it for laughs.",
+    "perfectFor": [
+      "When setting up a new office printer for the first time",
+      "During an IT onboarding session when explaining equipment to a new hire",
+      "When someone complains the printer is impossible to work with — again"
+    ]
   },
   {
     "id": "work-058",
@@ -817,7 +1216,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Slipping up' means making repeated mistakes at work — but banana peels are the iconic slip hazard. Getting fired from a banana factory for slipping up is simultaneously a performance failure and an occupational hazard that feels completely inevitable given the workplace. The job made you do it.",
+    "howToTell": "Sound genuinely offended by the unfairness of the dismissal — slipping up at a banana factory is practically part of the job description.",
+    "perfectFor": [
+      "When telling embarrassing workplace stories at happy hour",
+      "At a grocery store break room with produce-section coworkers",
+      "When someone brings a bunch of bananas to the office and it becomes the talk of the kitchen"
+    ]
   },
   {
     "id": "work-059",
@@ -831,7 +1237,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Cool manner' means both a calm, composed way of doing things AND a literally cool temperature. The HVAC system gets reframed as a professional development tool — keeping employees climatically chill enough to submit deliverables without losing their composure. The pun makes OSHA-compliant temperature management sound aspirational.",
+    "howToTell": "Deliver the answer with the confidence of someone who has unified thermodynamics and professional etiquette in a single sentence.",
+    "perfectFor": [
+      "When the office air conditioning breaks down in the middle of summer",
+      "At a facilities management or building operations team meeting",
+      "On a scorching Monday morning when everyone arrives sweaty and irritable"
+    ]
   },
   {
     "id": "work-060",
@@ -845,7 +1258,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Think outside the box' is the most overused corporate directive in history — the joke treats it as a literal spatial instruction and executes accordingly. Moving a desk to the parking lot is the most obedient possible misreading of the phrase. The employee followed the advice to the letter; the box is the building.",
+    "howToTell": "Deliver with the straight-faced logic of someone who genuinely believes they nailed the assignment. No irony, no winking — just proud compliance.",
+    "perfectFor": [
+      "During a brainstorming session the moment someone says 'think outside the box'",
+      "At a creative team offsite or innovation workshop full of corporate buzzwords",
+      "When the office culture is especially jargon-heavy and someone needs to deflate it"
+    ]
   },
   {
     "id": "work-061",
@@ -859,7 +1279,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Phishing' is the cybersecurity crime of fraudulent emails — and it sounds exactly like 'fishing.' An email getting arrested for phishing is a cybercrime pun that simultaneously works as a fishing pun. It's one of the rare tech jokes that's immediately accessible to anyone, regardless of their IT knowledge.",
+    "howToTell": "Treat the email's arrest with the gravity of a cyber crimes briefing. The more serious the delivery, the harder the fishing/phishing punchline lands.",
+    "perfectFor": [
+      "During a workplace cybersecurity awareness training session",
+      "Right after IT sends the monthly phishing simulation email to the whole company",
+      "At a tech or IT security happy hour when hacking stories start flying"
+    ]
   },
   {
     "id": "work-062",
@@ -873,7 +1300,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'No reaction' means the joke bombed — dead silence, zero laughs — but in chemistry, a reaction is the entire goal of any experiment. Failing to get a reaction from a colleague with a chemistry joke means failing at comedy AND chemistry simultaneously. The joke is doubly self-deprecating.",
+    "howToTell": "Deliver 'no reaction' with the deflation of someone used to this outcome — because a chemistry joke that doesn't land has failed on two levels, and you know it.",
+    "perfectFor": [
+      "At a science company office party or lab team gathering",
+      "When your joke completely misses in a meeting and you need to acknowledge it",
+      "During a chemistry class or lab event where the puns are flowing"
+    ]
   },
   {
     "id": "work-063",
@@ -887,7 +1321,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Its days were numbered' is an idiom for something approaching its end — but a calendar's entire purpose IS to have numbered days. The reason for firing the calendar is literally its defining feature. The pun works because the calendar can't change what it is, which makes the dismissal feel tragically unfair.",
+    "howToTell": "Deliver 'its days were numbered' with the gravity of an HR announcement. Let the calendar's inherent numbering sink in before anyone responds.",
+    "perfectFor": [
+      "When a coworker is placed on a performance improvement plan",
+      "At the end of the year when the old calendar finally comes down",
+      "During a project post-mortem when timeline management is being discussed"
+    ]
   },
   {
     "id": "work-064",
@@ -901,7 +1342,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The first two definitions are a real management distinction that gets quoted in leadership seminars — then 'dad' crashes the corporate framework with a classic road trip threat transplanted into a conference room. The absurdity of threatening to turn a Zoom call around is peak dad-joke energy applied to organizational theory.",
+    "howToTell": "Play the first two definitions earnestly, like you're teaching a management class, then shift to a weary, over-it dad voice for the punchline — the tonal whiplash is everything.",
+    "perfectFor": [
+      "At a leadership training workshop when the content is getting a little self-serious",
+      "During a management offsite or executive retreat",
+      "When you're literally a dad running a family business meeting"
+    ]
   },
   {
     "id": "work-065",
@@ -915,7 +1363,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Getting fired' from human cannonball work is both the standard workplace dismissal AND the literal description of being shot from a cannon. The job title contains its own termination mechanism — you cannot be a human cannonball without being fired. It's a pun that was baked into the career from day one.",
+    "howToTell": "Sound authentically surprised by the firing — like you genuinely didn't see it coming, even though it was literally the job description.",
+    "perfectFor": [
+      "At a career fair when discussing unusual or unconventional jobs",
+      "When someone asks about the strangest thing you've ever been paid to do",
+      "At a circus-themed company party or team event"
+    ]
   },
   {
     "id": "work-066",
@@ -929,7 +1384,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This is a callback to the scarecrow promotion joke — the scarecrow is so consistently 'outstanding in his field' that he keeps winning Employee of the Month. The word 'again' in the setup acknowledges the joke's own repetition, adding a self-aware meta layer. The scarecrow's consistency is admirable and infuriating.",
+    "howToTell": "Say 'still outstanding in his field' with the weary admiration of a coworker who has genuinely tried to compete and can't figure out how the scarecrow keeps doing it.",
+    "perfectFor": [
+      "When the same person wins Employee of the Month for the third consecutive month",
+      "At an awards ceremony celebrating consistent long-term performers",
+      "At an agricultural company or farm-adjacent business team event"
+    ]
   },
   {
     "id": "work-067",
@@ -943,7 +1405,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The virtual beach background as a vacation substitute is a painfully relatable remote-work cope. The joke crystallizes the modern worker's relationship with PTO — decorating your digital space with paradise while your actual body hasn't left the apartment in weeks. The quarter-specific framing makes the desperation feel very real.",
+    "howToTell": "Deliver with cheerful resignation — yes, this is fine, everything is fine, the beach pixels are enough. The acceptance is funnier than any bitterness.",
+    "perfectFor": [
+      "During a Monday morning Zoom meeting when everyone looks thoroughly depleted",
+      "At a remote team check-in after a vacation was canceled due to workload",
+      "During peak Q4 crunch when PTO approval is functionally impossible"
+    ]
   },
   {
     "id": "work-068",
@@ -957,7 +1426,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Too soft on the job' means lenient or lacking toughness — but pillows ARE soft, and being soft at a pillow factory is literally the ideal professional qualification. Getting dismissed for the one trait that should make you perfect for the role is the core comic injustice of the joke.",
+    "howToTell": "Sound genuinely wronged — you were giving 100% pillow energy, the product was perfect, and they still let you go. The indignation needs to feel real.",
+    "perfectFor": [
+      "When someone complains about being too nice or accommodating at work",
+      "At a mattress or bedding industry trade show or expo",
+      "During a team discussion about workplace performance standards"
+    ]
   },
   {
     "id": "work-069",
@@ -971,7 +1447,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Computer viruses are cybersecurity threats — but 'a virus' also describes a biological illness you'd take to a doctor. The computer visiting a general practitioner for a software infection bridges the tech world and the medical world, treating a digital problem as a genuine health emergency.",
+    "howToTell": "Ask the setup with concern, then deliver 'because it had a virus' as if diagnosing a real patient. The medical gravitas makes the tech pun work.",
+    "perfectFor": [
+      "During IT Awareness Week or a company technology update",
+      "Right after someone's computer gets hacked or infected with malware",
+      "At a company health fair that has a tech booth alongside the wellness stations"
+    ]
   },
   {
     "id": "work-070",
@@ -985,7 +1468,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Brief' is both a short meeting AND underwear — specifically briefs. Saying 'I'm already wearing pants' is the perfect deflection that proves you heard 'briefs' instead of 'brief,' while also being a delightfully non-sequitur clarification. The innocent sincerity of the misunderstanding is what makes it land.",
+    "howToTell": "Respond as if this is a completely reasonable and helpful clarification of a genuine misunderstanding. The confused sincerity of someone who genuinely misheard is everything.",
+    "perfectFor": [
+      "When a coworker Slacks you asking for a quick sync",
+      "At any meeting invite that says 'brief check-in' in the subject line",
+      "During a Monday morning calendar review when someone pitches another meeting"
+    ]
   },
   {
     "id": "work-071",
@@ -999,7 +1489,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Conductor' in electrical terms means a material that carries current — but a conductor of business is someone who runs things efficiently. The electrician's professional expertise doubles as a management metaphor, and the alignment between the trade skill and the leadership quality is precise enough to feel genuinely earned.",
+    "howToTell": "Announce the promotion with genuine pride, as if 'conductor of business' is an actual title being bestowed at a ceremony.",
+    "perfectFor": [
+      "At an electrician's retirement party or work anniversary celebration",
+      "When celebrating a promotion at a trades or construction company",
+      "During a facilities or building management team event"
+    ]
   },
   {
     "id": "work-072",
@@ -1013,7 +1510,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'See myself there' is the quintessential job-interview phrase for imagining your future at a company — but at a mirror factory, literally seeing yourself is what you do every time you look at the product. The introspective career expression and the mirror's function are the same action described two ways.",
+    "howToTell": "Deliver with nostalgic warmth, as if you're genuinely reflecting on a role that showed you who you are — the sincerity makes the pun hit harder.",
+    "perfectFor": [
+      "During a job interview prep session when discussing fit with a company",
+      "At a career coaching workshop about professional identity",
+      "When a coworker asks where you picture yourself in five years"
+    ]
   },
   {
     "id": "work-073",
@@ -1027,7 +1531,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Agile sprints' is software development jargon — short bursts of focused work in a scrum framework — but sprints are also literal running exercises at the gym. The project team jogging laps to improve their development velocity is the most committed possible misinterpretation of the methodology.",
+    "howToTell": "Say 'agile sprints' with the enthusiasm of a scrum master who also happens to be a certified personal trainer. The overlap should feel completely natural.",
+    "perfectFor": [
+      "At a developer team standup or sprint retrospective",
+      "During an agile training or certification event",
+      "At a tech company wellness week or gym reimbursement benefit announcement"
+    ]
   },
   {
     "id": "work-074",
@@ -1041,7 +1552,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Link to my couch' parodies LinkedIn's professional networking language with the remote worker's most reliable actual connection — the sofa. The response deflects a professional development question with the honest reality of WFH productivity, and the couch framed as a network connection is quietly devastating.",
+    "howToTell": "Sound genuinely proud of the couch connection — it's stable, always available, and has never gone offline. The pride is what sells it.",
+    "perfectFor": [
+      "During a performance review where your boss wants you to network more",
+      "At a career development workshop about building your personal brand online",
+      "At a remote work team offsite when commuting and connectivity come up"
+    ]
   },
   {
     "id": "work-075",
@@ -1055,7 +1573,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Outstanding at her desk' riffs on 'outstanding in her field' — the classic compliment — but grounds it literally in the receptionist's actual location. The award is essentially for superior desk presence, which sounds impressive until you realize it means she stood at her desk really well. The mundane wins.",
+    "howToTell": "Present the award with full ceremony and sincerity — 'outstanding at her desk' should be delivered as if it's a real, prestigious category at the company's annual awards gala.",
+    "perfectFor": [
+      "During Administrative Professionals Day appreciation events",
+      "At an office awards ceremony looking for a light moment",
+      "When nominating someone for Employee of the Month and you want to break the tension"
+    ]
   },
   {
     "id": "work-076",
@@ -1069,7 +1594,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Too much of a grind' means relentless, exhausting work — and grinding coffee beans is literally what a coffee shop does all day. The complaint about burnout and the core task of the job are described by the same word. It's one of those puns where the literal and figurative meanings are perfectly, indistinguishably matched.",
+    "howToTell": "Say 'too much of a grind' with the bone-tired honesty of someone who's been on their feet since 5am pulling shots for eight hours straight.",
+    "perfectFor": [
+      "At the office coffee machine during a mid-morning break",
+      "When a barista friend vents about their shift at a coffee shop",
+      "On National Coffee Day when coworkers gather around the espresso machine"
+    ]
   },
   {
     "id": "work-077",
@@ -1083,7 +1615,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The punchline is both a pun and a genuine opinion — 'a waste of time' describes a snack-less meeting factually while also being a statement every meeting attendee has whispered at least once. The joke works because it validates a real feeling while technically delivering a punchline.",
+    "howToTell": "Deliver with the passionate conviction of someone who considers the snack table a non-negotiable, KPI-level component of any successful meeting.",
+    "perfectFor": [
+      "When scheduling a catered office event and snacks are being debated as a budget item",
+      "Before an all-hands meeting where someone forgot to order anything",
+      "The moment everyone realizes the conference room is empty of food and the meeting is starting anyway"
+    ]
   },
   {
     "id": "work-078",
@@ -1097,7 +1636,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Too many columns between them' is a real Excel structural issue — spreadsheets have columns, and too many create distance — repurposed as relationship incompatibility. The breakup metaphor frames a software formatting conflict as romantic estrangement, and spreadsheet columns make surprisingly apt emotional barriers.",
+    "howToTell": "Narrate the breakup with the gravity of a relationship counselor explaining why two formats were never truly compatible.",
+    "perfectFor": [
+      "During an Office 365 training session when Word and Excel integration comes up",
+      "When a coworker is desperately trying to paste Excel data into a Word document",
+      "At a data analytics team happy hour when software complaints start flowing"
+    ]
   },
   {
     "id": "work-079",
@@ -1111,7 +1657,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Same old rubbish' is a British-inflected way to say boring, repetitive work — but at a recycling plant, rubbish (trash) is literally what you process every single day. The monotony of the job and its literal contents are described by exactly the same words. The complaint IS the job description.",
+    "howToTell": "Say 'same old rubbish' with the flat exhaustion of someone who has sorted mountains of bottles and cans and lost count of which millennium it is.",
+    "perfectFor": [
+      "When commiserating about repetitive tasks that never seem to end",
+      "On Earth Day or during a sustainability awareness event at the office",
+      "During a recycling facility tour when someone asks what the work is like"
+    ]
   },
   {
     "id": "work-080",
@@ -1125,7 +1678,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Dress for the job you want' is standard career advice — the joke reveals that the speaker's ideal job requires pajamas. The ambition isn't missing, just redirected toward sleep. Following the advice literally and incorrectly is the entire punchline, and the commitment to the bit is what makes it work.",
+    "howToTell": "Sound genuinely confused by HR's reaction — you followed the advice perfectly. The compliance is complete; the problem is with the interpretation.",
+    "perfectFor": [
+      "On Casual Friday when someone shows up a little too casual",
+      "During an office culture discussion about dress codes and expectations",
+      "When WFH attire habits start creeping into in-office days"
+    ]
   },
   {
     "id": "work-081",
@@ -1139,7 +1699,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Queries' are SQL database requests that DBAs handle all day — but a wife with 'too many queries' also means too many questions or demands. The database administrator's professional frustration and domestic relationship strain are described by the exact same technical vocabulary. The career bleeds into the personal life seamlessly.",
+    "howToTell": "Deliver with the resigned tone of a DBA who has optimized one too many relationships and found them all inefficient.",
+    "perfectFor": [
+      "At a database team outing or SQL user group meetup",
+      "During a tech or developer social event when relationship talk comes up",
+      "When onboarding a new team member who asks a lot of questions on day one"
+    ]
   },
   {
     "id": "work-082",
@@ -1153,7 +1720,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Make up the time' means compensate for the hours missed — the employee interprets it as inventing a fake time and dutifully fabricates one: 35 past 13. Technically, time was made up. The loophole is airtight by the most literal reading of the request, even if the clock disagrees.",
+    "howToTell": "Deliver '35 past 13' with total sincerity, like you've genuinely solved the problem and can't understand why your boss looks confused.",
+    "perfectFor": [
+      "On Friday afternoons when the clock feels like it's running backward",
+      "When negotiating flexible working arrangements or flex time policies",
+      "At the last team happy hour of the month when leaving early is everyone's agenda"
+    ]
   },
   {
     "id": "work-083",
@@ -1167,7 +1741,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Work for laughs' means performing comedy for an audience reaction — but interns notoriously work for very little or no pay, so working for laughs captures their compensation reality with startling accuracy. The joke validates every unpaid internship horror story in a single, cheerful pun.",
+    "howToTell": "Deliver with warm sympathy for interns everywhere — they ARE working for something, it just isn't money. The compassion makes it funnier.",
+    "perfectFor": [
+      "During internship orientation or welcome week events",
+      "At a company social where interns are present and clearly trying to impress",
+      "When mentoring an intern who keeps making jokes to fill the silence"
+    ]
   },
   {
     "id": "work-084",
@@ -1181,7 +1762,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This extends the 'soda pressing' pun with the added dimension of perseverance — 'but I got through it' turns the depressing experience into a story of triumph. The sequel structure lets the original soda/depressing wordplay land fresh while adding a motivational arc that's itself a little absurd.",
+    "howToTell": "Tell it as a personal growth journey — you were down, it was soda pressing, but you crushed it (literally and figuratively). The inspirational tone makes the pun funnier.",
+    "perfectFor": [
+      "During a team-building resilience workshop when success stories are shared",
+      "At a recycling drive or sustainability event with coworkers",
+      "When someone is having a rough patch at work and needs a laugh to get through it"
+    ]
   },
   {
     "id": "work-085",
@@ -1195,7 +1783,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Stuck to its commitments' is a workplace virtue — dedication, follow-through, reliability — and sticky notes literally stick to things. The adhesive property becomes a metaphor for professional trustworthiness. The promotion feels completely deserved, and so does the pun.",
+    "howToTell": "Announce the promotion with the reverence and genuine admiration it deserves — the sticky note has earned this moment through years of consistent adhesion.",
+    "perfectFor": [
+      "During a project retrospective when someone brings up accountability",
+      "At a team meeting when you're giving a public shout-out to a reliable colleague",
+      "When organizing a workspace and someone reaches for a Post-it pad"
+    ]
   },
   {
     "id": "work-086",
@@ -1209,7 +1804,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The boss intends to deny the request, but accidentally delivers the most compelling case FOR a mental health day by confirming the workplace is a constant psychological obstacle course. He meant to shut it down and ended up validating everything. The confession undercuts whatever authority the rejection might have had.",
+    "howToTell": "Deliver the boss's line with gruff, oblivious authority — he has no idea he just made the strongest possible argument for approving the day off.",
+    "perfectFor": [
+      "During Mental Health Awareness Month when the office is doing all the right things publicly",
+      "When making the case for better work-life balance in a team discussion",
+      "At a workplace culture survey debrief when leadership asks for honest feedback"
+    ]
   },
   {
     "id": "work-087",
@@ -1223,7 +1825,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'A slice of the action' is an idiom for getting a share of something exciting — and pie charts are literally divided into slices. The data visualization tool dominating every board meeting gets its status explained through its own structural anatomy. The chart earns its attention by being made of the very thing that gets people excited.",
+    "howToTell": "Deliver as if you've just cracked the code on why data visualizations keep stealing the show in quarterly business reviews.",
+    "perfectFor": [
+      "During a data analytics or business intelligence team presentation",
+      "At a quarterly business review when the pie charts take up half the deck",
+      "In a data visualization or PowerPoint design workshop"
+    ]
   },
   {
     "id": "work-088",
@@ -1237,7 +1846,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Concentrate' means focused attention AND the concentrated form of lemon juice — a core product at a lemon factory. The accusation that you couldn't concentrate at a lemon factory is both a performance criticism and a production failure at the same time. 'Apparently' adds a layer of baffled innocence.",
+    "howToTell": "Say 'apparently' with genuine surprise — the accusation still doesn't make sense to you. You were doing your best around all those lemons.",
+    "perfectFor": [
+      "During a brainstorm about the worst jobs you've ever had",
+      "When making fresh lemonade at an office summer party",
+      "At a food industry trade event or food production company gathering"
+    ]
   },
   {
     "id": "work-089",
@@ -1251,7 +1867,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Cold case' is crime-drama jargon for an unsolved investigation — but fridge theft is literally a cold case because it came from the cold refrigerator. The office lunch thief has been elevated to the status of an unsolved mystery, and HR is apparently the appropriate detective agency for this jurisdiction.",
+    "howToTell": "Report the crime with the grave seriousness of someone filing paperwork with the FBI. The deadpan sells everything — the refrigerator detail is what makes it perfect.",
+    "perfectFor": [
+      "In the break room after discovering your carefully labeled lunch has disappeared again",
+      "At an HR training session about workplace policies and shared kitchen etiquette",
+      "When venting to coworkers about the office fridge bandit who remains at large"
+    ]
   },
   {
     "id": "work-090",
@@ -1265,7 +1888,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Insecure' means both emotionally vulnerable and cybersecurity-weak — a password that gets changed constantly is both a security concern AND something that would shake anyone's sense of identity. The password's feelings are technically valid. Constant forced changes are genuinely destabilizing.",
+    "howToTell": "Deliver with genuine empathy for the password — the poor thing has been cycled out so many times it doesn't know who it is anymore.",
+    "perfectFor": [
+      "During a company cybersecurity awareness training",
+      "The moment IT sends the dreaded 'your password expires in 3 days' notification",
+      "At a tech company onboarding session where the password policy gets its own slide"
+    ]
   },
   {
     "id": "work-091",
@@ -1279,7 +1909,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Bounce from that job' means to leave quickly — and trampolines are bounce equipment. Departing a trampoline store by bouncing out is both the appropriate exit strategy for the location AND a perfect piece of wordplay. The environment and the action are one.",
+    "howToTell": "Deliver with the relieved energy of someone who got out at exactly the right moment — the bounce was necessary, the timing was right.",
+    "perfectFor": [
+      "When talking about leaving a bad job very quickly without looking back",
+      "At a sports or recreational equipment store event",
+      "During a kid's birthday party at a trampoline park when career conversations happen somehow"
+    ]
   },
   {
     "id": "work-092",
@@ -1293,7 +1930,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Overslept' is the classic lateness excuse — 'overswept' swaps in the broom's defining action for the verb, creating an obvious but deeply satisfying portmanteau. The broom's failure to arrive on time is entirely in character. It got too absorbed in its core competency to notice the clock.",
+    "howToTell": "Deliver 'overswept' with the exasperated but understanding tone of someone explaining why the broom is, again, not in the conference room.",
+    "perfectFor": [
+      "When someone is late to a meeting and the excuse is particularly weak",
+      "During an office cleaning crew appreciation event",
+      "At a Halloween office party where brooms make a thematic appearance"
+    ]
   },
   {
     "id": "work-093",
@@ -1307,7 +1951,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The employee takes 'nothing is impossible' as a logical proposition and works it backward: if nothing is impossible, and doing nothing every day is their specialty, then they've been accomplishing the impossible all along. It's a perfectly constructed syllogism that defeats motivational corporate speak with its own logic.",
+    "howToTell": "Deliver the response with genuine pride at having discovered this philosophical loophole. You have been achieving the impossible. Someone should acknowledge that.",
+    "perfectFor": [
+      "At a company motivational speaker event when the energy gets a little too inspirational",
+      "During a Monday morning all-hands when the CEO is enthusiastically peppy",
+      "At a career coaching session when someone drops a cliché and you need to deflect"
+    ]
   },
   {
     "id": "work-094",
@@ -1321,7 +1972,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Making highlights' is what markers are literally designed to do — but in an interview context, a candidate who creates impressive-sounding highlights without actual substance is the classic red flag. The marker's technical skill becomes a resume liability, and the interviewer is right to pass.",
+    "howToTell": "Deliver with the disappointment of an interviewer who really wanted the marker to succeed but couldn't overlook the fundamental gap between form and content.",
+    "perfectFor": [
+      "During interview prep or career coaching when talking about resume depth",
+      "After a candidate doesn't make it through to the next round",
+      "At a back-to-school or office supply shopping trip when someone grabs a highlighter"
+    ]
   },
   {
     "id": "work-095",
@@ -1335,7 +1993,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Snack traffic' is the killer detail — applying commute and traffic language to the ten steps between the bed and the desk, with the fridge as the perpetual bottleneck. It's hyper-specific remote work truth that anyone who works from home has experienced at 8:47am when they just meant to walk to their laptop.",
+    "howToTell": "Describe the amazing commute with proud efficiency, then add 'snack traffic' with guilty resignation — like it's a real infrastructure problem you're working to solve.",
+    "perfectFor": [
+      "On the first day of a remote work policy announcement when WFH perks are being celebrated",
+      "At a hybrid work town hall when the commute benefits of home working come up",
+      "During a virtual team happy hour when someone asks how the commute is going"
+    ]
   },
   {
     "id": "work-096",
@@ -1349,7 +2014,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Had a point to make' means someone with something valuable to contribute in discussion — and pencils literally have points. A pencil that consistently sharpens its communication and maintains its literal tip deserves exactly this kind of recognition. The pun is clean, and the promotion criteria are ironclad.",
+    "howToTell": "Announce the pencil's promotion with the reverence it deserves — it has been sharpened for this moment and has never once failed to make its point.",
+    "perfectFor": [
+      "At an office stationery restocking moment when someone grabs a freshly sharpened pencil",
+      "When praising a team member who always contributes meaningfully in meetings",
+      "During a creative brainstorming session where someone is actually sketching with a pencil"
+    ]
   },
   {
     "id": "work-097",
@@ -1363,7 +2035,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Defending your maturity from inside a pillow fort is the single most immature possible response — and the most fully committed one. The punchline doesn't argue the accusation; it simply demonstrates it with maximum dedication. The proof is in the fortification.",
+    "howToTell": "Deliver from a position of complete authority — this is your fort and your jurisdiction. The coworker was warned.",
+    "perfectFor": [
+      "When team dynamics get tense and someone needs to snap things back to fun",
+      "At an office team-building day that includes anything remotely playful",
+      "When a coworker is being catastrophically over-serious at an after-work happy hour"
+    ]
   },
   {
     "id": "work-098",
@@ -1377,7 +2056,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Board meetings' are where important corporate decisions happen — clipboards have boards, and looking up at the clipboard's board is what everyone does when reading the sign-up sheet. The clipboard's authority derives from being the literal board at every meeting, which gives its ego a very reasonable foundation.",
+    "howToTell": "Describe the clipboard's sense of importance with genuine respect — it has attended more board meetings than most executives and has the paper trails to prove it.",
+    "perfectFor": [
+      "At an executive board meeting or governance workshop when you need to lighten things up",
+      "During an office inventory or event-planning session when someone picks up the clipboard",
+      "When organizing a workplace event that requires a large number of sign-up sheets"
+    ]
   },
   {
     "id": "work-099",
@@ -1391,7 +2077,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Sundaes' sounds exactly like 'Sundays' — refusing to work Sundays is an understandable scheduling preference, but the ice cream shop interpretation turns it into a product protest. Working on sundaes (the dessert) is literally part of the job description at an ice cream shop. The scheduling conflict and the product conflict share one pronunciation.",
+    "howToTell": "Sound righteously principled about the whole thing — you had standards, and the sundae crossed a line. Your convictions cost you the job, and you're at peace with that.",
+    "perfectFor": [
+      "On a Sunday morning before a work brunch event when someone complains about working weekends",
+      "When an ice cream social at the office goes sideways somehow",
+      "At a summer team event with an ice cream cart when the topic of weekend work comes up"
+    ]
   },
   {
     "id": "work-100",
@@ -1405,7 +2098,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Stretched too thin' is the universal burnout metaphor for being overcommitted until something breaks — and rubber bands literally stretch thin and snap. The metaphor and the material are the same thing. It's rare that an idiom fits its literal physical application this precisely, which is why the punchline feels both funny and inevitable.",
+    "howToTell": "Deliver with the worn-out energy of someone who fully understands the rubber band's decision and respects it.",
+    "perfectFor": [
+      "During a workload management conversation with a manager about capacity",
+      "When a team member is visibly overcommitted across too many simultaneous projects",
+      "At a company mental health awareness event when burnout is being discussed seriously"
+    ]
   },
   {
     "id": "work-101",
@@ -1420,7 +2120,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "my-daughter-finally-started-looking-for-a-job-i-told-her-theres-an-entry-level-j",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'People are dying to get into it' is a graveyard idiom — dying gets you into a graveyard — disguised as enthusiastic career advice. The '3000 people beneath you' detail is the slow-burn second clue that makes the graveyard reveal land like a trapdoor. The setup sounds like a dad being genuinely helpful, which is what makes the twist hit.",
+    "howToTell": "Build the job pitch with genuine parental enthusiasm — you really think this is a great opportunity. Let 'working at the graveyard' arrive as a completely natural conclusion.",
+    "perfectFor": [
+      "When encouraging a young adult to start job hunting and they need some motivation",
+      "At a family dinner when career conversations veer into unexpected territory",
+      "During a Halloween-themed office event or party when the mood is right"
+    ]
   },
   {
     "id": "work-102",
@@ -1433,7 +2140,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "my-wife-asked-me-to-clean-an-insect-out-of-the-washer",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Debugged' is software development speak for finding and removing program errors (bugs) — but bugs are also actual insects. Applying the technical term to a literal insect removal from a domestic appliance makes a household chore sound like a critical production deployment. The smug satisfaction of the delivery is earned.",
+    "howToTell": "Deliver 'debugged her washing machine' with the quiet, composed pride of a senior engineer who has just resolved a P0 incident.",
+    "perfectFor": [
+      "When talking to a software developer partner or spouse about home maintenance",
+      "At a tech company casual Friday or team lunch when personal anecdotes come out",
+      "During a home improvement story at an engineering team social event"
+    ]
   },
   {
     "id": "work-103",
@@ -1446,7 +2160,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "where-does-a-network-engineer-go-for-number-1",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'IP address' is a network engineering term (Internet Protocol address) that sounds like 'I pee address' — the bathroom destination of a network professional. The joke works on two levels: it's a bathroom joke that requires technical knowledge to appreciate, which makes it land even harder with the right crowd.",
+    "howToTell": "Ask the question innocently, then spell out 'I P address' with just enough deliberate spacing that the bathroom pun registers a beat before the networking pun does.",
+    "perfectFor": [
+      "At a network engineering team lunch or IT department gathering",
+      "During an IT conference social hour between sessions",
+      "When onboarding new developers and someone needs to break the ice"
+    ]
   },
   {
     "id": "work-104",
@@ -1460,7 +2181,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "whenever-im-lonely-i-always-open-excel-and-go-to-the-first-line-of-the-1514th-co",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Excel column 1,514 is labeled 'BFF' when columns follow alphabetical sequences (A, B, C... Z, AA, AB... all the way to BFF). The spreadsheet power user has discovered a best friend hiding in the column headers at a very specific address. It's a deeply committed data nerd Easter egg that rewards anyone who thinks in spreadsheet logic.",
+    "howToTell": "Share it as a genuine, slightly melancholy loneliness solution delivered with complete sincerity — the nerdier and more earnest the delivery, the better it lands.",
+    "perfectFor": [
+      "At a data analytics or Excel power-user meetup when the conversation gets competitive",
+      "During a boring spreadsheet training session where someone needs to save the energy",
+      "Among coworkers who live and breathe spreadsheets and will immediately open Excel to verify"
+    ]
   },
   {
     "id": "work-105",
@@ -1473,6 +2201,13 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "how-did-the-computer-hackers-get-away-from-the-scene-of-crime",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Ransomware' is a real type of malicious software that encrypts your files and demands payment — but said aloud, it sounds like 'ran, so we're' or simply 'ran some wear,' suggesting the hackers fled on foot. The cybercrime terminology becomes a physical getaway description. It's a pun that requires you to hear it rather than read it.",
+    "howToTell": "Deliver 'they just ransomware' with total casualness, as if the getaway method is the most self-explanatory detail in the story.",
+    "perfectFor": [
+      "During a cybersecurity awareness training session when the topic of ransomware comes up",
+      "At a tech or IT security conference social event after a day of heavy content",
+      "When a coworker shares a news story about a recent ransomware attack and the mood needs lightening"
+    ]
   }
 ]

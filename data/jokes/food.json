@@ -11,7 +11,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Nacho\" sounds almost identical to \"not yo\" — a casual way of saying \"not your.\" So the punchline works as both a cheese type and a possessive claim denial in one word. The fact that nacho cheese is a real, well-known food makes it hit instantly rather than feeling like a stretch.",
+    "howToTell": "Say \"Nacho cheese!\" with playful possessiveness, as if you're also claiming the snack for yourself — the dual meaning lands harder when you own it.",
+    "perfectFor": [
+      "At a party when someone reaches across the table for the chip dip",
+      "While sharing a snack platter at movie night and someone grabs without asking",
+      "At a Mexican restaurant when the appetizer nachos arrive at the table"
+    ]
   },
   {
     "id": "food-002",
@@ -25,7 +32,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Dressing\" does double duty here — salad dressing is a condiment, but \"dressing\" also means getting dressed (or undressed). The tomato blushing because it caught the salad in a state of undress is unexpectedly cheeky for a vegetable joke. The fact that tomatoes are already red makes the blushing payoff satisfyingly circular.",
+    "howToTell": "Pause just a beat after \"the salad\" before landing \"dressing\" — giving the listener that half-second to wonder where it's going before the double meaning snaps into place.",
+    "perfectFor": [
+      "While tossing a salad at a family dinner when someone starts pouring the dressing",
+      "At a summer BBQ when someone reaches for the vinaigrette",
+      "In the kitchen when kids are helping prep a salad and you need to keep them entertained"
+    ]
   },
   {
     "id": "food-003",
@@ -39,7 +53,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Wine\" and \"whine\" are perfect homophones, and the punchline works on both levels at once — the grape cries out in pain (whine) and, since grapes get crushed to make wine, it's also producing the product it was destined for. The physical accuracy of the process makes the wordplay feel earned rather than coincidental.",
+    "howToTell": "Deliver \"a little wine\" with a tiny, pitiful voice to match the grape's moment of suffering — the contrast between the dainty whimper and the grown-up product makes it funnier.",
+    "perfectFor": [
+      "While opening a bottle of wine at a dinner party",
+      "At a winery or vineyard tour when the crushing process comes up",
+      "When someone accidentally knocks a grape off the bunch at the grocery store"
+    ]
   },
   {
     "id": "food-004",
@@ -53,7 +74,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Crummy\" means feeling unwell, but a cookie is literally full of crumbs — it's crummy by definition. The dual meaning is baked right into the word, making it impossible to hear it without picturing a crumbling cookie on an exam table waiting for a diagnosis.",
+    "howToTell": "Say \"feeling crummy\" with a droopy, sympathetic delivery — lean into the idea that this cookie is genuinely not doing well, which makes the crumb connection hit harder.",
+    "perfectFor": [
+      "While baking cookies and one breaks apart before it even makes it off the tray",
+      "When handing out cookies at a school or office event",
+      "After eating too many cookies and someone asks how you're feeling"
+    ]
   },
   {
     "id": "food-005",
@@ -67,7 +95,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The whole joke pivots on \"feeling blue\" — the cultural shorthand for sadness — and the fact that blueberries are literally blue. A sad strawberry becomes a blueberry not through any wordplay but through pure color logic, which is the most childlike and satisfying kind of twist.",
+    "howToTell": "Say \"a blueberry!\" with cheerful, unflappable confidence — the silliness lands best when delivered without hesitation, as if the answer is completely obvious.",
+    "perfectFor": [
+      "While picking berries at a farm when both strawberries and blueberries are in the basket",
+      "When making a mixed berry fruit salad with kids helping",
+      "When a child is upset and you happen to be anywhere near fruit"
+    ]
   },
   {
     "id": "food-006",
@@ -81,7 +116,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Peeling\" sounds exactly like \"feeling,\" and a banana literally has a peel — so the punchline is both a medical complaint and a fruit anatomy fact at the same time. It's the rare pun where the subject of the joke is also the evidence for the pun.",
+    "howToTell": "Give \"peeling\" a slightly drawn-out, pained delivery — extending the word slightly helps both meanings register before the laugh kicks in.",
+    "perfectFor": [
+      "While peeling bananas for a smoothie or banana bread",
+      "When someone asks how you're doing just as you're reaching for a banana at breakfast",
+      "At a school lunch when a kid unwraps their banana and you need a quick joke"
+    ]
   },
   {
     "id": "food-007",
@@ -95,7 +137,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A celery \"stalk\" is its literal anatomy — what you actually eat — but \"stalking\" means following someone creepily. The joke works because celery IS a stalk, making the lettuce's accusation physically accurate and absurd in equal measure.",
+    "howToTell": "Say \"quit stalking me!\" with just a hint of dramatic exasperation — like the lettuce has genuinely had enough of the celery's presence in the crisper drawer.",
+    "perfectFor": [
+      "While chopping celery for a salad or soup",
+      "At a salad bar when someone grabs the celery right next to you",
+      "When making a crudité platter and arranging the vegetables"
+    ]
   },
   {
     "id": "food-008",
@@ -109,7 +158,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Crack each other up\" means making someone laugh uncontrollably — but in an egg context, cracking is a physical catastrophe. The eggs' fear of joke-telling is really a matter of structural self-preservation, which makes their restraint both reasonable and tragic.",
+    "howToTell": "Let yourself crack a small smile as you deliver \"crack each other up\" — the meta-humor of laughing at an egg joke about the dangers of laughter is its own little loop.",
+    "perfectFor": [
+      "While cracking eggs for a big weekend breakfast",
+      "At an Easter egg decorating session when everyone's in a good mood",
+      "When teaching kids to cook and the first egg inevitably gets broken"
+    ]
   },
   {
     "id": "food-009",
@@ -123,7 +179,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "It's a pitch-perfect parody of \"Hasta la vista, baby\" from The Terminator — with \"hasta\" replaced by \"pasta,\" two words that sound strikingly similar. The image of a sentient noodle delivering an Arnold Schwarzenegger farewell is absurd in the best possible way.",
+    "howToTell": "Do your best — or intentionally worst — Schwarzenegger impression on \"pasta la vista, baby.\" The worse the impression, the bigger the laugh, because everyone recognizes the original.",
+    "perfectFor": [
+      "While plating spaghetti for a family dinner",
+      "At an Italian restaurant with people who love action movies",
+      "Anytime someone finishes their pasta and tries to leave the table"
+    ]
   },
   {
     "id": "food-010",
@@ -137,7 +200,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Fun-gi\" sounds exactly like \"fungi\" — the scientific kingdom mushrooms belong to — but splits naturally into \"fun guy.\" The mushroom's social appeal is literally encoded in its taxonomy, making the party invitation both a compliment and a biology lesson.",
+    "howToTell": "Put real enthusiasm into \"fun-gi\" — the bigger the grin when you say it, the more it sells both the pun and the mushroom's undeniable party energy.",
+    "perfectFor": [
+      "While sautéing mushrooms for a pasta dish or risotto",
+      "At a farmers market near the exotic mushroom vendor",
+      "When explaining to kids why mushrooms aren't technically vegetables"
+    ]
   },
   {
     "id": "food-011",
@@ -151,7 +221,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Z\" is the universal symbol for sleep in comics and cartoons, and \"pizza\" already contains two Z's right in the center. The joke exploits a typographic coincidence hiding in plain sight on every pizza box — once you see it, you can never unsee it.",
+    "howToTell": "If telling it out loud, elongate the \"zzz\" sound in the middle. If you can write it down, show \"piZZZa\" on a napkin — the visual version gets an extra groan.",
+    "perfectFor": [
+      "While waiting for a late-night pizza delivery",
+      "At a sleepover when everyone's getting tired and the pizza is almost gone",
+      "When ordering pizza as a late-night snack and someone yawns mid-order"
+    ]
   },
   {
     "id": "food-012",
@@ -165,7 +242,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Butter\" sounds like \"better,\" so \"for a butter lover\" reads as both \"someone who loves butter\" (a legitimate upgrade from margarine) and \"for a better lover\" — a classic relationship excuse. The soap-opera drama of bread trading up from margarine to butter is weirdly relatable.",
+    "howToTell": "Deliver the punchline with a slight dramatic flair, as if narrating a tabloid breakup — the absurdity of bread having romantic preferences lands harder when you commit to the tone.",
+    "perfectFor": [
+      "While choosing between butter and margarine at the breakfast table",
+      "At a brunch where someone insists real butter is categorically superior",
+      "During a grocery store debate about which spread to buy"
+    ]
   },
   {
     "id": "food-013",
@@ -180,7 +264,14 @@
     "rating": 5,
     "dateAdded": "2026-02-07",
     "ageRange": "kids",
-    "canonicalSlug": "what-does-a-nosy-pepper-do"
+    "canonicalSlug": "what-does-a-nosy-pepper-do",
+    "whyFunny": "\"Jalapeño\" sounds strikingly like \"all up in yo\" — slang for meddling in someone's affairs — so \"jalapeño business\" becomes the perfect phonetic stand-in for \"all up in your business.\" The pepper isn't just nosy, it's specifically a jalapeño, making the pun botanically precise.",
+    "howToTell": "Lean into the rhythm of \"jalapeño business\" — it flows best with a little swagger, like the pepper is completely unrepentant about its nosiness.",
+    "perfectFor": [
+      "While making salsa or guacamole when jalapeños are on the cutting board",
+      "At a Mexican restaurant when the server asks about your heat preference",
+      "Anytime someone pries into your plans and there happens to be a jalapeño nearby"
+    ]
   },
   {
     "id": "food-014",
@@ -194,7 +285,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Mugged\" means being robbed in the street, but a mug is also the vessel coffee lives in. The coffee filing a crime report for getting mugged is both a genuine injustice and a kitchen observation — the double meaning snaps together instantly and satisfyingly.",
+    "howToTell": "Deliver \"It got mugged!\" with mock-serious indignation, as if this is a pressing legal matter — the deadpan gravity makes the absurdity funnier.",
+    "perfectFor": [
+      "While pouring your morning coffee",
+      "At a coffee shop when someone grabs the wrong mug",
+      "During a true crime podcast session with coffee in hand"
+    ]
   },
   {
     "id": "food-015",
@@ -208,7 +306,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Impasta\" fuses \"impostor\" and \"pasta\" into a word that doesn't exist but immediately feels like it should. The concept of fraudulent mac and cheese is oddly specific, and the portmanteau feels inevitable the moment you hear it — like it was always waiting to be coined.",
+    "howToTell": "Say \"an impasta!\" with theatrical suspicion, as if you're exposing a very serious culinary fraud that the authorities should know about.",
+    "perfectFor": [
+      "While cooking boxed mac and cheese instead of the real homemade version",
+      "At a potluck when someone brings a suspiciously easy pasta dish",
+      "When serving zucchini noodles or cauliflower mac to an unsuspecting crowd"
+    ]
   },
   {
     "id": "food-016",
@@ -222,7 +327,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Lemon drop\" is a cocktail and a candy, so the setup primes you for a recipe. The punchline subverts the expectation with pure physics — gravity. The mismatch between the anticipated drink tutorial and the completely literal \"just let it fall\" is the whole joke.",
+    "howToTell": "Answer with casual, slightly impatient confidence — \"just let it fall!\" — as if it's the most obvious thing in the world and you're surprised they needed to ask.",
+    "perfectFor": [
+      "At a cocktail party when someone asks how to make a specific drink",
+      "While unpacking citrus fruit from a grocery bag that's getting unwieldy",
+      "When a kid drops something and you want to turn their frustration into a laugh"
+    ]
   },
   {
     "id": "food-017",
@@ -236,7 +348,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Popcorn\" is a single compound word, but split apart it becomes \"pop corn\" — and \"pop\" is a word for dad. The family structure of corn is hiding inside a beloved snack name the whole time, and once you see it, the wholesome absurdity is impossible to unsee.",
+    "howToTell": "Say \"where's pop corn?\" with genuine, childlike innocence — the baby-corn voice sells the sweetness of the whole family drama.",
+    "perfectFor": [
+      "At a movie theater when the popcorn arrives",
+      "While making popcorn for family movie night at home",
+      "At a corn maze or farm stand with kids asking questions about corn"
+    ]
   },
   {
     "id": "food-018",
@@ -250,7 +369,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Ran out of juice\" means running out of energy or momentum — but an orange is literally full of juice. The orange dying partway down the hill because it exhausted its juice supply is both physically accurate (squeeze an orange hard enough and the juice runs out) and a perfect use of the idiom.",
+    "howToTell": "Deliver it with a mock-somber tone, as if the orange's mid-hill collapse is a genuine tragedy worthy of a moment of silence.",
+    "perfectFor": [
+      "While squeezing fresh orange juice in the morning",
+      "At a kids' soccer game when someone runs out of steam on the field",
+      "During a road trip snack break when the oranges come out of the cooler"
+    ]
   },
   {
     "id": "food-019",
@@ -264,7 +390,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Astronut\" sounds exactly like \"astronaut\" with \"nut\" swapped in — and a peanut is a nut. The portmanteau is clean, the image of a peanut suiting up for a space mission is delightfully absurd, and the compound word feels earned because peanuts are legitimately nutty.",
+    "howToTell": "Say \"an astronut!\" with full mission-control gravitas — the grander the delivery, the funnier the tiny peanut floating weightlessly in its spacesuit becomes.",
+    "perfectFor": [
+      "While eating peanuts and watching a space documentary",
+      "At a science fair or space camp event",
+      "When a kid announces they want to be an astronaut while holding a snack"
+    ]
   },
   {
     "id": "food-020",
@@ -278,7 +411,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A dental \"filling\" repairs a damaged tooth — but a donut \"filling\" is the jam, cream, or custard inside. The donut visiting the dentist for what is literally its own defining feature is a beautiful loop of circular logic that makes the joke feel inevitable.",
+    "howToTell": "Say \"to get a filling!\" with cheerful matter-of-factness, like this is the most natural reason a donut would schedule a dental appointment.",
+    "perfectFor": [
+      "While eating a cream-filled donut at a bakery",
+      "In a dentist's waiting room if pastries happen to be present",
+      "During a donut run when someone bites into one and discovers the filling"
+    ]
   },
   {
     "id": "food-021",
@@ -292,7 +432,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Patty\" is both a common given name and the word for the meat inside a hamburger. The hamburger naming its child after its own most essential component is wonderfully self-referential, and the brevity of the punchline makes it land perfectly.",
+    "howToTell": "Just say \"Patty!\" with warm, proud-parent energy — the simplicity of the single-word punchline is its entire charm, so don't oversell it.",
+    "perfectFor": [
+      "At a backyard BBQ while flipping burgers on the grill",
+      "While ordering at a burger joint when someone named Patty happens to be nearby",
+      "When meeting a baby named Patty at any cookout or outdoor gathering"
+    ]
   },
   {
     "id": "food-022",
@@ -306,7 +453,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"On a roll\" is a gambling idiom for a hot winning streak — AND a precise description of where a sesame seed lives, on top of a bread roll. The sesame seed can't leave the casino because it's physically part of a roll, making the excuse simultaneously idiomatic and topographic.",
+    "howToTell": "Say \"on a roll!\" with the excited energy of someone on an unstoppable winning streak — the casino context makes the bread idiom work twice as hard.",
+    "perfectFor": [
+      "At a casino or poker night when snacks are on the table",
+      "While making sliders or burgers and toasting the sesame seed buns",
+      "When someone's on a winning streak in any game and you have a bread roll nearby"
+    ]
   },
   {
     "id": "food-023",
@@ -320,7 +474,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-02-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"What's eating you?\" is a phrase for \"what's bothering you?\" — but in a dessert context, being eaten is a very real and imminent occupational hazard. The ice cream asking the cake what's eating it, while both are about to be consumed, is darkly ironic in a way the ice cream seems completely unaware of.",
+    "howToTell": "Deliver it with genuine concern, as if the ice cream has no idea about the shared fate awaiting both of them — the obliviousness is what makes it funnier.",
+    "perfectFor": [
+      "While serving dessert at a birthday party when the cake is being cut",
+      "When slicing into a cake that looks a little worse for wear",
+      "At a bake sale when someone seems anxious about how their entry is being received"
+    ]
   },
   {
     "id": "food-024",
@@ -334,7 +495,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cantaloupe\" sounds exactly like \"can't elope\" — elope meaning to run off and get secretly married. Watermelons are forced into fancy ceremonies because they literally can't elope, which makes the logic airtight. The pun works on both phonics and plot.",
+    "howToTell": "Pause after \"Because they...\" for just a beat of anticipation, then land \"cantaloupe\" cleanly — give the double meaning a moment to settle before breaking into a grin.",
+    "perfectFor": [
+      "At a summer picnic while slicing watermelon for the group",
+      "At a wedding reception when someone mentions they considered eloping",
+      "While making a fruit salad that includes both watermelon and cantaloupe"
+    ]
   },
   {
     "id": "food-025",
@@ -348,7 +516,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-13",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Chew chew\" sounds exactly like \"choo choo\" — the classic onomatopoeia for a steam engine. A train loaded with toffee would require constant chewing, so the name is both a sound-alike pun and an accurate description of the cargo's demands on your jaw.",
+    "howToTell": "Say \"chew chew train!\" with the same enthusiasm you'd use making train sounds for a toddler — the childlike delivery is essential to the charm.",
+    "perfectFor": [
+      "While giving toffee or hard candy to kids on a train or car trip",
+      "At a candy store that happens to have any train-themed decor",
+      "During a road trip snack distribution when toffee is in the mix"
+    ]
   },
   {
     "id": "food-026",
@@ -362,7 +537,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Macho\" means tough and muscular, and it rhymes with \"nacho\" so cleanly that \"macho nacho\" sounds like it belongs on a menu. The mental image of a tortilla chip doing pull-ups is inherently ridiculous, and the alliterative punch of the phrase makes it stick instantly.",
+    "howToTell": "Say \"a macho nacho!\" with a little flex in your voice — maybe literally flex — because this chip takes its gains seriously and the physical comedy adds to it.",
+    "perfectFor": [
+      "At a Super Bowl party when the nacho platter hits the table",
+      "At a sports bar or gym-themed event where chips are being served",
+      "When someone at a party is weirdly competitive about who gets to the snack spread first"
+    ]
   },
   {
     "id": "food-027",
@@ -376,7 +558,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Yogurt is made through a bacterial \"culture\" process — that's literal food science on the label. But \"cultured\" also means sophisticated and well-versed in the arts. The yogurt attending an art exhibit on both grounds is a layered pun that works scientifically and socially at the same time.",
+    "howToTell": "Say it with a refined, slightly snobbish air — as if the yogurt's attendance at the gallery is entirely expected and the question barely needs answering.",
+    "perfectFor": [
+      "While grabbing yogurt from the fridge before a museum or gallery trip",
+      "At a brunch with artsy friends who take their food very seriously",
+      "At a grocery store near the dairy aisle when discussing weekend cultural plans"
+    ]
   },
   {
     "id": "food-028",
@@ -390,7 +579,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Dinner's on me\" is the classic offer to pay for a meal — but for a plate, dinner is literally on it every single time. The plate's generous proclamation is also just a description of its own existence, making the apparent kindness completely unavoidable.",
+    "howToTell": "Say \"Dinner's on me!\" with big, magnanimous energy — like the plate is genuinely delighted to be picking up the tab, which it always does anyway.",
+    "perfectFor": [
+      "While setting the dinner table before a meal",
+      "When splitting the check at a restaurant and someone offers to cover everyone",
+      "At a potluck when everyone's plates get loaded up at the same time"
+    ]
   },
   {
     "id": "food-029",
@@ -404,7 +600,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"In a pickle\" is a common idiom for a difficult or tricky situation — and the pickle is literally inside a pickle jar. The joke uses the exact scenario that originally gave rise to the idiom and makes it beautifully self-referential: the pickle is in a pickle.",
+    "howToTell": "Say \"in a real pickle!\" with a slight dramatic shrug, as if the situation is genuinely unfortunate but completely unavoidable given the circumstances.",
+    "perfectFor": [
+      "While fishing a pickle out of a jar for a sandwich",
+      "At a deli counter when the pickle barrel is center stage",
+      "During a backyard cookout when someone gets stuck in an awkward situation near the condiment table"
+    ]
   },
   {
     "id": "food-030",
@@ -418,7 +621,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Couch potato\" is already an established idiom for someone who sits around doing nothing all day — but the joke applies the idiom to an actual potato, stripping it back to its literal roots. Once you reframe a lazy spud as a couch potato, the expression feels both fresh and obvious.",
+    "howToTell": "Say \"a couch potato!\" like it's the most self-evident answer in the world — the deadpan confidence amplifies the classic groan this joke deserves.",
+    "perfectFor": [
+      "On a lazy Sunday when nobody wants to leave the couch",
+      "While making mashed potatoes and someone nearby is being particularly unhelpful",
+      "At a family dinner when the conversation turns to a notoriously lazy relative"
+    ]
   },
   {
     "id": "food-031",
@@ -432,7 +642,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Wiener\" is both slang for a hot dog AND a pronunciation of \"winner\" with a slight accent shift. The hot dog declaring itself the wiener after a race is both a factual statement about its identity and a triumphant victory lap — two truths smashed together in one word.",
+    "howToTell": "Deliver \"I'm the wiener!\" with maximum victory energy — arms up, triumphant, as if this sausage has been training for this moment its entire existence.",
+    "perfectFor": [
+      "At a hot dog eating contest or any cookout with competitive energy",
+      "At a field day or racing event where hot dogs are served afterward",
+      "During a backyard game when someone wins and hot dogs are on the grill"
+    ]
   },
   {
     "id": "food-032",
@@ -446,7 +663,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cracked a yolk\" sounds exactly like \"cracked a joke\" — and an egg literally gets cracked to reveal the yolk inside. The breakfast comedy duo of bacon and eggs gets a whole new layer when the egg turns out to be the comedian, delivering yolk-based humor to its sizzling co-star.",
+    "howToTell": "Say \"cracked a yolk\" with a knowing grin and give the listener a moment to process both meanings before their groan arrives.",
+    "perfectFor": [
+      "While frying up a classic bacon and eggs breakfast on a weekend morning",
+      "At a brunch when someone makes a particularly bad pun",
+      "On Easter morning when eggs are central to every conversation in the house"
+    ]
   },
   {
     "id": "food-033",
@@ -460,7 +684,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"A shell of its former self\" is an idiom for something diminished or broken down by stress — and a taco is literally held together by a shell. A nervous taco crumbling under pressure is both a personal crisis and a structural observation, with the anxiety being entirely architectural.",
+    "howToTell": "Deliver it with a touch of genuine sympathy, as if the taco's emotional breakdown is sad as well as inevitable — the tragic tone plays perfectly against the absurdity.",
+    "perfectFor": [
+      "On Taco Tuesday when a hard taco shell breaks on the first bite",
+      "While assembling tacos and the shells start cracking before they're even filled",
+      "When someone describes feeling overwhelmed at a meal that happens to include tacos"
+    ]
   },
   {
     "id": "food-034",
@@ -474,7 +705,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Hang out in bunches\" means both socializing in groups AND the literal way bananas grow and are sold — in bunches, hanging from their stem. The banana's impressive social life turns out to be simply its natural anatomy, making the reassurance both sweet and factually accurate.",
+    "howToTell": "Say it with warm, reassuring energy — bananas have genuinely excellent community support, and the delivery should reflect the comfort that comes with that knowledge.",
+    "perfectFor": [
+      "At a farmers market while grabbing a bunch of bananas",
+      "When explaining to a lonely kid why they shouldn't worry, while holding fruit",
+      "During a group hangout when someone asks why the bananas always travel together"
+    ]
   },
   {
     "id": "food-035",
@@ -488,7 +726,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Pancakes are notoriously flat — that's their defining characteristic — while waffles have a distinct grid texture with actual depth and pockets. The waffle throwing shade about flatness is both a factual insult and a casual \"you're boring\" diss, with the waffle fully aware of its own textural superiority.",
+    "howToTell": "Give the waffle a slightly superior, snobbish delivery — it has the pockets, it has the texture, and it is not afraid to say so.",
+    "perfectFor": [
+      "During a weekend brunch debate about whether waffles or pancakes are better",
+      "While making both waffles and pancakes side by side at a big breakfast",
+      "When a flat joke gets called out at the table for being — well — flat"
+    ]
   },
   {
     "id": "food-036",
@@ -502,7 +747,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A melon jumping into water is literally taking the steps to become a \"water\"-melon — the compound word gets deconstructed into its constituent parts and the logic holds up perfectly. The melon's ambition is both admirable and completely achievable with one leap.",
+    "howToTell": "Say \"It wanted to be a watermelon!\" with genuine enthusiasm for the melon's career goals — treat its aspiration as entirely reasonable and earned.",
+    "perfectFor": [
+      "At a summer pool party while someone's slicing watermelon on the side",
+      "While grocery shopping in the melon aisle with curious kids asking questions",
+      "On a hot day when the watermelon comes out at a picnic and someone asks why it's so wet"
+    ]
   },
   {
     "id": "food-037",
@@ -516,7 +768,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Monkey\" gets split into \"mon-key\" — with \"key\" doing the load-bearing work — and monkeys are famously associated with bananas. The connection between a monkey (the banana's most devoted fan) and a \"key\" hidden in its own name is cheeky wordplay that clicks neatly into place.",
+    "howToTell": "Emphasize the hyphen — \"a mon-KEY!\" — so the key part registers clearly. A brief pause before the punchline helps the segue from key to monkey land smoothly.",
+    "perfectFor": [
+      "At a zoo near the primate enclosure when bananas are visible",
+      "While handing a kid a banana as a snack and they ask random questions",
+      "During a fruit-themed trivia game night"
+    ]
   },
   {
     "id": "food-038",
@@ -530,7 +789,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Crumby\" (or crummy) means feeling unwell — but a cracker is essentially a vehicle for crumbs, its entire physical identity built around crumbling. The cracker's ailment is just its own constitution being described back to it as a medical complaint.",
+    "howToTell": "Say \"a little crumby\" with a sympathetic wince, as if you've been watching this cracker's structural decline and it was only a matter of time.",
+    "perfectFor": [
+      "While snacking on crackers during a movie night when one inevitably crumbles",
+      "At a soup-and-crackers lunch when a cracker disintegrates into the bowl",
+      "When a kid complains about feeling sick while eating crackers"
+    ]
   },
   {
     "id": "food-039",
@@ -544,7 +810,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Esca-pea\" sounds exactly like \"escapee\" — a fugitive making a break for it. A pea rolling off the plate is literally staging a great escape, and the portmanteau captures the drama of a tiny green vegetable's bid for freedom with perfect phonetic precision.",
+    "howToTell": "Say \"an esca-pea!\" with mock alarm, as if the pea has pulled off a prison break that demands a level of grudging respect.",
+    "perfectFor": [
+      "At a dinner table when a pea inevitably rolls off someone's plate onto the floor",
+      "While making a classic meat-and-vegetables dinner for kids who are already suspicious of peas",
+      "At a formal dinner where the peas are staging a very quiet revolt"
+    ]
   },
   {
     "id": "food-040",
@@ -558,7 +831,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Broth-er\" sounds like \"brother\" — a sibling who might play on the same sports team — but broth is literally the base that makes soup what it is. The soup's winning record is attributed to its brothy family support, merging both meanings into a surprisingly wholesome team dynamic.",
+    "howToTell": "Emphasize the split in \"broth-er\" — a tiny pause between broth and -er — so both syllables register as both a family member and a cooking liquid before the laugh lands.",
+    "perfectFor": [
+      "While making a pot of soup on a cold day",
+      "During a family sports game when siblings are playing on the same side",
+      "At a potluck where someone's broth-based dish turns out to be the runaway hit"
+    ]
   },
   {
     "id": "food-041",
@@ -572,7 +852,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A cookie sheet is the baking tray used to bake cookies — but \"sheet\" also means a bed sheet. The gingerbread man's choice of bedding is completely logical given his baking origins: he came from a cookie sheet, and a cookie sheet is where he belongs at rest.",
+    "howToTell": "Say \"a cookie sheet!\" with the cozy satisfaction of someone who's just tucked in for the night — this is a bedtime joke that should feel warm and snug.",
+    "perfectFor": [
+      "While baking gingerbread cookies during the holiday season",
+      "At a Christmas cookie exchange party",
+      "When reading a gingerbread story with kids before bed and they ask what gingerbread people sleep on"
+    ]
   },
   {
     "id": "food-042",
@@ -586,7 +873,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Date\" is both a romantic outing AND a specific dried fruit — so the raisin settled for a prune because it literally couldn't find a date (the fruit). The disappointment is simultaneously social and agricultural, which gives the punchline an extra layer of dried-fruit melancholy.",
+    "howToTell": "Deliver \"couldn't find a date\" with just a hint of sympathy for the raisin's romantic predicament — dating is difficult, especially in the dried fruit community.",
+    "perfectFor": [
+      "While making a fruit cake or trail mix that includes raisins, prunes, and dates",
+      "At a Valentine's Day gathering when someone's flying solo",
+      "During a snack moment when all three dried fruits are present"
+    ]
   },
   {
     "id": "food-043",
@@ -600,7 +894,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Tear-ible\" sounds like \"terrible\" but swaps in \"tear\" — the involuntary eye-watering response onions famously cause when cut. The onion's grumpiness and its tear-inducing properties get merged into a single invented word that captures its personality perfectly.",
+    "howToTell": "Say \"a tear-ible vegetable!\" with mock-exasperated disdain — as if the onion's behavior is unacceptable both emotionally and culinarily.",
+    "perfectFor": [
+      "While chopping onions and crying your way through the prep work",
+      "At a cooking class when the instructor addresses the onion situation",
+      "Anytime you're making French onion soup and the whole kitchen has that distinct ambiance"
+    ]
   },
   {
     "id": "food-044",
@@ -614,7 +915,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cutting corners\" means taking lazy shortcuts — but a knife literally cuts, and corners are geometric shapes it could absolutely cut. The knife's natural behavior becomes its fatal driving exam flaw, and the idiom maps onto kitchen physics so perfectly it feels inevitable.",
+    "howToTell": "Deliver \"cutting corners\" with a disappointed shake of the head, as if the knife really should have anticipated this problem — it only had one job.",
+    "perfectFor": [
+      "While prepping vegetables and actually cutting corners off the pieces",
+      "At a cooking class where knife technique is being taught and demonstrated",
+      "During any conversation about taking shortcuts when someone has a knife in hand"
+    ]
   },
   {
     "id": "food-045",
@@ -628,7 +936,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Pair\" sounds like \"pear\" (another fruit), and banana peels — curved and yellowed — vaguely resemble the shape of a slipper sole. The joke combines classic slapstick visual comedy (the slipping banana peel) with fruit wordplay, making the image of banana-peel footwear simultaneously practical and absurd.",
+    "howToTell": "Let the image do the work — say \"a pair of slippers!\" and give people a moment to picture the footwear. A slight grin as they visualize it is all the timing you need.",
+    "perfectFor": [
+      "While peeling bananas for a smoothie and the peels pile up",
+      "At a grocery store near the banana display",
+      "When someone slips on something and classic cartoon physics demand to be referenced"
+    ]
   },
   {
     "id": "food-046",
@@ -642,7 +957,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "An apple's \"core\" is its literal center — the seedy middle part. But \"working on your core\" is fitness-speak for strengthening your abdominal muscles. The apple going to the gym to improve its own literal core is anatomically accurate and gym-bro-coded at the same time.",
+    "howToTell": "Say \"to work on its core!\" with enthusiastic gym-goer energy — this apple is serious about its gains and the dedication deserves a little respect.",
+    "perfectFor": [
+      "At a gym or fitness class when someone's grinding through core exercises",
+      "While making apple slices as a post-workout snack",
+      "At a health food store or juice bar where apples are prominently featured"
+    ]
   },
   {
     "id": "food-047",
@@ -656,7 +978,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Practical yolker\" sounds exactly like \"practical joker\" — with \"yolk\" replacing \"joke.\" An egg's yolk is its literal center, the thing revealed when it cracks. A mischievous egg substituting yolk for joke is wordplay that operates on the egg's own biology, which feels gleefully self-aware.",
+    "howToTell": "Say \"a practical yolker!\" with a grin — lean into the idea that this egg has been planning mischief since breakfast and is very pleased with itself.",
+    "perfectFor": [
+      "While cracking eggs for a big weekend breakfast",
+      "On April Fool's Day when eggs happen to be nearby",
+      "At an Easter egg hunt when a kid cracks open a surprising egg"
+    ]
   },
   {
     "id": "food-048",
@@ -670,7 +999,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Make ends meet\" means to barely cover your financial needs — and \"meat\" replaces \"meet\" perfectly. A butcher working overtime to make ends meat is both a financial reality and a professional description: he's literally working with meat and he's barely keeping up.",
+    "howToTell": "Deliver \"make ends meat!\" with the weary tone of someone who truly understands the grind — the exhaustion makes the wordplay land with more emotional weight.",
+    "perfectFor": [
+      "At a butcher shop or deli counter during a visit",
+      "During a conversation about side hustles or working long hours",
+      "While prepping a large cut of meat for a big family dinner"
+    ]
   },
   {
     "id": "food-049",
@@ -684,7 +1020,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Provo-lonely\" mashes up \"provolone\" (the Italian cheese) with the idea of being provokingly lonely — a cheese so intellectually underwhelming it can't make friends. The joke layers the cheese's academic shortcomings onto its social isolation, giving provolone an undeserved but very specific reputation.",
+    "howToTell": "Say \"provo-lonely!\" with a sympathetic wince — this cheese didn't choose to be slow or lonely, and it deserves at least a little compassion.",
+    "perfectFor": [
+      "At a cheese board when someone asks which cheese is which",
+      "During an Italian deli visit where provolone hangs prominently",
+      "At a sandwich shop when the cheese options are being discussed too seriously"
+    ]
   },
   {
     "id": "food-050",
@@ -698,7 +1041,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-13",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"In hot water\" is an idiom for being in trouble or a difficult situation — but a tea bag is literally always put in hot water. That's its entire career. The tea bag's therapy appointment is completely justified: every single day it's dunked into the very situation it's trying to process.",
+    "howToTell": "Deliver \"tired of being in hot water\" with genuine empathy — the tea bag has been through a lot, repeated daily, and it deserves to process that without judgment.",
+    "perfectFor": [
+      "During a morning tea ritual when the kettle goes on",
+      "At a work meeting where someone is currently in trouble and tea is in hand",
+      "While serving tea at a gathering when someone brings up a stressful week"
+    ]
   },
   {
     "id": "food-051",
@@ -712,7 +1062,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Outstanding in his field\" is the classic phrase for exceptional performance — and a scarecrow literally stands in a field, specifically a cornfield. The punchline layers the professional accolade, the physical description, and the specific crop all into a single sentence without breaking a sweat.",
+    "howToTell": "Say \"outstanding in his field of corn\" with the solemn respect you'd use for an awards acceptance speech — the scarecrow earned this moment and the gravity sells it.",
+    "perfectFor": [
+      "At a fall harvest festival or corn maze event",
+      "During a cooking competition viewing party when someone wins unexpectedly",
+      "While making a corn-based dish at a summer cookout"
+    ]
   },
   {
     "id": "food-052",
@@ -726,7 +1083,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Hot potato\" is an idiom for something problematic that everyone wants to pass off quickly — and a cooked potato is literally hot. The stolen yam (a close cousin to the potato) becomes a hot potato: contraband that's also thermally concerning, making it doubly something nobody wants to be caught holding.",
+    "howToTell": "Say \"a hot potato!\" with the urgency of someone who wants nothing to do with the evidence — toss the implication away like the unwanted item it is.",
+    "perfectFor": [
+      "At Thanksgiving dinner when the yam and sweet potato debate gets heated",
+      "During any group situation where someone passes off an uncomfortable task",
+      "While grocery shopping when the sweet potato versus yam identity crisis surfaces"
+    ]
   },
   {
     "id": "food-053",
@@ -740,7 +1104,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Beat\" and \"whip\" are completely standard cooking verbs — but they're also assault terminology. Read as a police report, the chef's kitchen crimes sound genuinely serious, and the absurdity of eggs pressing charges while cream files a separate complaint is what makes the arrest so compelling.",
+    "howToTell": "List the charges with deadpan seriousness — \"he beat the eggs\" (pause) \"and whipped the cream\" — let each count sink in before continuing.",
+    "perfectFor": [
+      "While making whipped cream or a meringue that requires aggressive beating",
+      "At a baking class where the egg-beating process is being dramatically demonstrated",
+      "At a brunch when someone describes the morning cooking process a little too intensely"
+    ]
   },
   {
     "id": "food-054",
@@ -754,7 +1125,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Four seconds\" sounds exactly like \"for seconds\" — going back for a second helping of food. A clock going back four seconds is a minor technical operation, but for a hungry clock, those four seconds are the most delicious ones on the dial: the ones where you get more dinner.",
+    "howToTell": "Let the time-piece context sit briefly before delivering \"four seconds\" — you want the food meaning to hit first, then the clock meaning to arrive a beat later as a bonus.",
+    "perfectFor": [
+      "At dinner when someone gets up to go back for a second helping",
+      "While sneaking the daylight saving time explanation into a kids' conversation",
+      "During any meal where someone clearly wants more food but is trying to be polite"
+    ]
   },
   {
     "id": "food-055",
@@ -768,7 +1146,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Like the cookie joke, \"crumby\" doubles as \"feeling unwell\" and \"full of crumbs\" — but a cupcake adds an extra layer: it looks put-together on the outside with its frosting, but it's secretly crumbling within. A cupcake that seems fine but is fundamentally crumby is relatable on multiple levels.",
+    "howToTell": "Give \"feeling crumby\" a slightly muffled, under-the-weather delivery — the cupcake is doing its best to look presentable but the structural problems are showing.",
+    "perfectFor": [
+      "At a birthday party while serving cupcakes",
+      "When someone bites into a dry or structurally compromised cupcake",
+      "At a bake sale when the cupcakes haven't held together as planned"
+    ]
   },
   {
     "id": "food-056",
@@ -782,7 +1167,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"loafer\" is someone who idles around doing nothing — but it's also a shape of bread. A lazy baker is literally a bread-loafer, making their sloth both an occupational label and a product description. The word does double duty with the minimum possible effort, which is thematically appropriate.",
+    "howToTell": "Say \"a loafer!\" with casual dismissal, like the bread's laziness is both expected and exhausting to deal with on a daily basis.",
+    "perfectFor": [
+      "At a bakery or artisan bread shop",
+      "While slicing a loaf of bread with a distinctly unhelpful person nearby",
+      "When someone's taking their sweet time making sandwiches and you need to fill the silence"
+    ]
   },
   {
     "id": "food-057",
@@ -796,7 +1188,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"In a jam\" means in trouble — and strawberry jam is literally a product made from strawberries being cooked down. The strawberry's parents being \"in a jam\" is both a phrase for their predicament and an accurate description of their final culinary destination, which makes the child strawberry's tears completely understandable and slightly dark.",
+    "howToTell": "Deliver it with genuine sympathy — pause slightly after \"in a jam\" and let the darker implication settle before smiling. The punchline earns a beat of silence.",
+    "perfectFor": [
+      "While spreading strawberry jam on toast in the morning",
+      "At a farmers market near the jam and preserves stand",
+      "When making homemade jam and someone asks what actually happens to the strawberries"
+    ]
   },
   {
     "id": "food-058",
@@ -810,7 +1209,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cheeses of Nazareth\" sounds like \"Jesus of Nazareth\" — swapping the historical figure for a geographically specific dairy product. The geographic precision and the reverent, formal phrasing make this an unexpectedly sophisticated cheese pun.",
+    "howToTell": "Deliver it with the gravity of a biblical proclamation — \"Cheeses... of Nazareth\" — the solemnity of the reveal makes the absurdity hit harder.",
+    "perfectFor": [
+      "At a fancy cheese tasting where someone is being very serious about provenance and terroir",
+      "During a religious holiday gathering where both cheese and theology are on the table",
+      "At a Middle Eastern restaurant when the mezze plate arrives with cheese"
+    ]
   },
   {
     "id": "food-059",
@@ -824,7 +1230,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Snails are famously slow — possibly the least fast food imaginable — so French people eating snails is framed as a deliberate philosophical rejection of speed culture. The punchline reframes escargot as an anti-fast-food statement, which is both culturally accurate and perfectly absurd.",
+    "howToTell": "Say it with a Gallic shrug and a slightly superior air — the French know what they're doing and they're certainly not going to be rushed into any conclusions about it.",
+    "perfectFor": [
+      "At a French restaurant when escargot appears on the menu",
+      "While discussing food culture differences at an international dinner party",
+      "When someone complains that a restaurant is slow and a French food joke seems called for"
+    ]
   },
   {
     "id": "food-060",
@@ -838,7 +1251,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Nuts\" means both crazy or eccentric AND the literal food category both the pecan and walnut belong to. Two nuts bonding over their shared nuttiness — in both senses — is a moment of inter-species solidarity that's simultaneously a biological fact and a personality assessment.",
+    "howToTell": "Deliver \"we're both nuts!\" with enthusiastic solidarity, like the pecan is genuinely moved by this revelation of shared identity.",
+    "perfectFor": [
+      "While making a mixed nut trail mix or snack bowl",
+      "At a holiday party near the nut dish",
+      "When two eccentric friends meet and you want to playfully narrate the moment"
+    ]
   },
   {
     "id": "food-061",
@@ -852,7 +1272,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cutting corners\" means being cheap or taking shortcuts in business — but a pizza is round, so a pizza maker cutting corners is not only lazy but geometrically impossible. The pizza maker's financial collapse is both a business failure and a spatial impossibility, which makes the downfall all the more baffling.",
+    "howToTell": "Deliver it with the resigned tone of someone explaining an entirely preventable business collapse — the pizza maker should really have seen this coming.",
+    "perfectFor": [
+      "While making homemade pizza and slicing the finished product",
+      "At a pizzeria when the slice shapes look uneven or odd",
+      "During any business conversation about shortcuts when pizza is somehow in the vicinity"
+    ]
   },
   {
     "id": "food-062",
@@ -866,7 +1293,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is a triple pun operating at full capacity: \"condescending\" (snobbish), \"con descending\" (a criminal walking downstairs), and \"con-diments\" (condiments, which accompany food). Three separate meanings packed into one gloriously over-engineered sentence — it's the Mount Everest of dad joke construction.",
+    "howToTell": "Take your time with this one — say it slowly so all three layers can register separately. It rewards patience. Writing it down is genuinely recommended.",
+    "perfectFor": [
+      "With fellow word-nerd friends who will appreciate the linguistic engineering involved",
+      "At an Italian dinner party where the humor bar is set high",
+      "As the final, decisive entry in a dad joke competition where you need to bring everything"
+    ]
   },
   {
     "id": "food-063",
@@ -880,7 +1314,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cloved\" plays on \"covered\" — swapping in \"clove,\" the term for individual garlic segments. The garlic winning through its own anatomy (those individual cloves) is a committed pun that demands you accept \"cloved\" as a verb, which honestly feels fine once you're in it.",
+    "howToTell": "Say \"cloved the distance!\" with triumphant pride — garlic worked hard for this win and the slightly strained wordplay deserves its moment of glory anyway.",
+    "perfectFor": [
+      "While mincing garlic for a pasta sauce or marinade",
+      "At a cooking class focused on Italian or Mediterranean cuisine",
+      "When someone mentions running a long distance and garlic is on the cutting board nearby"
+    ]
   },
   {
     "id": "food-064",
@@ -894,7 +1335,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Wasabi\" sounds like \"what's up, bee\" — or \"wassup, B\" — making it a greeting that doubles as a condiment name. A single word does everything: identifies the food, serves as a casual hello, and sounds convincingly like something a sushi roll would say to a bee it just spotted.",
+    "howToTell": "Say \"Wasabi!\" with the cool, casual confidence of a sushi roll who is completely at ease in social situations. The one-word delivery is the whole game — don't oversell it.",
+    "perfectFor": [
+      "At a sushi restaurant when the wasabi arrives with the order",
+      "While making homemade sushi rolls",
+      "Whenever a bee shows up near the dinner table and you need to defuse the rising panic"
+    ]
   },
   {
     "id": "food-065",
@@ -908,7 +1356,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Serial offender\" is legal shorthand for a repeat criminal — and \"cereal\" sounds identical to \"serial.\" The breakfast food facing criminal charges for being a repeat offender is a crime drama that hits differently at 7am when you're eating it.",
+    "howToTell": "Say \"a cereal offender!\" with the gravity of a crime reporter covering a serious case — this breakfast bowl has a record and the judicial system is treating it accordingly.",
+    "perfectFor": [
+      "During a morning breakfast while eating cereal",
+      "When watching a crime documentary over a bowl of breakfast",
+      "At a kids' breakfast when someone makes a mess with their cereal for the third time in a row"
+    ]
   },
   {
     "id": "food-066",
@@ -922,7 +1377,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"On the go\" is standard food-marketing language for portable, grab-and-run meals — but applied to an actual pizza that's literally running, it becomes an image of a very busy, deeply committed pizza with places to be. The humor lives in the gap between \"on the go\" as marketing speak and \"on the go\" as a lifestyle description for a sprinting slice.",
+    "howToTell": "Say \"always on the go!\" with the energy of someone trying to keep up with the pizza as it dashes by — convey the urgency, it has a full schedule.",
+    "perfectFor": [
+      "When ordering pizza delivery during a particularly hectic day",
+      "At a food truck event where everything is grab-and-go by design",
+      "When someone is eating lunch on the run and pizza happens to be the vehicle"
+    ]
   },
   {
     "id": "food-067",
@@ -936,7 +1398,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Dressing\" means salad dressing as a condiment, but also how a performer dresses for the stage. The salad winning a talent competition purely on the strength of its vinaigrette is both a culinary compliment and a fashion statement — and one that the salad has a very unfair natural advantage at.",
+    "howToTell": "Say \"great dressing!\" with the admiration of a talent show judge who genuinely appreciated the effort — the salad brought it and the score reflects that.",
+    "perfectFor": [
+      "While tossing a salad with a particularly elaborate or impressive homemade dressing",
+      "At a potluck or cooking competition where presentation matters",
+      "When someone asks what made a salad so exceptional and you want to be technically correct"
+    ]
   },
   {
     "id": "food-068",
@@ -950,7 +1419,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Decaffeinated\" gets transformed into \"de-coffin-ated\" — with \"coffin\" embedded right in the middle, where a vampire naturally spends most of its daylight hours. The vampire's coffee order being a word that contains its bedroom is a perfectly gothic pun hiding in plain phonetic sight.",
+    "howToTell": "Say \"de-coffin-ated!\" with a dramatic Transylvanian flair — the vampire barista scenario practically writes itself and the accent helps sell the ambiance.",
+    "perfectFor": [
+      "At a Halloween party near the coffee or drink station",
+      "When ordering decaf at a coffee shop during spooky season",
+      "During a vampire movie night when someone gets up to make coffee"
+    ]
   },
   {
     "id": "food-069",
@@ -964,7 +1440,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Battered\" means beaten up and in rough shape — but batter is also the liquid mixture that muffins are made from. A muffin feeling battered is literally describing its own origin story while also presenting at the ER. The muffin's medical complaint is just its biography.",
+    "howToTell": "Say \"really battered\" with the wince of someone who's seen better days — the muffin's condition is serious and frankly, given its composition, it was always going to come to this.",
+    "perfectFor": [
+      "While mixing muffin batter in the kitchen",
+      "At a bake sale when a muffin looks less than its best",
+      "When someone shows up looking roughed up and breakfast items happen to be nearby"
+    ]
   },
   {
     "id": "food-070",
@@ -978,7 +1461,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"jam session\" is informal, spontaneous music-making — but \"jam\" is also what blueberries are frequently turned into. The blueberries are simultaneously making music and undergoing the preserving process, creating art and condiment in a single inspired afternoon.",
+    "howToTell": "Say \"a jam session!\" with musical enthusiasm — these blueberries are creating something special on two fronts and they deserve full recognition for both.",
+    "perfectFor": [
+      "While making blueberry jam or preserves at home",
+      "At a music-and-food event where both are happening simultaneously",
+      "At a farmers market near the berry stand when live music is playing"
+    ]
   },
   {
     "id": "food-071",
@@ -992,7 +1482,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Soda pressing\" sounds exactly like \"so depressing\" — and a can crusher's entire job involves soda cans. The occupational hazard of crushing soda cans all day being emotionally flattening is both a mental health observation and a very precise job description.",
+    "howToTell": "Deliver \"soda pressing\" with the weary tone of someone who genuinely understands the emotional weight of this particular career path. The empathy makes it land.",
+    "perfectFor": [
+      "While recycling soda cans after a party",
+      "During a conversation about soul-crushing jobs or career burnout",
+      "At a recycling event or when someone's crushing cans for fun"
+    ]
   },
   {
     "id": "food-072",
@@ -1006,7 +1503,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Plain\" (boring, unremarkable) sounds identical to \"plane\" (aircraft). A cheeseburger on a plane is airplane food — famously and universally considered plain and disappointing. The joke captures decades of airline food criticism in a single homophone.",
+    "howToTell": "Say \"plain food!\" with a slightly underwhelmed tone — it's on a plane, but it's also just plain. The double disappointment compounds.",
+    "perfectFor": [
+      "On an airplane when the food cart arrives with the meal service",
+      "While complaining about uninspired food options anywhere",
+      "At an airport restaurant before a flight when expectations are already managed"
+    ]
   },
   {
     "id": "food-073",
@@ -1020,7 +1524,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cool stalk\" sounds like \"cool stock\" — slang for being a respected, popular figure. And broccoli is literally made of stalks. The broccoli attending the party on the basis of its stalky charisma is a social credential we didn't know broccoli had earned.",
+    "howToTell": "Say \"a cool stalk!\" with genuine admiration — broccoli has built a reputation and this party invitation is a well-deserved recognition of its social standing.",
+    "perfectFor": [
+      "At a party where vegetables are part of the crudité or snack spread",
+      "While roasting broccoli before a gathering",
+      "When a kid refuses to eat broccoli and you need a distraction tactic"
+    ]
   },
   {
     "id": "food-074",
@@ -1034,7 +1545,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Recess Pieces\" sounds exactly like \"Reese's Pieces\" — the beloved peanut butter candy. \"Recess\" is also playground break time, so the candy gets renamed for the moment it most naturally belongs to. It's a brand pun that also makes perfect situational sense.",
+    "howToTell": "Say \"Recess Pieces!\" with the delight of someone who has just discovered the optimal snack time and venue pairing — the playground connection makes it feel earned.",
+    "perfectFor": [
+      "At a school lunch or playground snack time",
+      "While handing out candy to kids after school",
+      "At a retro candy store when Reese's Pieces come up in conversation"
+    ]
   },
   {
     "id": "food-075",
@@ -1048,7 +1566,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Peeling out\" is what reckless drivers do — spinning tires with aggressive acceleration — but a lemon literally has a peel as its outer skin. The lemon's driving exam failure is caused by behavior that is simultaneously a traffic violation and an accurate description of its citrus anatomy.",
+    "howToTell": "Say \"peeling out!\" with the mildly exasperated tone of a driving instructor who has unfortunately seen this happen with citrus before and learned nothing.",
+    "perfectFor": [
+      "While zesting or peeling a lemon in the kitchen",
+      "During a casual conversation about bad drivers",
+      "At a driving school or road test discussion when common failures come up"
+    ]
   },
   {
     "id": "food-076",
@@ -1062,7 +1587,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cashew\" sounds almost exactly like \"achoo\" — the phonetic spelling of a sneeze. The cashew sneezing its own name is the single most efficient pun in the food joke canon: one word, zero wasted motion, all payload. Setup, punchline, and identity confirmation in one sneeze.",
+    "howToTell": "Set up the sneeze expectation clearly, then say \"Cashew!\" with the force and surprise of an actual sneeze — the physical commitment to the sound is half the joke.",
+    "perfectFor": [
+      "While eating cashews as a snack",
+      "During allergy season when sneezing is frequent and nuts are on the table",
+      "At a trail mix or charcuterie-and-nut-bowl situation"
+    ]
   },
   {
     "id": "food-077",
@@ -1076,7 +1608,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Thyme\" sounds exactly like \"time\" — and a cook running out of thyme (the herb) is also a cook running out of time (the resource). Both are genuinely disqualifying in a professional kitchen: no time means poor service, no thyme means poorly seasoned food. The pun diagrams two parallel failures simultaneously.",
+    "howToTell": "Say \"ran out of thyme!\" with the gravity of a genuine professional failing — this cook had every advantage and the herb cabinet let everyone down.",
+    "perfectFor": [
+      "While cooking with fresh herbs and realizing the thyme is running low",
+      "At a dinner party when the cooking is taking longer than it should",
+      "During a kitchen disaster when the spice rack turns out to be the decisive factor"
+    ]
   },
   {
     "id": "food-078",
@@ -1090,7 +1629,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Depresso\" sounds like \"espresso\" — the concentrated, intense coffee shot — but with \"depress\" baked right into the word. A sad espresso becoming a depresso is a melancholy rebrand that any coffee drinker can recognize immediately, especially on a Monday morning when the distinction feels uncomfortably relevant.",
+    "howToTell": "Say \"a depresso\" with a flat, hollow affect — the sad coffee is communicating through its very name and doesn't have the energy to do anything more expressive.",
+    "perfectFor": [
+      "On a Monday morning at the office coffee machine",
+      "At a coffee shop when someone orders an espresso and looks genuinely miserable",
+      "During a particularly rough week when the coffee station is the only reliable thing"
+    ]
   },
   {
     "id": "food-079",
@@ -1104,7 +1650,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Peaches are famously fuzzy — their skin has a distinctive downy texture that makes them unlike any other fruit. \"Fuzz to deal with\" is both a reasonable salon motivation and a precise botanical description. The peach's grooming appointment is not vanity — it's just fruit biology reaching its logical conclusion.",
+    "howToTell": "Deliver it with a sympathetic nod — the peach has been managing that fuzz all summer and this self-care appointment is long overdue.",
+    "perfectFor": [
+      "At a summer picnic or outdoor gathering when peaches are being served",
+      "While peeling peaches for a cobbler or pie",
+      "At a salon or spa when someone makes a fruit metaphor about self-care and texture"
+    ]
   },
   {
     "id": "food-080",
@@ -1118,7 +1671,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"You want a piece of me?\" is classic tough-guy challenge language — but for a cake, a piece is literally the desired and expected outcome. The cake's aggressive posturing is simultaneously a threat and an invitation, which makes it both funny and philosophically coherent.",
+    "howToTell": "Say it with maximum tough-cake swagger — the cake is not afraid and it knows exactly what's about to happen, and it chooses defiance anyway.",
+    "perfectFor": [
+      "At a birthday party while cutting the cake",
+      "When someone eyeballs the last piece of dessert on the plate",
+      "During any celebration where the cake is about to be served and dramatic narration feels appropriate"
+    ]
   },
   {
     "id": "food-081",
@@ -1132,7 +1692,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Keep your eyes peeled\" means stay alert and watch carefully — but potatoes have literal \"eyes\" (the small sprout nodes on the skin) and they get literally peeled. The potato detective is anatomically equipped for both requirements simultaneously, making the recruitment case for potato detectives surprisingly airtight.",
+    "howToTell": "Deliver it with the seriousness of a police department pitch — these potatoes have the skills and the biology for this work, and the department is genuinely lucky to have them.",
+    "perfectFor": [
+      "While peeling potatoes for dinner",
+      "During a mystery movie night when the snacks include potato chips",
+      "When kids are learning about plant biology and potato eyes come up in the lesson"
+    ]
   },
   {
     "id": "food-082",
@@ -1146,7 +1713,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"I'm dressing!\" plays on two meanings: the ranch is a dressing (salad condiment), and the classic privacy request someone makes when they're getting dressed and don't want to be walked in on. The ranch dressing's modesty is both an identity statement and a firmly established boundary.",
+    "howToTell": "Say \"Close the door, I'm dressing!\" with sharp, flustered embarrassment — the ranch did not consent to this intrusion and it wants that acknowledged.",
+    "perfectFor": [
+      "While reaching into the fridge before tossing a salad",
+      "When someone opens the fridge mid-dinner prep without warning",
+      "At a cookout when the condiment situation in the cooler becomes chaotic"
+    ]
   },
   {
     "id": "food-083",
@@ -1160,7 +1734,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"It takes two to guac\" is a smooth twist on \"it takes two to tango\" — with \"guac\" (short for guacamole, made by mashing avocados) replacing \"tango.\" The avocado's dance philosophy is both a romantic idiom and an enthusiastic endorsement of collaborative mashing.",
+    "howToTell": "Say \"two to guac!\" with the fluid ease of a dance floor announcement — the avocado is ready, confident, and it brought chips.",
+    "perfectFor": [
+      "While making guacamole for a party or gathering",
+      "At a Cinco de Mayo celebration when the guac comes out to applause",
+      "At any dance event where avocado toast is somehow also being served"
+    ]
   },
   {
     "id": "food-084",
@@ -1174,7 +1755,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Im-pasta\" fuses \"impostor\" and \"pasta\" into a word that doesn't exist but phonetically should have always existed. The concept of a fraudulent noodle is weirdly specific and satisfying, and the invented word feels like it was just discovered rather than invented.",
+    "howToTell": "Say \"an im-pasta!\" with theatrical suspicion — you've uncovered a culinary con that has been operating in plain sight for far too long.",
+    "perfectFor": [
+      "While cooking with zucchini noodles or any pasta alternative",
+      "At a pasta dinner when someone brings a non-traditional or suspicious noodle dish",
+      "At an Italian restaurant when someone orders the gluten-free option and everyone has thoughts"
+    ]
   },
   {
     "id": "food-085",
@@ -1188,7 +1776,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Things got twisted\" is slang for a situation turning weird or complicated — and a pretzel is literally twisted dough. The relationship breakdown between a pretzel and a breadstick is both emotionally complex and geometrically observable, with the pretzel's shape being the most honest thing about the whole situation.",
+    "howToTell": "Deliver it with the exasperated finality of someone explaining a relationship that had structural incompatibilities from the start — the pretzel and breadstick were simply not compatible in any dimension.",
+    "perfectFor": [
+      "At a party near the snack table when both pretzels and breadsticks are present",
+      "During an awkward conversation about relationships at dinner when everyone needs a palate cleanser",
+      "While making homemade pretzels and reflecting on the choices that brought you here"
+    ]
   },
   {
     "id": "food-086",
@@ -1202,7 +1797,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Pair\" sounds identical to \"pear\" — two pears declaring they make a great \"pair\" is a perfect homophone pun where the fruit is complimenting itself and its companion using its own name as a term of affection. The unselfconscious use of their own identity as a compliment is both charming and slightly narcissistic.",
+    "howToTell": "Say \"we make a great pair!\" with the warm sincerity of two fruits who genuinely believe in each other — it should feel wholesome and only slightly ridiculous.",
+    "perfectFor": [
+      "While slicing pears for a fruit plate or cheese board",
+      "At a farmers market when the pear selection is particularly excellent",
+      "During a collaborative project when you want to celebrate good teamwork and pears are in the room"
+    ]
   },
   {
     "id": "food-087",
@@ -1216,7 +1818,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Spilling the beans\" means accidentally revealing a secret — and a burrito is literally full of beans that can and do spill. The burrito's social transgression and its physical catastrophe are one and the same, making its embarrassment not just understandable but structurally inevitable.",
+    "howToTell": "Deliver \"spilled the beans!\" with genuine secondhand embarrassment for the burrito — it didn't mean to, but now the beans are out and there's nothing to be done.",
+    "perfectFor": [
+      "At a Mexican restaurant when someone's burrito falls apart on the first bite",
+      "During any gossip situation when beans happen to be on the dinner table",
+      "On Taco Tuesday when the burritos get overfilled by an optimistic chef"
+    ]
   },
   {
     "id": "food-088",
@@ -1230,7 +1839,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Turnip\" contains \"turn\" and \"up\" — a spinning vegetable is literally turning, and the \"-ip\" suffix locks in the vegetable name. The answer was hiding in the vegetable's name the whole time, and the punchline has the satisfying inevitability of something that could only ever be one word.",
+    "howToTell": "Say \"a turnip!\" like the answer is so obvious it barely needed asking — the casual confidence of someone who's been sitting on this one for a while.",
+    "perfectFor": [
+      "While roasting root vegetables for dinner",
+      "At a farm stand or farmers market near the turnip display",
+      "During any spinning activity when someone asks what you'd call a spinning version of various things"
+    ]
   },
   {
     "id": "food-089",
@@ -1244,7 +1860,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is a companion piece to the tomato blushing joke — \"dressing\" again does double duty as a salad condiment and the act of getting dressed. Applied to ketchup, it works even better since ketchup is already a deep red and therefore perpetually looks like it's blushing anyway.",
+    "howToTell": "Deliver it with a playful smirk — the ketchup walked right into that one, and given its permanent complexion, nobody's going to notice the difference.",
+    "perfectFor": [
+      "At a cookout when both ketchup and a salad happen to be on the table",
+      "While setting up condiments next to a salad bowl at a family meal",
+      "Any barbecue where the condiment shelf is well-stocked and jokes are welcome"
+    ]
   },
   {
     "id": "food-090",
@@ -1258,7 +1881,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Bread-y\" sounds like \"ready\" — and toast is literally made of bread. A piece of toast declaring it's \"bread-y to go\" is both an announcement of preparedness and an unsolicited identity confirmation that nobody asked for but everyone appreciates on a cold morning.",
+    "howToTell": "Say \"I'm bread-y to go!\" with the bright, slightly over-caffeinated energy of someone who is genuinely thrilled to face the cold day ahead.",
+    "perfectFor": [
+      "During a rushed weekday breakfast when toast is the fastest reasonable option",
+      "On a cold winter morning when everyone's moving slowly and needs motivation",
+      "When the toaster pops at exactly the right moment and you need to narrate it"
+    ]
   },
   {
     "id": "food-091",
@@ -1272,7 +1902,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"On a roll\" means on a winning streak — and olives are round enough to physically roll if you tip them on their side. The olive's momentum in the race and the possibility of it literally rolling along the track make this idiom work on both the competitive and the physical level.",
+    "howToTell": "Say \"on a roll!\" with sports-commentator excitement — this olive has been building toward this moment and it's inspiring to witness.",
+    "perfectFor": [
+      "While making an antipasto platter where olives are rolling everywhere",
+      "At a Mediterranean restaurant when the meal is going particularly well",
+      "Any competitive moment where someone's on an obvious winning streak and olives are present"
+    ]
   },
   {
     "id": "food-092",
@@ -1286,7 +1923,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This builds on the sleeping pizza joke by adding \"extra ZZZ\" — a nod to the pizza ordering convention of \"extra pepperoni\" or \"extra cheese.\" The sleeping pizza doesn't just have ZZZ's, it has extra ZZZ's, which means it's sleeping even harder and ordered accordingly.",
+    "howToTell": "Spell out or dramatically elongate the ZZZ sound — the more comically sleepy and snore-like the delivery, the better this one lands.",
+    "perfectFor": [
+      "During a late-night pizza delivery when everyone's fighting to stay awake",
+      "At a sleepover when people are clearly exhausted but the pizza is still being eaten",
+      "When ordering pizza and someone asks for extra toppings at the same moment another person yawns"
+    ]
   },
   {
     "id": "food-093",
@@ -1300,7 +1944,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Feeling nutty\" means acting a little erratic or off-kilter — and a coconut is, taxonomically speaking, a nut (or a fruit, or a seed, depending on who's asking). The coconut checking itself in for feeling nutty is both a mental health check-in and a botanical identity crisis wrapped into one appointment.",
+    "howToTell": "Deliver \"feeling a little nutty\" with wide-eyed concern, as if the coconut's behavior has been escalating and this appointment is genuinely overdue.",
+    "perfectFor": [
+      "While cracking open a fresh coconut",
+      "At a tropical-themed party where coconut drinks are being served",
+      "While making a coconut dessert and someone makes a sideways comment about the process"
+    ]
   },
   {
     "id": "food-094",
@@ -1314,7 +1965,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The punchline works on pure implication — any turkey that survives Thanksgiving Day has beaten astronomical odds. \"Lucky!\" captures the magnitude of that statistical improbability in a single cheerful word. No wordplay, just the weight of the holiday's culinary tradition doing all the heavy lifting.",
+    "howToTell": "Say \"Lucky!\" with a brief, reverent pause before it — acknowledge the turkey's survival with the gravity it deserves. It made it.",
+    "perfectFor": [
+      "The day after Thanksgiving when leftover turkey is everywhere",
+      "At Thanksgiving dinner while the carving is happening",
+      "When discussing holiday traditions and someone brings up the annual White House turkey pardon"
+    ]
   },
   {
     "id": "food-095",
@@ -1328,7 +1986,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A dental \"chip\" is a piece of damaged tooth enamel — but a \"chocolate chip\" is a candy ingredient. The candy bar going to the dentist for a chocolate chip is simultaneously a dental emergency and a self-inflicted crisis, given that candy bars are one of the primary causes of dental chips in the first place.",
+    "howToTell": "Say \"it had a chocolate chip!\" with the sympathy of someone who could see this coming from a mile away but wisely chose not to say anything until now.",
+    "perfectFor": [
+      "While eating a chocolate chip candy bar",
+      "In a dentist's waiting room — perfect timing, perhaps too perfect",
+      "During Halloween candy sorting when chocolate chips start appearing unexpectedly"
+    ]
   },
   {
     "id": "food-096",
@@ -1342,7 +2007,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Doughnut\" ends in \"nut\" but has absolutely no shell — it's neither a nut nor does it have anything protective about it. The setup primes you for a real nut, and the answer hides the punchline in the suffix of a pastry name. The misdirection is clean and the reveal feels like a legitimate discovery.",
+    "howToTell": "Say \"a doughnut!\" with the confident satisfaction of someone who just outsmarted a trick question — the answer was hiding in the name the entire time.",
+    "perfectFor": [
+      "At a donut shop or bakery when someone's being philosophical about pastries",
+      "During a nature trivia game when nuts inevitably come up",
+      "At a morning meeting when donuts are brought in and someone asks an innocent question"
+    ]
   },
   {
     "id": "food-097",
@@ -1356,7 +2028,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A variation on the classic mushroom joke, this one emphasizes the plural: multiple mushrooms, all fun-gis. \"Fungi\" (the kingdom mushrooms belong to) sounds like \"fun guys\" — so every mushroom is scientifically classified as someone you want at your party. The plural makes the social endorsement even more emphatic.",
+    "howToTell": "Say \"fun-gis!\" with the enthusiasm of someone vouching for their entire social circle — these mushrooms are reliably excellent guests and the taxonomy backs it up.",
+    "perfectFor": [
+      "While cooking with a variety of mushrooms",
+      "At a gathering where a mushroom dish turns out to be the unexpected hit of the night",
+      "At a farmers market near the exotic mushroom vendor who is also, by the evidence, a fun-gi"
+    ]
   },
   {
     "id": "food-098",
@@ -1370,7 +2049,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Nice to meet you\" is the standard introduction phrase — and \"meat\" replaces \"meet\" perfectly since a steak is, unambiguously, meat. The moment a steak makes first contact with a hot grill is literally the introduction of meat to metal, making this the most formally courteous grilling scenario imaginable.",
+    "howToTell": "Say \"nice to meat you!\" with gracious, first-meeting formality — the steak is being genuinely polite, even though things are about to get extremely hot for it very quickly.",
+    "perfectFor": [
+      "At a backyard BBQ when the steaks hit the grill for the first time",
+      "At a steakhouse when the sizzling platter arrives at the table",
+      "During a grilling masterclass when someone discusses the first contact between steak and heat"
+    ]
   },
   {
     "id": "food-099",
@@ -1384,7 +2070,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cool as a cucumber\" is already a common idiom meaning calm and collected — the joke applies the phrase to an actual cucumber, which is the origin of the expression. The cucumber is the source of its own cliché, and it knows it, and somehow that makes it even more calm about everything.",
+    "howToTell": "Say \"cool as a cucumber\" with maximum zen energy — this vegetable has achieved total equanimity and is not going to get ruffled about any of this.",
+    "perfectFor": [
+      "While slicing cucumbers for a salad on a hot summer day",
+      "At a spa when cucumber water is being served and the vibe is very calm",
+      "Any situation where someone remains impossibly composed and a cucumber happens to be nearby"
+    ]
   },
   {
     "id": "food-100",
@@ -1398,7 +2091,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Comfort food\" is the term for warm, nostalgic, emotionally soothing food — and \"too close for comfort\" means invading personal space. A grilled cheese sandwich that's simultaneously comforting and boundary-crossing creates a paradox where the most wholesome food becomes unexpectedly aggressive.",
+    "howToTell": "Say \"too close for comfort food!\" with the exasperation of someone genuinely overwhelmed by a sandwich's emotional proximity — the grilled cheese means well but it needs to back up.",
+    "perfectFor": [
+      "While making grilled cheese on a cold day when someone crowds the stove",
+      "At a diner when someone describes their go-to comfort meal with unusual intensity",
+      "When discussing emotional eating in a lighthearted way and grilled cheese comes up as evidence"
+    ]
   },
   {
     "id": "food-101",
@@ -1411,7 +2111,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "walking-home-last-night-i-passed-a-slice-of-apple-pie-an-ice-cream-sundae-and-a-",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Desserted\" sounds like \"deserted\" (empty, abandoned) but hides \"dessert\" inside — because the narrator just catalogued three specific desserts on an apparently otherwise empty street. The word only makes sense if you accept that the street's desertion is measured in pastry presence, which somehow works.",
+    "howToTell": "Tell the setup slowly and matter-of-factly, as if genuinely recounting a strange walk home — then land \"desserted\" with calm certainty, like you've only just now understood what was odd about the evening.",
+    "perfectFor": [
+      "Late at night after a dessert-heavy dinner party when everyone's in a reflective mood",
+      "At a bakery tour or dessert-focused food festival",
+      "When passing by a dessert shop or late-night diner on an otherwise quiet street"
+    ]
   },
   {
     "id": "food-102",
@@ -1425,7 +2132,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "im-never-eating-goat-liver-again",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Offal\" is the culinary term for organ meats — liver is literally offal — and it sounds identical to \"awful.\" The narrator's disgusted food review inadvertently uses the precise technical term for what they ate while also expressing exactly how they feel about it.",
+    "howToTell": "Say \"it tastes offal!\" with sincere, emphatic revulsion — the disgust is real and visceral, and the double meaning makes the reviewer sound accidentally more sophisticated than they intended.",
+    "perfectFor": [
+      "At a nose-to-tail dining restaurant where organ meats appear on the tasting menu",
+      "When someone experiments with offal cooking at home and the results are mixed",
+      "At a foodie dinner where adventurous eating is encouraged but doesn't always go as planned"
+    ]
   },
   {
     "id": "food-103",
@@ -1439,7 +2153,14 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "my-kid-hit-me-with-this-one-today",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is a variation of the coffee/mugged joke, and the framing of a kid delivering it independently adds a whole extra layer of charm. \"Mugged\" covers both the crime and the vessel, and there's something particularly satisfying about a child figuring out this wordplay on their own and being proud enough to deploy it.",
+    "howToTell": "Tell it with genuine parental pride in the setup — then deliver the punchline with your best impression of a kid who is very pleased with themselves and absolutely should be.",
+    "perfectFor": [
+      "At a parent meetup when the conversation turns to funny things kids have said recently",
+      "During a family breakfast when coffee is brewing and the kids are in a good mood",
+      "Anytime a kid makes you proud with a food pun and you want to pass the moment along"
+    ]
   },
   {
     "id": "food-104",
@@ -1452,6 +2173,13 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "a-hungry-traveller-stopped-at-a-monastery-and-was-taken-to-the-kitchens-where-a-",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Chip monk\" sounds exactly like \"chipmunk\" — the animal — but splits into \"chip\" (the fried snack) and \"monk\" (the religious figure). The brother's correction implies the traveler misidentified him as the cook when he is specifically the monastery's dedicated chip-frying monk, a distinction he clearly takes very seriously.",
+    "howToTell": "Deliver \"No. I'm the chip monk.\" with calm monastic authority and zero humor — the brother's complete seriousness about this distinction is what makes it funny.",
+    "perfectFor": [
+      "At a fish-and-chip shop when the conversation takes an unexpectedly philosophical turn",
+      "During a road trip when someone spots a chipmunk near the snack bag",
+      "At a monastery, heritage site, or any vaguely ecclesiastical setting where chips are somehow present"
+    ]
   }
 ]

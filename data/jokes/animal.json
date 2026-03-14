@@ -11,7 +11,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Dino-snore\" merges \"dinosaur\" with \"snore\" — the sounds are close enough that your brain makes the leap instantly. The image of a giant T-Rex sawing logs is both absurd and oddly adorable, which makes the pun land even softer.",
+    "howToTell": "Deliver \"dino-snore\" with a dramatic, sleepy drawl — let it trail off like someone actually dozing off mid-word.",
+    "perfectFor": [
+      "At a sleepover when someone starts snoring loudly",
+      "During a Jurassic Park movie marathon when kids start getting tired",
+      "At a natural history museum near the dinosaur fossil exhibit"
+    ]
   },
   {
     "id": "animal-002",
@@ -25,7 +32,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The joke exploits the double meaning of \"mouse\" — the computer peripheral and the actual rodent elephants supposedly fear. It misdirects you into thinking about their massive size and awkward typing before snapping back to a classic animal phobia.",
+    "howToTell": "Pause a beat after \"computers\" to let people assume this is going somewhere technical before landing \"the mouse\" with a knowing shrug.",
+    "perfectFor": [
+      "While setting up a new computer at a family tech help session",
+      "At a zoo near the elephant enclosure when kids are curious",
+      "When someone's wireless mouse dies and they're complaining about it"
+    ]
   },
   {
     "id": "animal-003",
@@ -39,7 +53,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The punchline IS the joke — remove the eyes (i's) from \"fish\" and you literally get \"fsh.\" The absent letter mirrors the absent eyes, making this a visual and phonetic pun that operates on two levels simultaneously. Pure wordplay genius.",
+    "howToTell": "Spell it out if needed — \"F-S-H\" — and let the groans build as people realize what happened to the letter i.",
+    "perfectFor": [
+      "At an aquarium when someone's reading the fish labels",
+      "During a spelling lesson when silent letters come up",
+      "On a road trip when kids need a brain teaser to stay entertained"
+    ]
   },
   {
     "id": "animal-004",
@@ -53,7 +74,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Horns\" has two meanings — the musical signaling kind (like a car horn) and the actual horns on a cow's head. The setup primes you to think about farm decoration or herding, then pulls the rug out with a brilliant mechanical excuse.",
+    "howToTell": "Say \"horns don't work\" with a shrug, like it's the most obvious explanation in the world — as if you've personally verified this.",
+    "perfectFor": [
+      "Driving past a farm on a road trip when someone spots cows",
+      "At a petting zoo when a cow has a bell around its neck",
+      "During a dinner conversation about farm life with kids"
+    ]
   },
   {
     "id": "animal-005",
@@ -67,7 +95,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Gummy\" does double duty here — it describes a toothless bear's mouth (nothing but gums) AND it's the exact name for those beloved chewy candies. The connection between a real bear losing its teeth and your favorite childhood snack is delightfully ridiculous.",
+    "howToTell": "Stretch out \"gummy\" a little when you say it — it's a satisfying word in the mouth, and kids will be giggling before you finish the sentence.",
+    "perfectFor": [
+      "While snacking on gummy bears with kids",
+      "In a dental office waiting room to lighten the mood",
+      "During a camping trip when someone brings up bears"
+    ]
   },
   {
     "id": "animal-006",
@@ -81,7 +116,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Bay-gull\" sounds just like \"bagel\" — the joke hides a word inside a word by swapping the location. Sea-gull stays a seagull over the sea, but a bay-gull becomes a breakfast item, and the absurd image of a bird transforming into baked goods is irresistible.",
+    "howToTell": "Pause dramatically before \"they'd be bagels\" — let people see the bay/bagel connection click in real time, then enjoy the reaction.",
+    "perfectFor": [
+      "On a boardwalk or beach when seagulls are circling overhead",
+      "At a bagel shop near the coast when someone spots a seagull",
+      "During a coastal road trip with the windows down"
+    ]
   },
   {
     "id": "animal-007",
@@ -95,7 +137,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Investigator\" contains \"in-vest-igator\" — literally an alligator in a vest, hiding inside the word itself. Once you hear it, you can't unhear the reptile lurking in that compound word. The setup is the punchline's instruction manual.",
+    "howToTell": "Raise an eyebrow and let \"investigator\" land with full confidence — don't oversell it, the word does all the heavy lifting on its own.",
+    "perfectFor": [
+      "At a detective-themed party or escape room event",
+      "When kids are watching a nature documentary about alligators",
+      "On a road trip through Florida near swampy bayou territory"
+    ]
   },
   {
     "id": "animal-008",
@@ -109,7 +158,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Shellfish\" is a near-perfect homophone for \"selfish\" — swap one letter and you've got a creature characteristic doubling as a personality flaw. The oyster context makes the wordplay feel inevitable rather than forced.",
+    "howToTell": "Deliver \"shellfish\" with a knowing look — half the room will groan before the word is fully out of your mouth.",
+    "perfectFor": [
+      "At a seafood restaurant when someone orders oysters on the half shell",
+      "During a lesson about sharing with young kids who need a light-touch lesson",
+      "At a beach outing near tide pools when the shells come up"
+    ]
   },
   {
     "id": "animal-009",
@@ -123,7 +179,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Labracadabrador\" weaves \"Labrador,\" \"abracadabra,\" and magic-speak into one magnificent portmanteau. It's almost too perfect that a real dog breed starts with \"Labra\" — the mashup feels genuinely engineered by the universe.",
+    "howToTell": "Say it slowly and dramatically, like you're actually casting a spell — wave an invisible wand if you're feeling it.",
+    "perfectFor": [
+      "At a magic show or birthday party with a magic theme",
+      "When a Labrador does something surprisingly clever or unexpected",
+      "While watching a dog obedience competition where a Lab is performing tricks"
+    ]
   },
   {
     "id": "animal-010",
@@ -137,7 +200,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"honeycomb\" is both the beeswax structure bees build AND a hair styling tool with teeth. The joke reframes bee anatomy as a grooming routine, and \"sticky hair\" as the setup is perfectly plausible in both the hive and the bathroom.",
+    "howToTell": "Run a hand through your own hair when you land \"honeycombs\" — the physical comedy makes the groans twice as loud.",
+    "perfectFor": [
+      "At a farmer's market honey stand on a warm Saturday",
+      "During a school project about bees and their hive structure",
+      "Getting ready in the morning when someone can't find their comb"
+    ]
   },
   {
     "id": "animal-011",
@@ -151,7 +221,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Pouch potato\" swaps \"couch\" for \"pouch\" — just one letter changes a familiar idiom into a kangaroo-specific lifestyle critique. The economy of the substitution is what makes it click so fast.",
+    "howToTell": "Let a slight Australian accent creep onto \"pouch potato\" if you can manage it — it's optional but genuinely fun.",
+    "perfectFor": [
+      "While watching a nature documentary about Australia on a lazy Sunday",
+      "When someone refuses to get off the couch and needs a gentle roast",
+      "At a zoo near the kangaroo or wallaby exhibit"
+    ]
   },
   {
     "id": "animal-012",
@@ -165,7 +242,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cowculator\" is \"calculator\" with \"cow\" replacing \"cal\" — the math context makes it feel like a legitimate practical question before the punchline makes you realize you've been had.",
+    "howToTell": "Pretend you're being earnest about the counting problem — furrow your brow at the setup before letting \"cowculator\" land completely deadpan.",
+    "perfectFor": [
+      "During a math homework session that needs lightening up",
+      "On a road trip when you pass a field full of cows",
+      "At a state fair near the livestock exhibits"
+    ]
   },
   {
     "id": "animal-013",
@@ -179,7 +263,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Pork chop\" is both a pig-derived cut of meat AND exactly what a karate practitioner delivers — a chop. The double meaning lands perfectly because \"karate chop\" is already in everyone's vocabulary, making the connection instant.",
+    "howToTell": "Throw a little karate chop motion when you land \"pork chop\" — the physical gag doubles the laugh every time.",
+    "perfectFor": [
+      "At a karate class or martial arts tournament",
+      "During a barbecue when someone puts pork chops on the grill",
+      "When kids are pretending to do karate moves in the living room"
+    ]
   },
   {
     "id": "animal-014",
@@ -193,7 +284,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"The P is silent\" refers both to the actual silent P in \"pterodactyl\" (a genuine grammar fact) and to the act of urinating quietly. The joke weaponizes real linguistics to sneak in a potty punchline — and it's impeccably constructed.",
+    "howToTell": "Deliver this one with total professorial innocence — the more deadpan and academic you play it, the bigger the reaction you'll get.",
+    "perfectFor": [
+      "During a spelling lesson when silent letters are the topic",
+      "At a natural history museum near the pterosaur wing",
+      "Any time kids are simultaneously fascinated by dinosaurs and bathroom humor"
+    ]
   },
   {
     "id": "animal-015",
@@ -207,7 +305,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Frostbite\" merges two threats perfectly — the cold of a snowman (frost) and the bite of a shark. Both halves of the setup contribute equally to the punchline, making it feel like a satisfying equation where both variables solve for one word.",
+    "howToTell": "Pause after \"snowman with a shark\" like you're genuinely stumped, then drop \"Frostbite!\" with alarmed emphasis — like it just bit you.",
+    "perfectFor": [
+      "During winter break when there's fresh snow on the ground",
+      "After watching a shark documentary during a snowstorm",
+      "At a winter beach town where cold and ocean themes collide"
+    ]
   },
   {
     "id": "animal-016",
@@ -221,7 +326,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Bison\" sounds exactly like \"bye, son\" — a tearful farewell packed into the name of the animal. The emotional context of a parent watching their child leave makes the phonetic pun hit harder than it has any right to.",
+    "howToTell": "Say \"Bison\" with a slight crack in your voice, like you're genuinely choking up — it sells the joke and adds an unexpected layer of comedy.",
+    "perfectFor": [
+      "On college move-in day when parents are saying long goodbyes",
+      "When any family member is leaving on a trip and the parting is dramatic",
+      "During a road trip through Yellowstone or the Great Plains where bison roam"
+    ]
   },
   {
     "id": "animal-017",
@@ -235,7 +347,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Coop\" already means a chicken house, but the joke reframes it as a car body style — a two-door coupe vs. a four-door sedan. The absurdity of applying automotive design logic to a chicken pen is the entire engine of this joke.",
+    "howToTell": "Act like the logic is completely airtight — \"obviously, four doors would make it a sedan\" delivered with zero irony is much funnier than winking at the audience.",
+    "perfectFor": [
+      "On a road trip when you pass a farm with a visible chicken house",
+      "At a car dealership or auto show when someone's debating coupe vs. sedan",
+      "During a discussion about cars with kids who are just learning about them"
+    ]
   },
   {
     "id": "animal-018",
@@ -249,7 +368,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Neigh-bor\" splits \"neighbor\" right at the horse sound — \"neigh\" is exactly what horses say, and \"bor\" finishes the word naturally. The pun is hiding inside an everyday word, waiting to be discovered.",
+    "howToTell": "Drop \"neigh-bor\" with a polite nod, like you're genuinely making a friendly introduction — keep it warm and neighborly.",
+    "perfectFor": [
+      "When someone new moves in next door and you need a funny welcome",
+      "At a horse farm or stable where the horses are close together",
+      "During a neighborhood barbecue when someone needs an icebreaker"
+    ]
   },
   {
     "id": "animal-019",
@@ -263,7 +389,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Tail\" and \"tale\" are homophones — a cat's physical tail becomes a narrative tale. The joke implies cats would be better storytellers with more tales to tell, which is both ridiculous and strangely logical.",
+    "howToTell": "Pause on \"tail\" and look slightly disappointed, like you genuinely wish cats had more literary material to work with.",
+    "perfectFor": [
+      "During a bedtime story session with kids and a cat sitting in the room",
+      "At a book club meeting when someone brings their cat along",
+      "While a cat is specifically flicking its tail in a dramatic fashion"
+    ]
   },
   {
     "id": "animal-020",
@@ -277,7 +410,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Wise quacker\" riffs on \"wisecracker\" — swapping \"crack\" for \"quack\" since that's what ducks do. A duck that aces school and makes jokes is a delightfully overachieving waterfowl.",
+    "howToTell": "Deliver \"wise quacker\" with a slow, approving nod — like you're genuinely impressed by this academically gifted bird.",
+    "perfectFor": [
+      "Report card day when kids bring home great grades",
+      "Near a pond or park where ducks are waddling around",
+      "During a school spelling bee or academic competition"
+    ]
   },
   {
     "id": "animal-021",
@@ -291,7 +431,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"snow bank\" is a mound of snow AND a financial institution — the Arctic setting makes \"bank\" feel like it must mean the snowy kind, before you realize a financial pun was hiding in the tundra all along.",
+    "howToTell": "Say \"snow bank\" matter-of-factly, like it's the most sensible banking option available — let the double meaning sink in on its own.",
+    "perfectFor": [
+      "During a snowstorm or heavy snowfall when drifts are building up",
+      "At a zoo's polar bear exhibit on a cool day",
+      "While teaching kids about saving money and needing a laugh to break the tension"
+    ]
   },
   {
     "id": "animal-022",
@@ -305,7 +452,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cat-astrophe\" is \"catastrophe\" with the animal hidden right at the front — and the real word already sounds like it contains \"cat.\" A group of chaotic cats causing disaster is both anatomically accurate and linguistically perfect.",
+    "howToTell": "Spread your arms wide when you say \"cat-astrophe\" — embody the full scale of the chaos.",
+    "perfectFor": [
+      "When multiple cats are causing havoc in the house simultaneously",
+      "During a chaotic family gathering that's clearly gone sideways",
+      "At a cat café when things get a little hectic and loud"
+    ]
   },
   {
     "id": "animal-023",
@@ -319,7 +473,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-02-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Butt quacks\" replaces \"butt cracks\" with a duck-appropriate sound — it's a butt joke and a duck pun at the same time. The unexpected combo of anatomy and animal noise in one phrase is peak dad joke territory.",
+    "howToTell": "Deliver this one extra deadpan — the more serious your face, the harder everyone will laugh.",
+    "perfectFor": [
+      "Near a pond where ducks are waddling around in full view",
+      "At a family gathering where light bathroom humor is acceptable",
+      "On a nature walk with kids who need something ridiculous to laugh about"
+    ]
   },
   {
     "id": "animal-024",
@@ -333,7 +494,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"That hit the spot\" is a common satisfaction expression — but on a Dalmatian (a spotted dog), \"spot\" is literal. The phrase means \"I'm satisfied\" in everyday use but points to the dog's own markings in this context.",
+    "howToTell": "Rub your belly contentedly as you say it — play the Dalmatian who just had a tremendously satisfying meal.",
+    "perfectFor": [
+      "After a particularly satisfying meal when everyone is leaning back full",
+      "When watching 101 Dalmatians with kids on movie night",
+      "At a dog park when a Dalmatian owner happens to be nearby"
+    ]
   },
   {
     "id": "animal-025",
@@ -347,7 +515,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-02-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Spotted\" means both \"found during hide and seek\" and \"covered in spots\" — the leopard's actual coat pattern is literally what gives them away. The animal's defining physical trait is also its strategic weakness.",
+    "howToTell": "Shake your head sympathetically — poor leopard, its coat gives it away every single time.",
+    "perfectFor": [
+      "At a zoo near the big cat exhibit",
+      "During a game of hide and seek when someone gets found immediately",
+      "While watching a nature documentary about leopards on a savanna hunt"
+    ]
   },
   {
     "id": "animal-026",
@@ -361,7 +536,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Ground beef\" is a grocery staple, but here it's shockingly literal — a cow on the ground (\"ground\" as in grounded, without legs) is simply \"beef\" that is \"ground.\" It's horrifyingly logical and that's exactly why it works.",
+    "howToTell": "Pause just long enough to let people reach for any other answer before landing \"ground beef\" with a completely straight face.",
+    "perfectFor": [
+      "At a barbecue when someone pulls out the ground beef patties",
+      "In a grocery store near the meat section when kids are asking what everything is",
+      "During a cooking class when ground beef is the featured ingredient"
+    ]
   },
   {
     "id": "animal-027",
@@ -375,7 +557,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The joke is built on pure literal subtraction — a fly's defining ability is flight. Remove that ability and the name stops making sense. What's left? Just a walk. It's absurdly logical and committed to the bit.",
+    "howToTell": "Keep it completely deadpan and quick — this one lands better as a rapid-fire one-liner than a setup that lingers.",
+    "perfectFor": [
+      "On a hiking trail when someone swats away an annoying fly",
+      "During a summer picnic when flies are landing on everything",
+      "When kids are asking nonsensical logic questions and you want to meet their energy"
+    ]
   },
   {
     "id": "animal-028",
@@ -389,7 +578,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The joke hijacks basic marine biology with kitchen logic — salt and pepper are paired seasonings, so if fish avoid pepper, they must prefer salt. It's scientifically absurd but internally consistent in the most ridiculous possible way.",
+    "howToTell": "Deliver this with the confidence of someone sharing a genuine nature fact — the drier the better.",
+    "perfectFor": [
+      "At a seafood restaurant when someone is seasoning their fish dish",
+      "During a cooking class for kids where salt and pepper come up",
+      "On a fishing trip when someone asks why the water is salty"
+    ]
   },
   {
     "id": "animal-029",
@@ -403,7 +599,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-02",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Pi-thon\" merges \"python\" (the snake) with \"pi\" (3.14159...) — the setup gives you the exact numerical clue and the punchline just needs you to connect snake + math into one perfect portmanteau.",
+    "howToTell": "Say the measurement very precisely — \"three point one four meters\" — to make the math connection land clearly before the punchline arrives.",
+    "perfectFor": [
+      "During a math class or tutoring session that needs a moment of levity",
+      "At a science fair with a reptile or snake-related exhibit",
+      "With kids who are learning about pi and need a fun way to remember it"
+    ]
   },
   {
     "id": "animal-030",
@@ -417,7 +620,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Walkie-talkie\" perfectly describes the hybrid — a centipede does a LOT of walking and a parrot does a LOT of talking. The result is an actual product name, which makes the connection feel almost cosmically pre-ordained.",
+    "howToTell": "Let people sit with \"centipede crossed with parrot\" for a second — give them time to fail to guess it before \"walkie-talkie\" pays off everything.",
+    "perfectFor": [
+      "At a pet store that sells both exotic birds and insects",
+      "During a camping trip when someone pulls out the walkie-talkies",
+      "At a zoo that has a bird and insect exhibit right next to each other"
+    ]
   },
   {
     "id": "animal-031",
@@ -431,7 +641,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-03",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "It's the \"shellfish/selfish\" pun applied to crabs — who are genuinely known for their territorial, pinchy behavior. The \"too\" at the end implies even crabs are guilty of selfishness, like it's an ocean-wide epidemic.",
+    "howToTell": "Say \"shellfish too\" with a slight knowing raise of the eyebrow — like you've caught the crab red-handed (or red-clawed).",
+    "perfectFor": [
+      "At a seafood boil when crabs are being portioned out and someone grabs extra",
+      "When siblings are arguing about who got more of something",
+      "At an aquarium near the crustacean tank"
+    ]
   },
   {
     "id": "animal-032",
@@ -445,7 +662,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"No idea\" sounds exactly like \"no eye deer\" — spoken aloud, the answer IS the animal description. The pun only works phonetically, which is what makes reading it aloud so satisfying — you hear \"no eye-deer\" and realize you've also heard \"no idea.\"",
+    "howToTell": "Shrug helplessly and say \"No idea!\" — play it completely straight, like you genuinely don't know the answer to your own question.",
+    "perfectFor": [
+      "When someone asks a genuinely stumping question and you don't know the answer",
+      "On a nature hike where deer tracks are spotted in the mud",
+      "During a trivia game when someone gets a question about deer"
+    ]
   },
   {
     "id": "animal-033",
@@ -459,7 +683,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-04",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The joke exploits both meanings of \"hum\" — the bird's wing-buzzing sound AND the act of humming a song when you don't know the lyrics. It's a gentle, wholesome bit of wordplay where the bird is just doing its best.",
+    "howToTell": "Hum a few bars of a recognizable song before delivering the punchline — let the audience literally hear the connection before it clicks.",
+    "perfectFor": [
+      "In a garden when a hummingbird visits a feeder",
+      "When someone is humming in the car because they only know half the words",
+      "During a backyard birdwatching outing with kids"
+    ]
   },
   {
     "id": "animal-034",
@@ -473,7 +704,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"So-fish-ticated\" smuggles \"fish\" right inside \"sophisticated\" — and the bowtie setup earns the fancy vocabulary by actually depicting elegance. The visual of a dapper fish in formal wear colliding with a high-brow word is peak high-low comedy.",
+    "howToTell": "Pronounce it with an air of refined distinction — maybe a little sniff of approval — as if you genuinely admire this fish's impeccable sense of style.",
+    "perfectFor": [
+      "At a fancy restaurant when someone orders fish as the entrée",
+      "During a formal event when kids get bored and need something to laugh about",
+      "At an aquarium near the more exotic and colorful fish displays"
+    ]
   },
   {
     "id": "animal-035",
@@ -487,7 +725,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-05",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Shell station\" doubles as the Shell gas station chain and a station specific to turtle shells. The classic \"why did X cross the road\" structure sets expectations before swapping \"gas station\" for a reptile-specific destination.",
+    "howToTell": "Channel classic \"why did the chicken cross the road\" energy — flat, matter-of-fact, like the turtle's destination is completely ordinary.",
+    "perfectFor": [
+      "On a road trip when you pass a Shell gas station",
+      "When someone spots a turtle slowly crossing a road",
+      "While telling road trip jokes to kill time on the highway"
+    ]
   },
   {
     "id": "animal-036",
@@ -501,7 +746,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Bulldozer\" hides \"bull\" + \"doze\" — to doze means to sleep lightly, and a bull doing it becomes the heavy machinery term. The word was probably always there waiting; the joke just makes you finally see it.",
+    "howToTell": "Say it like you're revving a bulldozer engine — the heavy machinery energy against the image of a peacefully napping bull is part of the fun.",
+    "perfectFor": [
+      "On a road trip past a construction site with dozers working",
+      "At a farm or ranch when the bulls are resting in the field",
+      "When someone falls asleep somewhere unexpected and needs a gentle roast"
+    ]
   },
   {
     "id": "animal-037",
@@ -515,7 +767,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-06",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A spider's web IS its website — literally. The internet co-opted \"web\" from spider biology, so a spider checking its actual web and a user checking their website are the same action with different mediums. Perfect circular logic.",
+    "howToTell": "Mime typing at a keyboard when you land \"web site\" — the physical joke reinforces the animal/digital collision.",
+    "perfectFor": [
+      "During a tech or coding class for kids when websites come up",
+      "When someone is obsessively checking their website analytics",
+      "On Halloween when spider web decorations are everywhere"
+    ]
   },
   {
     "id": "animal-038",
@@ -529,7 +788,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Ba-boom\" merges \"baboon\" with \"boom\" — the explosion sound. The chaotic image of a primate navigating a minefield and the resulting onomatopoeia make for a dark but delightfully absurdist pun.",
+    "howToTell": "Say \"ba-boom\" with full sound effect energy — like a small explosion going off in the room.",
+    "perfectFor": [
+      "During an action movie night when explosions are happening on screen",
+      "At a zoo near the baboon exhibit when kids are in a silly mood",
+      "On a camping trip when someone's telling loud, over-the-top adventure stories"
+    ]
   },
   {
     "id": "animal-039",
@@ -543,7 +809,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-07",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Hoo-dini\" swaps the \"Hou\" in \"Houdini\" for \"Hoo\" — the classic owl call. Harry Houdini is the gold standard of magicians, and the owl's natural vocalization transforms his name into a perfect bird pun.",
+    "howToTell": "Cup your hands around your mouth and deliver \"Hoo-dini\" in a slightly spooky, mysterious way — lean into the owl's nocturnal mystique.",
+    "perfectFor": [
+      "At a magic show or birthday party with a magic theme",
+      "During a Halloween party where owls are part of the decoration",
+      "At a nature center or wildlife sanctuary with an owl in residence"
+    ]
   },
   {
     "id": "animal-040",
@@ -557,7 +830,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Lactose\" sounds like \"lack toes\" — a cow doesn't have toes (it has hooves), and lactose is a dairy compound. The joke works on two completely different levels at the same time: anatomy and dairy science converging in one word.",
+    "howToTell": "Deliver this with a professor's gravitas — like you're sharing important bovine biology before the punchline makes the whole thing ridiculous.",
+    "perfectFor": [
+      "At a dairy farm or on a farm tour when someone asks about cow anatomy",
+      "When someone mentions they're lactose intolerant and the timing is right",
+      "During a science class discussion about mammals and digestion"
+    ]
   },
   {
     "id": "animal-041",
@@ -571,7 +851,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-08",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Chili dog on a bun\" maps perfectly onto the scenario: \"chili\" from the cold dog, \"dog\" from the dog itself, and \"bun\" from the rabbit (bunnies are nicknamed \"buns\"). It's a three-part pun hiding inside a single food item.",
+    "howToTell": "Count the elements off on your fingers — cold dog plus rabbit — if the audience looks confused, walking through it actually makes it funnier.",
+    "perfectFor": [
+      "At a backyard cookout when someone pulls out hot dogs and buns",
+      "When a dog is shivering outside in cold weather near the rabbit hutch",
+      "At a county fair near the food stands"
+    ]
   },
   {
     "id": "animal-042",
@@ -585,7 +872,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The joke sidesteps the obvious \"they're too big\" answer and goes hyper-specific to bike bell mechanics — the one small physical detail that makes the entire scenario impossible. The commitment to that absurd technicality is what lands.",
+    "howToTell": "Mime ringing a bicycle bell with a thumb press — the specificity of the gesture makes the punchline feel airtight.",
+    "perfectFor": [
+      "On a bike ride when someone asks an absurd hypothetical",
+      "At a zoo near the elephant enclosure when kids are asking silly questions",
+      "During a cycling class or bike event when someone's in the mood for humor"
+    ]
   },
   {
     "id": "animal-043",
@@ -599,7 +893,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-09",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The setup seems to be building to a clever pun, but the punchline is just brutally literal — of course a penguin in the Sahara is simply lost. The anti-pun is funnier than any wordplay would have been.",
+    "howToTell": "Say \"Lost!\" with a matter-of-fact shrug, like the answer was staring everyone in the face. No fanfare needed — the simplicity IS the joke.",
+    "perfectFor": [
+      "When someone shows up somewhere wildly out of context",
+      "On a trip to a desert region when someone mentions penguins for no reason",
+      "At an aquarium's penguin exhibit when someone asks a silly hypothetical"
+    ]
   },
   {
     "id": "animal-044",
@@ -613,7 +914,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "An octopus has eight arms — literally \"well armed\" in a way no other ocean creature can claim. \"Well armed\" means prepared with weapons in human terms, but it's also anatomically accurate for octopuses, making this a rare pun that's factually true.",
+    "howToTell": "Spread all ten fingers out like you're demonstrating the octopus's arms — the visual emphasis makes \"well armed\" hit harder.",
+    "perfectFor": [
+      "During a marine biology discussion or ocean-themed class",
+      "At an aquarium near the octopus tank",
+      "During a friendly debate about which ocean animal would win in a fight"
+    ]
   },
   {
     "id": "animal-045",
@@ -627,7 +935,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-10",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Bugs Bunny\" is the famous cartoon character, but here \"bugs\" is literal — a rabbit infested with bugs (fleas) is genuinely a buggy bunny. A famous name accidentally becomes a perfect description.",
+    "howToTell": "Say \"Bugs Bunny!\" with the cheerful cartoon energy of the character himself — maybe throw in his signature carrot-chewing nonchalance.",
+    "perfectFor": [
+      "When kids are watching Looney Tunes on a Saturday morning",
+      "At a petting zoo or rabbit pen where kids are handling bunnies",
+      "During Easter when bunnies are top of mind for everyone"
+    ]
   },
   {
     "id": "animal-046",
@@ -641,7 +956,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Mouse\" means both the computer peripheral and the rodent a cat would hunt — the cat's predatory instinct becomes unintentional IT support. Cats actually sit on keyboards constantly, making the setup extra believable before the punchline reframes everything.",
+    "howToTell": "Mime a cat settling onto a laptop with a proprietary thud, then look up with suspicious intensity — \"keeping an eye on the mouse.\"",
+    "perfectFor": [
+      "When your cat sits on your keyboard while you're in the middle of something important",
+      "During a work-from-home day with a cat making itself at home on the desk",
+      "At a tech company where someone's cat has famously visited the office"
+    ]
   },
   {
     "id": "animal-047",
@@ -655,7 +977,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-11",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The joke inverts the usual \"what do you call\" format — instead of a pun, the punchline is a practical observation. The gorilla's inability to hear means you're free to name it anything, which is a delightfully rebellious answer.",
+    "howToTell": "Lean in conspiratorially when you say \"anything you want\" — make it feel like you're letting the audience in on a secret opportunity.",
+    "perfectFor": [
+      "At a zoo near the great ape exhibit",
+      "When kids are making up funny names for animals in a picture book",
+      "During a game of naming animals where someone asks what you'd call a specific one"
+    ]
   },
   {
     "id": "animal-048",
@@ -669,7 +998,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Whatever bugs them\" means \"whatever bothers them\" in everyday speech, but frogs literally eat bugs — so the frog's coping mechanism is to simply consume its source of stress. It's the most proactive self-care routine in the animal kingdom.",
+    "howToTell": "Nod approvingly at the frog's excellent problem-solving approach — deliver it like you're sharing genuine life advice worth following.",
+    "perfectFor": [
+      "When someone is complaining about their problems and needs a reframe",
+      "At a pond or nature area where frogs are active on a warm evening",
+      "During a camping trip on a buggy summer night"
+    ]
   },
   {
     "id": "animal-049",
@@ -683,7 +1019,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-12",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A fish without a tail is functionally just a body — and \"one-ended stick\" is the most absurdly literal geometric description of that remaining shape. It's dry, weird, and committed to the bit in a way that's funnier than any pun.",
+    "howToTell": "Say \"a one-ended stick\" with the calm certainty of someone who has thought this through very, very carefully.",
+    "perfectFor": [
+      "Near an aquarium or fish tank when someone asks about fish anatomy",
+      "During a geometry lesson that desperately needs some comic relief",
+      "On a fishing trip when someone reels in a disappointing or unusual catch"
+    ]
   },
   {
     "id": "animal-050",
@@ -697,7 +1040,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-13",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Anty-bodies\" merges \"antibodies\" (the immune proteins) with \"ant\" (the insect) — the phonetic similarity between \"antibodies\" and \"anty-bodies\" is so close it almost feels like biology invented the joke on purpose.",
+    "howToTell": "Say \"anty-bodies\" slowly so the connection has time to click — it rewards the listener who takes a beat to process it.",
+    "perfectFor": [
+      "During cold and flu season when everyone's talking about immunity",
+      "At a science fair with an ant farm or biology exhibit",
+      "When kids are learning how the immune system works and need a mnemonic"
+    ]
   },
   {
     "id": "animal-051",
@@ -711,7 +1061,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Buoys\" sounds exactly like \"boys\" — so \"good buoys\" is \"good boys,\" the highest praise a dog can receive, transformed into a nautical safety device. Dogs being \"good boys\" in any context is universally beloved.",
+    "howToTell": "Say it with warm affection, like you're genuinely proud of these floating dogs — pat an invisible good boy on the head.",
+    "perfectFor": [
+      "At a lake or beach where dogs are happily swimming",
+      "During a sailing or boating trip when someone spots a buoy",
+      "At a dog beach or pet-friendly water park"
+    ]
   },
   {
     "id": "animal-052",
@@ -725,7 +1082,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cool cat\" is slang for someone effortlessly stylish, but here \"cool\" is also literally true — ice is cold. A cat on ice is physically cool, and the phrase doubles as a hipster compliment, giving the cat completely unearned swagger.",
+    "howToTell": "Deliver it with finger guns and a slow nod — channel the 1950s \"cool cat\" vibe fully.",
+    "perfectFor": [
+      "At an ice skating rink when someone pulls off a smooth move",
+      "During winter when the cat keeps jumping onto cold windowsills",
+      "At a jazz concert or cool-themed event where the phrase fits the whole room"
+    ]
   },
   {
     "id": "animal-053",
@@ -739,7 +1103,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Bill\" is both a pelican's large beak AND a restaurant tab — the pelican was presented with a bill for services rendered, which he physically already possesses. The restaurant context makes both meanings land simultaneously.",
+    "howToTell": "Shake your head sympathetically — poor pelican brought his own bill, and that wasn't what the management had in mind.",
+    "perfectFor": [
+      "At a seafood restaurant near the coast where pelicans wander outside",
+      "When the restaurant bill comes and it's unexpectedly large",
+      "At a waterfront dining spot where pelicans sometimes make appearances"
+    ]
   },
   {
     "id": "animal-054",
@@ -753,7 +1124,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Jumping plus a milk-producing animal equals milkshake — the physics are completely undeniable. Vigorous bouncing would agitate the milk inside a cow, producing exactly the beverage described. It's the most logical food science joke in the barnyard.",
+    "howToTell": "Mime the bouncing motion with your hand before landing \"milkshake\" — let the image fully form before the punchline arrives.",
+    "perfectFor": [
+      "At a dairy farm or petting zoo with kids",
+      "When kids are on a trampoline and someone makes a milk reference",
+      "While making milkshakes at home and someone asks why you're shaking so hard"
+    ]
   },
   {
     "id": "animal-055",
@@ -767,7 +1145,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Funny\" means both \"amusing\" (a clown's job description) and \"strange or off-tasting\" (as in something that tastes funny). The shark's food review accidentally describes the clown's entire profession, making rejection feel like a backhanded compliment.",
+    "howToTell": "Scrunch your face like a shark who found the meal surprisingly off-putting — embody the discerning predator.",
+    "perfectFor": [
+      "At a circus or comedy show when a clown act is performing",
+      "When someone tries a new food and makes a face",
+      "At the beach where someone's telling shark encounter stories"
+    ]
   },
   {
     "id": "animal-056",
@@ -781,7 +1166,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Polly unsaturated\" riffs on \"polyunsaturated\" — the type of fat found in healthy foods. \"Polly\" is the classic parrot name, and \"unsaturated\" means not wet (not saturated by rain). Chemistry vocabulary doing comedy work is always unexpected.",
+    "howToTell": "Say \"Polly unsaturated\" in the tone of a nutrition label being read aloud — clinical delivery makes the parrot even funnier.",
+    "perfectFor": [
+      "At a grocery store while walking through the cooking oils aisle",
+      "During a health class or nutrition discussion when fat types come up",
+      "When it's raining and someone's pet bird is near the window looking miffed"
+    ]
   },
   {
     "id": "animal-057",
@@ -795,7 +1187,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Hickory Dickory Dock\" is the nursery rhyme featuring a mouse — and \"dock\" is where boats park. The nursery rhyme title becomes a literal nautical location for the very mice from its own story. It's perfectly self-referential.",
+    "howToTell": "Say \"hickory dickory dock\" in the same singsong cadence as the nursery rhyme — it makes the joke feel like completing a song rather than just landing a punchline.",
+    "perfectFor": [
+      "During storytime with kids who know their nursery rhymes",
+      "At a marina or dock when kids are asking questions about boats",
+      "When reading nursery rhymes together and someone wants to add a funny twist"
+    ]
   },
   {
     "id": "animal-058",
@@ -809,7 +1208,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Chicken sees a salad\" sounds exactly like \"Caesar salad\" — the famous dish. The visual of a chicken studying a pile of lettuce combined with the phonetic trick makes this a multi-layered pun that rewards a second listen.",
+    "howToTell": "Ask the setup slowly and let people actually picture the chicken before \"chicken sees a salad\" makes the Caesar connection click.",
+    "perfectFor": [
+      "At a restaurant when someone orders a Caesar salad",
+      "During a cooking class featuring salad-making",
+      "At a farm where chickens are pecking around near a vegetable garden"
+    ]
   },
   {
     "id": "animal-059",
@@ -823,7 +1229,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Pandas are black and white animals — classic old films are also black and white. The punchline doesn't even need to explain itself because the visual connection is instant and completely irrefutable.",
+    "howToTell": "Gesture toward the panda's coloring (real or imagined) when you say \"black and white\" — the visual reference sells it without any extra words.",
+    "perfectFor": [
+      "At a zoo at the panda exhibit",
+      "During a classic film screening or old movie marathon",
+      "When kids are doing a school project about pandas and need a laugh"
+    ]
   },
   {
     "id": "animal-060",
@@ -837,7 +1250,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Snailor\" merges \"snail\" and \"sailor\" — the two words share enough phonetic overlap that the portmanteau feels natural, not forced. A nautical snail has found its calling, and the ship is probably moving very, very slowly.",
+    "howToTell": "Say \"snailor\" with the salty confidence of a weathered sea captain — this snail has earned every rank.",
+    "perfectFor": [
+      "At the beach or a marina on a summer day",
+      "While reading a kids' book about ocean adventures",
+      "On a boat trip when the vessel is moving slowly and someone needs a joke"
+    ]
   },
   {
     "id": "animal-061",
@@ -851,7 +1271,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The joke embraces pure logical absurdism — of course lifting both legs would be a problem. The \"obvious\" answer to a question that sounds like it needs a biological explanation turns out to be just physics, delivered with complete mock sincerity.",
+    "howToTell": "Nod gravely like this is groundbreaking ornithological insight — commit to the absurd logic without a single wink.",
+    "perfectFor": [
+      "At a zoo near the flamingo habitat",
+      "During a yoga class when someone's attempting a one-legged balance pose",
+      "When kids ask genuinely curious questions about flamingo behavior"
+    ]
   },
   {
     "id": "animal-062",
@@ -865,7 +1292,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Labra-cadabra-dor retriever\" works the full breed name \"Labrador retriever\" while embedding \"abracadabra\" right in the middle. The beach setting adds specificity that makes the complete name drop even more satisfying.",
+    "howToTell": "Build up to the full name slowly, like you're conjuring the dog yourself — \"Labra... cadabra... dor retriever!\" with theatrical pauses between each section.",
+    "perfectFor": [
+      "At a beach where dogs are playing fetch in the waves",
+      "At a magic-themed party or show where the audience includes dog lovers",
+      "When a Labrador retriever does something unexpectedly impressive"
+    ]
   },
   {
     "id": "animal-063",
@@ -879,7 +1313,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Honey\" is both a term of endearment for a romantic partner AND what bees literally produce. The bee's romantic motivation is also its professional product, making marriage the most logical business decision any bee could make.",
+    "howToTell": "Deliver \"his honey\" with genuine warmth — like you're toasting the happy couple at a bee wedding reception.",
+    "perfectFor": [
+      "At a wedding reception or engagement party",
+      "When someone announces their engagement and the moment calls for a toast",
+      "At a farmer's market honey stall where the romance of beekeeping is in the air"
+    ]
   },
   {
     "id": "animal-064",
@@ -893,7 +1334,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Two-knee fish\" sounds exactly like \"tunafish\" — the phonetic trick hinges on breaking \"tuna\" into \"two\" and \"knee.\" It's a pun that only works out loud, which makes sharing it in person especially satisfying.",
+    "howToTell": "Emphasize \"two\" and \"knee\" ever so slightly — just enough to nudge people toward the connection without giving it away.",
+    "perfectFor": [
+      "At a deli counter when someone orders tuna salad",
+      "During school lunch when someone has a tuna sandwich",
+      "While grocery shopping in the canned fish aisle"
+    ]
   },
   {
     "id": "animal-065",
@@ -907,7 +1355,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Turkey \"drumsticks\" are the leg portions of the bird — but drumsticks are also what you use to play drums. The turkey's anatomical features double as professional qualifications for rock stardom.",
+    "howToTell": "Air drum with imaginary turkey drumsticks after the punchline — let the band performance continue for an extra beat.",
+    "perfectFor": [
+      "At Thanksgiving dinner when the turkey is being carved and someone gets a drumstick",
+      "At a concert or music festival when the drum solo hits",
+      "When kids are in a percussion class or drum lesson and need a fun moment"
+    ]
   },
   {
     "id": "animal-066",
@@ -921,7 +1376,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Spoiled\" means both \"treated lavishly\" (a pampered cow is spoiled rotten) and \"gone bad\" (milk can spoil). Both meanings of \"spoiled\" are simultaneously true for this particular cow's dairy output.",
+    "howToTell": "Wrinkle your nose slightly at \"spoiled milk\" — let the sensory disgust of bad milk fight with the image of a very coddled, spa-going cow.",
+    "perfectFor": [
+      "During a dairy farm tour when kids ask where milk comes from",
+      "When milk goes bad in the fridge and someone's complaining",
+      "At a cooking class discussing fresh versus old dairy ingredients"
+    ]
   },
   {
     "id": "animal-067",
@@ -935,7 +1397,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Stuffed\" means both \"full from eating\" and \"filled with stuffing material\" — which is literally what a teddy bear is made of. The bear can never be hungry because its entire body is made of the thing that makes you feel full.",
+    "howToTell": "Pat your stomach contentedly as if you yourself are a completely stuffed bear — lean into the deep satisfaction of being overfull.",
+    "perfectFor": [
+      "With kids at bedtime surrounded by their stuffed animals",
+      "After Thanksgiving dinner when everyone's leaning back with a groan",
+      "At a toy store near the stuffed animal section"
+    ]
   },
   {
     "id": "animal-068",
@@ -949,7 +1418,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Calm-eleon\" riffs on \"chameleon\" — replacing \"cham\" with \"calm\" since a sleeping lizard is, obviously, calm. Chameleons are already known for being still and blending in, so a calm one is practically in its natural operating mode.",
+    "howToTell": "Whisper \"calm-eleon\" as if you don't want to wake it — the quiet delivery perfectly matches the sleeping animal.",
+    "perfectFor": [
+      "At a reptile exhibit or pet store with lizards on display",
+      "When someone is sleeping soundly and you want a quiet joke",
+      "During a nature lesson about reptiles and camouflage"
+    ]
   },
   {
     "id": "animal-069",
@@ -963,7 +1439,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Baaaaarber\" extends the sheep sound \"baa\" directly into \"barber\" — sheep get sheared, which is essentially a haircut, so a barbershop is the most logical destination. The extended \"baa\" is also just extremely fun to say out loud.",
+    "howToTell": "Really lean into the \"baaaa\" — stretch it out as long as your lung capacity allows before snapping into \"rber shop.\"",
+    "perfectFor": [
+      "At a barbershop or hair salon while sitting in the waiting area",
+      "On a farm or petting zoo near the sheep pen",
+      "Road trip past a field of sheep when the kids need entertainment"
+    ]
   },
   {
     "id": "animal-070",
@@ -977,7 +1460,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The joke delivers the simplest possible answer — remove a zebra's single defining characteristic and you just have... a horse. It's the most reductive punchline imaginable, and that total commitment to simplicity is exactly what makes it land.",
+    "howToTell": "Say \"a horse\" with a flat shrug — the more unimpressed and obvious you sound, the funnier it lands.",
+    "perfectFor": [
+      "At a zoo near the zebra and horse exhibits side by side",
+      "During a game of animal trivia when someone overthinks a simple question",
+      "When someone asks a deceptively complex-seeming question with an obvious answer"
+    ]
   },
   {
     "id": "animal-071",
@@ -991,7 +1481,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Tide\" sounds like \"side\" — the classic \"other side\" answer from the chicken joke gets reframed in ocean terms. The aquatic pun swaps the everyday word for the literal phenomenon governing ocean water, making it feel tailored specifically for dolphins.",
+    "howToTell": "Channel the classic \"why did the chicken cross the road\" energy — flat, inevitable, as if the dolphin had a very sensible reason.",
+    "perfectFor": [
+      "At the beach watching dolphins swimming in the water",
+      "During an ocean science lesson when tides are being discussed",
+      "On a boat trip when someone spots dolphins and needs a quick one-liner"
+    ]
   },
   {
     "id": "animal-072",
@@ -1005,7 +1502,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Alley cat\" is a term for a stray cat that lives in alleyways — but bowling alleys are also where you bowl. A cat who bowls is literally an alley cat by profession and by natural habitat, making both meanings simultaneously true.",
+    "howToTell": "Gesture like you're rolling a bowling ball when you land \"alley cat\" — let the cat's athletic hobby sink in fully.",
+    "perfectFor": [
+      "At a bowling alley when someone mentions cats",
+      "When someone brags about their bowling score and needs a deflating joke",
+      "At a cat café that happens to be in an alley-adjacent location"
+    ]
   },
   {
     "id": "animal-073",
@@ -1019,7 +1523,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Bear feet\" sounds like \"bare feet\" — the preference for going shoeless is expressed using the bear's own species name. Bears are already barefoot by definition, making this pun both accurate and perfectly self-fulfilling.",
+    "howToTell": "Wiggle your toes when you say \"bear feet\" — the sensory satisfaction of going barefoot adds a physical layer to the joke.",
+    "perfectFor": [
+      "On a beach or at a pool where everyone has kicked off their shoes",
+      "During a hiking trip when someone takes their shoes off at camp",
+      "At a zoo near the bear enclosure when kids notice the bears have no shoes"
+    ]
   },
   {
     "id": "animal-074",
@@ -1033,7 +1544,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Dam\" is a water barrier — but it also sounds exactly like a mild expletive, giving the joke a slightly cheeky edge that parents can deploy safely. The fish's frustration is expressed in the most aquatically appropriate way possible.",
+    "howToTell": "Say \"Dam!\" with the exact energy of someone who just stubbed their toe — frustrated but not catastrophic.",
+    "perfectFor": [
+      "On a fishing trip or near a river with a beaver dam",
+      "When someone bumps into something and you need a family-safe exclamation substitute",
+      "At a nature center or water park with a dam feature kids can see"
+    ]
   },
   {
     "id": "animal-075",
@@ -1047,7 +1565,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Swallow their pride\" is an idiom for admitting fault — but a giraffe's neck is so long that swallowing anything literally takes extra time. The expression becomes physically true for the animal, blending metaphor and anatomy in a way that feels inevitable.",
+    "howToTell": "Mime swallowing something slowly, tracing down a very long neck — let the gesture do most of the work the punchline needs.",
+    "perfectFor": [
+      "When someone is taking an excessively long time to apologize for something",
+      "At a zoo near the giraffe exhibit where the necks are on full display",
+      "During a discussion about conflict resolution or admitting when you're wrong"
+    ]
   },
   {
     "id": "animal-076",
@@ -1061,7 +1586,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Chili dog\" is a hot dog topped with chili — but a cold dog is literally \"chilly.\" The food item name doubles as a weather-appropriate dog description with just one vowel's worth of difference.",
+    "howToTell": "Shiver slightly while you say \"chili dog\" — sell the cold before landing the food pun.",
+    "perfectFor": [
+      "During a cold winter walk when the dog is clearly unhappy about the weather",
+      "At a cookout or ballgame when someone orders a chili dog from the stand",
+      "On a snowy day when the dog refuses to go outside"
+    ]
   },
   {
     "id": "animal-077",
@@ -1075,7 +1607,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Chicken strip\" is a menu item at KFC — but the rooster would go to see a chicken strip (take off its feathers, so to speak), giving the fast food item a ridiculous alternative meaning. The rooster's motive is simultaneously culinary and voyeuristic in the most absurd way.",
+    "howToTell": "Deliver this with raised eyebrows — like you're genuinely scandalized by the rooster's motivations.",
+    "perfectFor": [
+      "At a KFC or when ordering fast food chicken with the family",
+      "During a farm visit when kids are curious about what roosters get up to",
+      "On a road trip when you pass a KFC and someone's hungry"
+    ]
   },
   {
     "id": "animal-078",
@@ -1089,7 +1628,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Humphrey\" contains \"hump\" — a camel's single defining feature. A camel without humps gets named after the very thing it's missing, like naming a bald person \"Harry.\" The irony is gentle, perfectly constructed, and slightly mean in the best way.",
+    "howToTell": "Introduce \"Humphrey\" warmly, like you're naming a new pet — make it sound like a completely natural naming choice.",
+    "perfectFor": [
+      "At a zoo near the camel exhibit when kids notice the humps",
+      "During a desert-themed party or event",
+      "When kids are naming animals in a book and need a funny suggestion for a camel"
+    ]
   },
   {
     "id": "animal-079",
@@ -1103,7 +1649,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"A pair of caws\" sounds like \"a pair of cards\" — the crow's natural call becomes poker terminology. In poker, a \"pair\" is a valuable hand, so the crows are always winning on the strength of their built-in vocal advantage.",
+    "howToTell": "Tap the table like you're laying down a winning hand when you say \"pair of caws\" — give it the gravitas of a dramatic poker reveal.",
+    "perfectFor": [
+      "At a poker game or casino night with friends",
+      "In autumn when crows are more visible and vocal in the trees",
+      "During a family game night when someone is on a suspiciously long winning streak"
+    ]
   },
   {
     "id": "animal-080",
@@ -1117,7 +1670,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Dandy lion\" sounds like \"dandelion\" — the common garden weed. A lion who cares deeply about appearance, called a \"dandy\" (an old-fashioned term for a stylish man), becomes the name of something you find growing uninvited in your lawn. Regal meets humble.",
+    "howToTell": "Tip an imaginary hat when you say \"a dandy lion\" — fully embody the lion's impeccable, unimpeachable style.",
+    "perfectFor": [
+      "In a garden when dandelions are blooming across the lawn",
+      "At a formal event where someone is particularly and noticeably well-dressed",
+      "At a zoo near the lion exhibit when kids ask what the lion might be wearing"
+    ]
   },
   {
     "id": "animal-081",
@@ -1131,7 +1691,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Horsing around\" is an idiom for fooling around — but a pony doing it is completely literal. The pony is actually, authentically horsing around, which is as authentic as behavior gets, yet the parental consequence is identical to what any misbehaving kid would face.",
+    "howToTell": "Use your most parental, exasperated voice for the punchline — make it sound like you personally overheard this very scolding.",
+    "perfectFor": [
+      "When kids are goofing off and absolutely will not settle down",
+      "At a stable or horse riding lesson when one of the horses acts up",
+      "During a discussion about following rules with kids who need a light touch"
+    ]
   },
   {
     "id": "animal-082",
@@ -1145,7 +1712,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Brrr-d\" replaces the first letter of \"bird\" with \"brrr\" — the universal shivering sound for being cold. It's a minimal substitution that maximally expresses the bird's temperature situation.",
+    "howToTell": "Wrap your arms around yourself and shiver while saying \"brrr-d\" — the physical comedy sells the cold better than the word alone.",
+    "perfectFor": [
+      "On a cold winter day when birds are fluffed up at the backyard feeder",
+      "During a winter birdwatching outing when the wind is picking up",
+      "When the temperature drops suddenly and someone needs cheering up"
+    ]
   },
   {
     "id": "animal-083",
@@ -1159,7 +1733,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cheetahs\" sounds exactly like \"cheaters\" — and cheetahs live in the wild, making them the natural card sharks of the big cat world. The poker context makes the cheetah/cheater swap feel completely inevitable.",
+    "howToTell": "Shake your head in disgust at the cheetahs — they've ruined every jungle poker night, and everyone is done with them.",
+    "perfectFor": [
+      "During a family poker or card game night when someone accuses someone of cheating",
+      "At a zoo near the big cat exhibit",
+      "When someone is caught cheating at a game and needs to be called out creatively"
+    ]
   },
   {
     "id": "animal-084",
@@ -1173,7 +1754,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"De-calf-inated\" riffs on \"decaffeinated\" — replacing \"caf\" with \"calf.\" A cow that just gave birth has literally lost its calf (the baby departed), making it \"de-calved\" — and the coffee shop terminology slips in with perfect smoothness.",
+    "howToTell": "Say it in the precise tone of someone ordering at a coffee counter — \"de-calf-inated, please\" — like you're at a bovine barista.",
+    "perfectFor": [
+      "At a coffee shop when someone orders a decaf",
+      "During a farm tour when a calf has just been born and someone asks about the cow",
+      "When someone mentions a baby cow and someone else needs their coffee joke"
+    ]
   },
   {
     "id": "animal-085",
@@ -1187,7 +1775,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The classic \"other side\" answer gets the full snake treatment — the extended hissing \"ssssside\" captures the snake's speech pattern while delivering a punchline everyone already knows from the chicken version. Familiar and reptilified at once.",
+    "howToTell": "Let the \"ssssside\" hiss for as long as your breath holds — the longer the sibilance, the bigger the laugh.",
+    "perfectFor": [
+      "When someone spots a snake on a hiking trail",
+      "During a reptile show or snake-handling demonstration",
+      "On a road trip when kids need a variation on the classic chicken crossing joke"
+    ]
   },
   {
     "id": "animal-086",
@@ -1201,7 +1796,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"watchdog\" is a guard dog — but \"watch dog\" (two words) is a dog who watches, and a watch tells time. The compound word \"watchdog\" has a timepiece hiding inside a security professional, waiting to be noticed.",
+    "howToTell": "Tap your wrist where a watch would be when you say \"watch dog\" — the gesture makes the double meaning visible instantly.",
+    "perfectFor": [
+      "When someone's late and you need a joke about timekeeping",
+      "During a home security conversation where watchdogs naturally come up",
+      "At a dog show or training class when punctuality is on everyone's mind"
+    ]
   },
   {
     "id": "animal-087",
@@ -1215,7 +1817,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Mini-Apolis\" breaks \"Minneapolis\" into \"mini\" and \"Apolis\" — implying the cat needed a smaller version of something. It's a geography pun that specifically rewards knowing that Minnesota's largest city is Minneapolis.",
+    "howToTell": "Say \"Mini-Apolis\" with a slight air of faux sophistication — like the cat made a very intentional travel choice.",
+    "perfectFor": [
+      "When visiting or talking about Minneapolis",
+      "During a geography lesson when Minnesota comes up in class",
+      "At a road trip planning session where Minnesota is on the route"
+    ]
   },
   {
     "id": "animal-088",
@@ -1229,7 +1838,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Ambi-ham-strous\" is \"ambidextrous\" with \"ham\" — the pig's primary product — slipped into the middle. It's wordplay that requires knowing the word \"ambidextrous\" before the pork insert pays off, which makes the laugh feel earned.",
+    "howToTell": "Mime writing with both hands simultaneously when you land \"ambi-ham-strous\" — demonstrate the pig's remarkable bilateral talent.",
+    "perfectFor": [
+      "During a school discussion about left- and right-handedness",
+      "When someone shows off that they can write with both hands",
+      "At a county fair near the pig pen"
+    ]
   },
   {
     "id": "animal-089",
@@ -1243,7 +1859,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"school\" of fish is the actual technical term for a group of fish — but schools are also where you get educated. Fish are permanently, professionally enrolled in the school system, which explains their superior intelligence.",
+    "howToTell": "Nod like this is a perfectly valid and well-established educational theory — fish have an excellent teacher-to-student ratio, after all.",
+    "perfectFor": [
+      "During back-to-school season when the school theme is everywhere",
+      "At an aquarium where fish are swimming in groups",
+      "During a marine biology lesson when the word 'school' comes up"
+    ]
   },
   {
     "id": "animal-090",
@@ -1257,7 +1880,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Toad\" sounds like \"towed\" — as in your car being towed away for illegal parking. A frog who parks illegally gets towed away and in the process transforms into an entirely different amphibian. It's efficient consequences.",
+    "howToTell": "Say \"Toad!\" with the weary resignation of a parking enforcement officer — this is just another routine day on the job.",
+    "perfectFor": [
+      "In a city where parking is a constant source of stress and drama",
+      "When someone's car has just been towed and the mood needs lifting",
+      "Near a pond or nature area where frogs and toads are both present"
+    ]
   },
   {
     "id": "animal-091",
@@ -1271,7 +1901,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Quack addict\" plays on \"quack\" as both the duck's natural sound AND slang for fraudulent medicine. The duck is addicted to quack remedies — or simply addicted to quacking — and either interpretation works perfectly.",
+    "howToTell": "Shake your head with genuine concern — this duck clearly needs intervention, and the quacking is completely out of control.",
+    "perfectFor": [
+      "Near a duck pond where the ducks are being especially loud",
+      "During a conversation about wellness trends and health fads",
+      "At a pet store or farm with ducks making noise in the background"
+    ]
   },
   {
     "id": "animal-092",
@@ -1285,7 +1922,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Tyrannosaurus Wrecks\" replaces \"Rex\" with \"Wrecks\" — and a car wreck is exactly what just happened. The king of the dinosaurs becomes the world's worst driver with one letter swap and a complete change of legacy.",
+    "howToTell": "Announce it with the full gravity of a breaking news headline — \"Tyrannosaurus... Wrecks.\" The dramatic pause does the work.",
+    "perfectFor": [
+      "When someone gets a fender bender and needs a laugh to lighten the mood",
+      "At a natural history museum near the T-Rex skeleton display",
+      "During a dinosaur-themed party or birthday event"
+    ]
   },
   {
     "id": "animal-093",
@@ -1299,7 +1943,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The Canary Islands is a real vacation destination — but cats famously love to stalk canaries. A cat's ideal vacation spot would naturally be a place literally named after the bird they most want to hunt. It's holiday planning at its most honest.",
+    "howToTell": "Say it wistfully, like you've just described paradise — for a cat, the Canary Islands really is the dream destination.",
+    "perfectFor": [
+      "When planning a vacation and someone asks where you're going",
+      "At home when the cat is watching birds through the window with laser focus",
+      "During a travel planning conversation with cat lovers who get the reference"
+    ]
   },
   {
     "id": "animal-094",
@@ -1313,7 +1964,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Two left feet\" is the idiom for being a bad dancer — applied to dogs, who have four feet total, raising the interesting question of whether their two left feet out of four is proportionally better or worse than a human's two left feet out of two.",
+    "howToTell": "Glance down at an imaginary dog's paws with sympathy — poor coordination was never going to be this dog's strongest talent.",
+    "perfectFor": [
+      "At a dance class or wedding reception when someone's struggling on the floor",
+      "When someone confesses they're a bad dancer and needs company in that failure",
+      "During a talent show where a dog act is somehow performing"
+    ]
   },
   {
     "id": "animal-095",
@@ -1327,7 +1985,14 @@
     ],
     "rating": 3,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Pen-grin\" swaps the \"gu\" in \"penguin\" for \"grin\" — a smile. A happy penguin is literally grinning, and the word now contains the expression on its face. The visual of a smiling penguin in a natural tuxedo is completely irresistible.",
+    "howToTell": "Flash a big grin when you say \"pen-grin\" — embody the happy penguin's unrestrained joy.",
+    "perfectFor": [
+      "At a zoo or aquarium at the penguin exhibit when the birds are being adorable",
+      "When a kid is excited about seeing penguins in a movie or book",
+      "On a cold winter day when someone needs a concrete reason to smile"
+    ]
   },
   {
     "id": "animal-096",
@@ -1341,7 +2006,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Jockeys\" are both the riders who sit atop horses AND the underwear brand. A horse going behind a tree to \"change jockeys\" implies switching riders — or switching underpants — and both scenarios are equally and magnificently absurd.",
+    "howToTell": "Look around as if checking for witnesses before delivering \"jockeys\" — match the horse's apparent and urgent need for privacy.",
+    "perfectFor": [
+      "At a horse race or equestrian event when jockeys are visible",
+      "At a clothing store near the underwear section when someone asks for Jockeys",
+      "During a hiking trip when someone needs to step behind a tree for any reason"
+    ]
   },
   {
     "id": "animal-097",
@@ -1355,7 +2027,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Sourpuss\" already exists as a word for a grumpy person — but \"sour\" plus \"puss\" (an old English word for cat) makes a lemon-eating cat a literal sourpuss. The idiom turns out to have been a perfect cat description the entire time.",
+    "howToTell": "Pucker your lips like you've just bitten into a lemon when you say \"sourpuss\" — the face is half the joke.",
+    "perfectFor": [
+      "When someone is being grumpy and you need a light way to acknowledge it",
+      "At a lemonade stand in summer when someone makes a sour face",
+      "When the cat is in a particularly foul mood and sitting in judgment"
+    ]
   },
   {
     "id": "animal-098",
@@ -1369,7 +2048,14 @@
     ],
     "rating": 5,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Working for peanuts\" means earning very little money — but elephants are literally fed peanuts as treats, so the elephant is actually being paid in peanuts. The labor complaint turns out to be a snack complaint about the worst possible compensation package.",
+    "howToTell": "Cross your arms with righteous indignation — this elephant has taken his absolute last bag of sub-minimum-wage peanuts.",
+    "perfectFor": [
+      "At a circus or when one comes to town and someone's discussing tickets",
+      "During a conversation about low-paying jobs or unpaid internships",
+      "At a zoo near the elephant exhibit when kids are feeding the animals"
+    ]
   },
   {
     "id": "animal-099",
@@ -1383,7 +2069,14 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Vel-crow\" merges \"velcro\" and \"crow\" — velcro is the hook-and-loop fastener that sticks to everything, and a crow is a common black bird. Both words share enough phonetic overlap that the portmanteau feels natural, and a sticky bird is a wonderfully absurd concept.",
+    "howToTell": "Make a velcro ripping sound right after the punchline — the sticky effect comes alive with the sound effect and gets an extra laugh.",
+    "perfectFor": [
+      "When dealing with a velcro closure that's completely covered in lint and fur",
+      "At a craft store near the sewing and fastening notions",
+      "During a birdwatching outing when crows appear and someone needs a laugh"
+    ]
   },
   {
     "id": "animal-100",
@@ -1397,6 +2090,13 @@
     ],
     "rating": 4,
     "dateAdded": "2026-03-01",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The joke reframes ancient wolf behavior as a failed communication technology problem — they're not howling at the moon for spiritual reasons, they just haven't been onboarded to the group chat yet. The mundane explanation is funnier than any mystical answer.",
+    "howToTell": "Hold up an invisible phone and look sympathetically at the wolf — if only someone had set up a data plan for them, we'd all be sleeping better.",
+    "perfectFor": [
+      "During a camping trip at night when wolves or coyotes are audible in the distance",
+      "When someone sends a voice message instead of a text and you need a gentle roast",
+      "At a nature center or wolf sanctuary when kids ask why wolves howl"
+    ]
   }
 ]
