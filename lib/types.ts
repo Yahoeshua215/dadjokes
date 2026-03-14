@@ -10,6 +10,9 @@ export interface Joke {
   source?: string;
   ageRange?: 'kids' | 'teens' | 'adults';
   canonicalSlug?: string;
+  whyFunny?: string;
+  howToTell?: string;
+  perfectFor?: string[];
 }
 
 export interface Topic {

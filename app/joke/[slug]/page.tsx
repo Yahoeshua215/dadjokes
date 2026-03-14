@@ -69,12 +69,14 @@ export default async function JokePage({ params }: Props) {
   // Tag-based related jokes (cross-category)
   const relatedJokes = getRelatedJokesByTags(joke, 5);
 
-  // Enriched content
+  // Enriched content — use joke-specific fields if available, fall back to generic
   const humorType = detectHumorType(joke);
   const humorLabel = HUMOR_TYPE_LABELS[humorType] || '👔 Classic Dad Joke';
-  const explanation = getHumorExplanation(joke);
-  const deliveryTip = getDeliveryTip(joke);
-  const usageContext = category ? getUsageContext(joke, category) : '';
+  const explanation = joke.whyFunny || getHumorExplanation(joke);
+  const deliveryTip = joke.howToTell || getDeliveryTip(joke);
+  const usageContext = joke.perfectFor
+    ? joke.perfectFor.join(' · ')
+    : category ? getUsageContext(joke, category) : '';
   const funFact = category ? getCategoryFunFact(category) : '';
 
   const jokeUrl = `https://jokelikeadad.com/joke/${slug}`;
@@ -159,10 +161,22 @@ export default async function JokePage({ params }: Props) {
         {/* How to Tell It */}
         <section className="bg-surface border border-border rounded-2xl p-6 sm:p-8 mb-6">
           <h2 className="font-serif text-xl mb-3">🎤 How to Tell This Joke</h2>
-          <p className="text-text-secondary leading-relaxed mb-3">{deliveryTip}</p>
-          {usageContext && (
+          <p className="text-text-secondary leading-relaxed mb-4">{deliveryTip}</p>
+          {joke.perfectFor ? (
+            <div>
+              <p className="text-sm font-medium text-text-secondary mb-2">Perfect for:</p>
+              <ul className="space-y-1">
+                {joke.perfectFor.map((occasion, i) => (
+                  <li key={i} className="flex items-start gap-2 text-text-secondary text-sm">
+                    <span className="text-accent mt-0.5">•</span>
+                    <span>{occasion}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : usageContext ? (
             <p className="text-text-secondary leading-relaxed">{usageContext}</p>
-          )}
+          ) : null}
         </section>
 
         {/* Fun Fact */}
