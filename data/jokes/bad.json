@@ -11,7 +11,10 @@
     "rating": 3,
     "dateAdded": "2025-01-08",
     "slug": "what-do-you-call-a-can-opener-that-doesnt-work",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The pun swaps \"can\" for \"can't\" — turning a tool's name into a verdict on its performance. It's the simplest possible wordplay: a can opener that can't open is literally a \"can't opener.\" The humor is in how obvious and groan-worthy the answer is once you hear it.",
+    "howToTell": "Ask the setup with genuine curiosity, like you're actually puzzled by this broken kitchen gadget. Hit \"can't\" with a tiny pause before it so the swap lands.",
+    "perfectFor": ["unpacking a new kitchen gadget that's giving you trouble", "when someone's struggling with a stubborn jar lid", "housewarming parties where people are checking out the kitchen"]
   },
   {
     "id": "bad-002",
@@ -25,7 +28,10 @@
     "rating": 3,
     "dateAdded": "2025-01-20",
     "slug": "i-have-a-joke-about-construction",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "It's a double-meaning masterpiece: \"working on it\" means both \"still developing the joke\" and \"doing construction work.\" The meta-humor kicks in because the joke pretends not to exist yet — but the non-joke IS the joke. You get bamboozled into waiting for something that already happened.",
+    "howToTell": "Say the setup like you're genuinely about to share something, then deliver the punchline with a casual shrug, as if you're apologizing for not having the joke ready.",
+    "perfectFor": ["driving past a construction site with passengers in the car", "when a home renovation project is dragging on forever", "icebreaker at a contractors' or tradespeople's meetup"]
   },
   {
     "id": "bad-003",
@@ -40,7 +46,10 @@
     "dateAdded": "2025-02-01",
     "slug": "what-did-the-buffalo-say-when-his-son-left-for-college",
     "ageRange": "teens",
-    "canonicalSlug": "what-did-the-buffalo-say-when-his-son-left-for-college"
+    "canonicalSlug": "what-did-the-buffalo-say-when-his-son-left-for-college",
+    "whyFunny": "\"Bison\" sounds exactly like \"bye, son\" — a father's farewell. The setup primes you to think about buffalo behavior, but the punchline pivots to a tender dad moment disguised as an animal name. It's peak dad joke because it's literally about being a dad.",
+    "howToTell": "Deliver the setup with a slightly emotional tone, like you're telling a heartfelt story. Then say \"Bison!\" cheerfully, like a proud papa waving goodbye at the dorm.",
+    "perfectFor": ["dropping your kid off at college or summer camp", "family road trips through states with bison (Montana, Wyoming, Dakotas)", "Father's Day cards or toasts"]
   },
   {
     "id": "bad-004",
@@ -54,7 +63,10 @@
     "rating": 3,
     "dateAdded": "2025-02-10",
     "slug": "i-have-a-joke-about-paper",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Tearable\" works on two levels: paper is literally tear-able (you can rip it), and the joke is supposedly \"terrible\" (not worth telling). The self-deprecating meta-humor — dismissing the joke as bad while the dismissal IS the joke — is classic dad joke architecture.",
+    "howToTell": "Start like you're about to share something, then wave it off with \"never mind\" like you've reconsidered. Say \"tearable\" casually, not emphasizing the pun — let them catch it.",
+    "perfectFor": ["when someone's wrestling with the office printer or copier", "back-to-school shopping for notebooks and supplies", "wrapping presents and making a mess of the paper"]
   },
   {
     "id": "bad-005",
@@ -68,7 +80,10 @@
     "rating": 4,
     "dateAdded": "2025-02-25",
     "slug": "why-do-seagulls-fly-over-the-ocean",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The joke swaps \"sea\" for \"bay\" to transform \"seagulls\" into \"bay-gulls\" which sounds like \"bagels.\" It's a chain of wordplay that requires you to accept the fake bird-naming convention — if where they fly determines their name, then bay + gulls = bagels. Absurd logic, perfect pun.",
+    "howToTell": "Ask the setup like it's a legitimate nature question. Deliver the punchline with a straight face, and say \"bagels\" like it's the most scientifically obvious answer in the world.",
+    "perfectFor": ["breakfast at a bagel shop near the coast", "a day at the beach when seagulls are being annoying", "brunch with friends when someone orders a bagel"]
   },
   {
     "id": "bad-006",
@@ -82,7 +97,10 @@
     "rating": 3,
     "dateAdded": "2025-03-04",
     "slug": "what-do-you-call-a-belt-made-of-watches",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Waist of time\" sounds identical to \"waste of time.\" A belt goes around your waist, and it's made of watches (time). So it's literally a waist-of-time while also being a waste of time. The double meaning is so clean it almost feels like the English language set this one up on purpose.",
+    "howToTell": "Deliver the setup with wide-eyed enthusiasm, like you've just invented something incredible. Let \"waist\" land naturally — don't over-pronounce it, the homophone does all the work.",
+    "perfectFor": ["when someone says they're wasting time on something pointless", "waiting in a long line and needing to pass the time", "shopping for watches or belts as gifts"]
   },
   {
     "id": "bad-007",
@@ -96,7 +114,10 @@
     "rating": 3,
     "dateAdded": "2025-03-18",
     "slug": "what-did-the-zero-say-to-the-eight",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "An 8 looks like a 0 wearing a belt — it's a zero cinched in the middle. The joke treats numbers as characters with physical appearances, and the compliment is so wholesome it catches you off guard. It's visual humor disguised as a math joke.",
+    "howToTell": "Say it casually, almost throwaway. The punchline is funnier when it's delivered like a genuine, friendly compliment. If people don't get it immediately, just draw a 0 and an 8 in the air.",
+    "perfectFor": ["math class or helping kids with homework", "when someone's wearing a particularly noticeable belt", "trivia nights or game nights with number-related rounds"]
   },
   {
     "id": "bad-008",
@@ -110,7 +131,10 @@
     "rating": 4,
     "dateAdded": "2025-03-30",
     "slug": "what-do-you-call-a-factory-that-makes-okay-products",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The word \"satisfactory\" already contains \"factory\" inside it — the joke just splits the word to reveal a hidden meaning: a satis-factory is literally a factory that's satisfactory. It's one of those puns where the answer was hiding in plain sight inside a real English word the whole time.",
+    "howToTell": "Ask the setup like you're genuinely workshopping a business idea. Deliver \"a satisfactory\" with a proud nod, as if you've just coined a brilliant new term.",
+    "perfectFor": ["touring a factory or warehouse for work", "when someone describes something as 'just okay'", "workplace small talk about product quality or performance reviews"]
   },
   {
     "id": "bad-009",
@@ -124,7 +148,10 @@
     "rating": 3,
     "dateAdded": "2025-04-08",
     "slug": "why-dont-skeletons-fight-each-other",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Guts\" means both courage and literal internal organs. Skeletons are just bones — no guts, no organs. So they literally don't have guts, AND they figuratively don't have the guts (bravery) to fight. The anatomy lesson doubles as an insult about their cowardice.",
+    "howToTell": "Set it up like a spooky mystery. Then deliver \"the guts\" with a knowing look, like you've just dropped profound skeleton wisdom.",
+    "perfectFor": ["Halloween parties or trick-or-treating with kids", "visiting a science museum with a skeleton exhibit", "anatomy class when the mood needs lightening"]
   },
   {
     "id": "bad-010",
@@ -138,7 +165,10 @@
     "rating": 3,
     "dateAdded": "2025-04-22",
     "slug": "what-did-one-hat-say-to-the-other",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"On ahead\" sounds exactly like \"on a head\" — which is where hats go. So the hat is simultaneously saying it's going forward (ahead) and going to sit on someone's head (a head). The joke anthropomorphizes hats and gives them a destination that's literally their job.",
+    "howToTell": "Say the setup with a conspiratorial lean, like you're eavesdropping on hat gossip. Deliver \"on ahead\" briskly, like the hat is in a hurry — don't pause on the pun.",
+    "perfectFor": ["hat shopping or trying on hats at a store", "when you're putting on a hat before heading out the door", "Kentucky Derby parties or events where everyone's wearing hats"]
   },
   {
     "id": "bad-011",
@@ -152,7 +182,10 @@
     "rating": 4,
     "dateAdded": "2025-05-05",
     "slug": "i-have-a-joke-about-chemistry",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Reaction\" is both a chemistry term (chemical reaction) and what you get when you tell a joke (audience reaction). The confidence of \"I know I'll get a reaction\" works because it's guaranteed either way — a laugh or a groan is still a reaction, and chemistry is all about reactions.",
+    "howToTell": "Deliver the setup with smug confidence, like you're a chemistry professor about to blow minds. Say the punchline with a wink — lean into the cockiness.",
+    "perfectFor": ["science class or tutoring sessions that need a break", "when someone mentions anything chemistry-related at dinner", "science fair events or STEM nights at school"]
   },
   {
     "id": "bad-012",
@@ -166,7 +199,10 @@
     "rating": 3,
     "dateAdded": "2025-05-18",
     "slug": "what-do-you-call-a-deer-with-no-eyes",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"No idea\" sounds like \"no-eye deer\" — a deer with no eyes. The punchline pretends to be admitting ignorance (\"I have no idea\") while actually answering the question perfectly. It's a phonetic pun where giving up IS the answer.",
+    "howToTell": "Ask the setup seriously, then say \"No idea!\" with a helpless shrug, like you genuinely can't figure it out. The better you sell the fake surrender, the bigger the groan.",
+    "perfectFor": ["hiking or camping in deer country", "watching a nature documentary with family", "when someone asks you a question you actually don't know the answer to"]
   },
   {
     "id": "bad-013",
@@ -180,7 +216,10 @@
     "rating": 3,
     "dateAdded": "2025-05-29",
     "slug": "why-was-the-math-book-depressed",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Problems\" means both math exercises in a textbook and personal troubles. A math book is literally full of problems — hundreds of them. So of course it's depressed: it's overwhelmed. The personification of a textbook having an emotional crisis over its own content is delightfully absurd.",
+    "howToTell": "Ask the setup with genuine sympathy, like you're concerned about the math book's wellbeing. Deliver \"too many problems\" with a sad nod of understanding.",
+    "perfectFor": ["homework time when the kids are complaining about math", "back-to-school season when textbooks arrive", "when someone says they have too many problems in their own life"]
   },
   {
     "id": "bad-014",
@@ -194,7 +233,10 @@
     "rating": 4,
     "dateAdded": "2025-06-10",
     "slug": "how-does-a-penguin-build-its-house",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Igloos\" sounds like \"he glues\" — so \"igloos it together\" = \"he glues it together.\" It connects penguins to igloos (both cold-weather things) while sneaking in a construction method. The phonetic stretch from \"igloos\" to \"he glues\" is just close enough to work and just far enough to make you groan.",
+    "howToTell": "Ask the setup like a curious nature show host. Say \"Igloos it together\" quickly and naturally — the faster you say it, the more it sounds like \"he glues it together.\"",
+    "perfectFor": ["watching a penguin documentary like March of the Penguins", "visiting the penguin exhibit at an aquarium or zoo", "building something with glue during a craft project"]
   },
   {
     "id": "bad-015",
@@ -209,7 +251,10 @@
     "dateAdded": "2025-06-22",
     "slug": "what-do-you-call-a-lazy-kangaroo",
     "ageRange": "teens",
-    "canonicalSlug": "what-do-you-call-a-lazy-kangaroo"
+    "canonicalSlug": "what-do-you-call-a-lazy-kangaroo",
+    "whyFunny": "It's a twist on \"couch potato\" — swapping \"couch\" for \"pouch\" because kangaroos have pouches. A lazy kangaroo just sits in its pouch all day, like a couch potato sits on the couch. The rhyme between couch and pouch makes the swap feel inevitable and satisfying.",
+    "howToTell": "Ask the setup with playful curiosity. Deliver \"pouch potato\" like you're announcing a newly discovered species — proud and matter-of-fact.",
+    "perfectFor": ["watching a nature show about Australian wildlife", "when someone's being a couch potato on a lazy Sunday", "visiting the kangaroo enclosure at the zoo"]
   },
   {
     "id": "bad-016",
@@ -223,7 +268,10 @@
     "rating": 3,
     "dateAdded": "2025-07-05",
     "slug": "want-to-hear-a-joke-about-a-roof",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"On the house\" means both \"free of charge\" and literally \"on top of the house\" — which is where a roof is. The joke frames itself as a freebie while also answering its own riddle. A roof IS on the house. It's a two-for-one pun that's also meta-humor about joke-telling.",
+    "howToTell": "Ask the setup eagerly, like a bartender offering a free drink. Deliver the punchline with a generous gesture, as if you're literally giving something away.",
+    "perfectFor": ["when the bartender offers something on the house", "talking to a roofer or contractor about home repairs", "open mic nights when you're warming up the crowd"]
   },
   {
     "id": "bad-017",
@@ -237,7 +285,10 @@
     "rating": 3,
     "dateAdded": "2025-07-18",
     "slug": "what-did-the-traffic-light-say-to-the-car",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Change\" means both switching colors (what traffic lights do) and changing clothes. The traffic light is embarrassed about being seen mid-change, like someone getting dressed. It anthropomorphizes a traffic light into a modest, self-conscious character — which is adorably absurd.",
+    "howToTell": "Ask the setup like you overheard this conversation at an intersection. Deliver the punchline with mock embarrassment, like the traffic light is blushing.",
+    "perfectFor": ["stuck in traffic and need to lighten the mood", "teaching kids about traffic safety in a fun way", "road trips when you hit yet another red light"]
   },
   {
     "id": "bad-018",
@@ -251,7 +302,10 @@
     "rating": 3,
     "dateAdded": "2025-08-01",
     "slug": "im-on-a-seafood-diet",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Seafood\" sounds like \"see food\" when spoken aloud. The setup makes you think of an actual seafood diet (fish, shrimp, etc.), but the punchline reveals it's the \"see food\" diet — seeing food and eating it, which is basically no diet at all. It's self-deprecating humor about having zero willpower.",
+    "howToTell": "Say the setup with total sincerity, like you're sharing a health update. Then drop the punchline with a guilty grin while reaching for the nearest snack.",
+    "perfectFor": ["buffets or potlucks where you're going back for seconds", "when someone asks about your New Year's resolution diet", "loading up your plate at a barbecue"]
   },
   {
     "id": "bad-019",
@@ -265,7 +319,10 @@
     "rating": 3,
     "dateAdded": "2025-08-14",
     "slug": "why-did-the-bicycle-fall-over",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Two-tired\" is a double pun: a bicycle has two tires, AND it was too tired (exhausted) to stay upright. Both meanings explain why it fell over. It's one of those rare puns where both interpretations actually make logical sense as answers to the question.",
+    "howToTell": "Ask the setup with concern, like you witnessed the bicycle incident. Say \"two-tired\" with a knowing nod, emphasizing it just slightly so both meanings register.",
+    "perfectFor": ["passing a bike rack or bike shop on a walk", "after a long bike ride when everyone's exhausted", "when your kid's bike tips over in the garage for the hundredth time"]
   },
   {
     "id": "bad-020",
@@ -279,7 +336,10 @@
     "rating": 3,
     "dateAdded": "2025-08-28",
     "slug": "what-do-you-call-a-dinosaur-that-is-sleeping",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Dino-snore\" combines \"dinosaur\" with \"snore\" — because sleeping things snore. It reimagines a dinosaur species name as a sleep behavior. The portmanteau sounds like it could be a real dinosaur name, which makes the silliness land even harder.",
+    "howToTell": "Ask the setup like a museum tour guide posing a trivia question. Deliver \"dino-snore\" with scientific authority, as if it's a legitimate genus classification.",
+    "perfectFor": ["natural history museum visits with kids", "bedtime when someone in the family is already snoring", "when a movie or show is so boring it puts you to sleep"]
   },
   {
     "id": "bad-021",
@@ -293,7 +353,10 @@
     "rating": 4,
     "dateAdded": "2025-09-09",
     "slug": "what-kind-of-music-do-mummies-listen-to",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Wrap\" sounds like \"rap\" — so \"wrap music\" = \"rap music.\" Mummies are literally wrapped in bandages, so wrap music is their thing. The joke connects an ancient Egyptian burial practice to a modern music genre through one letter swap. It's historically inaccurate and phonetically perfect.",
+    "howToTell": "Ask the setup like you're hosting a music trivia night. Say \"Wrap music\" with a hip-hop head-nod, then maybe do a mummy arm pose for full effect.",
+    "perfectFor": ["Halloween parties when the music is playing", "visiting an Egyptian exhibit at a museum", "when someone asks to change the music genre in the car"]
   },
   {
     "id": "bad-022",
@@ -307,7 +370,10 @@
     "rating": 3,
     "dateAdded": "2025-09-24",
     "slug": "i-used-to-play-piano-by-ear",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Play by ear\" is an idiom meaning to play music without reading sheet music, but the joke takes it literally — as if you were physically using your ear to press the keys. The punchline's switch to \"hands\" implies the upgrade from ear-mashing to actual hand-playing, which is absurd and delightful.",
+    "howToTell": "Start the setup reflectively, like you're sharing a music autobiography. Deliver the punchline with relief, like you've made a major life improvement.",
+    "perfectFor": ["piano recitals or music lessons", "when someone mentions they play an instrument", "karaoke nights when someone's performing without knowing the words"]
   },
   {
     "id": "bad-023",
@@ -321,7 +387,10 @@
     "rating": 4,
     "dateAdded": "2025-10-05",
     "slug": "what-do-you-call-a-cow-with-no-legs",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Ground beef\" is a type of processed meat, but a cow with no legs would literally be on the ground — ground beef. The joke forces you to reimagine a grocery store staple as a sad, legless cow situation. It's dark enough to be edgy but silly enough to stay in dad joke territory.",
+    "howToTell": "Ask the setup with a straight face, like it's a serious zoological question. Drop \"ground beef\" with deadpan delivery — the less you react, the funnier it gets.",
+    "perfectFor": ["grilling burgers at a summer barbecue", "grocery shopping in the meat aisle", "when someone orders a hamburger at a restaurant"]
   },
   {
     "id": "bad-024",
@@ -335,7 +404,10 @@
     "rating": 3,
     "dateAdded": "2025-10-20",
     "slug": "why-did-the-picture-go-to-jail",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Framed\" means both put in a picture frame (what you do with pictures) and falsely accused of a crime (framed for something you didn't do). The picture is innocent but got framed — literally and figuratively. It's an injustice pun with art gallery vibes.",
+    "howToTell": "Tell the setup like you're reporting breaking news. Deliver \"framed\" with dramatic outrage, as if this is a grave miscarriage of justice against an innocent photograph.",
+    "perfectFor": ["visiting an art gallery or museum with framed artwork", "watching a crime show or murder mystery movie", "hanging up new pictures or photos at home"]
   },
   {
     "id": "bad-025",
@@ -349,7 +421,10 @@
     "rating": 3,
     "dateAdded": "2025-11-06",
     "slug": "how-do-you-catch-a-squirrel",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Act like a nut\" means both behave crazily and pretend to be an acorn/walnut — the thing squirrels are obsessed with collecting. To catch a squirrel, you become its food. The joke combines practical wildlife advice (climb a tree) with absurd method acting (pretend to be a nut).",
+    "howToTell": "Ask the setup like you're sharing genuine survival tips. Deliver the punchline with a conspiratorial whisper, like this is classified squirrel-catching intelligence.",
+    "perfectFor": ["watching squirrels raid the bird feeder in the backyard", "hiking in a park where squirrels are everywhere", "when someone's acting a little nuts and you need a callback"]
   },
   {
     "id": "bad-026",
@@ -363,7 +438,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Remove the letter 'i' (eyes) from 'fish' and you get 'fsh.' The joke works on a spelling level rather than a phonetic one — it's a visual/written pun where the letter 'i' literally represents 'eye.' When you say \"fsh\" out loud, the awkward consonant cluster IS the joke.",
+    "howToTell": "This one works way better in text than spoken. If telling it out loud, say 'fsh' as a hard consonant burst with no vowel — the weirder it sounds, the better.",
+    "perfectFor": ["texting jokes back and forth with friends", "fishing trips when you need a quick laugh", "English class when someone's talking about spelling or phonics"]
   },
   {
     "id": "bad-027",
@@ -377,7 +455,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"straw man argument\" is a logical fallacy where you misrepresent someone's position to attack it. A scarecrow is literally made of straw — it's a straw man. So a scarecrow becoming a politician because he's already full of straw man arguments works on every level: literal composition and rhetorical style.",
+    "howToTell": "Set it up like political commentary. Deliver the punchline with a knowing eye-roll, like you're making an observation about the state of debate today.",
+    "perfectFor": ["election season conversations that are getting too heated", "political science or debate club meetings", "watching political debates on TV and needing comic relief"]
   },
   {
     "id": "bad-028",
@@ -391,7 +472,10 @@
     "rating": 3,
     "dateAdded": "2026-03-02",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Nap sack\" sounds like \"knapsack\" (a backpack), but it's also a sack for napping — a sleeping bag that just wants to nap, not camp. The sleeping bag has rejected outdoor life and embraced indoor napping. It's a portmanteau pun with personality.",
+    "howToTell": "Tell the setup like you're describing a relatable character. Say \"nap sack\" with sympathy, like you totally understand wanting to skip camping and just nap instead.",
+    "perfectFor": ["packing up camping gear before or after a trip", "when someone says they'd rather sleep than go outdoors", "REI or outdoor store trips when browsing sleeping bags"]
   },
   {
     "id": "bad-029",
@@ -405,7 +489,10 @@
     "rating": 3,
     "dateAdded": "2026-03-02",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"That well\" has two meanings: \"that well\" as in the physical well (the hole in the ground), and \"that well\" as in his vision wasn't very good. He couldn't see the well, AND he couldn't see that well. Both explain why he fell in. The sentence works perfectly both ways.",
+    "howToTell": "Tell the setup like a concerned news report. Deliver the punchline matter-of-factly, without emphasizing either meaning — let the listener's brain do the double-take.",
+    "perfectFor": ["when someone bumps into something because they weren't looking", "eye doctor appointments or picking up new glasses", "visiting a historic site with an old stone well"]
   },
   {
     "id": "bad-030",
@@ -419,7 +506,10 @@
     "rating": 3,
     "dateAdded": "2026-03-03",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Carrot\" rhymes with \"parrot\" and is indeed orange. The setup makes you think about orange parrots or parrot-related things, but the answer is just a vegetable that rhymes. It's anti-humor in disguise — the answer is so simple and literal that your brain's over-thinking becomes the joke.",
+    "howToTell": "Ask the setup like it's a genuinely challenging riddle. Let them struggle for a moment, then say \"a carrot\" with the most obvious, matter-of-fact tone you can muster.",
+    "perfectFor": ["cooking dinner and chopping carrots", "when kids are refusing to eat their vegetables", "pet store visits near the bird section"]
   },
   {
     "id": "bad-031",
@@ -433,7 +523,10 @@
     "rating": 3,
     "dateAdded": "2026-03-03",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Cold hard cash\" is an idiom for physical money (as opposed to credit or checks). But if you literally freeze money, it becomes cold and hard. The joke takes a figurative expression and makes it literal — he wants cold, hard cash, so he puts it in the freezer. Can't argue with that logic.",
+    "howToTell": "Tell the setup like a quirky news story about an eccentric person. Deliver the punchline with a shrug, like the guy's reasoning is bulletproof.",
+    "perfectFor": ["when someone hands you cash that's been in their warm pocket", "discussions about saving money or budgeting", "opening the freezer and finding something weird in there"]
   },
   {
     "id": "bad-032",
@@ -447,7 +540,10 @@
     "rating": 3,
     "dateAdded": "2026-03-04",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This is pure anti-humor. A boomerang's entire identity is that it comes back. Remove that one feature, and what's left? A curved piece of wood you threw. A stick. The comedy comes from the deflating simplicity — you expect a clever pun and get blunt, undeniable truth instead.",
+    "howToTell": "Ask the setup like you're building to something profound. Then say \"a stick\" with complete flatness and zero embellishment. The anticlimax IS the delivery.",
+    "perfectFor": ["playing catch or frisbee at the park", "when something you ordered online doesn't live up to the hype", "discussing Australian culture or souvenirs"]
   },
   {
     "id": "bad-033",
@@ -461,7 +557,10 @@
     "rating": 3,
     "dateAdded": "2026-03-04",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "When eyebrows are drawn too high on the face, the person permanently looks surprised — eyebrows raised high = the surprised expression. So \"she seemed surprised\" describes both her emotional reaction to the feedback AND her literal facial appearance from the too-high eyebrows. It's a visual pun.",
+    "howToTell": "Tell it conversationally, like you're sharing a real marital moment. Deliver \"she seemed surprised\" with an innocent, observational tone — don't raise your own eyebrows or you'll give it away.",
+    "perfectFor": ["getting ready together before going out", "watching a makeup tutorial that's going wrong", "when someone's surprised expression is particularly dramatic"]
   },
   {
     "id": "bad-034",
@@ -475,7 +574,10 @@
     "rating": 3,
     "dateAdded": "2026-03-05",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"slipper\" is a type of shoe AND bananas are slippery (banana peel = classic slip hazard). So a shoe made of banana would be a slipper — both a footwear category and a description of its treacherous surface. Two meanings, one perfect word.",
+    "howToTell": "Ask the setup like you're pitching a bizarre fashion concept on Shark Tank. Say \"a slipper\" with a proud inventor's confidence.",
+    "perfectFor": ["when someone slips or almost slips on something", "shoe shopping when you pass the slipper section", "making banana bread and peeling bananas in the kitchen"]
   },
   {
     "id": "bad-035",
@@ -489,7 +591,10 @@
     "rating": 3,
     "dateAdded": "2026-03-05",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Chicken\" means both the bird and a coward. The classic joke is about a chicken crossing the road, so the turkey crosses to differentiate itself — proving it's not a chicken (the bird) AND not chicken (scared). It's a sequel joke that upgrades the original with interspecies rivalry and bravery.",
+    "howToTell": "Ask it like an update to breaking poultry news. Deliver the punchline with respect for the turkey's courage — he's got something to prove.",
+    "perfectFor": ["Thanksgiving dinner before carving the turkey", "when someone references the classic 'chicken crossing the road' joke", "passing wild turkeys on a country road"]
   },
   {
     "id": "bad-036",
@@ -503,7 +608,10 @@
     "rating": 3,
     "dateAdded": "2026-03-06",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Flushed\" means both embarrassed (blushing/flushed face) and what you do to a toilet. One toilet is essentially telling the other it looks embarrassed, while also referencing its core function. It's bathroom humor elevated to wordplay sophistication.",
+    "howToTell": "Set it up like you're sharing overheard gossip between bathroom fixtures. Deliver \"flushed\" with gentle concern, like a friend checking in.",
+    "perfectFor": ["when the toilet makes a weird noise at someone's house", "plumbing emergencies that need lightening up", "bathroom renovations when picking out new fixtures"]
   },
   {
     "id": "bad-037",
@@ -517,7 +625,10 @@
     "rating": 3,
     "dateAdded": "2026-03-06",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Meow-ntain\" splices \"meow\" into \"mountain\" — a pile so big it becomes a mountain of meowing cats. The portmanteau works because a pile of anything big enough becomes a mountain, and cats meow, so a cat-mountain is a meow-ntain. Simple, groan-worthy, perfect.",
+    "howToTell": "Ask the setup while gesturing at an imaginary growing pile. Say \"meow-ntain\" with awe, like you're gazing up at this majestic pile of cats.",
+    "perfectFor": ["when your cat is sitting on a pile of laundry", "scrolling through cat videos and the cats are piling on each other", "visiting a cat café with way too many cats"]
   },
   {
     "id": "bad-038",
@@ -531,7 +642,10 @@
     "rating": 3,
     "dateAdded": "2026-03-07",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Wine\" and \"whine\" are homophones. When grapes get crushed, they produce wine. When someone gets hurt, they whine. So the grape simultaneously produces its beverage product AND complains about being crushed. It's a pun that also teaches you how wine is made.",
+    "howToTell": "Ask the setup with concern for the grape's wellbeing. Pause before \"wine\" and say it sympathetically — don't oversell the pun, let the homophone do the work.",
+    "perfectFor": ["wine tasting or vineyard tours", "when someone's whining about something minor", "cooking or making sangria with friends"]
   },
   {
     "id": "bad-039",
@@ -545,7 +659,10 @@
     "rating": 3,
     "dateAdded": "2026-03-07",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Crack up\" means to laugh hard AND to physically crack — and eggs crack. If eggs told funny jokes, they'd literally crack each other up, destroying themselves with laughter. It's egg-sistential humor: their fragility makes comedy dangerous.",
+    "howToTell": "Tell the setup with a serious, cautionary tone, like you're explaining a real safety concern for the egg community. Deliver the punchline like you're revealing a tragic truth.",
+    "perfectFor": ["making breakfast and cracking eggs", "Easter egg decorating or egg hunts", "when someone tells a joke so funny it makes you lose it"]
   },
   {
     "id": "bad-040",
@@ -559,7 +676,10 @@
     "rating": 3,
     "dateAdded": "2026-03-08",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Cheesy\" means both covered in cheese (pizza's defining feature) and corny/lame (what bad jokes are). The joke waves itself off as too cheesy while being about pizza, which is literally cheesy. It's meta-humor that criticizes itself while proving its own point.",
+    "howToTell": "Start like you're about to tell a joke, then dismiss it with a wave of your hand. Say \"too cheesy\" with an apologetic wince, like you're doing the listener a favor by not continuing.",
+    "perfectFor": ["pizza night with the family", "waiting for delivery pizza to arrive", "when someone calls one of your other jokes cheesy"]
   },
   {
     "id": "bad-041",
@@ -573,7 +693,10 @@
     "rating": 3,
     "dateAdded": "2026-03-08",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Cliff\" is both a real human name and a geological feature — a steep rock face that mountain climbers scale. A mountain climber naming their kid Cliff is like a baker naming their kid Bun — it's occupational naming taken to its literal extreme. Short, clean, and inevitable.",
+    "howToTell": "Ask the setup like you're genuinely curious about celebrity baby names. Say \"Cliff\" with a simple, proud-parent nod.",
+    "perfectFor": ["hiking near cliffs or mountain lookout points", "when someone announces a baby name and you want to offer alternatives", "watching rock climbing competitions or documentaries"]
   },
   {
     "id": "bad-042",
@@ -587,7 +710,10 @@
     "rating": 3,
     "dateAdded": "2026-03-09",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Fungi\" (the biological classification for mushrooms) sounds like \"fun guy.\" So the mushroom gets invited everywhere because he's literally a fungi and figuratively a fun guy. The science-to-social pipeline is seamless — the mushroom can't help being the life of the party; it's in his DNA.",
+    "howToTell": "Tell the setup like you're genuinely impressed by this mushroom's social calendar. Deliver \"fungi\" with a casual coolness, like you're introducing the most popular dude you know.",
+    "perfectFor": ["ordering mushroom pizza or cooking with mushrooms", "foraging or mushroom hunting in the woods", "when someone's being the life of the party"]
   },
   {
     "id": "bad-043",
@@ -601,7 +727,10 @@
     "rating": 3,
     "dateAdded": "2026-03-09",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"shamrock\" is Ireland's iconic three-leaf clover, but broken down it's \"sham\" (fake) + \"rock\" (stone). A sham-rock is literally a fake stone. The word was hiding this pun inside it the whole time, and the Ireland setting makes the shamrock connection inevitable.",
+    "howToTell": "Ask the setup like it's a geography quiz. Say \"a shamrock\" with a wink and a slight Irish lilt if you can manage one without being offensive.",
+    "perfectFor": ["St. Patrick's Day celebrations", "visiting Ireland or an Irish pub", "when someone shows you a cool rock and you're not sure it's real"]
   },
   {
     "id": "bad-044",
@@ -615,7 +744,10 @@
     "rating": 3,
     "dateAdded": "2026-03-10",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Spotted\" means both seen/detected and covered in spots — which leopards are. A leopard can never hide because it's always spotted (its pattern gives it away) AND it's always spotted (someone sees it). The camouflage predator's own markings betray it in the cutest possible way.",
+    "howToTell": "Ask the setup like you're posing a wildlife mystery. Deliver \"spotted\" with a resigned tone, like you feel bad for the leopard's predicament.",
+    "perfectFor": ["zoo visits at the big cat exhibit", "watching a nature documentary about leopards or cheetahs", "when you're playing hide and seek and someone's hiding spot is terrible"]
   },
   {
     "id": "bad-045",
@@ -629,7 +761,10 @@
     "rating": 4,
     "dateAdded": "2026-03-10",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Remove \"ears\" from \"bear\" and you're left with \"b.\" It's a spelling joke — the word \"bear\" minus the letters E-A-R-S equals just \"b.\" Like the fish/fsh joke, it operates on a written/visual level. The punchline being a single letter is so minimal it's almost zen.",
+    "howToTell": "Ask the setup seriously. Then just say the letter \"B\" — flat, short, no elaboration. The brevity of a one-letter answer to a full question is what makes it land.",
+    "perfectFor": ["spelling bee practice or word games", "visiting the bear exhibit at a zoo", "when you need the shortest possible joke to fill a silence"]
   },
   {
     "id": "bad-046",
@@ -643,7 +778,10 @@
     "rating": 3,
     "dateAdded": "2026-03-11",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Pointless\" means both without a point (a broken pencil has no sharp tip) and meaningless/not worth doing. The joke dismisses itself as not worth telling while simultaneously describing the pencil's condition. It's self-aware meta-humor wearing an office supply costume.",
+    "howToTell": "Start with the setup like you're excited to share, then deflate with \"never mind\" and a dismissive hand wave. Say \"pointless\" like you've just saved everyone from a terrible experience.",
+    "perfectFor": ["when someone breaks a pencil in class or at work", "sharpening pencils and finding one that won't hold a point", "when a meeting or project feels like it's going nowhere"]
   },
   {
     "id": "bad-047",
@@ -655,9 +793,12 @@
       "clothing"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-11",
+    "dateAdded": "2025-03-11",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"hole in one\" is golf's ultimate achievement — sinking the ball in a single stroke. But it also means getting a hole in one pair of pants. The golfer brought backup pants in case his first pair got torn. The golf dream scenario becomes a wardrobe malfunction contingency plan.",
+    "howToTell": "Ask the setup like it's a genuine fashion mystery. Deliver the punchline with a practical nod, like this is completely reasonable golf preparation.",
+    "perfectFor": ["watching golf on TV or at a tournament", "getting dressed for a round of golf or mini golf", "when someone rips their pants and needs a wardrobe rescue"]
   },
   {
     "id": "bad-048",
@@ -669,9 +810,12 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-12",
+    "dateAdded": "2025-03-12",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Waved\" means both a hand gesture of greeting and what ocean waves do. The ocean can't talk, so it didn't say anything — it just waved (made waves). It's a gentle, almost poetic pun where the ocean's natural motion becomes a friendly hello to the shore.",
+    "howToTell": "Ask the setup like you're narrating a love story between the ocean and the shore. Say \"it just waved\" softly, with a little hand wave of your own.",
+    "perfectFor": ["sitting on the beach watching the waves roll in", "when someone waves at you from across the room", "teaching kids about the ocean or tides"]
   },
   {
     "id": "bad-049",
@@ -683,9 +827,12 @@
       "wordplay"
     ],
     "rating": 3,
-    "dateAdded": "2026-03-12",
+    "dateAdded": "2025-03-12",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Picked on\" means both bullied and having someone pick their nose. The nose is sad because it's being picked — literally (fingers in nostrils) and figuratively (being teased). It's gross and empathetic at the same time, giving a voice to the most picked-on body part.",
+    "howToTell": "Ask the setup with genuine compassion for the nose. Deliver \"picked on\" with a supportive tone, like you're advocating for nose rights.",
+    "perfectFor": ["when you catch someone picking their nose", "allergy season when everyone's nose is suffering", "anatomy class discussions about the respiratory system"]
   },
   {
     "id": "bad-050",
@@ -699,7 +846,10 @@
     "rating": 3,
     "dateAdded": "2026-03-13",
     "slug": "what-call-sleeping-dinosaur-again",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "It's the same dino-snore pun from bad-020, but now it's self-aware about being a repeat. The \"yes, again\" acknowledges the recycling and makes the repetition itself the joke. It's meta-humor about dad joke culture — dads absolutely will tell the same joke twice and own it.",
+    "howToTell": "Tell it exactly like you told bad-020, then add \"yes, again\" with zero shame. The confidence of repeating yourself on purpose is the whole bit.",
+    "perfectFor": ["when someone accuses you of repeating jokes", "the second time your kid falls asleep during a movie", "dinosaur-themed birthday parties where you've already used the first version"]
   },
   {
     "id": "bad-051",
@@ -713,7 +863,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-pencil-two-erasers",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A pencil with erasers on both ends has no sharpened tip — it's literally point-less. And \"pointless\" means futile or meaningless. So this pencil is both physically without a point and functionally useless. It's the design flaw as philosophy.",
+    "howToTell": "Ask the setup like you're presenting a defective product for inspection. Deliver \"pointless\" as a one-word verdict — flat, final, like a quality control stamp of rejection.",
+    "perfectFor": ["shopping for school supplies at the start of a semester", "when a project at work feels like it's going in circles", "when someone brings you a pencil that desperately needs sharpening"]
   },
   {
     "id": "bad-052",
@@ -727,7 +880,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-man-put-sugar-on-pillow",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Sweet dreams\" is the classic bedtime wish, but the man takes it literally — sugar is sweet, so put sugar on the pillow for sweet dreams. The logic is so childlike and earnest that you can't help but smile. He solved the problem with baking ingredients.",
+    "howToTell": "Tell the setup like a strange news story. Deliver \"sweet dreams\" with a warm, bedtime-story voice, as if this is the most logical thing anyone has ever done.",
+    "perfectFor": ["bedtime routines when tucking kids in", "when someone says 'sweet dreams' and you want to follow up", "baking together and sugar gets everywhere"]
   },
   {
     "id": "bad-053",
@@ -741,7 +897,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-blanket-say-to-bed",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"I've got you covered\" means both \"I'll take care of this\" (reassurance) and literally covering the bed — which is what blankets do. The blanket is being simultaneously protective and functional. It's wholesome wordplay between bedroom furniture that makes you feel cozy.",
+    "howToTell": "Ask the setup with curiosity. Deliver the punchline in a warm, reassuring tone, like a blanket would actually talk — comforting and dependable.",
+    "perfectFor": ["making the bed in the morning with a partner or kid", "when someone's cold and you throw them a blanket", "hotel check-ins when the beds look extra inviting"]
   },
   {
     "id": "bad-054",
@@ -755,7 +914,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-sad-strawberry",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Blue\" means sad/depressed (feeling blue), and a blueberry is a real fruit. So a strawberry that's feeling blue becomes a blueberry — it's crossed the fruit identity line through sheer sadness. The joke transforms an emotional state into a species change.",
+    "howToTell": "Ask the setup with sympathy for the strawberry's emotional state. Say \"a blueberry\" with a sad nod, like you've seen this happen too many times in the fruit world.",
+    "perfectFor": ["grocery shopping in the berry aisle", "making smoothies or fruit salad", "when someone's having a down day and needs a tiny smile"]
   },
   {
     "id": "bad-055",
@@ -769,7 +931,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-tomato-go-out-with-prune",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"date\" is both a romantic companion and a fruit (the date palm fruit). The tomato couldn't find a date (the fruit), so he settled for a prune instead. Meanwhile, he also couldn't find a date (romantic partner). The fruit-romance double meaning makes the tomato's love life hilariously tragic.",
+    "howToTell": "Tell the setup like relationship gossip. Deliver \"couldn't find a date\" with a sympathetic headshake, like the tomato tried every dating app in the produce section.",
+    "perfectFor": ["Valentine's Day or date night discussions", "grocery shopping in the dried fruit section", "when a friend is complaining about their dating life"]
   },
   {
     "id": "bad-056",
@@ -783,7 +948,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-sleeping-pizza-bad",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The \"ZZZ\" in \"piZZZa\" represents the cartoon sleeping sound effect (zzz). Pizza already has two z's in it — the joke just adds one more to make it snoring. It's a visual/spelling pun that works because pizza was one letter away from sleeping this whole time.",
+    "howToTell": "Ask the setup, then say \"piZZZa\" while drawing out the Z sound and maybe closing your eyes like you're drifting off. The exaggerated Z is the whole bit.",
+    "perfectFor": ["when pizza arrives and someone's already passed out on the couch", "late-night pizza orders after everyone's exhausted", "pizza parties where the food coma is setting in"]
   },
   {
     "id": "bad-057",
@@ -797,7 +965,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-banana-go-to-hospital",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Peeling\" sounds like \"feeling\" — so \"wasn't peeling well\" = \"wasn't feeling well.\" And bananas peel — it's literally how you open them. A banana that's not peeling well is both medically unwell and having trouble with its primary physical function. Double diagnosis.",
+    "howToTell": "Tell the setup with concern, like this is a real medical emergency. Deliver \"peeling\" with genuine worry, not comedy — the sincerity makes the pun sneak up on people.",
+    "perfectFor": ["peeling bananas for breakfast or a smoothie", "when someone calls in sick to work or school", "hospital visits that could use a bit of levity"]
   },
   {
     "id": "bad-058",
@@ -811,7 +982,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-joke-not-funny",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Strip the humor from a joke and what's left? Just a sentence — words in a row with no comedic payoff. It's brutally reductive anti-humor that deconstructs the concept of jokes entirely. A joke without funny is just grammar. This joke is also lowkey insulting every bad joke ever told, including itself.",
+    "howToTell": "Ask the setup like a philosopher pondering the nature of comedy. Deliver \"a sentence\" with absolute deadpan, like you've just solved an existential riddle.",
+    "perfectFor": ["when someone tells a joke that completely bombs", "English class discussions about sentence structure", "comedy open mics when the crowd isn't laughing"]
   },
   {
     "id": "bad-059",
@@ -825,7 +999,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "i-have-joke-about-butter",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Spread it around\" means both to spread butter on bread (butter's purpose) and to gossip/share information widely. The joke refuses to share itself because it doesn't want to spread it — treating the joke like a rumor and butter like a secret. Meta-humor with dairy undertones.",
+    "howToTell": "Start the setup like you're about to share a secret. Then zip your lips on the punchline — \"I'm not going to spread it around\" should sound like you're being discreet, not funny.",
+    "perfectFor": ["making toast or spreading butter at breakfast", "when someone's gossiping and you want to redirect the conversation", "cooking shows or baking sessions when butter is involved"]
   },
   {
     "id": "bad-060",
@@ -839,7 +1016,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "whats-brown-and-sticky",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Your brain immediately goes somewhere gross — what's brown and sticky? But the answer is just a stick. It's stick-y because it IS a stick. The anti-humor works because the setup primes you for something crude, and the punchline is the most innocent, literal answer possible. The misdirection is the whole game.",
+    "howToTell": "Ask the setup with a mischievous grin, letting them think it's going somewhere inappropriate. Then say \"a stick\" with complete innocence, like you can't imagine what else they were thinking.",
+    "perfectFor": ["hiking and picking up sticks on the trail", "when kids are playing with sticks in the yard", "campfire conversations when things get too quiet"]
   },
   {
     "id": "bad-061",
@@ -853,7 +1033,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-cookie-feel-sick",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Crummy\" means feeling unwell or lousy, and cookies produce crumbs — they're literally crumb-y. A sick cookie feels crummy in both senses: it's ill AND it's falling apart into crumbs. The cookie's physical deterioration mirrors its emotional state.",
+    "howToTell": "Ask the setup with concern for the cookie's health. Say \"crummy\" with a sympathetic sigh, brushing imaginary crumbs off your shirt.",
+    "perfectFor": ["when cookies crumble while you're eating them", "baking cookies that didn't turn out quite right", "when someone says they're feeling crummy and you want to lighten the mood"]
   },
   {
     "id": "bad-062",
@@ -867,7 +1050,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-car-tells-jokes",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Volkswagin\" swaps \"wagen\" for \"wagin\" — as in wagging, like a tongue or tail. A car that wags its tongue telling jokes is a Volks-wagin'. It riffs on the Volkswagen brand name with the playful image of a car that can't stop running its mouth. Silly brand humor at its finest.",
+    "howToTell": "Ask the setup like a car dealership riddle. Say \"Volkswagin\" with a German accent if you can pull one off, emphasizing the 'wagin' part.",
+    "perfectFor": ["passing a Volkswagen on the road", "car shopping or browsing a dealership lot", "road trips when you need to fill silence with groan-worthy humor"]
   },
   {
     "id": "bad-063",
@@ -881,7 +1067,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-did-stadium-get-hot-bad",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Fans\" means both sports spectators and electric fans that cool you down. When the fans (people) left the stadium, the fans (cooling devices) also conceptually disappeared — so it got hot. The word does double duty, turning a boring attendance issue into a climate problem.",
+    "howToTell": "Ask the setup like you're a confused sports reporter. Deliver the punchline with a straight face, fanning yourself with your hand for emphasis.",
+    "perfectFor": ["attending a live sporting event on a hot day", "when the AC breaks down at a crowded venue", "watching a game where the stadium starts emptying early"]
   },
   {
     "id": "bad-064",
@@ -895,7 +1084,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-wall-say-other-wall-bad",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Two walls in a room literally meet at the corner — that's where walls connect. \"I'll meet you at the corner\" is also a normal thing friends say when planning to get together. The joke anthropomorphizes walls into buddies making plans, and their meeting point is architecturally inevitable.",
+    "howToTell": "Say the setup like you overheard two walls chatting. Deliver the punchline casually, like it's a perfectly normal social arrangement between building materials.",
+    "perfectFor": ["home renovation when you're looking at where walls meet", "walking around a corner and bumping into someone", "architecture tours or home-building discussions"]
   },
   {
     "id": "bad-065",
@@ -909,7 +1101,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-get-step-on-grape",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Same homophone magic as bad-038: \"wine\" and \"whine\" sound identical. Stepping on a grape squishes it (producing wine) and would make it cry out in pain (a whine). The grape literally and figuratively wines/whines. It's the companion piece to the grape-crushing joke — same pun, different angle.",
+    "howToTell": "Ask the setup with curiosity about what would actually happen. Say \"a little wine\" quietly, almost a whisper, like you're doing a tiny grape voice.",
+    "perfectFor": ["grape-stomping at a vineyard experience", "when someone steps on something squishy", "wine tasting events or dinner parties with wine pairings"]
   },
   {
     "id": "bad-066",
@@ -923,7 +1118,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "i-have-joke-about-clock",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Not the right time\" means both \"this isn't the appropriate moment to share it\" and \"the clock doesn't show the correct time.\" The joke refuses to tell itself because the timing is off — literally (the clock is wrong) and socially (it's not the right moment). Meta-humor about comedic timing using an actual timepiece.",
+    "howToTell": "Start the setup like you're about to share, then glance at an imaginary watch and shake your head. Say \"not the right time\" with a regretful sigh, like the moment has passed.",
+    "perfectFor": ["when someone asks what time it is and you're not wearing a watch", "daylight saving time when all the clocks are wrong", "when someone tells a joke at a completely inappropriate moment"]
   },
   {
     "id": "bad-067",
@@ -937,7 +1135,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-football-coach-go-to-bank",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Quarterback\" is the key position in football, but at a bank, \"quarter back\" means getting your twenty-five cents returned. The coach went to the bank for financial business but the word perfectly bridges football and banking. It's a sports-finance pun that hits both audiences.",
+    "howToTell": "Tell the setup like a sports news update. Deliver \"quarterback\" with emphasis on both halves of the word — quarter... back — so listeners catch the money angle.",
+    "perfectFor": ["Super Bowl parties or football watch gatherings", "when someone asks for change or quarters", "Monday morning football recaps at the office"]
   },
   {
     "id": "bad-068",
@@ -951,7 +1152,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-horse-say-after-tripped",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "It's a horse-ified version of the famous Life Alert commercial: \"I've fallen and I can't get up!\" But instead of \"get up,\" the horse says \"giddyup\" — the command riders use to make horses go. The mashup of elderly infomercial culture with equestrian vocabulary is unexpectedly perfect.",
+    "howToTell": "Deliver the punchline in a dramatic, distressed voice — channel the original Life Alert commercial energy but with horse panic. The more theatrical, the better.",
+    "perfectFor": ["horseback riding or visiting a stable", "when the Life Alert commercial comes on TV", "when someone trips and you want to lighten the embarrassment"]
   },
   {
     "id": "bad-069",
@@ -965,7 +1169,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-bicycles-fall-over-so-often",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Same pun as bad-019 — \"two-tired\" means both having two tires and being too tired. This version pluralizes it to bicycles in general rather than one specific bike. It's the universal theory of bicycle collapse: they're all exhausted from having only two tires to stand on.",
+    "howToTell": "Ask it like you're a concerned citizen reporting an epidemic of falling bicycles. Say \"two-tired\" with exhaustion in your voice, like even you're tired of this pun.",
+    "perfectFor": ["bike shop visits for repairs or tune-ups", "when you see a row of bikes toppled over at a bike rack", "cycling events or spin class when everyone's wiped out"]
   },
   {
     "id": "bad-070",
@@ -979,7 +1186,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-kind-shoes-frogs-wear",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Open toad\" sounds like \"open-toed\" — the style of sandal. But frogs are amphibians related to toads, so their sandals would feature toads instead of toes. The swap of \"toe\" for \"toad\" is phonetically tight and biologically relevant. Plus the image of a frog in sandals is inherently funny.",
+    "howToTell": "Ask the setup like a fashion consultant. Deliver \"open toad sandals\" with the breezy confidence of a shoe store employee making a recommendation.",
+    "perfectFor": ["shoe shopping in summer when sandals are on display", "when you spot a frog or toad in the yard", "beach days when everyone's in flip-flops and sandals"]
   },
   {
     "id": "bad-071",
@@ -993,7 +1203,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-pig-does-karate-bad",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"pork chop\" is a cut of meat AND a karate chop performed by a pig (pork). The martial arts move meets the butcher's counter in one perfect compound word. The mental image of a pig in a karate gi doing chops is the bonus that makes this one stick.",
+    "howToTell": "Ask the setup while doing a little karate chop motion. Say \"pork chop\" with a martial arts yell — hi-YAH! — for maximum effect.",
+    "perfectFor": ["watching martial arts movies or UFC fights", "barbecue when someone's grilling pork chops", "when kids are pretending to do karate moves"]
   },
   {
     "id": "bad-072",
@@ -1007,7 +1220,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-did-computer-sneeze",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Virus\" means both a biological infection (makes you sneeze) and a computer virus (malware). The joke treats a computer's software problem as a medical condition, complete with sneezing symptoms. It bridges the tech world and the doctor's office through one shared word.",
+    "howToTell": "Tell the setup with a fake sneeze for dramatic effect. Deliver \"it had a virus\" like a doctor giving a diagnosis — clinical and matter-of-fact.",
+    "perfectFor": ["when your computer is acting glitchy or slow", "IT department conversations or tech support calls", "cold and flu season when everyone's sneezing"]
   },
   {
     "id": "bad-073",
@@ -1021,7 +1237,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-ocean-say-to-sand",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Same pun as bad-048 but with \"sand\" instead of \"shore.\" The ocean waves = the ocean waved (greeted). It's the beach companion piece, proving this pun works no matter which part of the coastline the ocean is talking to. Consistent oceanography humor.",
+    "howToTell": "Same gentle delivery as the shore version — soft, wave-like. If you've already told bad-048, own the repeat: \"Yes, the ocean waves at everybody.\"",
+    "perfectFor": ["building sandcastles at the beach", "when waves wash over someone's sandy spot", "ocean-themed kids' parties or school projects"]
   },
   {
     "id": "bad-074",
@@ -1035,7 +1254,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-tree-go-to-barber",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "You \"trim\" both hair and tree branches. A tree getting a trim is literally what arborists do — they trim trees. The joke sends the tree to a barber instead of a tree service, humanizing the tree's grooming needs. It's wholesome and works because the verb is genuinely shared.",
+    "howToTell": "Ask the setup conversationally. Deliver \"it needed a trim\" with a nonchalant shrug, like trees going to barbers is totally normal.",
+    "perfectFor": ["driving past a tree trimming crew at work", "when you're overdue for a haircut yourself", "gardening or yard work when the hedges need trimming"]
   },
   {
     "id": "bad-075",
@@ -1049,7 +1271,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-have-joke-about-umbrella",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Over your head\" means both that you won't understand the joke (it'll go over your head) and where an umbrella literally sits — over your head. The joke simultaneously insults the listener's intelligence and describes umbrella physics. It's meta-humor with a superiority complex.",
+    "howToTell": "Say the setup like you have something brilliant to share, then pull back with \"you might not get it\" delivered with faux concern for their comprehension. Slight condescension sells it.",
+    "perfectFor": ["when it starts raining and someone opens an umbrella", "when someone doesn't get a previous joke you told", "rainy day conversations when the weather is dreary"]
   },
   {
     "id": "bad-076",
@@ -1063,7 +1288,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-sleeping-bag-lost-zipper",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "An \"open-and-shut case\" is an idiom meaning something obvious and easily resolved. But a sleeping bag without a zipper literally can't be properly opened and shut — it's stuck being an open-and-shut (or rather, open-and-can't-shut) case. The idiom meets the camping gear malfunction perfectly.",
+    "howToTell": "Ask the setup like you're presenting a camping equipment mystery. Deliver the punchline like a detective closing a case file — snap it shut, ironically.",
+    "perfectFor": ["camping trips when gear is malfunctioning", "packing or unpacking sleeping bags", "when something at work or home has an obvious solution"]
   },
   {
     "id": "bad-077",
@@ -1077,7 +1305,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-chicken-coops-two-doors",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"coupe\" (pronounced like \"coop\") is a two-door car, while a sedan has four doors. A chicken coop sounds like a chicken coupe — a two-door chicken car. If it had four doors, it would be a sedan. The joke retrofits automotive terminology onto poultry housing. It's structurally brilliant.",
+    "howToTell": "Ask the setup like a legitimate farming question. Deliver the punchline with a car salesman's confidence, gesturing at the imaginary four-door chicken vehicle.",
+    "perfectFor": ["driving past a farm with chicken coops visible", "car shopping when debating coupe vs sedan", "when someone mentions chickens in any context whatsoever"]
   },
   {
     "id": "bad-078",
@@ -1091,7 +1322,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-get-rhetorical-question-dad-joke",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The punchline is literally nothing — an empty string. A rhetorical question doesn't need an answer, so when you combine it with a dad joke, the answer is... no answer. The joke answers itself by not answering. It's the most meta dad joke possible: the absence of a punchline IS the punchline.",
+    "howToTell": "Ask the setup and then just... stop. Don't say anything. Let the silence hang. When they wait for the punchline, raise your eyebrows. The longer the pause, the better.",
+    "perfectFor": ["when someone keeps asking you to tell jokes and you want to end the cycle", "philosophy class or deep-thinking conversations", "comedy workshops discussing joke structure and format"]
   },
   {
     "id": "bad-079",
@@ -1105,7 +1339,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "going-tell-joke-about-boxing",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"punchline\" is both the end of a joke and a boxing reference — punch + line. Forgetting the punchline of a boxing joke means you lost both the joke's ending AND the boxing terminology. The meta-humor of a joke about forgetting jokes, themed around a sport centered on punching, is a triple-layered groan.",
+    "howToTell": "Start the setup like you're genuinely trying to remember something. Then say \"I forgot the punchline\" with frustrated sincerity, maybe tapping your temple like you're searching your memory.",
+    "perfectFor": ["watching a boxing match or UFC event", "when you actually forget a joke's punchline mid-telling", "gym conversations when someone mentions boxing workouts"]
   },
   {
     "id": "bad-080",
@@ -1119,7 +1356,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-chicken-crossing-road",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Poultry in motion\" is a play on \"poetry in motion\" — a phrase describing something beautifully graceful. Replace \"poetry\" with \"poultry\" (chickens are poultry) and a chicken crossing the road becomes an elegant spectacle. It also callbacks the most famous joke setup ever: why did the chicken cross the road?",
+    "howToTell": "Ask the setup with reverence, like you're about to describe something beautiful. Deliver \"poultry in motion\" with awe, maybe closing your eyes like you're witnessing art.",
+    "perfectFor": ["when you see actual chickens or birds crossing a road", "poetry readings or literature discussions that need lightening", "following up after someone tells the classic 'why did the chicken cross the road' joke"]
   },
   {
     "id": "bad-081",
@@ -1133,7 +1373,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-waffle-left-in-sun",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"hotcake\" is another word for a pancake, and \"selling like hotcakes\" means selling fast. A waffle left in the sun would be literally hot — a hot cake. The joke transforms a breakfast item into another breakfast item through sun exposure. It's the breakfast cinematic universe.",
+    "howToTell": "Ask the setup like a culinary experiment question. Say \"a hot cake\" with the slow realization of a scientist who just discovered something obvious.",
+    "perfectFor": ["brunch when waffles and pancakes are both on the menu", "hot summer days when everything outside is baking", "when something is 'selling like hotcakes' and you want to riff on the phrase"]
   },
   {
     "id": "bad-082",
@@ -1147,7 +1390,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-man-name-dog-five-miles",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Walked Five Miles\" is both walking with a dog named Five Miles and the fitness achievement of walking five miles. The man gamed the system — every dog walk becomes a brag-worthy exercise accomplishment, no matter how short the actual walk was. It's laziness disguised as fitness through clever naming.",
+    "howToTell": "Tell the setup like a life hack tip. Deliver the punchline with a proud, fitness-bro energy, like you just crushed your step goal.",
+    "perfectFor": ["when someone's bragging about their daily step count", "dog parks when everyone's sharing their dog's name", "New Year's resolution conversations about exercising more"]
   },
   {
     "id": "bad-083",
@@ -1161,7 +1407,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-sink-say-to-toilet",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Same pun as bad-036 — \"flushed\" means embarrassed and what toilets do. This version has the sink saying it instead of another toilet, which adds a bathroom hierarchy dynamic. The sink is concerned about the toilet's emotional state while referencing its primary function. Bathroom fixture solidarity.",
+    "howToTell": "Deliver the punchline from the sink's perspective — slightly superior, looking down at the toilet with concern. The bathroom power dynamic adds a layer.",
+    "perfectFor": ["bathroom remodels when you're picking fixtures", "when someone looks embarrassed or overheated", "cleaning the bathroom and talking to the fixtures (we've all done it)"]
   },
   {
     "id": "bad-084",
@@ -1175,7 +1424,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-do-melons-have-weddings",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Cantaloupe\" sounds like \"can't elope\" — they can't run away to get married secretly, so they have to have a proper wedding instead. It takes a melon variety and turns it into a relationship constraint. The melons are forced into traditional matrimony because their own name prevents elopement.",
+    "howToTell": "Ask the setup like a wedding planner sharing industry gossip. Say \"cantaloupe\" with a wistful sigh, like the melons really wanted to elope but couldn't.",
+    "perfectFor": ["wedding receptions or engagement parties", "cutting cantaloupe for a fruit salad", "when someone suggests eloping and you want to weigh in"]
   },
   {
     "id": "bad-085",
@@ -1189,7 +1441,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "tried-make-belt-out-of-herbs",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A double homophone pun: \"waist\" sounds like \"waste\" and \"thyme\" sounds like \"time.\" A belt goes around your waist, and thyme is an herb. So a belt made of herbs is literally a waist of thyme AND figuratively a waste of time. Two puns in four words — that's efficient dad joking.",
+    "howToTell": "Tell the setup like you actually attempted this craft project. Deliver the punchline with resigned disappointment, like a failed DIY experiment.",
+    "perfectFor": ["cooking with fresh herbs in the kitchen", "craft projects or DIY attempts that go hilariously wrong", "when someone says something is a waste of time"]
   },
   {
     "id": "bad-086",
@@ -1203,7 +1458,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-kind-music-planets-listen",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Neptunes\" references both the planet Neptune and The Neptunes — the legendary music production duo (Pharrell Williams & Chad Hugo). It's a music-meets-astronomy pun where the solar system's most distant planet doubles as a hit-making music brand. Space has great taste.",
+    "howToTell": "Ask the setup like a cosmic DJ. Say \"Neptunes\" with a head-bob, like you're bumping to planetary beats.",
+    "perfectFor": ["stargazing nights when planets are visible", "listening to Pharrell or N.E.R.D. and someone asks who produced the track", "science class discussions about the solar system"]
   },
   {
     "id": "bad-087",
@@ -1217,7 +1475,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "cross-centipede-and-parrot",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A centipede has a hundred legs (it walks a LOT) and a parrot talks. Combine a champion walker with a champion talker and you get a walkie-talkie — the communication device. The biological mashup produces a piece of technology, which is absurd and brilliant. Evolution meets RadioShack.",
+    "howToTell": "Ask the setup like a mad scientist proposing an experiment. Deliver \"walkie-talkie\" with a eureka moment, like you just made a breakthrough in hybrid animal electronics.",
+    "perfectFor": ["when kids are playing with walkie-talkies", "at a pet store looking at parrots or exotic insects", "camping or hiking when walkie-talkies are actually useful"]
   },
   {
     "id": "bad-088",
@@ -1231,7 +1492,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-have-joke-about-sodium",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Na\" is both the chemical symbol for sodium on the periodic table AND a casual way of saying \"nah\" (no thanks). The joke declines to tell itself using sodium's own chemical symbol. It's the periodic table's shortest dad joke — two letters, maximum groan efficiency.",
+    "howToTell": "Start the setup like you have something to share, then just say \"Na\" with a flat, dismissive shrug. The one-syllable delivery is everything. Less is more.",
+    "perfectFor": ["chemistry class or science homework sessions", "when someone asks you a question and you want a creative way to say no", "science museum visits near the periodic table display"]
   },
   {
     "id": "bad-089",
@@ -1245,7 +1509,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-dont-ants-get-sick",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Anty-bodies\" sounds like \"antibodies\" — the immune system proteins that fight disease. But for ants, they're literally ant-y bodies — tiny ant-sized bodies. The joke merges immunology with entomology through one hyphenated word. Ants are both the organism and the immune response.",
+    "howToTell": "Ask the setup like you're sharing a fascinating medical discovery. Emphasize \"anty\" slightly so the ant connection registers before the science one.",
+    "perfectFor": ["when ants invade the kitchen and you need to stay calm about it", "biology class discussions about the immune system", "watching ants carry food at a picnic"]
   },
   {
     "id": "bad-090",
@@ -1259,7 +1526,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-kind-car-sheep-drive",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Lamb-orghini\" swaps \"Lambo\" for \"lamb\" in Lamborghini — and baby sheep are called lambs. So a sheep drives a Lamborghini, renamed to reflect its species. The luxury car brand was one letter away from a farm animal this whole time. The Italian sports car becomes Italian pastoral.",
+    "howToTell": "Ask the setup like a car magazine interview. Say \"Lamb-orghini\" with Italian flair and rev an imaginary engine. Make it sound expensive.",
+    "perfectFor": ["spotting a Lamborghini on the road (or a sheep in a field)", "car shows or conversations about dream cars", "visiting a farm or petting zoo with lambs"]
   },
   {
     "id": "bad-091",
@@ -1273,7 +1543,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "got-fired-candle-factory",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Wick-ends\" sounds like \"weekends.\" Candles have wicks, and the employee refused to work on the wick-ends (weekends). Getting fired from a candle factory for not working wick-ends is a workplace dispute told entirely through candle puns. Also, \"fired\" is an extra layer — candles and fire.",
+    "howToTell": "Tell the setup like a disgruntled ex-employee sharing their story. Deliver \"wick-ends\" with righteous indignation, like you're still mad about it.",
+    "perfectFor": ["lighting candles for a dinner or bath", "when someone complains about having to work weekends", "candle shopping at Bath & Body Works or a craft fair"]
   },
   {
     "id": "bad-092",
@@ -1287,7 +1560,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-calendar-break-up-clock",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Days were numbered\" means both \"running out of time\" (the relationship was doomed) and literally — calendar days ARE numbered (1, 2, 3...). The calendar's entire existence is numbered days, so their relationship was always destined to have an expiration date. Time-related breakup humor at its finest.",
+    "howToTell": "Tell the setup like a sad relationship story. Deliver the punchline with a melancholic sigh, like you saw this time-themed breakup coming from a mile away.",
+    "perfectFor": ["New Year's Eve when you're hanging up a new calendar", "breakup conversations that need levity", "when someone asks what day it is and you're counting down to something"]
   },
   {
     "id": "bad-093",
@@ -1301,7 +1577,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-sad-cup-coffee",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Depresso\" blends \"depressed\" with \"espresso\" — the strong coffee drink. A depressed espresso is a depresso. The portmanteau is so smooth it sounds like it should already be on a coffee shop menu. It's the most caffeinated mental health joke in the dad joke canon.",
+    "howToTell": "Ask the setup while holding or gesturing toward a coffee cup. Say \"depresso\" with an Italian barista accent and a sad face. Chef's kiss.",
+    "perfectFor": ["morning coffee runs when someone looks tired and glum", "coffee shop visits when you're ordering espresso", "Monday mornings when the whole office needs caffeine therapy"]
   },
   {
     "id": "bad-094",
@@ -1315,7 +1594,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "asked-frenchman-played-video-games",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Wii\" is Nintendo's game console, and \"oui\" (pronounced like \"wee\") is French for \"yes.\" So the Frenchman said both yes (oui) and named a game console (Wii) in one word. The phonetic overlap between French affirmation and Japanese gaming is an international incident of punnery.",
+    "howToTell": "Tell the setup casually. Say \"Wii\" with a French accent — slightly nasal, with a little head tilt — so it sounds equally like \"oui\" and the console name.",
+    "perfectFor": ["playing Nintendo games or setting up a Wii console", "French class or language learning conversations", "gaming nights when you're choosing what to play"]
   },
   {
     "id": "bad-095",
@@ -1329,7 +1611,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-does-house-wear",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Address\" splits into \"a dress\" — so a house wears a dress. But a house also has an address (its location number and street). The joke asks what a house wears and the answer is both a piece of clothing and the identifying label every house has. Architecture meets fashion.",
+    "howToTell": "Ask the setup like a genuine fashion question about real estate. Say \"address\" without breaking it into two words — let the listener's brain split it into \"a dress\" on its own.",
+    "perfectFor": ["house hunting or looking at new homes", "when someone asks for your address", "getting dressed up before going out and passing houses on the way"]
   },
   {
     "id": "bad-096",
@@ -1343,7 +1628,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "joke-about-trickle-down-economics",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"99% of you won't get it\" works triple: most people won't understand the economics joke, AND the critique of trickle-down economics is that 99% of people don't benefit from it (only the top 1% \"gets\" the money). The punchline is simultaneously self-deprecating about the joke's complexity and a savage political commentary.",
+    "howToTell": "Start the setup like you're about to drop serious knowledge. Deliver the punchline with a casual, almost apologetic shrug — like you wish more people could get it, but that's just how the economy works.",
+    "perfectFor": ["economics class or political science discussions", "tax season conversations about where your money goes", "dinner party debates about politics that need a laugh break"]
   },
   {
     "id": "bad-097",
@@ -1357,7 +1645,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-man-lying-front-door",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Matt\" is both a man's name and a shortened form of \"doormat\" — the thing lying in front of a door. A man lying flat in front of a door IS a mat, and his name is Matt. The human-furniture identity crisis is resolved in one syllable.",
+    "howToTell": "Ask the setup seriously. Say \"Matt\" like you're introducing someone — just a name, no explanation needed. The shorter the delivery, the better.",
+    "perfectFor": ["when you step on the welcome mat coming into someone's house", "introducing someone named Matt with a setup", "when someone's lying on the floor and blocking a doorway"]
   },
   {
     "id": "bad-098",
@@ -1371,7 +1662,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-dont-crabs-share",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Shellfish\" sounds like \"selfish\" — and crabs are literally shellfish (crustaceans with shells). They don't share because they're selfish, and they're selfish because they're shellfish. The wordplay is phonetically near-perfect, and the personality trait fits the animal category so well it feels like destiny.",
+    "howToTell": "Ask the setup with mild frustration, like you've personally tried to get a crab to share and failed. Say \"shellfish\" with an accusatory tone.",
+    "perfectFor": ["seafood restaurants when crab is on the menu", "when someone won't share their food", "beach trips where you spot crabs in tide pools"]
   },
   {
     "id": "bad-099",
@@ -1385,7 +1679,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-sits-bottom-sea-twitches",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A \"nervous wreck\" is an anxious, jittery person AND a shipwreck (wreck) at the bottom of the sea that's twitching (nervous). The idiom for anxiety becomes a literal sunken ship with tremors. It's clever because both meanings of \"wreck\" involve something broken down — emotionally or physically.",
+    "howToTell": "Ask the setup like a deep-sea riddle. Deliver \"a nervous wreck\" with twitchy body language — maybe shake your hands a little. Embody the answer.",
+    "perfectFor": ["before a big presentation or exam when nerves are high", "scuba diving or snorkeling trips", "watching Titanic or any shipwreck movie"]
   },
   {
     "id": "bad-100",
@@ -1399,7 +1696,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "used-to-hate-math-decimals",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Have a point\" means both being meaningful/valid and having a decimal point (the dot in decimal numbers). Decimals literally have a point — it's their defining feature. The joke frames mathematical appreciation as an epiphany about purpose, with the decimal point serving as both the math concept and the life lesson.",
+    "howToTell": "Start with \"I used to hate math\" like a confession. Then deliver the punchline as a genuine revelation, eyes lighting up, like decimals changed your whole worldview.",
+    "perfectFor": ["math homework sessions when motivation is low", "when someone says something doesn't have a point", "teacher appreciation events for math teachers"]
   },
   {
     "id": "bad-101",
@@ -1413,7 +1713,10 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "what-do-you-get-when-you-drop-a-piano-on-a-kid-from-a-great-height",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"A flat minor\" is a musical key (A♭ minor), but split apart: \"a flat\" (squished) \"minor\" (a child/person under 18). Dropping a piano on a kid would make them flat, and a kid is a minor. It's dark humor that hides behind music theory — the shock of the setup contrasts with the elegant musical punchline.",
+    "howToTell": "Ask the setup with a dramatic pause, letting the darkness sink in. Then deliver \"a flat minor\" in a refined, almost classical music announcer voice. The tonal shift from violent to cultured is the comedy.",
+    "perfectFor": ["piano recitals where the humor needs an edge", "music theory class when things get too serious", "dark humor enthusiasts at a comedy night"]
   },
   {
     "id": "bad-102",
@@ -1426,7 +1729,10 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "breaking-iran-has-struck-its-own-submarine-with-an-underwater-torpedo-in-the-per",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "\"Wrong sub\" means both the wrong submarine (they hit their own) AND wrong subreddit — the Reddit term for posting in the wrong forum. The setup reads like a breaking news headline, but the punchline reveals it was just posted in the wrong sub(reddit). It's internet culture meets geopolitics in one devastating misdirect.",
+    "howToTell": "Read the setup in your most serious news anchor voice — sell the breaking news urgency completely. Then drop \"whoops wrong sub\" casually, like you're just a confused Redditor, not a war correspondent.",
+    "perfectFor": ["scrolling Reddit with friends and something's in the wrong sub", "when someone sends a message to the wrong group chat", "news-watching sessions that need a dark humor break"]
   },
   {
     "id": "bad-103",
@@ -1439,6 +1745,9 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "my-son-asked-why-sstar-wars-movies-came-out-4-5-6-1-2-3",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Yoda speaks in inverted sentence structure (object-subject-verb), which mirrors how the Star Wars movies came out in a weird order. Saying \"in charge of scheduling, I was\" in Yoda's voice implies Yoda's backward speech pattern caused the backward release order. It's canon-accurate humor that also perfectly captures the dad-makes-joke, mom-sighs dynamic.",
+    "howToTell": "Set up the scenario naturally, like sharing a real family moment. Do your best Yoda voice for the quote — commit to it fully. Then describe your partner's reaction with a proud, unrepentant grin.",
+    "perfectFor": ["Star Wars movie marathon nights with the family", "May the 4th (Star Wars Day) celebrations", "when a kid asks a 'why' question and you want to give a creative non-answer"]
   }
 ]

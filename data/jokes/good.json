@@ -11,7 +11,10 @@
     "rating": 5,
     "dateAdded": "2025-01-09",
     "slug": "a-guy-walks-into-a-bar-and-asks-for-14-root-beers",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This one's a sneaky math pun — 1.4 is a decimal (a number with a floating point), so ordering 1.4 root beers literally makes it a 'root beer float.' It's clever because it works on two levels: the dessert drink and the math concept, and you don't see it coming until the bartender spells it out.",
+    "howToTell": "Set it up like you're telling a regular bar joke — the math angle should catch people off guard. Say '1.4' clearly so they hear the decimal, then let the bartender's line land with a knowing smirk.",
+    "perfectFor": ["Impressing your nerdy friends at a bar trivia night", "Breaking the tension in a math class or study group", "Ordering an actual root beer float and wanting to make the server groan"]
   },
   {
     "id": "good-002",
@@ -25,7 +28,10 @@
     "rating": 4,
     "dateAdded": "2025-01-21",
     "slug": "why-did-the-invisible-man-turn-down-the-job-offer",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This joke plays on the double meaning of 'see himself' — the invisible man literally cannot be seen, but the phrase also means to envision yourself in a role. The punchline works because both meanings are perfectly valid, creating that satisfying click when the listener gets it.",
+    "howToTell": "Lead with the question casually, as if you're genuinely curious about the invisible man's career choices. Deliver the punchline with a straight face — the groan is your applause.",
+    "perfectFor": ["Breaking the ice at a job interview when they ask if you have any questions", "Texting your friend who just turned down a promotion", "Slipping into conversation when someone says they 'can't see themselves' doing something"]
   },
   {
     "id": "good-003",
@@ -39,7 +45,10 @@
     "rating": 5,
     "dateAdded": "2025-02-04",
     "slug": "whats-the-best-way-to-watch-a-fly-fishing-tournament",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This one nails a triple meaning — 'live stream' means watching something broadcast online, but fly fishing literally happens in a live stream (a flowing body of water). The collision of outdoorsy fishing vibes with modern tech lingo is what makes it pop.",
+    "howToTell": "Ask the question like you're genuinely recommending entertainment. Pause briefly before 'live stream' so people start thinking about actual streaming platforms before the fishing meaning clicks.",
+    "perfectFor": ["Chatting with your buddy who's obsessed with both fishing and YouTube", "Commenting on someone's fishing trip photos on social media", "When someone asks what to watch this weekend and you want to be unhelpful in the best way"]
   },
   {
     "id": "good-004",
@@ -53,7 +62,10 @@
     "rating": 4,
     "dateAdded": "2025-02-16",
     "slug": "why-do-nurses-like-red-crayons",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The word 'draw' does double duty here — drawing with a crayon and drawing blood are two completely different actions, but the joke bridges them perfectly. Throwing in the red crayon makes the visual connection to blood even stronger, so the pun feels airtight.",
+    "howToTell": "Set it up innocently, like you just learned something fascinating about nurses. Keep the punchline matter-of-fact — 'sometimes they have to draw blood' — as if it's the most logical answer in the world.",
+    "perfectFor": ["Telling your nurse friend while they're prepping to take your blood", "Lightening the mood in a waiting room when everyone's nervous about needles", "Sending to the group chat when someone posts about starting nursing school"]
   },
   {
     "id": "good-005",
@@ -67,8 +79,11 @@
     "rating": 5,
     "dateAdded": "2025-03-02",
     "slug": "when-does-a-joke-become-a-dad-joke",
+    "canonicalSlug": "when-does-a-joke-become-a-dad-joke",
     "ageRange": "teens",
-    "canonicalSlug": "when-does-a-joke-become-a-dad-joke"
+    "whyFunny": "This is peak meta dad joke — 'apparent' sounds exactly like 'a parent,' so the joke literally becomes a dad joke the moment a parent tells it. It's self-referential humor at its finest, and the fact that it IS a dad joke about dad jokes makes it even better.",
+    "howToTell": "Ask the question with genuine philosophical curiosity, like you've been thinking about this for days. Let the punchline hang in the air — people need a second to hear 'a parent' inside 'apparent.'",
+    "perfectFor": ["The first joke you tell after finding out you're going to be a dad", "Opening a dad joke competition or roast", "Responding when someone accuses you of telling too many dad jokes"]
   },
   {
     "id": "good-006",
@@ -82,7 +97,10 @@
     "rating": 5,
     "dateAdded": "2025-03-13",
     "slug": "i-was-wondering-why-the-ball-was-getting-bigger",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The phrase 'then it hit me' normally means you had a sudden realization — but here it also means the ball literally smacked you in the face. A ball getting bigger as it approaches is such a relatable visual that the double meaning lands with perfect comedic timing.",
+    "howToTell": "Start reflective, like you're sharing a genuine moment of confusion. The punchline should come with a deadpan beat, as if you're just stating what happened next without realizing it's funny.",
+    "perfectFor": ["Warming up the crowd at a little league game or sports practice", "Texting after your kid's soccer ball nails you during a backyard kick-around", "Dropping casually when someone at work says 'then it hit me' about a project insight"]
   },
   {
     "id": "good-007",
@@ -96,7 +114,10 @@
     "rating": 4,
     "dateAdded": "2025-03-26",
     "slug": "what-do-you-call-an-elephant-that-doesnt-matter",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "It's a straight-up sound swap — 'irrelevant' becomes 'irrelephant' by jamming an elephant right into the word. It's so dumb and so obvious that it circles back around to being genuinely delightful, which is the sweet spot for dad jokes.",
+    "howToTell": "Ask the setup like it's a serious riddle. When you deliver 'irrelephant,' commit to it — say it with the confidence of someone who just solved a crossword puzzle.",
+    "perfectFor": ["Derailing a meeting when someone says 'that's irrelevant'", "Telling your kids at the zoo when you walk past the elephant enclosure", "Dropping into a debate when someone brings up an off-topic point"]
   },
   {
     "id": "good-008",
@@ -110,7 +131,10 @@
     "rating": 5,
     "dateAdded": "2025-04-06",
     "slug": "i-ordered-a-chicken-and-an-egg-from-amazon",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This joke brilliantly modernizes the ancient 'which came first, the chicken or the egg?' paradox by turning it into an Amazon delivery question. The implied punchline is that whichever arrives first settles the debate — it's clever because you don't even need to explain the reference.",
+    "howToTell": "Say it casually like you're sharing a real online shopping update. The less you explain, the funnier it gets — let the listener connect the dots themselves.",
+    "perfectFor": ["Posting on social media when Amazon sends you a shipping notification", "Answering the 'chicken or egg' debate at a dinner party once and for all", "Texting your friend who orders literally everything from Amazon"]
   },
   {
     "id": "good-009",
@@ -124,7 +148,10 @@
     "rating": 4,
     "dateAdded": "2025-04-20",
     "slug": "what-does-a-house-wear",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The word 'address' splits into 'a dress' — so a house literally wears a dress, but also every house has an address. It's one of those puns that's so clean and simple it almost feels like the English language was designed for this joke.",
+    "howToTell": "Ask it with the tone of a genuine fashion question, like houses have feelings about their outfits. Say 'address' normally and let people's brains do the split into 'a dress' on their own.",
+    "perfectFor": ["Helping your kid with their first homework assignment about home addresses", "House hunting with your partner and trying to keep spirits up", "When a realtor asks if you have any questions about the property"]
   },
   {
     "id": "good-010",
@@ -138,7 +165,10 @@
     "rating": 4,
     "dateAdded": "2025-05-03",
     "slug": "i-thought-about-going-on-an-all-almond-diet",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Almonds are literally nuts, but 'that's just nuts' also means 'that's crazy.' The joke sets up a believable diet scenario — everyone's always trying some new restrictive diet — then pulls the rug with a pun that works both as food categorization and a sanity check.",
+    "howToTell": "Start like you're genuinely considering a new diet trend — people will lean in because everyone loves judging other people's diets. Drop 'but that's just nuts' like you just realized the flaw in your own plan.",
+    "perfectFor": ["January conversations when everyone's talking about their new year diet resolutions", "The snack table at a party when someone grabs a handful of almonds", "Texting your gym buddy when they share their latest restrictive meal plan"]
   },
   {
     "id": "good-011",
@@ -152,7 +182,10 @@
     "rating": 4,
     "dateAdded": "2025-05-16",
     "slug": "whats-the-best-thing-about-elevator-jokes",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Elevators literally move between levels of a building, but 'works on so many levels' also means something is funny or meaningful in multiple ways. It's a meta joke that proves its own punchline — the joke itself works on multiple levels, just like it claims.",
+    "howToTell": "Set it up like you're about to deliver some comedy wisdom. Give 'so many levels' a slight emphasis so people catch both meanings, then enjoy the wave of groans.",
+    "perfectFor": ["Riding an elevator with coworkers during that awkward silence", "When someone asks you to rank your favorite types of jokes", "Breaking the ice at a comedy open mic when you need an easy warm-up"]
   },
   {
     "id": "good-012",
@@ -166,7 +199,10 @@
     "rating": 4,
     "dateAdded": "2025-05-30",
     "slug": "my-son-asked-me-to-put-his-shoes-on",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The kid meant 'put the shoes on my feet,' but dad deliberately misinterprets it as 'put the shoes on YOUR feet.' It's the classic dad move of taking things literally, and the image of a grown man trying to squeeze into tiny kid shoes makes it even funnier.",
+    "howToTell": "Tell it like you're genuinely confused about why your son would ask you to wear his shoes. The more sincere your bewilderment, the bigger the laugh.",
+    "perfectFor": ["The morning chaos of getting your kids ready for school", "Sharing with other parents at pickup who understand the shoe struggle", "When your kid actually asks you to help them with their shoes and you can't resist"]
   },
   {
     "id": "good-013",
@@ -180,7 +216,10 @@
     "rating": 4,
     "dateAdded": "2025-06-09",
     "slug": "why-do-dads-always-carry-an-extra-pair-of-socks-to-the-golf",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A 'hole in one' is golf's ultimate achievement, but it also perfectly describes what happens to worn-out socks. The joke works because dads and golf are already a classic combo, and adding socks to the mix just amplifies the dad energy to maximum.",
+    "howToTell": "Set it up like practical dad wisdom, as if bringing extra socks is genuinely good advice. Let 'hole in one' land naturally — people will catch both meanings immediately.",
+    "perfectFor": ["Father's Day when you need a golf-themed card caption", "The first tee box when your group is warming up and someone mentions their gear", "Gifting your dad socks and needing a joke to go with the card"]
   },
   {
     "id": "good-014",
@@ -194,7 +233,10 @@
     "rating": 5,
     "dateAdded": "2025-06-24",
     "slug": "what-concert-costs-just-45-cents",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "It's pure math wordplay with band names — 50 cents minus a nickel back equals 45 cents. The joke rewards you for doing quick arithmetic and knowing your early 2000s music, which is a surprisingly fun combination. The fact that both artists are real makes it even better.",
+    "howToTell": "Ask the setup like a real brain teaser. Give people a second to try the math before dropping the answer — the moment they do the subtraction themselves is when the laugh hits hardest.",
+    "perfectFor": ["Music trivia night when you need to stump the table", "Texting your friend who still listens to early 2000s rock and rap", "When the bill comes at dinner and someone's doing the math on splitting it"]
   },
   {
     "id": "good-015",
@@ -209,7 +251,10 @@
     "rating": 5,
     "dateAdded": "2025-07-07",
     "slug": "a-steak-pun-is-a-rare-medium-well-done",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This joke stacks three steak cooking temperatures — rare, medium, and well done — into a sentence that also means 'an uncommon type of comedy executed skillfully.' Every single word pulls double duty, making it one of the most efficiently constructed puns in the dad joke canon.",
+    "howToTell": "Deliver it as a single confident statement, like you're dropping wisdom. No setup needed — just say it and let the triple meaning sink in. A slight pause after will give people time to unpack all three layers.",
+    "perfectFor": ["Standing at the grill during a summer barbecue and someone asks how you want your steak", "When someone compliments your joke-telling and you want to go meta", "Posting as a caption under a photo of a perfectly cooked steak"]
   },
   {
     "id": "good-016",
@@ -223,7 +268,10 @@
     "rating": 4,
     "dateAdded": "2025-07-20",
     "slug": "why-dont-oysters-donate-to-charity",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Shellfish' sounds exactly like 'selfish,' and oysters are literally shellfish. The joke gives a perfectly logical answer that happens to also be a character flaw. It's the kind of pun where you can almost see the English language winking at you.",
+    "howToTell": "Ask the question like you're genuinely disappointed in oysters' lack of generosity. Say 'shellfish' with conviction — don't smirk, don't wink, just let the pun do its job.",
+    "perfectFor": ["Dinner at a seafood restaurant when someone orders oysters", "When a friend is being stingy about splitting the bill", "A charity fundraiser where you need to loosen up the crowd with a quick laugh"]
   },
   {
     "id": "good-017",
@@ -237,7 +285,10 @@
     "rating": 5,
     "dateAdded": "2025-08-03",
     "slug": "i-accidentally-rubbed-ketchup-in-my-eyes",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Heinzsight' is a perfect mashup of Heinz (the ketchup brand everyone knows) and 'hindsight' (the ability to understand things after they've happened). The setup creates such a specific, absurd visual — ketchup in your eyes — that the branded pun lands like a flavor bomb.",
+    "howToTell": "Tell it like a cautionary tale, wincing slightly as you describe the ketchup incident. 'Heinzsight' should roll off your tongue naturally, as if you genuinely believe this is the correct medical term.",
+    "perfectFor": ["Passing the ketchup at a cookout and wanting to leave your mark", "When someone says 'hindsight is 20/20' and you need to one-up them", "Texting the group chat after making an obvious mistake you should have seen coming"]
   },
   {
     "id": "good-018",
@@ -251,7 +302,10 @@
     "rating": 4,
     "dateAdded": "2025-08-15",
     "slug": "why-did-the-man-fall-down-the-well",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The word 'well' does overtime here — it's both the hole in the ground he fell into and a description of how poorly he could see. 'Couldn't see that well' works as both 'had bad eyesight' and 'couldn't see the actual well,' which is a delightfully tight pun.",
+    "howToTell": "Ask the question with genuine concern for this poor man's welfare. Say the punchline sympathetically, as if bad eyesight is a perfectly reasonable explanation for falling into a large hole.",
+    "perfectFor": ["When someone trips over something obvious and you need to lighten the mood", "Eye doctor waiting rooms where everyone needs a laugh", "Hiking near an old well or abandoned mine shaft — timing is everything"]
   },
   {
     "id": "good-019",
@@ -265,7 +319,10 @@
     "rating": 5,
     "dateAdded": "2025-09-01",
     "slug": "my-wife-asked-me-to-go-get-six-cans-of-sprite-from-the-store",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "She asked for six, but he 'picked 7 Up' — which means he grabbed seven cans instead of six AND accidentally bought the wrong soda brand (7 Up instead of Sprite). The number mix-up and the brand swap happen in the same breath, making it a double-layered pun.",
+    "howToTell": "Tell it like a genuine grocery store confession, slightly embarrassed about the mistake. Don't emphasize '7 Up' — let people realize the brand name is hiding in the sentence on their own.",
+    "perfectFor": ["Coming home from the grocery store with the wrong item and needing to soften the blow", "When someone asks you to pick up a specific brand and you can feel the mix-up coming", "Posting in a couples' meme group where everyone relates to grocery store miscommunication"]
   },
   {
     "id": "good-020",
@@ -279,7 +336,10 @@
     "rating": 4,
     "dateAdded": "2025-09-14",
     "slug": "what-do-you-call-a-group-of-killer-whales-playing-instrument",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Orca-stra' jams together 'orca' (killer whale) and 'orchestra' into one smooth portmanteau. The image of a pod of killer whales performing a symphony is so wonderfully absurd that it elevates a simple sound pun into something genuinely delightful.",
+    "howToTell": "Ask it like a real riddle, letting people picture musical whales for a second. Say 'orca-stra' with the gravitas of a concert hall announcer for maximum effect.",
+    "perfectFor": ["A trip to the aquarium when you pass the orca exhibit", "When classical music comes on the radio and you need to contribute something", "Texting your musically inclined friend who also happens to love marine biology"]
   },
   {
     "id": "good-021",
@@ -293,7 +353,10 @@
     "rating": 4,
     "dateAdded": "2025-09-28",
     "slug": "two-guys-walked-into-a-bar",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Everyone expects a typical 'walks into a bar' drinking joke, but the 'bar' here is a literal metal bar they physically walked into. The third guy learned from their mistake and ducked. It's an anti-joke that subverts one of comedy's most famous setups.",
+    "howToTell": "Start it exactly like every bar joke ever told — people will already be bracing for a punchline about drinking. The quick pivot to physical comedy catches them completely off guard. Keep it deadpan.",
+    "perfectFor": ["When someone starts telling a 'walks into a bar' joke and you want to beat them to the punch", "Icebreaker at a party where everyone's heard every bar joke", "Telling kids who are too young for actual bar jokes but old enough for slapstick"]
   },
   {
     "id": "good-022",
@@ -307,7 +370,10 @@
     "rating": 5,
     "dateAdded": "2025-10-09",
     "slug": "what-do-you-call-it-when-batman-skips-church",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Christian Bale played Batman in The Dark Knight trilogy, but 'Christian bail' also means bailing on (skipping) Christian activities like church. The actor's name becomes a perfect pun when you split it into its component words. It's the kind of joke that makes you appreciate how lucky we are that this actor has this name.",
+    "howToTell": "Ask it casually, like you're making small talk about superhero trivia. Let the punchline sit for a beat — some people need a second to connect the actor's name to the wordplay.",
+    "perfectFor": ["Movie night when someone suggests rewatching The Dark Knight", "Sunday morning when someone mentions skipping church this week", "A Batman fan debate when things are getting too serious and need lightening up"]
   },
   {
     "id": "good-023",
@@ -321,7 +387,10 @@
     "rating": 4,
     "dateAdded": "2025-10-25",
     "slug": "what-do-you-call-a-pony-with-a-sore-throat",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A pony is a little horse, and when you have a sore throat your voice sounds hoarse. 'A little hoarse' works both as 'a small horse' and 'slightly hoarse-voiced.' The pun is so clean you almost wonder if the English language evolved specifically to make this joke possible.",
+    "howToTell": "Ask it with genuine veterinary concern, like this pony's health really matters to you. Say 'a little hoarse' with a slight rasp in your voice for bonus commitment to the bit.",
+    "perfectFor": ["When you or someone around you has a sore throat and sounds raspy", "Visiting a farm or petting zoo with kids who love animal facts", "The group chat when someone texts that they're losing their voice"]
   },
   {
     "id": "good-024",
@@ -335,7 +404,10 @@
     "rating": 5,
     "dateAdded": "2025-11-05",
     "slug": "i-used-to-be-addicted-to-the-hokey-pokey",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Turned myself around' is what you literally do in the hokey pokey dance, but it's also the phrase people use when they overcome an addiction or bad habit. The joke frames a children's party dance as a serious struggle, and the recovery language makes it even funnier.",
+    "howToTell": "Start with the gravity of a genuine confession — 'I used to be addicted' should sound serious. The punchline should arrive like a weight lifted off your shoulders, with relief in your voice.",
+    "perfectFor": ["A kids' birthday party when the hokey pokey comes on and you need adult entertainment", "When someone's sharing their self-improvement journey and the vibe needs lightening", "Karaoke night when someone suggests doing the hokey pokey and you need an excuse"]
   },
   {
     "id": "good-025",
@@ -349,7 +421,10 @@
     "rating": 3,
     "dateAdded": "2025-11-18",
     "slug": "how-do-trees-access-the-internet",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Trees produce logs, and 'log in' is what you do to access any website or app. It's a straightforward nature-meets-tech pun that works because both meanings of 'log' are so commonly used that the connection feels obvious in hindsight — yet you probably never thought of it.",
+    "howToTell": "Ask it like a legitimate tech support question about arboreal internet access. 'They log in' should sound like the most obvious answer in the world — because for trees, it kind of is.",
+    "perfectFor": ["A nature walk when someone pulls out their phone to check something online", "IT help desk conversations when you need to break the monotony", "Earth Day activities when you want to combine nature education with giggles"]
   },
   {
     "id": "good-026",
@@ -363,7 +438,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A scarecrow literally stands out in a field all day — that's the entire job description. But 'outstanding in his field' is also the ultimate professional compliment, meaning excellent in your area of expertise. The joke works because the scarecrow is genuinely doing both at the same time.",
+    "howToTell": "Ask the question like you're building up to announcing a prestigious award. Deliver 'outstanding in his field' with the reverence of someone presenting an Oscar — the contrast between the grandeur and the reality of a straw man in a cornfield is what sells it.",
+    "perfectFor": ["Driving past farmland and spotting an actual scarecrow", "When a coworker wins employee of the month and you want to congratulate them sideways", "Career day at school when the kids are talking about different jobs"]
   },
   {
     "id": "good-027",
@@ -377,7 +455,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Nacho' sounds like 'not yo' (not your), so nacho cheese is literally 'not your cheese.' It's one of those puns that's been around forever because it's just so clean — a real food item that happens to contain a possessive denial. Simple, effective, timeless.",
+    "howToTell": "Ask the question like you're setting up a property rights dispute over dairy products. Say 'nacho cheese' with a slight accusatory tone, like you caught someone red-handed stealing cheese.",
+    "perfectFor": ["Game day when someone reaches for the communal nacho platter", "Mexican restaurant outings when the nachos arrive at the table", "When your kid steals food off your plate and you need backup"]
   },
   {
     "id": "good-028",
@@ -391,7 +472,10 @@
     "rating": 4,
     "dateAdded": "2026-03-02",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Two tired' sounds like 'too tired,' so the bicycle is both exhausted AND has two tires. The physical reality (bikes fall over without a kickstand because they have two wheels) perfectly matches the wordplay. It's engineering and linguistics having a beautiful moment together.",
+    "howToTell": "Ask it with genuine sympathy for this poor bicycle's struggle. Say 'two tired' with weary emphasis, like you personally understand how exhausting it is to be a bicycle.",
+    "perfectFor": ["When your kid's bike falls over in the garage for the hundredth time", "A cycling group ride when everyone's exhausted at the rest stop", "Bedtime with the kids when they say they're too tired but won't go to sleep"]
   },
   {
     "id": "good-029",
@@ -405,7 +489,10 @@
     "rating": 4,
     "dateAdded": "2026-03-02",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Grew on me' means you gradually started to like something, but facial hair literally grows on your face. The joke perfectly captures that experience of going from hating your stubble to rocking a full beard, all while the pun does double duty.",
+    "howToTell": "Share it like a genuine personal growth story — start with real conviction about hating facial hair, then deliver the punchline with the calm acceptance of a man who's made peace with his beard.",
+    "perfectFor": ["Movember when everyone's growing mustaches for charity", "When a friend debuts a new beard and asks what you think", "The moment your partner complains about your stubble scratching their face"]
   },
   {
     "id": "good-030",
@@ -419,7 +506,10 @@
     "rating": 3,
     "dateAdded": "2026-03-03",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The ocean makes waves — that's literally all it does at the shoreline. But 'waved' also means the friendly hand gesture of greeting. The joke sets you up to expect the ocean to say something profound, then reminds you that oceans don't talk, they just wave.",
+    "howToTell": "Ask the question like you're about to share something deeply philosophical about the relationship between land and sea. Hit 'nothing, it just waved' with a shrug, like you're slightly disappointed in the ocean's communication skills.",
+    "perfectFor": ["Beach vacations when you're watching the waves roll in", "When someone waves at you from across the room and you need a follow-up", "Geography class when the teacher is covering ocean currents"]
   },
   {
     "id": "good-031",
@@ -433,7 +523,10 @@
     "rating": 4,
     "dateAdded": "2026-03-03",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Bay-gulls' sounds exactly like 'bagels,' so a seagull flying over a bay becomes a bagel. It's a portmanteau pun that creates the most delicious bird-bread hybrid since anyone ever threw a bagel at a seagull. The logic is flawless if you don't think about it too hard.",
+    "howToTell": "Ask the question like it's a legitimate ornithology fact you just learned. Let 'bagels' land with complete sincerity — the more seriously you deliver bird-to-bread taxonomy, the harder people laugh.",
+    "perfectFor": ["Brunch when someone orders a bagel and there's a seagull situation outside", "Beach trips when seagulls are circling your picnic", "When someone brings bagels to the office and you need to earn one with a joke"]
   },
   {
     "id": "good-032",
@@ -447,7 +540,10 @@
     "rating": 3,
     "dateAdded": "2026-03-04",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Seafood' and 'see food' are homophones that create a perfect diet-joke bait-and-switch. You expect someone talking about a healthy fish-based diet, but instead they're confessing to eating everything in sight. It's relatable because most of us are on this diet without even realizing it.",
+    "howToTell": "Announce your diet with the pride of someone who's really committed to clean eating. Then deliver the explanation with zero shame — own it like it's a legitimate nutritional philosophy.",
+    "perfectFor": ["When someone at the table asks if you're watching what you eat", "Buffet lines where self-control goes to die", "Responding to diet culture posts on social media with something actually funny"]
   },
   {
     "id": "good-033",
@@ -461,7 +557,10 @@
     "rating": 4,
     "dateAdded": "2026-03-04",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Impasta' blends 'impostor' with 'pasta,' creating a fake noodle that's also a fraud. It works because pasta is such a beloved food that the idea of a counterfeit noodle feels personally offensive — and the portmanteau is so smooth it could be an actual Italian word.",
+    "howToTell": "Ask it like you're exposing a scandal in the pasta world. Say 'impasta' with the dramatic flair of someone revealing a spy's true identity at an Italian restaurant.",
+    "perfectFor": ["Italian dinner night when someone's debating which pasta shape is superior", "When you catch someone putting ketchup on spaghetti and need to question their authenticity", "Among Us game nights when someone gets caught as the impostor"]
   },
   {
     "id": "good-034",
@@ -475,7 +574,10 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Skeletons literally have no guts — no intestines, no organs, nothing. But 'don't have the guts' also means they lack courage. The anatomical fact and the cowardice accusation land simultaneously, making this pun both scientifically accurate and personally devastating to skeletons everywhere.",
+    "howToTell": "Ask it like you're puzzled by skeleton pacifism. Deliver 'they don't have the guts' with a knowing nod, as if this is common knowledge in the skeleton community.",
+    "perfectFor": ["Halloween parties when the skeleton decorations need roasting", "Anatomy class when the teacher is covering the skeletal system", "When someone backs down from a dare and you need the perfect response"]
   },
   {
     "id": "good-035",
@@ -489,7 +591,10 @@
     "rating": 3,
     "dateAdded": "2026-03-05",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A bear without teeth would only have gums — making it gummy. But gummy bears are also the beloved candy. The joke turns a dental problem into a snack brand, and the visual of a toothless bear trying to look threatening is just chef's kiss.",
+    "howToTell": "Ask it like a real wildlife riddle. Let 'gummy bear' land with childlike enthusiasm — this joke works best when you deliver it like you just discovered something amazing.",
+    "perfectFor": ["Handing out gummy bears to kids at a party", "The dentist's office when you need to lighten the mood about cavities", "At the zoo in front of the bear exhibit with your kids"]
   },
   {
     "id": "good-036",
@@ -503,7 +608,10 @@
     "rating": 4,
     "dateAdded": "2026-03-06",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "When eyebrows are drawn too high on the face, the person literally looks permanently surprised — raised eyebrows are the universal expression of shock. So 'she looked surprised' works as both her emotional reaction to the criticism AND the physical result of her makeup choices. It's a visual pun.",
+    "howToTell": "Tell it like you're sharing genuine marital advice gone wrong. Say 'she looked surprised' with an innocent shrug, as if you can't figure out why she reacted that way.",
+    "perfectFor": ["Getting ready together when your partner is doing their makeup", "When someone shows you a photo and their eyebrows look a little... ambitious", "Beauty content comment sections where people appreciate a good makeup joke"]
   },
   {
     "id": "good-037",
@@ -517,7 +625,10 @@
     "rating": 3,
     "dateAdded": "2026-03-06",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Vampires bite, snowmen are frosty — combine them and you get frostbite, which is also a real medical condition from extreme cold. The portmanteau is so natural that 'frostbite' almost feels like it was invented for this joke. Two spooky things merge into something genuinely dangerous.",
+    "howToTell": "Ask it like a spooky science experiment question. Let 'frostbite' land quickly and cleanly — it's a one-word punchline that doesn't need any extra seasoning.",
+    "perfectFor": ["Winter campfire stories when you want something funny instead of scary", "When the weather report warns about frostbite conditions", "Halloween in a cold climate when you're dressed as a snowman or vampire"]
   },
   {
     "id": "good-038",
@@ -531,7 +642,10 @@
     "rating": 4,
     "dateAdded": "2026-03-07",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Atoms literally make up everything — all matter in the universe is composed of them. But 'make up everything' also means to fabricate lies. So atoms are simultaneously the building blocks of reality and compulsive liars, which is a wonderfully absurd accusation to level at subatomic particles.",
+    "howToTell": "Ask it with the gravitas of someone who just uncovered a massive scientific conspiracy. Deliver the punchline like you're a whistleblower exposing atoms for the frauds they are.",
+    "perfectFor": ["Science class when the teacher is explaining atomic structure", "When someone accuses you of making something up and you need a deflection", "Nerdy trivia nights where science jokes earn bonus respect"]
   },
   {
     "id": "good-039",
@@ -545,7 +659,10 @@
     "rating": 4,
     "dateAdded": "2026-03-07",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Playing by ear' means learning music without reading sheet music — just by listening. But the joke takes it literally, as if someone was physically pressing piano keys with their ear. The switch to using hands sounds like a major upgrade in technique, which is absurdly funny.",
+    "howToTell": "Start like you're sharing a musical journey of personal growth. Say 'but now I use my hands' with genuine pride, as if this was a hard-won breakthrough in your piano career.",
+    "perfectFor": ["When someone mentions they play an instrument and you need to contribute", "Music lessons with your kid when they're getting frustrated with practice", "Karaoke night when someone asks if you're musically inclined"]
   },
   {
     "id": "good-040",
@@ -559,7 +676,10 @@
     "rating": 4,
     "dateAdded": "2026-03-08",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Stepping on grapes is literally how wine is made — the grape releases its juice. But 'let out a little wine/whine' also means it complained. The joke works because both meanings are exactly what you'd expect: grapes produce wine and they probably would whine about being stomped on.",
+    "howToTell": "Ask it with concern for the grape's wellbeing. 'Nothing, it just let out a little wine' should sound sympathetic, like you feel bad for the grape but also understand that this is just the natural order of winemaking.",
+    "perfectFor": ["Wine tasting events when someone asks how wine is made", "When your kid steps on fruit at the grocery store and you need to defuse the situation", "Happy hour when someone's being a little whiny and you want to call them out gently"]
   },
   {
     "id": "good-041",
@@ -573,7 +693,10 @@
     "rating": 3,
     "dateAdded": "2026-03-08",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A 'hole in one' is every golfer's dream shot, but it also literally means getting a hole in one pair of pants. The joke frames a wardrobe malfunction as a golfing achievement, and the practical dad logic of packing backup pants makes it even more on-brand.",
+    "howToTell": "Present it like legitimate golf preparation advice. 'In case he got a hole in one' should sound like the most reasonable precaution a golfer could take.",
+    "perfectFor": ["The pro shop before a round of golf when someone's browsing apparel", "Father's Day when dad's gift is golf-related and you need a card joke", "When your pants actually rip and you wish you'd planned ahead"]
   },
   {
     "id": "good-042",
@@ -587,7 +710,10 @@
     "rating": 3,
     "dateAdded": "2026-03-09",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Dino-snore' blends 'dinosaur' with 'snore' — a sleeping dinosaur snores, making it a dino-snore. It's simple, clean, and works especially well because you can imagine the earth-shaking volume of a T-Rex's snoring. Kids particularly love this one.",
+    "howToTell": "Ask it with wide-eyed curiosity, like this is a genuine paleontological question. Say 'dino-snore' with a sleepy voice for maximum commitment to the bit.",
+    "perfectFor": ["Bedtime stories with kids who are obsessed with dinosaurs", "Natural history museum visits when you pass the sleeping dinosaur exhibit", "When someone falls asleep on the couch and starts snoring impressively"]
   },
   {
     "id": "good-043",
@@ -601,7 +727,10 @@
     "rating": 4,
     "dateAdded": "2026-03-09",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Banks deal in interest (the financial kind — interest rates, earned interest on savings). But 'lost interest' also means you got bored with something. So this former banker both stopped caring about banking AND metaphorically lost the financial interest that was their whole job. Double whammy.",
+    "howToTell": "Deliver it with the resigned sigh of someone reflecting on a career change. 'But I lost interest' should sound like a genuine confession, not a punchline.",
+    "perfectFor": ["Networking events when someone asks what you used to do", "When your bank sends you a notification about your pitiful savings interest rate", "Career counseling sessions when the mood needs lightening"]
   },
   {
     "id": "good-044",
@@ -615,7 +744,10 @@
     "rating": 4,
     "dateAdded": "2026-03-10",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Supplies' sounds like 'surprise' with an accent, and a janitor's closet is where cleaning supplies are kept. So the janitor is both shouting surprise AND announcing what's in the closet. The physical comedy of someone bursting out of a supply closet ties the whole thing together.",
+    "howToTell": "Build up the scene — someone jumping out of a closet — then deliver 'supplies!' with the energy of someone actually leaping out to scare you. The louder and more enthusiastic, the better.",
+    "perfectFor": ["When you walk past a janitor's closet at work and someone's nearby", "Surprise birthday parties where you need a joke to warm up the crowd", "Office pranks involving supply closets — and you want to stay employed"]
   },
   {
     "id": "good-045",
@@ -629,7 +761,10 @@
     "rating": 4,
     "dateAdded": "2026-03-10",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Habanero' sounds like 'have an arrow' — and archers need arrows. It's a spicy pun that takes a pepper variety and turns it into an archery qualification. The specific choice of habanero (instead of jalapeño or bell pepper) is what makes the phonetic match work so perfectly.",
+    "howToTell": "Ask it like you genuinely believe peppers would excel at archery. Say 'habanero' at a normal conversational pace — rushing it kills the sound-alike. Let people's brains decode 'have an arrow' on their own.",
+    "perfectFor": ["Cooking with hot peppers and needing to fill the silence while your eyes water", "Watching an archery competition or playing darts at a bar", "When someone at the Mexican restaurant orders something spicy and you want to contribute"]
   },
   {
     "id": "good-046",
@@ -643,7 +778,10 @@
     "rating": 4,
     "dateAdded": "2026-03-11",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Labracadabrador' smashes together 'Labrador' (the dog breed) with 'abracadabra' (the classic magic word). It's a mouthful of a portmanteau, but that's part of the charm — the word is so ridiculous that just saying it out loud is funny. Bonus points for imagining a Lab pulling a rabbit out of a hat.",
+    "howToTell": "Ask the setup seriously, then commit fully to pronouncing 'Labracadabrador' — don't stumble over it, own every syllable. The confidence sells it. Maybe add jazz hands.",
+    "perfectFor": ["Dog parks when a Lab does something unexpectedly impressive", "Magic shows with your kids when they ask if dogs can do magic", "When your Labrador somehow gets into the treat jar again through seemingly impossible means"]
   },
   {
     "id": "good-047",
@@ -657,7 +795,10 @@
     "rating": 3,
     "dateAdded": "2026-03-11",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Math books are literally full of problems — that's the whole point. But having 'too many problems' also means dealing with too many personal issues. The joke anthropomorphizes a textbook and gives it an existential crisis over its own content, which is oddly relatable for anyone who's struggled with math.",
+    "howToTell": "Ask it with genuine empathy, like you just saw a math book looking down in the dumps. Deliver the punchline with a sympathetic nod — we've all felt overwhelmed by too many problems.",
+    "perfectFor": ["Homework time with your kids when they're frustrated with math", "Back-to-school season when everyone's dreading textbook season", "Math teacher appreciation — they'll groan but secretly love it"]
   },
   {
     "id": "good-048",
@@ -671,7 +812,10 @@
     "rating": 4,
     "dateAdded": "2026-03-12",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Orange juice concentrate is made by removing water from juice — so 'concentrate' is both a product and an ability. Getting fired for not being able to concentrate is relatable in any job, but in an OJ factory, it means you can't even make the product. The specificity of the workplace makes this pun shine.",
+    "howToTell": "Share it like a genuine career setback — head slightly down, voice a little defeated. 'I just couldn't concentrate' should sound like a real confession from someone who tried their best.",
+    "perfectFor": ["Pouring orange juice at breakfast and staring at the 'from concentrate' label", "When a coworker complains about not being able to focus", "Job interview small talk when they ask about your previous experience"]
   },
   {
     "id": "good-049",
@@ -685,7 +829,10 @@
     "rating": 4,
     "dateAdded": "2026-03-12",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A belt goes around your waist, and it's made of watches (time). So it's literally a 'waist of time,' which sounds exactly like 'waste of time.' The joke builds a physical object that embodies an idiom, and the mental image of wearing a belt of ticking watches is wonderfully absurd.",
+    "howToTell": "Ask it like a genuine fashion question — what WOULD you call that accessory? Say 'a waist of time' like you're naming a new product line, completely straight-faced.",
+    "perfectFor": ["When someone's watch-shopping and can't decide which one to buy", "Responding to a meeting that could have been an email", "When someone accuses you of wasting time and you need the perfect comeback"]
   },
   {
     "id": "good-050",
@@ -699,7 +846,10 @@
     "rating": 4,
     "dateAdded": "2026-03-13",
     "slug": "",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Pictures get put in frames — that's how you display them. But being 'framed' also means being falsely accused of a crime. So this poor picture is doing time for a crime it didn't commit, all because someone put it in a frame. It's an injustice that deserves its own true crime podcast.",
+    "howToTell": "Ask it with the concern of someone who watches too many crime documentaries. Deliver 'because it was framed' with dramatic outrage at this miscarriage of justice.",
+    "perfectFor": ["Art galleries or museums when you're walking past framed paintings", "When someone gets blamed for something they didn't do at work", "True crime podcast discussions when the mood needs lightening"]
   },
   {
     "id": "good-051",
@@ -713,7 +863,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-did-the-stadium-get-so-hot",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Fans' are both the people who watch sports and the devices that cool you down. When all the fans leave after a game, the stadium loses both its audience and its cooling system. It's one of those puns where the double meaning is so perfectly balanced that neither definition feels forced.",
+    "howToTell": "Ask it like a legitimate question about stadium climate control. Deliver the punchline with a shrug, as if the connection between sports fans and cooling fans is the most obvious thing in the world.",
+    "perfectFor": ["Leaving a hot, crowded stadium after a game and feeling the difference", "When someone complains about it being too hot and you spot a ceiling fan", "Sports watch parties at home when someone turns off the fan"]
   },
   {
     "id": "good-052",
@@ -727,7 +880,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-cow-with-no-legs",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A cow with no legs would be on the ground — literally grounded. And 'ground beef' is the most common form of processed cow meat. The joke is dark in a wholesome way — nobody's hurt, but the image of a legless cow just sitting there being technically accurate is peak dad humor.",
+    "howToTell": "Ask it with genuine curiosity, as if you've been pondering this agricultural conundrum. Let 'ground beef' land flat and factual — the less emotion, the funnier it is.",
+    "perfectFor": ["Grilling burgers when someone asks what kind of beef you're using", "When you see cows lying down in a field while driving past a farm", "Kids' riddle time when they want jokes that are slightly edgy but still clean"]
   },
   {
     "id": "good-053",
@@ -741,7 +897,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-did-the-tomato-turn-red",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Tomatoes naturally turn red when they ripen, but 'dressing' has a double meaning — salad dressing (the condiment) and the act of getting dressed (or undressed). The tomato blushed because it caught the salad in a state of undress. It's cheeky produce humor at its finest.",
+    "howToTell": "Ask it innocently, like you're genuinely puzzled about tomato biology. Deliver the punchline with a slight blush or embarrassed look of your own for maximum effect.",
+    "perfectFor": ["Making a salad and needing to entertain whoever's in the kitchen with you", "When someone at the table blushes and you want to redirect attention", "Garden season when your tomatoes are finally turning red on the vine"]
   },
   {
     "id": "good-054",
@@ -755,7 +914,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-lazy-baby-kangaroo",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Couch potato' becomes 'pouch potato' because baby kangaroos (joeys) live in their mom's pouch. The swap of one letter transforms a common phrase about laziness into a perfectly tailored marsupial insult. The image of a tiny joey binge-watching TV from a pouch is adorable and hilarious.",
+    "howToTell": "Ask it like a legitimate zoology question. Hit 'pouch potato' with the confidence of someone who just coined a new species name. Don't crack — let the audience do the laughing.",
+    "perfectFor": ["Zoo visits when you're at the kangaroo exhibit and the joey won't come out", "When your kid refuses to get off the couch and you need a creative insult", "Australian-themed parties or Outback Steakhouse dinners"]
   },
   {
     "id": "good-055",
@@ -769,7 +931,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "i-told-my-computer-i-needed-a-break",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Need a break' means you're tired and need rest, but the computer interpreted it as wanting a vacation — and since modern computers are always listening and targeting ads, it started showing travel deals. It's funny because it's barely a joke — this is basically how targeted advertising actually works.",
+    "howToTell": "Say it with the exasperated tone of someone who's genuinely creeped out by their computer's eavesdropping abilities. The punchline should sound like a real complaint, not a setup.",
+    "perfectFor": ["When an eerily specific ad pops up on your phone right after you mentioned something", "Office conversations about needing time off", "Tech-savvy friend groups who love privacy humor and targeted ad paranoia"]
   },
   {
     "id": "good-056",
@@ -783,7 +948,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-snowman-with-a-six-pack",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Abdominal snowman' is a play on 'abominable snowman' (the Yeti), swapping 'abominable' for 'abdominal' because this snowman has killer abs. The image of a jacked snowman flexing in a winter wonderland is so absurd it practically sells itself.",
+    "howToTell": "Ask it with admiration, like you're genuinely impressed by this snowman's fitness routine. Say 'abdominal snowman' slowly so the 'abominable' connection clicks.",
+    "perfectFor": ["Building snowmen in winter and wanting to sculpt abs on yours", "Gym conversations in January when everyone's working on their six-pack", "When someone mentions the abominable snowman and you can't resist the upgrade"]
   },
   {
     "id": "good-057",
@@ -797,7 +965,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-cant-your-nose-be-twelve-inches",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Twelve inches equals one foot — that's just basic measurement conversion. But your nose is on your face, not on your foot. The joke forces your brain to reconcile the measurement system with body parts, and the absurdity of a nose suddenly becoming a foot is delightfully stupid.",
+    "howToTell": "Ask it like a genuine anatomical mystery. Drop 'because then it would be a foot' with the satisfied nod of someone who just solved a math problem that's been bugging them.",
+    "perfectFor": ["Math class when the teacher is covering unit conversions", "When someone has a cold and keeps blowing their nose dramatically", "Kids' joke time when they're learning about measurements"]
   },
   {
     "id": "good-058",
@@ -811,7 +982,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-had-a-neck-brace-fitted-years-ago",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Never looked back' means you have no regrets about a decision — it's a positive life update. But with a neck brace, you literally cannot look back because your neck is immobilized. The joke disguises a physical limitation as personal growth, which is darkly optimistic in the best way.",
+    "howToTell": "Share it with the confidence of someone who's made peace with their choices. 'I've never looked back since' should sound triumphant, like the neck brace was the best thing that ever happened to you.",
+    "perfectFor": ["Physical therapy waiting rooms where everyone could use a laugh", "When someone asks if you regret a big life decision", "Chiropractic office visits when the doc asks how your neck is feeling"]
   },
   {
     "id": "good-059",
@@ -825,7 +999,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-do-lawyers-wear-to-court",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Lawyers file lawsuits, but they also wear suits to court. 'Lawsuits' perfectly merges their professional activity with their dress code into a single word. It's so obvious that you're almost mad at yourself for not thinking of it first.",
+    "howToTell": "Ask it like a legitimate fashion question about courtroom attire. Say 'lawsuits' with the certainty of a fashion columnist covering legal trends.",
+    "perfectFor": ["When your lawyer friend complains about having to dress up for court", "Law school graduation parties where everyone appreciates legal humor", "Job interview prep when someone asks what to wear and the job is at a law firm"]
   },
   {
     "id": "good-060",
@@ -839,7 +1016,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "i-tried-to-start-a-hide-and-seek-team",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "If someone is great at hide and seek, they'd be incredibly hard to find — that's literally the skill. But 'hard to find' also means difficult to recruit. The joke creates an unsolvable recruiting paradox: the better someone is at the game, the less likely you are to ever locate them for your team.",
+    "howToTell": "Share it like a genuine business frustration, as if you really tried to launch this venture and hit an unexpected staffing problem. The more earnest, the funnier.",
+    "perfectFor": ["When your kid asks to play hide and seek and you want to set the tone", "HR or recruiting conversations about how hard it is to find good talent", "Team-building events when you're actually organizing group activities"]
   },
   {
     "id": "good-061",
@@ -853,7 +1033,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "why-did-the-chicken-go-to-the-seance",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This is a brilliant dark twist on the most famous joke ever. 'The other side' in the original chicken-crossing-the-road joke means the other side of the road. But at a seance, 'the other side' means the afterlife. The chicken isn't crossing a road — it's trying to communicate with the dead. Same punchline, entirely different (and darker) meaning.",
+    "howToTell": "Start it casually — people will expect the road-crossing version and tune out. When 'the other side' hits in the context of a seance, the delayed realization is what makes their eyes go wide.",
+    "perfectFor": ["Halloween parties when someone brings up the classic chicken joke", "When someone says 'why did the chicken cross the road' and you want to one-up them", "Spooky season conversations where you want humor with a dark edge"]
   },
   {
     "id": "good-062",
@@ -867,7 +1050,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "i-used-to-be-a-tap-dancer",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Tap' refers to tap dancing (the rhythmic shoe-clicking dance style) but also to a sink tap/faucet. Dancing on a tap (faucet) and falling into the sink turns an elegant art form into a plumbing disaster. The physical comedy of someone tap-dancing on kitchen fixtures is wonderfully ridiculous.",
+    "howToTell": "Open with wistful nostalgia about your dancing career. 'Until I fell in the sink' should arrive like an unfortunate accident report — matter-of-fact and slightly sad.",
+    "perfectFor": ["When a tap is dripping and someone mentions calling a plumber", "Dance recitals when you want to share your own 'dance background'", "Kitchen conversations while doing dishes near the sink"]
   },
   {
     "id": "good-063",
@@ -881,7 +1067,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-did-the-grape-say-when-crushed",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Crushing grapes makes wine — so the grape literally lets out wine when crushed. But 'whine' (complain) sounds the same, so the grape is also being a crybaby about getting squished. It's sympathetic humor: of course the grape would whine about being crushed. Who wouldn't?",
+    "howToTell": "Ask it like you're concerned about the grape's emotional state. Say 'nothing, it just let out a little wine' with a gentle, compassionate tone — you're a grape therapist now.",
+    "perfectFor": ["Wine and cheese nights when someone's pouring a fresh glass", "When a friend is being dramatic about a minor inconvenience", "Vineyard tours when the guide explains the grape-crushing process"]
   },
   {
     "id": "good-064",
@@ -895,7 +1084,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-do-cows-wear-bells",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Cows have horns (the pointy things on their heads) but also 'horns' as in the musical instruments or car horns that make noise. Since their built-in horns don't honk, they need bells instead. It reimagines cowbells as a backup noisemaking system, which is an absurdly practical explanation.",
+    "howToTell": "Ask it like you're about to share genuine agricultural knowledge. Deliver the punchline as if you've done extensive research into bovine communication technology.",
+    "perfectFor": ["Farm visits when the kids ask about the bells on the cows", "When 'Don't Fear the Reaper' comes on and someone asks for more cowbell", "Country drives past pastures where you can hear cowbells in the distance"]
   },
   {
     "id": "good-065",
@@ -909,7 +1101,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-dinosaur-that-crashes",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Tyrannosaurus Wrecks' swaps 'Rex' for 'Wrecks,' turning the king of dinosaurs into a terrible driver. The sounds are so close that the pun barely has to try — and picturing a T-Rex behind the wheel with those tiny arms trying to steer is comedy gold.",
+    "howToTell": "Ask it with the seriousness of a dinosaur documentary narrator. Say 'Tyrannosaurus Wrecks' with full dramatic weight, like you're naming a newly discovered species.",
+    "perfectFor": ["Natural history museums when the kids are geeking out over dinosaurs", "After witnessing a minor fender bender and needing to lighten the mood", "When someone backs into something while parallel parking"]
   },
   {
     "id": "good-066",
@@ -923,7 +1118,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "i-bought-some-shoes-from-a-drug-dealer",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "This joke stacks three puns deep: 'laced' means both drug-laced and shoe-laced, and 'tripping' means both stumbling and experiencing a drug trip. The setup about a drug dealer primes you for something edgy, but the punchline is just about badly tied shoes. It's a masterclass in misdirection with layered wordplay.",
+    "howToTell": "Tell it like a genuine cautionary tale about questionable retail decisions. Let 'tripping all day' land naturally — the joke is dense enough that people might need a second to catch all the layers.",
+    "perfectFor": ["Shoe shopping when nothing fits right and you keep stumbling", "When someone trips over their own shoelaces in public", "Sneakerhead conversations where everyone takes footwear very seriously"]
   },
   {
     "id": "good-067",
@@ -937,7 +1135,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-fish-that-practices-medicine",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Sturgeon' is a real fish and sounds almost exactly like 'surgeon.' The joke requires zero modification to the actual word — the pun was just sitting there in nature, waiting to be discovered. A fish surgeon operating with fins is the mental image nobody asked for but everyone deserves.",
+    "howToTell": "Ask it like a legitimate medical staffing question. Say 'a sturgeon' with clinical precision, as if you're referring this fish-doctor to a colleague.",
+    "perfectFor": ["Seafood restaurants when you spot sturgeon on the menu", "Hospital visits when you need to break the tension before seeing the doctor", "When someone you know is going in for surgery and needs a pre-op laugh"]
   },
   {
     "id": "good-068",
@@ -951,7 +1152,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-did-the-taxi-driver-get-fired",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Going the extra mile' is usually a compliment about exceeding expectations — except when you're a taxi driver and the meter's running. What's admirable in customer service is literally expensive in a cab. The joke flips a positive phrase into a legitimate complaint.",
+    "howToTell": "Set it up like a workplace injustice story. The irony should land softly — 'went the extra mile' sounds positive until you remember who's paying for those extra miles.",
+    "perfectFor": ["Uber or taxi rides when the driver takes a 'scenic route'", "Performance reviews at work when someone uses the phrase 'going the extra mile'", "When your GPS reroutes you and adds twenty minutes to the trip"]
   },
   {
     "id": "good-069",
@@ -965,7 +1169,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-just-learned-sign-language",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Sign language is performed with your hands, and 'handy' means both useful and related to hands. The pun is simple but perfectly suited — there's literally no more appropriate adjective for a hand-based language than 'handy.' It practically wrote itself.",
+    "howToTell": "Share it like you're genuinely excited about a new skill you picked up. Say 'it's pretty handy' with the casual satisfaction of someone who just learned something useful — because you did.",
+    "perfectFor": ["When someone mentions they're learning a new language", "ASL class or Deaf awareness events where the mood is light", "Texting a friend who just started learning sign language for work or school"]
   },
   {
     "id": "good-070",
@@ -979,7 +1186,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-rabbits-hopping-backwards",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Receding hare line' sounds like 'receding hairline' — the thing every balding person dreads. But hares are rabbits, and a line of them hopping backwards would literally be receding. It's a pun that works on every level: the sounds match, the visuals make sense, and it gently roasts anyone losing their hair.",
+    "howToTell": "Ask it with genuine zoological curiosity. Say 'a receding hare line' calmly and clearly — the balding friends in the group will catch it immediately and either laugh or glare. Both are wins.",
+    "perfectFor": ["When a friend or family member jokes about losing their hair", "Easter celebrations when the bunny theme is already established", "Pet store visits when you see rabbits lined up in their cages"]
   },
   {
     "id": "good-071",
@@ -993,7 +1203,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-do-bees-have-sticky-hair",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Bees make honeycombs (the waxy hexagonal structures in their hives), and combs are what you use on hair. So bees literally use honey combs — combs made of honey — which would make their hair sticky. The pun bridges beekeeping and hair care in the most natural way possible.",
+    "howToTell": "Ask it like you just noticed something fascinating about bee grooming habits. Say 'honeycombs' with the enthusiasm of a nature documentary narrator who just made a breakthrough discovery.",
+    "perfectFor": ["When someone's struggling with their hair on a humid day", "Beekeeping conversations or honey tastings", "Kids' science lessons about bees and pollination"]
   },
   {
     "id": "good-072",
@@ -1007,7 +1220,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-an-alligator-in-a-vest",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'In-vest-igator' literally breaks down to 'in vest' + 'gator' — an alligator wearing a vest. The portmanteau is hiding in plain sight inside the word 'investigator,' and once you see it, you can never unsee it. It's like the word was designed by someone who really loved reptile fashion.",
+    "howToTell": "Ask it as a serious fashion riddle. Say 'an investigator' with the gravitas of introducing a detective on a crime show — the funnier image is the gator buttoning up his vest before solving crimes.",
+    "perfectFor": ["When someone's getting dressed up and putting on a vest", "Crime show marathons when a new investigator character appears", "Florida vacations when alligator sightings are guaranteed"]
   },
   {
     "id": "good-073",
@@ -1021,7 +1237,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-just-heard-a-joke-about-amnesia",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The joke IS about amnesia, and the teller 'forgot' it — meaning they're demonstrating the very condition the joke is about. It's meta comedy that commits to its premise so fully that the failure to tell the joke becomes the joke itself. You can't not laugh at someone who's accidentally proving their own point.",
+    "howToTell": "Start enthusiastically, like you genuinely have a great joke to share. Then trail off with real frustration when you 'can't remember' — the disappointment sells it. Bonus points if you try to remember and give up.",
+    "perfectFor": ["When you actually forget a joke you were about to tell — just pivot to this one", "Conversations about memory or aging when everyone's sharing their forgetful moments", "When someone asks 'do you know any good jokes?' and you want a quick meta win"]
   },
   {
     "id": "good-074",
@@ -1035,7 +1254,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-did-the-traffic-light-say-to-the-car",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Traffic lights change colors — that's their whole job. But 'don't look, I'm about to change' is what someone says when they're getting undressed. The joke gives the traffic light a sense of modesty about its color transition, as if switching from red to green is somehow intimate.",
+    "howToTell": "Ask it with the earnestness of a children's storyteller giving personality to inanimate objects. Deliver the punchline with a shy, embarrassed whisper — the traffic light deserves its privacy.",
+    "perfectFor": ["Sitting at a red light with impatient passengers who need distracting", "Teaching kids about traffic safety in a memorable way", "Road trips when you've been staring at traffic lights for too long"]
   },
   {
     "id": "good-075",
@@ -1049,7 +1271,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "i-broke-my-finger-last-week",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'On the other hand' is a common phrase meaning 'from another perspective' — but here it literally means the OTHER hand, the one that doesn't have a broken finger. It's a pun that makes anatomical sense: one hand is injured, the other hand is fine. Simple, elegant, and satisfying.",
+    "howToTell": "Lead with genuine concern in your voice about the injury. Then hit 'on the other hand, I'm okay' with a relieved smile — the transition from worry to wordplay is the magic.",
+    "perfectFor": ["When you actually hurt your hand or finger and need to lighten the mood", "Doctor's office visits for minor injuries", "When someone asks how you're doing and you want to give a complicated answer"]
   },
   {
     "id": "good-076",
@@ -1063,7 +1288,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-dont-eggs-tell-each-other-jokes",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Crack up' means to laugh hysterically, but eggs cracking is also how they break — fatally, for the egg. So egg comedy is literally life-threatening: if one egg makes another laugh too hard, it cracks and dies. It's high-stakes humor in the breakfast world.",
+    "howToTell": "Ask it with the gravity of someone warning about a genuine danger in the egg community. 'They'd crack each other up' should sound like a tragic consequence, not a fun time.",
+    "perfectFor": ["Making breakfast when you're cracking eggs and someone's watching", "Easter egg decorating sessions with the kids", "When someone's joke makes you laugh so hard you nearly cry — you were almost cracked up"]
   },
   {
     "id": "good-077",
@@ -1077,7 +1305,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "what-did-the-buffalo-say-to-his-son",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Bison' sounds like 'bye, son' — a dad dropping his kid off at school and saying goodbye. The fact that buffalos and bison are closely related species makes it even better — it's a name pun AND a zoological connection. This is peak dad energy: corny, loving, and impossible not to groan at.",
+    "howToTell": "Set the scene with fatherly warmth — a buffalo dad doing the school run. Say 'bison' with the tender emotion of a parent watching their kid walk into school for the first time.",
+    "perfectFor": ["School drop-off when your kid needs one last embarrassing moment before class", "When someone says goodbye to their son in any context", "Zoo visits when you pass the bison exhibit and your kid is right there"]
   },
   {
     "id": "good-078",
@@ -1091,7 +1322,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-used-to-work-in-a-blanket-factory",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Blankets get folded — that's how you put them away. But a business that 'folded' means it went bankrupt and shut down. The joke gives the blanket factory the most on-brand way to fail: it folded, just like its products. The irony is almost too perfect.",
+    "howToTell": "Share it with the quiet dignity of someone reflecting on a lost career. 'But it folded' should land with a sigh, as if the factory's closure was both inevitable and thematically appropriate.",
+    "perfectFor": ["Folding laundry and needing to entertain yourself through the tedium", "When someone asks about your work history at a party", "Business news conversations about companies going under"]
   },
   {
     "id": "good-079",
@@ -1105,7 +1339,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-did-the-bike-fall-over",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Same pun as the bicycle version — 'two tired' means both 'too exhausted to stand' and 'having two tires.' It's the kind of joke that's so well-known it's practically public domain, but it still gets a groan every single time because the pun is just that clean.",
+    "howToTell": "Ask it like you witnessed this bike collapse firsthand and are reporting the incident. 'Two tired' should be delivered as a factual assessment of the bike's condition.",
+    "perfectFor": ["When a bike tips over in the garage or on a bike rack", "After a long bike ride when everyone's exhausted", "Bedtime with kids who keep saying they're 'too tired' for everything except staying up late"]
   },
   {
     "id": "good-080",
@@ -1119,7 +1356,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-boomerang-that-doesnt-come-back",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A boomerang's defining feature is that it returns when thrown. Take that away, and it's just... a curved stick. The anti-humor works because the answer is so brutally logical and disappointingly accurate. No wordplay, no pun — just cold, hard truth. And that's what makes it hilarious.",
+    "howToTell": "Ask it like a philosophical riddle. Then hit 'a stick' with flat, emotionless delivery — the humor is in how unsatisfying and correct the answer is.",
+    "perfectFor": ["When someone throws something and it doesn't come back as expected", "Beach days when frisbees and boomerangs come out", "When a friend ghosts you and doesn't text back — they're a boomerang that didn't return"]
   },
   {
     "id": "good-081",
@@ -1133,7 +1373,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-dont-trust-stairs",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Stairs literally go up — that's their primary function. But 'up to something' means scheming or being suspicious. The joke anthropomorphizes stairs as shady characters whose suspicious behavior is... going upward. They're guilty of the very thing they were designed to do.",
+    "howToTell": "Say it with genuine suspicion, eyeing a nearby staircase. The more paranoid and distrustful you sound about innocent stairs, the better the delivery.",
+    "perfectFor": ["Arriving at a building with no elevator and facing a long climb", "When someone asks why you took the elevator instead of the stairs", "Home tours when the realtor shows you the staircase"]
   },
   {
     "id": "good-082",
@@ -1147,7 +1390,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-did-the-coffee-say-to-the-sugar",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Sugar literally makes coffee sweeter, and 'you make life sweet' is a romantic compliment. The joke works as both a factual statement about coffee preparation and a wholesome love declaration between breakfast condiments. It's more cute than funny, which is honestly its charm.",
+    "howToTell": "Ask it with the tenderness of a love story narrator. Deliver 'you make life sweet' like a Hallmark card — this joke is going for 'aww' as much as 'haha.'",
+    "perfectFor": ["Morning coffee with your partner when you want to be corny and sweet", "Coffee shop dates when you're stirring sugar into your cup", "Valentine's Day when you need a wholesome joke for a card"]
   },
   {
     "id": "good-083",
@@ -1161,7 +1407,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "why-do-programmers-prefer-dark-mode",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "In programming, 'bugs' are errors in code that every developer dreads. In nature, bugs (insects) are attracted to light. So programmers use dark mode to avoid attracting bugs — both the crawling kind and the code-breaking kind. It's a tech pun that works because both meanings are genuinely annoying.",
+    "howToTell": "Ask it like you're sharing a legitimate productivity tip. Deliver 'because light attracts bugs' with the wisdom of a senior developer passing down ancient coding knowledge.",
+    "perfectFor": ["Developer standups when the team needs a morale boost", "When someone asks why your screen is so dark and you need a witty answer", "Tech meetups and hackathons where programmer humor is currency"]
   },
   {
     "id": "good-084",
@@ -1175,7 +1424,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-factory-makes-okay-products",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Satisfactory' literally contains the words 'satis' (enough/satisfying) and 'factory' — a factory that's just satisfactory, not great, not terrible. The word has been hiding this pun in plain sight your entire life, and this joke finally calls it out. It's aggressively adequate humor.",
+    "howToTell": "Ask it like a business case study question. Say 'a satisfactory' with the enthusiasm of a mediocre product review — three stars, would manufacture again.",
+    "perfectFor": ["Factory tours or manufacturing conversations where quality control comes up", "Performance reviews when someone rates your work as 'satisfactory'", "When someone asks 'how was it?' and the honest answer is just okay"]
   },
   {
     "id": "good-085",
@@ -1189,7 +1441,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "i-asked-my-dad-for-his-best-dad-joke",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The dad's best 'dad joke' is his child — because kids are the ultimate dad joke (they're the reason you become a dad in the first place). It works on two levels: calling your kid a joke is a burn, but saying they're your BEST joke is weirdly sweet. Peak dad energy — roasting and loving at the same time.",
+    "howToTell": "Tell it conversationally, like you're sharing a real exchange with your father. Let 'you' land with a pause — it needs a moment to sink in. The audience should feel both insulted on your behalf and impressed by your dad's wit.",
+    "perfectFor": ["Father's Day celebrations when someone asks dad for a joke", "Family dinners when the dad joke competition heats up", "When your kid asks you for your best joke and you want to go nuclear"]
   },
   {
     "id": "good-086",
@@ -1203,7 +1458,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-do-ghosts-love-elevators",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Ghosts ARE spirits, and elevators lift things up — so an elevator literally lifts spirits. 'Lifts your spirits' also means to make you happier. The joke gives ghosts an emotional need (cheering up) and solves it with their favorite mode of vertical transport.",
+    "howToTell": "Ask it with supernatural curiosity, like you've been studying ghost behavior. Say 'lifts their spirits' with an upward hand gesture for maximum visual pun reinforcement.",
+    "perfectFor": ["Halloween parties when the ghost decorations are up", "Elevator rides in a supposedly haunted building", "When someone's feeling down and you want to lift their spirits with a bad joke"]
   },
   {
     "id": "good-087",
@@ -1217,7 +1475,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-pig-that-does-karate",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A karate chop is a martial arts strike, and a pork chop is a cut of pork. Put them together and a pig doing karate chops becomes a 'pork chop.' The double meaning is so clean — both are real things, and the combination creates a mental image of a pig in a karate gi that's impossible not to love.",
+    "howToTell": "Ask it like you're introducing a new martial arts competitor. Say 'a pork chop' with the respect you'd give any black belt — this pig earned it.",
+    "perfectFor": ["Karate or martial arts classes when kids need motivation through humor", "BBQ cookouts when pork chops are on the menu", "When someone demonstrates a karate chop and you need the perfect follow-up"]
   },
   {
     "id": "good-088",
@@ -1231,7 +1492,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-did-the-cookie-go-to-the-doctor",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Cookies produce crumbs, so a cookie would feel 'crummy' — full of crumbs and falling apart. But 'feeling crummy' also means feeling sick or unwell. The cookie has a legitimate medical complaint that happens to describe its own physical composition. It's a baked-goods existential crisis.",
+    "howToTell": "Ask it with concern for the cookie's health. Say 'because it felt crummy' with the sympathy of a good friend who genuinely cares about this cookie's wellbeing.",
+    "perfectFor": ["When someone mentions they're feeling under the weather", "Baking cookies with kids and one crumbles apart", "Doctor's office waiting rooms when you need to kill time with a groan"]
   },
   {
     "id": "good-089",
@@ -1245,7 +1509,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "i-got-hit-in-the-head-with-diet-coke",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A can of Coke to the head would definitely hurt — those things are solid aluminum. But Diet Coke is technically a 'soft drink,' and 'soft' implies it couldn't have hurt much. The reassurance is based entirely on beverage classification rather than physics, which is wonderfully illogical.",
+    "howToTell": "Start with alarm — getting hit in the head sounds serious. Then wave it off casually with 'it was a soft drink,' as if the beverage category is what determines injury severity.",
+    "perfectFor": ["When someone gets lightly bonked with something and overreacts", "Vending machine areas when a can gets stuck and finally drops", "Soda aisle at the grocery store when you're stacking drinks in the cart"]
   },
   {
     "id": "good-090",
@@ -1259,7 +1526,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-sleeping-bull",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A bull that dozes (sleeps) is a bull-dozer — which is also a massive piece of construction equipment. The portmanteau works because 'dozer' (someone who dozes) perfectly blends into bulldozer, and imagining a sleeping bull as heavy machinery is a fun mental image.",
+    "howToTell": "Ask it like a ranching riddle. Say 'a bulldozer' with a quiet voice, as if you don't want to wake the sleeping bull or start any heavy machinery.",
+    "perfectFor": ["Construction sites when a bulldozer rolls by", "When someone falls asleep on the couch and they're built like a linebacker", "Farm visits when the bull is lounging around doing nothing"]
   },
   {
     "id": "good-091",
@@ -1273,7 +1543,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "i-was-going-to-tell-a-time-traveling-joke",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "The joke implies you've already traveled to the future, told the joke, seen the negative reaction, and come back to the present knowing it won't land. It's a paradox — you can't know they didn't like it unless you told it, but you didn't tell it because they didn't like it. The logic loop IS the joke.",
+    "howToTell": "Say it with resigned disappointment, like you genuinely tried this joke in the future and got shot down. The more you sell the time-travel premise with your tone, the more the meta humor works.",
+    "perfectFor": ["When a joke bombs and you need a recovery joke about the failure", "Sci-fi movie nights when someone mentions time travel", "When someone says 'tell us a joke!' and you want to be clever about declining"]
   },
   {
     "id": "good-092",
@@ -1287,7 +1560,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-did-the-stamp-say-to-the-envelope",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Stamps stick to envelopes — that's how mail works. But 'stick with me and we'll go places' is a motivational phrase about partnership and ambition. The stamp is both literally sticking and figuratively promising career advancement, because together they DO go places — through the postal system.",
+    "howToTell": "Ask it like a romantic comedy setup between office supplies. Deliver the punchline with the charisma of a stamp that genuinely believes in this relationship.",
+    "perfectFor": ["Post office visits when you're buying stamps", "When someone's writing thank-you cards or wedding invitations", "Motivational talks that need deflating with wholesome humor"]
   },
   {
     "id": "good-093",
@@ -1301,7 +1577,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-did-the-scarecrow-become-a-speaker",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Same core pun as the award-winning scarecrow — 'outstanding in his field' means both literally standing in a farm field and being excellent at what he does. This version adds the career pivot to motivational speaking, which makes the transition from farmer's tool to self-help guru even funnier.",
+    "howToTell": "Frame it as an inspiring career change story. Say 'outstanding in his field' with the reverence of someone introducing a TED Talk speaker who happens to be made of straw.",
+    "perfectFor": ["Corporate team-building events where someone uses 'outstanding' unironically", "When someone changes careers and you want to celebrate it with a bad joke", "Driving past farmland and spotting a scarecrow that looks particularly confident"]
   },
   {
     "id": "good-094",
@@ -1315,7 +1594,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-man-with-a-shovel",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Doug' sounds like 'dug' — what you do with a shovel. It's a name pun that turns a violent image (shovel in someone's head) into a casual introduction. The joke belongs to the classic 'what do you call a man who...' format, and 'Doug' is one of the best because the name-to-action connection is so direct.",
+    "howToTell": "Ask it with the calmness of someone introducing a friend at a party. Say 'Doug' like it's the most obvious name for someone in that situation — because it is.",
+    "perfectFor": ["When you meet someone named Doug and absolutely cannot resist", "Gardening or landscaping when shovels are involved", "Name-pun joke chains when everyone's trying to one-up each other"]
   },
   {
     "id": "good-095",
@@ -1329,7 +1611,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-dont-vampires-go-to-barbecues",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Steak' sounds like 'stake' — and vampires are famously killed by wooden stakes through the heart. So vampires avoid barbecues not because of the food preferences, but because 'steak/stake' is a death threat. The homophone turns a cookout into a vampire's worst nightmare.",
+    "howToTell": "Ask it like you're confused about vampire dietary restrictions. Say 'they don't like steak' simply, letting people make the stake connection on their own.",
+    "perfectFor": ["Halloween parties when someone's dressed as a vampire near the grill", "Barbecues when you're grilling steaks and want to add some flavor (pun-wise)", "When someone declines a BBQ invite and you need to joke about their reasons"]
   },
   {
     "id": "good-096",
@@ -1343,7 +1628,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "i-finally-got-a-new-hearing-aid",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'State of the ear' sounds like 'state of the art' — the phrase for cutting-edge technology. Since hearing aids go in your ear, swapping 'art' for 'ear' creates a pun that's both technically accurate (it IS ear technology) and a legitimate product review. It's a hearing aid endorsement disguised as a dad joke.",
+    "howToTell": "Share it proudly, like you're genuinely excited about your new hearing aid. Say 'state of the ear' with the satisfaction of a tech reviewer showing off a new gadget.",
+    "perfectFor": ["When someone gets new headphones or earbuds and shows them off", "Audiologist visits or conversations about hearing health", "When someone keeps saying 'what?' and clearly needs to get their ears checked"]
   },
   {
     "id": "good-097",
@@ -1357,7 +1645,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-two-monkeys-sharing-amazon",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Prime mates' works on three levels: Amazon Prime (the subscription), primates (the animal family monkeys belong to), and mates (friends/partners). Three puns in two words — that's elite efficiency. The modern twist of monkeys sharing a streaming account makes it relatable to anyone splitting a subscription.",
+    "howToTell": "Ask it like a riddle that sounds way too specific to have a good answer. When 'prime mates' lands, give a knowing nod — this joke is worth being proud of.",
+    "perfectFor": ["When someone asks to share your Amazon Prime account", "Zoo visits at the primate exhibit", "Conversations about subscription sharing and who's paying for what"]
   },
   {
     "id": "good-098",
@@ -1371,7 +1662,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "im-reading-a-book-about-teleportation",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "Books are 'bound' (the pages are bound together), and teleportation 'gets you somewhere' (transports you to a new location). But 'bound to get me somewhere' also means 'sure to help me succeed eventually.' The joke layers a book pun onto a sci-fi concept with casual optimism.",
+    "howToTell": "Share it like a genuine book recommendation with a mildly hopeful tone. 'Bound to get me somewhere' should sound like you're quietly confident in this book's life-changing potential.",
+    "perfectFor": ["Bookstores or libraries when someone asks what you're reading", "When someone complains about not going anywhere in life", "Sci-fi book club meetings where everyone appreciates genre humor"]
   },
   {
     "id": "good-099",
@@ -1385,7 +1679,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-do-ducks-have-tail-feathers",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "'Butt quacks' sounds like 'butt cracks' — ducks quack, and their tail feathers do cover their backsides. It's bathroom humor meets ornithology, and the word 'quack' doing double duty as both a duck sound and a stand-in for a body part is peak kid-friendly edginess.",
+    "howToTell": "Ask it like a nature documentary narrator with a very important question. Say 'butt quacks' with scientific seriousness — the more professional your delivery, the harder it lands.",
+    "perfectFor": ["Feeding ducks at the pond with your kids", "When someone bends over and... well, you know", "Nature walks when you spot ducks waddling away from you"]
   },
   {
     "id": "good-100",
@@ -1399,6 +1696,9 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-do-you-call-a-pencil-with-no-point",
-    "ageRange": "teens"
+    "ageRange": "teens",
+    "whyFunny": "A pencil without a sharpened point is literally pointless — it can't write. But 'pointless' also means meaningless or without purpose. The anti-humor works because the answer is both devastatingly obvious and technically perfect. It's the dad joke equivalent of a mic drop.",
+    "howToTell": "Ask it with the weight of a deep philosophical question. Let 'pointless' land with a shrug — the more underwhelmed your delivery, the funnier the anti-climax.",
+    "perfectFor": ["When someone's pencil breaks during a test or meeting", "Sharpening pencils with your kids before school and one is beyond saving", "When someone starts a long story and you can tell it's going nowhere"]
   }
 ]

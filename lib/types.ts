@@ -10,6 +10,12 @@ export interface Joke {
   source?: string;
   ageRange?: 'kids' | 'teens' | 'adults';
   canonicalSlug?: string;
+  /** One-two sentences explaining why THIS specific joke is funny — the exact wordplay, pun, or double meaning. */
+  whyFunny?: string;
+  /** One-two sentences on how to deliver THIS joke for max effect. */
+  howToTell?: string;
+  /** 3 specific occasions/settings where this joke lands well. */
+  perfectFor?: string[];
 }
 
 export interface Topic {

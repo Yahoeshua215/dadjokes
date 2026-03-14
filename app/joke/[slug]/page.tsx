@@ -3,7 +3,6 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { getJokeBySlug, getAllJokeSlugs, getJokesByCategory, getCategory, getRelatedJokesByTags } from '@/lib/jokes';
 import { generateBreadcrumbSchema, generateJokeFAQSchema } from '@/lib/schema';
-import { getHumorExplanation, getDeliveryTip, getUsageContext, getCategoryFunFact, detectHumorType } from '@/lib/joke-content';
 import Breadcrumb from '@/components/Breadcrumb';
 import ShareButtons from '@/components/ShareButtons';
 import VoteButtons from '@/components/VoteButtons';
@@ -24,16 +23,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const category = getCategory(joke.category);
   const categoryLabel = category?.name || 'Dad Jokes';
   const title = `${joke.setup} | ${categoryLabel}`;
-  const description = `${joke.setup} ${joke.punchline} — Find out why this ${categoryLabel.toLowerCase()} joke works, when to use it, and browse more like it at JokeLikeaDad.com.`;
+  const description = joke.whyFunny
+    ? `${joke.setup} ${joke.punchline} — ${joke.whyFunny}`
+    : `${joke.setup} ${joke.punchline} — Browse more ${categoryLabel.toLowerCase()} at JokeLikeaDad.com.`;
   const url = `https://jokelikeadad.com/joke/${slug}`;
 
   return {
     title,
-    description,
+    description: description.slice(0, 160),
     alternates: { canonical: url },
     openGraph: {
       title,
-      description,
+      description: description.slice(0, 200),
       url,
       siteName: 'JokeLikeaDad.com',
       type: 'article',
@@ -41,19 +42,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     twitter: {
       card: 'summary_large_image',
       title,
-      description,
+      description: description.slice(0, 200),
     },
   };
 }
-
-const HUMOR_TYPE_LABELS: Record<string, string> = {
-  pun: '🎯 Pun',
-  wordplay: '🔤 Wordplay',
-  'anti-humor': '😐 Anti-Humor',
-  observational: '👀 Observational',
-  absurd: '🤪 Absurd',
-  classic: '👔 Classic Dad Joke',
-};
 
 export default async function JokePage({ params }: Props) {
   const { slug } = await params;
@@ -68,14 +60,6 @@ export default async function JokePage({ params }: Props) {
 
   // Tag-based related jokes (cross-category)
   const relatedJokes = getRelatedJokesByTags(joke, 5);
-
-  // Enriched content
-  const humorType = detectHumorType(joke);
-  const humorLabel = HUMOR_TYPE_LABELS[humorType] || '👔 Classic Dad Joke';
-  const explanation = getHumorExplanation(joke);
-  const deliveryTip = getDeliveryTip(joke);
-  const usageContext = category ? getUsageContext(joke, category) : '';
-  const funFact = category ? getCategoryFunFact(category) : '';
 
   const jokeUrl = `https://jokelikeadad.com/joke/${slug}`;
 
@@ -111,12 +95,6 @@ export default async function JokePage({ params }: Props) {
 
         {/* Main Joke */}
         <article className="bg-surface border border-border rounded-2xl p-8 sm:p-10 mb-8">
-          <div className="mb-4">
-            <span className="text-xs font-medium text-accent bg-accent/10 px-3 py-1 rounded-full">
-              {humorLabel}
-            </span>
-          </div>
-
           <h1 className="font-serif text-2xl sm:text-3xl leading-relaxed mb-6">
             {joke.setup}
           </h1>
@@ -150,26 +128,34 @@ export default async function JokePage({ params }: Props) {
           </div>
         </article>
 
-        {/* Why This Joke Works */}
-        <section className="bg-surface border border-border rounded-2xl p-6 sm:p-8 mb-6">
-          <h2 className="font-serif text-xl mb-3">Why This Joke Works</h2>
-          <p className="text-text-secondary leading-relaxed">{explanation}</p>
-        </section>
+        {/* Why This Joke Is Funny — joke-specific content */}
+        {joke.whyFunny && (
+          <section className="bg-surface border border-border rounded-2xl p-6 sm:p-8 mb-6">
+            <h2 className="font-serif text-xl mb-3">Why This Joke Works</h2>
+            <p className="text-text-secondary leading-relaxed">{joke.whyFunny}</p>
+          </section>
+        )}
 
-        {/* How to Tell It */}
-        <section className="bg-surface border border-border rounded-2xl p-6 sm:p-8 mb-6">
-          <h2 className="font-serif text-xl mb-3">🎤 How to Tell This Joke</h2>
-          <p className="text-text-secondary leading-relaxed mb-3">{deliveryTip}</p>
-          {usageContext && (
-            <p className="text-text-secondary leading-relaxed">{usageContext}</p>
-          )}
-        </section>
+        {/* How to Tell It — joke-specific delivery advice */}
+        {joke.howToTell && (
+          <section className="bg-surface border border-border rounded-2xl p-6 sm:p-8 mb-6">
+            <h2 className="font-serif text-xl mb-3">🎤 How to Tell This Joke</h2>
+            <p className="text-text-secondary leading-relaxed">{joke.howToTell}</p>
+          </section>
+        )}
 
-        {/* Fun Fact */}
-        {funFact && (
+        {/* Perfect For — joke-specific occasions */}
+        {joke.perfectFor && joke.perfectFor.length > 0 && (
           <section className="bg-accent/5 border border-accent/20 rounded-2xl p-6 sm:p-8 mb-8">
-            <h2 className="font-serif text-xl mb-3">💡 Did You Know?</h2>
-            <p className="text-text-secondary leading-relaxed">{funFact}</p>
+            <h2 className="font-serif text-xl mb-3">💡 Perfect For</h2>
+            <ul className="space-y-2">
+              {joke.perfectFor.map((occasion, i) => (
+                <li key={i} className="flex items-start gap-2 text-text-secondary">
+                  <span className="text-accent mt-0.5">•</span>
+                  <span>{occasion}</span>
+                </li>
+              ))}
+            </ul>
           </section>
         )}
 

@@ -11,7 +11,10 @@
     "rating": 4,
     "dateAdded": "2025-01-06",
     "slug": "what-time-did-the-man-go-to-the-dentist",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The punchline \"tooth-hurty\" is a perfect homophone for \"2:30\" — an actual time on the clock. It answers the question literally while also describing the reason you'd visit a dentist: because your tooth is hurting. The double meaning hits on both levels simultaneously, which is what makes it a top-tier dad joke pun.",
+    "howToTell": "Ask \"what time did the man go to the dentist?\" with genuine curiosity, like you're setting up a real story. Then deliver \"tooth-hurty\" quickly, emphasizing it like you're saying the time — let them catch up.",
+    "perfectFor": ["Waiting at the dentist's office with your kid", "When someone complains about a toothache", "Teaching kids how to tell time and you want to make it memorable"]
   },
   {
     "id": "corny-002",
@@ -25,7 +28,10 @@
     "rating": 3,
     "dateAdded": "2025-01-17",
     "slug": "what-did-the-big-flower-say-to-the-little-flower",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Bud\" does double duty here — it's a casual, friendly greeting (like calling someone \"buddy\") AND the botanical term for a small, unopened flower. So a big flower calling a little flower \"bud\" is both a term of endearment and literally accurate. It's wholesome wordplay at its finest.",
+    "howToTell": "Say the setup warmly, like you're telling a little nature story. Deliver \"Hi, bud!\" with a cheerful wave, like you're greeting a friend. The sweetness IS the joke.",
+    "perfectFor": ["Planting flowers in the garden with kids", "When you pass a flower shop and your kid is with you", "Greeting your child in the morning with a groan-worthy opener"]
   },
   {
     "id": "corny-003",
@@ -39,7 +45,10 @@
     "rating": 4,
     "dateAdded": "2025-01-30",
     "slug": "why-did-the-mushroom-go-to-the-party",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Fungi\" — the biological classification for mushrooms — sounds exactly like \"fun guy\" when you say it out loud. The joke sets up a social scenario (going to a party) and then answers with a scientific term that doubles as a personality description. It's biology class meets the dance floor.",
+    "howToTell": "Lean into the setup casually, then pronounce \"fungi\" clearly as \"fun-guy\" with a big grin. If they groan, you've nailed it. Bonus: shrug your shoulders like it's the most obvious answer in the world.",
+    "perfectFor": ["Cooking dinner with mushrooms and someone's watching", "A kid's birthday party when you need an icebreaker", "When someone asks why you're in a good mood"]
   },
   {
     "id": "corny-004",
@@ -53,7 +62,10 @@
     "rating": 4,
     "dateAdded": "2025-02-08",
     "slug": "how-does-a-rabbi-make-his-coffee",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Hebrews\" is the name for the Jewish people, but it sounds exactly like \"he brews\" — as in, he brews his coffee. The setup with \"rabbi\" primes you to think religiously, then the punchline pivots to coffee-making while staying perfectly on-theme. It's a clean crossover between theology and your morning caffeine ritual.",
+    "howToTell": "Deliver the setup like a genuine question about coffee prep. Say \"Hebrews it\" casually, like you're just stating a fact. The less you emphasize the pun, the harder it lands.",
+    "perfectFor": ["Making coffee on a Sunday morning with the family", "A Hanukkah gathering when the mood is light", "When someone asks how you like your coffee and you want to dodge the question"]
   },
   {
     "id": "corny-005",
@@ -67,7 +79,10 @@
     "rating": 3,
     "dateAdded": "2025-02-20",
     "slug": "what-do-you-call-a-shoe-made-of-a-banana",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Slipper\" is a type of shoe, but bananas are famously slippery — the classic cartoon banana peel gag. So a shoe made of banana would literally be a \"slipper\" because you'd slip on it. The word works both as the footwear answer and the physical comedy reference.",
+    "howToTell": "Ask the setup with a straight face, like it's a legit riddle. Drop \"a slipper\" with a knowing nod. The visual of someone trying to wear banana shoes is half the comedy.",
+    "perfectFor": ["When your kid is putting on their slippers before bed", "Grocery shopping in the produce aisle", "A rainy day when the sidewalk is actually slippery"]
   },
   {
     "id": "corny-006",
@@ -81,7 +96,10 @@
     "rating": 3,
     "dateAdded": "2025-03-03",
     "slug": "why-did-the-gym-close-down",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Work out\" means both \"to exercise\" (what you do at a gym) and \"to succeed\" (as in, things didn't work out). The gym closing because it \"didn't work out\" is a business failure described in gym lingo. The double meaning is so seamless it almost feels accidental, which is peak dad joke territory.",
+    "howToTell": "Tell it like you're sharing disappointing local news. Shake your head sadly when you say \"it just didn't work out\" — the deadpan sympathy makes the pun land harder.",
+    "perfectFor": ["Driving past a closed gym or fitness studio", "When someone cancels their gym membership", "New Year's resolution conversations in January"]
   },
   {
     "id": "corny-007",
@@ -95,7 +113,10 @@
     "rating": 3,
     "dateAdded": "2025-03-14",
     "slug": "what-do-lawyers-wear-to-court",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"lawsuit\" is a legal proceeding — something lawyers file in court. But break it apart and it's a \"law suit\" — a suit (clothing) for law. The joke asks about what they wear, and the answer is the exact word that describes their actual job. It's hiding in plain sight.",
+    "howToTell": "Ask the setup like you're genuinely curious about legal dress codes. Say \"lawsuits\" with a slight pause between \"law\" and \"suits\" so the double meaning registers.",
+    "perfectFor": ["Watching a courtroom drama on TV together", "When your kid asks what lawyers do", "Getting dressed up for a formal event and complaining about wearing a suit"]
   },
   {
     "id": "corny-008",
@@ -109,7 +130,10 @@
     "rating": 4,
     "dateAdded": "2025-03-28",
     "slug": "why-did-the-oreo-go-to-the-dentist",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Filling\" means both the cream center of an Oreo cookie AND a dental filling used to fix cavities. An Oreo without its filling is basically just two sad chocolate wafers, and a tooth without its filling means a trip to the dentist. Both meanings of losing a \"filling\" are equally devastating in their respective worlds.",
+    "howToTell": "Set it up like a concerned parent. Deliver the punchline with the gravity of a real dental emergency. The seriousness contrast with a cookie's problems is what sells it.",
+    "perfectFor": ["Snack time when Oreos are on the table", "Right after a dentist appointment when everyone's relieved it's over", "When someone twists apart an Oreo and licks the filling"]
   },
   {
     "id": "corny-009",
@@ -123,7 +147,10 @@
     "rating": 3,
     "dateAdded": "2025-04-05",
     "slug": "what-do-you-call-a-line-of-men-waiting-to-get-haircuts",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"barber queue\" — a queue (line) at the barber — sounds exactly like \"barbecue\" when you say it out loud. It smashes together the barbershop setting with backyard grilling in one glorious homophone. You're expecting a grooming answer and get a cookout instead.",
+    "howToTell": "Ask the setup with a thoughtful expression, like you're posing a real riddle. Say \"a barbecue\" like it's the most natural answer in the world. If they look confused, just spell it out: B-A-R-B-E-R Q-U-E-U-E.",
+    "perfectFor": ["Waiting in line at the barbershop with your kid", "Firing up the grill on a summer weekend", "When someone complains about long wait times anywhere"]
   },
   {
     "id": "corny-010",
@@ -137,7 +164,10 @@
     "rating": 4,
     "dateAdded": "2025-04-18",
     "slug": "why-are-elevator-jokes-so-good",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Levels\" means both the floors of a building (which elevators travel between) and layers of meaning or understanding in a joke. So this joke about elevator jokes literally works on multiple levels — it's meta AND punny at the same time. It's a dad joke about dad jokes. Inception-level wordplay.",
+    "howToTell": "This one's best delivered while actually waiting for an elevator or riding in one. Say the setup, pause, then deliver the punchline while pressing a floor button for maximum effect.",
+    "perfectFor": ["Riding an elevator in a hotel or office building", "When someone asks you to tell a joke and you want to go meta", "Teaching kids about wordplay and double meanings"]
   },
   {
     "id": "corny-011",
@@ -151,7 +181,10 @@
     "rating": 4,
     "dateAdded": "2025-05-01",
     "slug": "what-do-sprinters-eat-before-a-race",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Fast\" means both \"to abstain from eating\" and \"to move quickly\" — exactly what a sprinter does. The joke sets up a food question, and the answer plays on both definitions simultaneously. Sprinters are fast (speedy) AND they fast (don't eat). It's a two-for-one deal in a single word.",
+    "howToTell": "Ask the setup like you're genuinely curious about athlete diets. Pause before \"nothing\" to build suspense, then add \"they fast!\" with confident authority, like you're sharing sports science.",
+    "perfectFor": ["Watching track and field events on TV", "When your kid skips breakfast and you need a joke about it", "Before a family fun run or field day at school"]
   },
   {
     "id": "corny-012",
@@ -165,7 +198,10 @@
     "rating": 4,
     "dateAdded": "2025-05-12",
     "slug": "what-do-you-call-two-birds-in-love",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Tweethearts\" mashes up \"sweethearts\" (a term for couples in love) with \"tweet\" (the sound birds make). Swap the S for a T, and you've got a romantic bird couple. It's adorable, punny, and the kind of wordplay that makes you go \"aww\" and groan at the same time.",
+    "howToTell": "Ask the setup with a dreamy, romantic tone. Say \"tweethearts\" softly and sweetly, like you're narrating a nature documentary love story. Clasping your hands together is optional but encouraged.",
+    "perfectFor": ["Valentine's Day card-making with kids", "Spotting two birds sitting together on a wire", "When a couple you know starts dating and you need a wholesome tease"]
   },
   {
     "id": "corny-013",
@@ -179,7 +215,10 @@
     "rating": 3,
     "dateAdded": "2025-05-25",
     "slug": "where-do-fruits-go-on-vacation",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Pear-is\" sounds like \"Paris\" — the famous vacation destination. It swaps in \"pear,\" a fruit, to answer a question about where fruits vacation. Paris is romantic, pears are delicious, and this joke is neither — but that's what makes it a perfect dad joke.",
+    "howToTell": "Ask the question like a travel agent. Say \"Pear-is\" with a French accent for extra corniness. Kiss your fingers like a chef if you really want to commit.",
+    "perfectFor": ["Packing fruit for a road trip snack", "When someone talks about wanting to visit Paris", "Grocery shopping in the fruit section with your family"]
   },
   {
     "id": "corny-014",
@@ -193,7 +232,10 @@
     "rating": 3,
     "dateAdded": "2025-06-07",
     "slug": "why-was-the-broom-late",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Over-swept\" is a play on \"overslept\" — the most common reason anyone is late. But brooms sweep, so a broom that \"over-swept\" both slept too long AND did too much sweeping. The wordplay swaps \"slept\" for \"swept\" and it works perfectly because sweeping is literally what brooms do.",
+    "howToTell": "Tell it like you're explaining why a coworker didn't show up to work on time. Deliver \"it over-swept\" with a casual shrug, like this is totally normal broom behavior.",
+    "perfectFor": ["When you're late somewhere and need a deflection joke", "While sweeping the kitchen and someone's watching", "Morning routines when someone in the family actually overslept"]
   },
   {
     "id": "corny-015",
@@ -208,7 +250,10 @@
     "dateAdded": "2025-06-20",
     "slug": "what-do-you-call-a-duck-that-gets-all-as",
     "ageRange": "kids",
-    "canonicalSlug": "what-do-you-call-a-duck-that-gets-all-as"
+    "canonicalSlug": "what-do-you-call-a-duck-that-gets-all-as",
+    "whyFunny": "A \"wise cracker\" is someone who makes clever remarks, but swap \"cracker\" for \"quacker\" (because ducks quack) and you get a brainy duck. \"Wise\" covers the all-A's academic achievement, while \"quacker\" keeps it firmly in duck territory. Smart bird, smarter pun.",
+    "howToTell": "Ask the setup like a proud parent bragging about report card season. Hit \"wise quacker\" with a knowing nod, like you're introducing the valedictorian of the pond.",
+    "perfectFor": ["When your kid brings home a good report card", "Feeding ducks at the park", "Back-to-school season conversations"]
   },
   {
     "id": "corny-016",
@@ -222,7 +267,10 @@
     "rating": 4,
     "dateAdded": "2025-07-04",
     "slug": "why-do-moon-rocks-taste-better-than-earth-rocks",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Meteor\" sounds like \"meatier\" — as in, they have more substance and taste better. It takes a space science term and turns it into a food review. You expect an astronomy answer and get a restaurant critique instead. The absurdity of taste-testing rocks just adds to the charm.",
+    "howToTell": "Ask the setup like you're a food critic with a very unusual specialty. Deliver \"a little meteor\" like you're a sommelier describing a fine wine — the fancier you sound, the funnier it gets.",
+    "perfectFor": ["Stargazing with kids on a clear night", "Watching a space movie or documentary together", "When someone complains about bland food and you need to lighten the mood"]
   },
   {
     "id": "corny-017",
@@ -236,7 +284,10 @@
     "rating": 3,
     "dateAdded": "2025-07-16",
     "slug": "what-did-the-stamp-say-to-the-envelope",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Stick with me\" works literally (stamps stick to envelopes with adhesive) and figuratively (as encouragement, like \"stay by my side\"). \"Go places\" is both literal (mail gets delivered to destinations) and idiomatic (meaning to be successful). Every phrase in this punchline is pulling double duty.",
+    "howToTell": "Deliver the punchline like a motivational speech — confident, inspiring, maybe with a fist pump. The cheesier the delivery, the better. Channel your inner life coach.",
+    "perfectFor": ["Mailing birthday cards or letters with your kids", "When someone needs a corny pep talk", "Arts and crafts time involving stamps or stickers"]
   },
   {
     "id": "corny-018",
@@ -251,7 +302,10 @@
     "dateAdded": "2025-07-30",
     "slug": "what-do-you-call-a-snowman-with-a-six-pack",
     "ageRange": "kids",
-    "canonicalSlug": "what-do-you-call-a-snowman-with-a-six-pack"
+    "canonicalSlug": "what-do-you-call-a-snowman-with-a-six-pack",
+    "whyFunny": "\"Abdominal snowman\" sounds like \"abominable snowman\" (the legendary Yeti), but swaps in \"abdominal\" — referring to abs/six-pack muscles. It takes a mythical creature and gives it a gym membership. The image of a jacked snowman flexing is absurdly delightful.",
+    "howToTell": "Ask the setup while flexing your own abs (or where your abs would be). Deliver \"an abdominal snowman\" with the dramatic reverence usually reserved for cryptid sightings. Flexing is mandatory.",
+    "perfectFor": ["Building a snowman and adding some creative muscle definition", "When someone at the gym is showing off their abs in winter", "Watching a Yeti or Bigfoot movie and needing comic relief"]
   },
   {
     "id": "corny-019",
@@ -265,7 +319,10 @@
     "rating": 3,
     "dateAdded": "2025-08-10",
     "slug": "why-do-pineapples-never-get-lonely",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is anti-humor at its best — it sets up a pun you're expecting, then the teller \"realizes\" mid-punchline that they confused their fruit. Pineapples DON'T come in bunches (bananas do). The comedy isn't in the pun; it's in the self-correction and the awkward realization. It subverts the dad joke format itself.",
+    "howToTell": "Start confidently with the answer, then genuinely pause and look confused when you say \"wait, that's bananas.\" The fumble IS the joke — sell the confusion like you actually messed up.",
+    "perfectFor": ["When you've been telling too many food jokes and want to mix up the format", "A comedy-savvy audience that appreciates meta-humor", "Grocery store trips when you walk past the pineapple display"]
   },
   {
     "id": "corny-020",
@@ -279,7 +336,10 @@
     "rating": 3,
     "dateAdded": "2025-08-24",
     "slug": "what-do-you-call-a-sleeping-t-rex",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Dino-snore\" combines \"dinosaur\" with \"snore\" — the sound you make when sleeping. It literally describes a sleeping dinosaur using a portmanteau that sounds like the thing it's about. Simple, clean, and exactly the kind of joke a five-year-old will tell you forty times in a row.",
+    "howToTell": "Ask the setup and then deliver \"a dino-snore\" while pretending to snore loudly. The sound effects are half the performance with this one, especially for young kids.",
+    "perfectFor": ["Bedtime stories when you're reading about dinosaurs", "A museum visit to the dinosaur exhibit", "When your kid won't stop talking about T-Rexes (so, always)"]
   },
   {
     "id": "corny-021",
@@ -293,7 +353,10 @@
     "rating": 4,
     "dateAdded": "2025-09-06",
     "slug": "why-did-the-man-name-his-dogs-rolex-and-timex",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Rolex and Timex are both watch brands, and \"watchdogs\" are dogs that guard property. Naming your guard dogs after watch brands makes them literal \"watch dogs\" — dogs named after watches. The setup cleverly gives you the brand names so the punchline clicks instantly.",
+    "howToTell": "Tell it like you're sharing a quirky neighbor story. Mention Rolex and Timex casually, then land on \"watchdogs\" with a satisfied grin, like you just solved a mystery.",
+    "perfectFor": ["Meeting someone's dogs and needing an icebreaker", "When someone shows off a new watch", "Neighborhood watch meeting (you'll be a legend)"]
   },
   {
     "id": "corny-022",
@@ -307,7 +370,10 @@
     "rating": 4,
     "dateAdded": "2025-09-19",
     "slug": "what-do-you-call-a-fake-stone-in-ireland",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"shamrock\" is Ireland's iconic three-leaf clover symbol, but break it apart and \"sham\" means fake/fraudulent and \"rock\" means stone. A sham rock in Ireland = a shamrock. The pun hides inside a word everyone already knows, and the Ireland setting makes it click.",
+    "howToTell": "Ask with a curious tone, like it's a geography quiz. Deliver \"a sham-rock\" with a slight pause between \"sham\" and \"rock\" so the double meaning registers before the groans begin.",
+    "perfectFor": ["St. Patrick's Day parties and celebrations", "When someone's wearing green and you need a themed joke", "Irish pub trivia nights"]
   },
   {
     "id": "corny-023",
@@ -321,7 +387,10 @@
     "rating": 4,
     "dateAdded": "2025-10-03",
     "slug": "why-did-the-scarecrow-become-a-successful-motivational-speak",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Outstanding in his field\" means both \"excellent at what he does\" (a career compliment) and literally \"standing out in a field\" (which is exactly what scarecrows do — they stand in fields). The motivational speaker angle adds a layer because \"outstanding\" is exactly the kind of word a motivational speaker would use.",
+    "howToTell": "Build up the scarecrow's career transition like it's an inspirational LinkedIn post. Deliver the punchline with proud, almost tearful admiration. The more earnestly you sell it, the funnier the groan.",
+    "perfectFor": ["Driving past farmland or cornfields", "When someone gives a great presentation and you want to compliment them... sort of", "Fall harvest festivals or hayride outings"]
   },
   {
     "id": "corny-024",
@@ -335,7 +404,10 @@
     "rating": 3,
     "dateAdded": "2025-10-22",
     "slug": "what-kind-of-tree-fits-in-your-hand",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Palm\" is both a type of tropical tree and the inside of your hand. A \"palm tree\" fits in your hand because your hand literally has a palm. The joke makes you picture a tiny tree sitting in someone's hand, when the real answer was anatomical the whole time.",
+    "howToTell": "Hold out your open palm while asking the question. When you say \"a palm tree,\" gesture at your own hand. The visual aid makes this one land perfectly with kids.",
+    "perfectFor": ["Walking past palm trees on vacation", "When a kid asks you a nature question and you want to sneak in a joke", "Playing a hand-clapping game and needing a silly transition"]
   },
   {
     "id": "corny-025",
@@ -349,7 +421,10 @@
     "rating": 4,
     "dateAdded": "2025-11-08",
     "slug": "how-do-you-make-a-tissue-dance",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Boogie\" means both a style of dance and, well, a booger — the thing you put in a tissue. So \"putting a little boogie in it\" means making it dance AND using the tissue for its intended purpose. It's gross and groovy at the same time, which is exactly a kid's sense of humor.",
+    "howToTell": "Ask the setup while holding a tissue if possible. Deliver the punchline with a little dance move. The grosser the implication, the more kids will love it — just keep a straight face.",
+    "perfectFor": ["When your kid has a runny nose and needs cheering up", "Dance parties in the living room", "Cold and flu season when the tissue box is always nearby"]
   },
   {
     "id": "corny-026",
@@ -363,7 +438,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Nacho cheese\" sounds exactly like \"not yo' cheese\" — a slangy way of saying \"not your cheese.\" It answers the question literally (it's not yours) while also naming an actual type of cheese sauce. The setup frames a possessiveness question, and the answer serves up a Tex-Mex staple.",
+    "howToTell": "Ask the question with mock seriousness, like someone just stole your cheese. Say \"nacho cheese\" emphatically, pointing at the listener. Bonus points if you're actually eating nachos.",
+    "perfectFor": ["Mexican restaurant outings when the nachos arrive", "When someone reaches for food on your plate", "Taco Tuesday at home with the family"]
   },
   {
     "id": "corny-027",
@@ -377,7 +455,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"A wafer so long\" sounds like \"away for so long\" — the cookie misses its mom! A wafer is also a type of thin cookie/biscuit, keeping the food theme intact. The joke anthropomorphizes a cookie with real emotional pain, which is absurd and adorable. Missing your mom is universal; being a cookie is not.",
+    "howToTell": "Tell the setup with a sad, sympathetic tone. Deliver the punchline slowly, emphasizing \"wafer\" so the double meaning has time to click. A fake sniffle after the punchline really sells it.",
+    "perfectFor": ["Baking cookies with the kids", "When someone is homesick and needs a lighthearted pick-me-up", "After-school snack time when cookies are on the menu"]
   },
   {
     "id": "corny-028",
@@ -391,7 +472,10 @@
     "rating": 3,
     "dateAdded": "2026-03-02",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Lean beef\" is a cut of meat with low fat content, but a cow with only two legs would literally have to lean to stay upright. So \"lean\" works both as a meat description and the physical posture of a two-legged cow. It's butcher shop humor meets physics.",
+    "howToTell": "Ask the setup and then tilt your body to one side when you say \"lean beef\" — the physical comedy drives it home. Straighten up after for the contrast.",
+    "perfectFor": ["At a barbecue when someone's grilling burgers", "Grocery store meat section browsing", "When someone's trying to eat healthier and talking about lean protein"]
   },
   {
     "id": "corny-029",
@@ -405,7 +489,10 @@
     "rating": 3,
     "dateAdded": "2026-03-02",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Spoke\" is both the past tense of \"speak\" (what you learn at school) and the metal rods that connect a bicycle wheel's hub to its rim. A bicycle wanting to learn to \"spoke\" is both an education goal and already something it has. The pun rides on two completely different meanings of the same word.",
+    "howToTell": "Deliver it like you're telling a story about an ambitious bicycle. Say \"spoke\" clearly and with determination, like the bike is really committed to its education.",
+    "perfectFor": ["Bike rides with the family on a weekend", "First day of school drop-offs", "When your kid is learning to ride a bike"]
   },
   {
     "id": "corny-030",
@@ -419,7 +506,10 @@
     "rating": 3,
     "dateAdded": "2026-03-03",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This joke fumbles on purpose — the teller starts with a clunky attempt (\"road-dino-snore\"), then self-corrects to the better pun: \"Bronto-snore-us\" (Brontosaurus + snore). The comedic stumble makes it feel spontaneous, and the final answer is a genuinely solid dinosaur-sleep portmanteau. The journey IS the joke.",
+    "howToTell": "Commit to the fake-out — say \"road-dino-snore\" like you realize mid-word it's not working. The correction to \"Bronto-snore-us\" should feel like a eureka moment. Ham up the recovery.",
+    "perfectFor": ["Road trips when everyone is getting sleepy", "Dinosaur-obsessed kids who want joke after joke", "When someone falls asleep in the car and you need to narrate it"]
   },
   {
     "id": "corny-031",
@@ -433,7 +523,10 @@
     "rating": 4,
     "dateAdded": "2026-03-03",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"So-fish-ticated\" jams \"fish\" right into the middle of \"sophisticated\" — and it works because a fish in a bowtie IS trying to be fancy. The bowtie setup primes you to think about dressing up, and the answer delivers an aquatic version of elegance. The portmanteau is seamless.",
+    "howToTell": "Ask the setup while miming adjusting a bowtie. Deliver \"so-fish-ticated\" with your chin up and a posh accent. The fancier your delivery, the funnier the fish pun becomes.",
+    "perfectFor": ["Getting dressed up for a formal event with kids", "Visiting an aquarium", "When someone is overdressed and you want to compliment them playfully"]
   },
   {
     "id": "corny-032",
@@ -447,7 +540,10 @@
     "rating": 3,
     "dateAdded": "2026-03-04",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Ran out of juice\" means both running out of energy/fuel (why you'd stop doing something) and literally losing lemon juice (what lemons are full of). The crossing-the-road format is a classic joke structure, and \"juice\" perfectly bridges the fruit and the fatigue.",
+    "howToTell": "Set it up like the classic chicken-crossing-the-road format. Deliver the punchline with exhaustion in your voice, like you personally just ran out of juice too.",
+    "perfectFor": ["Making lemonade on a hot day", "When someone is tired and dragging during a walk", "Telling a series of 'why did X cross the road' jokes"]
   },
   {
     "id": "corny-033",
@@ -461,7 +557,10 @@
     "rating": 4,
     "dateAdded": "2026-03-04",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Pork chop\" is a cut of pig meat, but \"chop\" is also a karate move — the classic hand strike. So a pig doing karate chops is a \"pork chop\" both literally and martially. Two completely different worlds (butcher shop and dojo) collide in two perfect words.",
+    "howToTell": "Ask the question and then deliver \"a pork chop\" while doing a karate chop motion with your hand. The physical move seals the deal. Add a \"HI-YA!\" for full commitment.",
+    "perfectFor": ["When pork chops are on the dinner menu", "Watching kung fu movies with the family", "When your kid takes their first karate class"]
   },
   {
     "id": "corny-034",
@@ -475,7 +574,10 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Horns\" are both the pointy things on a cow's head AND noise-making instruments (like car horns or musical horns). Cows wear bells to make sound — and the joke says it's because their other noise-makers (horns) are broken. It treats cow anatomy like faulty car equipment.",
+    "howToTell": "Ask the setup genuinely, like you're curious about farming practices. Deliver the punchline with a disappointed headshake, as if broken horns are a real inconvenience for the cow.",
+    "perfectFor": ["Driving past a cow pasture on a road trip", "When someone honks their car horn", "Farm visits or petting zoos with the kids"]
   },
   {
     "id": "corny-035",
@@ -489,7 +591,10 @@
     "rating": 3,
     "dateAdded": "2026-03-05",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"PiZZZa\" takes the word \"pizza\" and stretches the Z's — because \"ZZZ\" is the universal symbol for sleeping in comics and cartoons. The Z was already there in pizza; the joke just adds more of them. It's literally the laziest pun possible, and that's why it works.",
+    "howToTell": "Emphasize the ZZZZ when you say it — drag those Z's out like a long snore. Maybe close your eyes and pretend to nod off while saying it for full effect.",
+    "perfectFor": ["Pizza night when someone's already falling asleep on the couch", "When leftover pizza is sitting out overnight", "Bedtime routines when you're ordering tomorrow's dinner"]
   },
   {
     "id": "corny-036",
@@ -503,7 +608,10 @@
     "rating": 3,
     "dateAdded": "2026-03-06",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Humbug\" combines \"hum\" (a musical sound insects make) with \"bug\" (what insects are). A bug that hums is literally a humbug. The word also means \"nonsense\" (as in Scrooge's \"Bah, humbug!\"), which adds an unintentional layer of self-aware silliness to the joke.",
+    "howToTell": "Ask the question, then hum a little tune before saying \"a humbug.\" The humming sets up the answer perfectly and makes kids laugh before the punchline even lands.",
+    "perfectFor": ["When you hear a bug buzzing around the house", "Christmas time when someone quotes Scrooge", "Summer evenings with crickets and cicadas humming"]
   },
   {
     "id": "corny-037",
@@ -517,7 +625,10 @@
     "rating": 4,
     "dateAdded": "2026-03-06",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Drumsticks\" are both the sticks you use to play drums AND chicken legs. So a chicken literally comes pre-equipped with drumsticks — it was born for the band. The joke takes a body part and reframes it as musical equipment. Every chicken is just an undercover drummer.",
+    "howToTell": "Tell it with enthusiasm, like you're announcing a band's newest member. Air-drum when you say \"drumsticks\" — the physical comedy makes it impossible not to smile.",
+    "perfectFor": ["Eating fried chicken and someone picks up a drumstick", "When your kid is learning to play drums", "A family talent show where you need an opening joke"]
   },
   {
     "id": "corny-038",
@@ -531,7 +642,10 @@
     "rating": 4,
     "dateAdded": "2026-03-07",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Monkey\" contains the word \"key\" — and monkeys are famous for loving bananas. So the \"key\" to opening a banana is a mon-KEY. It works because the answer is both an animal that actually peels bananas and a word that literally ends in \"key.\" Biology meets locksmithing.",
+    "howToTell": "Ask the setup like it's a real riddle. Pause before the answer and mime turning a key. Then say \"a mon-key\" with the emphasis on \"key\" to make the wordplay crystal clear.",
+    "perfectFor": ["When your kid is peeling a banana and struggling with it", "At the zoo visiting the monkey exhibit", "When someone can't open a jar or package and needs help"]
   },
   {
     "id": "corny-039",
@@ -545,7 +659,10 @@
     "rating": 3,
     "dateAdded": "2026-03-07",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"bulldozer\" is heavy construction equipment, but split it up and you get a \"bull\" that \"dozes\" — as in, sleeps. A sleeping bull is literally a bull-dozer. The joke transforms a piece of machinery into a napping animal with zero effort, and that simplicity is what makes it stick.",
+    "howToTell": "Ask the question and then answer with a sleepy voice, like you're dozing off yourself. Make a snoring sound for bonus points. Keep it simple — this one doesn't need embellishment.",
+    "perfectFor": ["Passing a construction site with bulldozers", "When someone falls asleep watching TV and is snoring loudly", "Farm-themed activities or coloring books with kids"]
   },
   {
     "id": "corny-040",
@@ -559,7 +676,10 @@
     "rating": 3,
     "dateAdded": "2026-03-08",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Virus\" means both a computer malware infection and a biological illness that sends you to the doctor. The joke treats a computer like a patient with symptoms, and the diagnosis works in both the tech world and the medical world. It's the Venn diagram of IT support and healthcare.",
+    "howToTell": "Tell it with concern, like the computer is a friend who's been feeling unwell. Deliver \"it had a virus\" with a sympathetic head tilt. The anthropomorphization of the computer is key.",
+    "perfectFor": ["When your computer is actually running slowly", "Sick days at home when everyone needs cheering up", "Teaching kids about computer safety and internet hygiene"]
   },
   {
     "id": "corny-041",
@@ -573,7 +693,10 @@
     "rating": 3,
     "dateAdded": "2026-03-08",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Steamed\" means both a cooking method for vegetables and being angry/frustrated (\"I'm steamed!\"). An angry carrot would be \"steamed\" emotionally, and as a veggie, it could also be steamed in a pot. The word does double duty across the kitchen and the therapist's office.",
+    "howToTell": "Ask the question, then deliver the punchline with an exaggerated angry face. Cross your arms and huff like an angry carrot would if carrots had feelings. The visual sells it.",
+    "perfectFor": ["Dinner time when kids refuse to eat their vegetables", "When someone is visibly frustrated about something minor", "Cooking steamed veggies and needing to make the process entertaining"]
   },
   {
     "id": "corny-042",
@@ -587,7 +710,10 @@
     "rating": 4,
     "dateAdded": "2026-03-09",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Pi\" (π = 3.14159...) is the mathematical constant, and \"pie\" is a baked good. A math teacher who's \"great with pi\" has both the mathematical skills and the baking chops. The homophone bridge between math class and a bakery is seamless and delicious.",
+    "howToTell": "Set it up like you're telling a career-change story. When you say \"pi,\" don't specify which kind — let the listener's brain do the work. A knowing wink helps.",
+    "perfectFor": ["Pi Day celebrations on March 14th", "Homework time when your kid is struggling with math", "When someone brings homemade pie to a gathering"]
   },
   {
     "id": "corny-043",
@@ -601,7 +727,10 @@
     "rating": 4,
     "dateAdded": "2026-03-09",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Sandy Claws\" sounds like \"Santa Claus\" but swaps in beach sand and cat claws. The setup paints this weirdly specific picture — a cat, on a beach, on Christmas Eve — and the answer perfectly combines all three elements into a holiday icon parody. Every detail in the setup earns its place.",
+    "howToTell": "Really paint the picture with the setup — a cat, the beach, Christmas Eve. Let each detail land. Then deliver \"Sandy Claws\" with a jolly Santa voice for maximum seasonal charm.",
+    "perfectFor": ["Christmas Eve when the family cat is being festive", "Tropical holiday vacations where it's warm on Christmas", "When watching The Nightmare Before Christmas (Oogie Boogie's sidekick connection)"]
   },
   {
     "id": "corny-044",
@@ -615,7 +744,10 @@
     "rating": 4,
     "dateAdded": "2026-03-10",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Keep your eyes peeled\" means to watch carefully and stay alert — essential detective skills. But potatoes have \"eyes\" (the small sprout spots on their skin) and get \"peeled\" when you prepare them for cooking. So a potato with peeled eyes is both a vigilant investigator and a prepped dinner ingredient.",
+    "howToTell": "Ask the question like you're pitching a cop show about root vegetables. Deliver the punchline while squinting suspiciously, like a detective surveying a scene.",
+    "perfectFor": ["Peeling potatoes for dinner and needing entertainment", "When watching a detective show or mystery movie", "Potato-related meal prep that's getting boring"]
   },
   {
     "id": "corny-045",
@@ -629,7 +761,10 @@
     "rating": 4,
     "dateAdded": "2026-03-10",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"A waist of thyme\" sounds like \"a waste of time\" — a common expression. But a belt goes around your waist, and thyme is an herb. So an herb belt is literally a waist of thyme. This one layers three meanings (waist/waste, thyme/time, belt/herbs) into four perfect words.",
+    "howToTell": "Ask the question and then deliver the punchline like you're making a disappointed observation. Shake your head slightly, like you truly believe herb belts are an impractical fashion choice.",
+    "perfectFor": ["Cooking with herbs and someone asks what you're making", "When someone says something is a 'waste of time' and you can one-up them", "Getting dressed and debating belt choices"]
   },
   {
     "id": "corny-046",
@@ -643,7 +778,10 @@
     "rating": 3,
     "dateAdded": "2026-03-11",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Mugged\" means both robbed/assaulted (a crime you'd report to police) and placed in a mug (how you serve coffee). So coffee getting \"mugged\" is both a criminal incident and its everyday existence. The joke treats normal coffee life as a police matter.",
+    "howToTell": "Tell it with urgency, like you're reporting a real crime. Deliver \"it got mugged\" with dramatic concern. Then take a sip of your own coffee and stare into the distance.",
+    "perfectFor": ["Morning coffee ritual when the family gathers in the kitchen", "When someone's coffee mug has a funny design", "Passing a coffee shop and needing a quick joke"]
   },
   {
     "id": "corny-047",
@@ -657,7 +795,10 @@
     "rating": 4,
     "dateAdded": "2026-03-11",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Labracadabrador\" brilliantly smashes together \"Labrador\" (the dog breed) and \"abracadabra\" (the classic magic word). The portmanteau is long, ridiculous, and somehow sounds like it could be a real breed. It's the kind of word that's fun just to say out loud, which is half the comedy.",
+    "howToTell": "Build up the magic angle — maybe wave an imaginary wand. Then deliver \"a Labracadabrador\" slowly and clearly, because this one needs to be heard in full to land. Say it again if they missed it.",
+    "perfectFor": ["Meeting someone's Labrador at the park", "A kids' magic show or talent show", "When your dog does something that seems impossible (like stealing food off the counter)"]
   },
   {
     "id": "corny-048",
@@ -671,7 +812,10 @@
     "rating": 3,
     "dateAdded": "2026-03-12",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Good point\" is both a compliment for making a smart argument AND a description of a well-sharpened pencil tip. Paper complimenting a pencil's point works on both levels — intellectually and physically. It's office supply diplomacy at its punniest.",
+    "howToTell": "Deliver the punchline like you're agreeing with someone in a meeting. Point at the listener (or an actual pencil) and nod approvingly. The more you sell it as a genuine compliment, the better.",
+    "perfectFor": ["When your kid is sharpening pencils for school", "Office settings when someone actually makes a good point", "Homework time when pencils are out on the table"]
   },
   {
     "id": "corny-049",
@@ -685,7 +829,10 @@
     "rating": 4,
     "dateAdded": "2026-03-12",
     "slug": "",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Rib\" is both a bone in a skeleton AND a cut of meat you'd eat at a barbecue (like BBQ ribs). A skeleton going to a barbecue for ribs is both restocking its own body parts and ordering off the menu. It's anatomically accurate and delicious at the same time.",
+    "howToTell": "Tell it with enthusiasm, like the skeleton is really excited about this barbecue. Deliver \"to get another rib\" while patting your own ribcage. The visual connection drives it home.",
+    "perfectFor": ["Halloween parties when the decorations are up", "Barbecue cookouts when ribs are on the grill", "When someone breaks out a skeleton decoration any time of year"]
   },
   {
     "id": "corny-050",
@@ -699,7 +846,10 @@
     "rating": 4,
     "dateAdded": "2026-03-13",
     "slug": "what-call-can-soup-eats-other-cans",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cannibal\" literally starts with \"can\" — and a can eating other cans is can-nibalism. The word \"cannibal\" normally means a person who eats other people, but for soup cans, it works on a completely different level. It's dark humor made wholesome by making it about pantry items instead of people.",
+    "howToTell": "Ask the setup like it's a horror movie premise for your kitchen. Deliver \"a cannibal\" with dramatic flair, then gesture at your pantry like there's real danger in there.",
+    "perfectFor": ["Organizing the pantry and stacking soup cans", "When someone eats the last can of their favorite soup", "Rainy day lunch when you're heating up canned soup"]
   },
   {
     "id": "corny-051",
@@ -713,7 +863,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-bear-in-rain-corny",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Drizzly\" sounds like \"grizzly\" — as in grizzly bear. But \"drizzle\" is light rain. So a grizzly bear caught in light rain becomes a drizzly bear. The consonant swap from G to D is so subtle that the pun sneaks up on you before you can dodge the groan.",
+    "howToTell": "Ask the question while looking out the window at any kind of rain. Deliver \"a drizzly bear\" with a slight shiver, like you're cold and wet too. Sympathy for the bear adds charm.",
+    "perfectFor": ["Rainy days when kids are stuck indoors and need entertainment", "Walking past a teddy bear display when it's drizzling outside", "When someone complains about getting caught in the rain"]
   },
   {
     "id": "corny-052",
@@ -727,7 +880,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-student-eat-homework-corny",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Piece of cake\" is an idiom meaning something is easy, but the student takes it literally and eats the homework thinking it's actual cake. The humor comes from the literal interpretation of a figurative expression — a classic comedy technique. Teacher meant easy; student heard dessert.",
+    "howToTell": "Set it up like a real school story. Deliver the punchline matter-of-factly, like eating homework is a perfectly reasonable response to a teacher's encouragement. The deadpan is everything.",
+    "perfectFor": ["Homework struggles when your kid needs a laugh break", "When a teacher tells your kid an assignment will be easy", "Back-to-school season and everyone's dreading homework"]
   },
   {
     "id": "corny-053",
@@ -741,7 +897,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-train-loaded-bubblegum",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Chew-chew\" sounds like \"choo-choo\" — the classic sound a train makes. But bubblegum is something you chew. A train loaded with bubblegum goes \"chew-chew\" instead of \"choo-choo.\" The sound effect and the action are the same word, just spelled differently. It's phonetic perfection.",
+    "howToTell": "Make the \"chew-chew\" sound like a train whistle while miming chewing bubblegum at the same time. The sillier you look, the better this one lands with kids.",
+    "perfectFor": ["Riding a train or seeing one at a crossing", "When your kid asks for bubblegum at the store", "Thomas the Tank Engine viewing sessions with toddlers"]
   },
   {
     "id": "corny-054",
@@ -755,7 +914,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-teddy-bear-skip-dessert-corny",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Stuffed\" means both \"full from eating too much\" and \"filled with stuffing\" (which is literally what teddy bears are made of). A teddy bear is permanently stuffed — it can never NOT be stuffed. So skipping dessert is her eternal condition, not a dinner decision.",
+    "howToTell": "Pat your belly when you say \"stuffed\" and lean back in your chair like you just ate a huge meal. Then point at a nearby stuffed animal for the reveal. Let the kid connect the dots.",
+    "perfectFor": ["After a big holiday dinner when everyone's actually stuffed", "Bedtime when your kid is cuddling their teddy bear", "Build-A-Bear visits when you're literally stuffing bears"]
   },
   {
     "id": "corny-055",
@@ -769,7 +931,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-dancing-plate",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Disco-very\" splits \"discovery\" into \"disco\" (the dance style) and \"very\" — it's a stretch, but the image of a plate doing disco moves in the kitchen is so absurd it works through sheer commitment. Sometimes the pun doesn't have to be airtight; the mental image carries the comedy.",
+    "howToTell": "Do a little disco point when you say it — finger up, finger down, John Travolta style. The delivery has to match the energy of a plate that genuinely loves to dance.",
+    "perfectFor": ["Unloading the dishwasher and making it fun for kids", "When a disco song comes on and you need a transition joke", "Setting the table for dinner and spinning a plate"]
   },
   {
     "id": "corny-056",
@@ -783,7 +948,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-rope-go-to-doctor",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"A knot in your stomach\" is an expression for feeling anxious or nervous, but for a rope, a knot is a literal physical condition — it's what ropes DO. So a rope with a knot in its stomach has both an anxiety problem and a structural feature. The metaphor becomes literal when your patient is made of fiber.",
+    "howToTell": "Tell it with concern for the rope's wellbeing. Deliver \"a knot in its stomach\" while clutching your own stomach, like you're feeling sympathy pain for the rope.",
+    "perfectFor": ["When your kid says they have a stomach ache from nerves", "Tying knots on a camping trip or boat", "Before a big event when everyone's feeling nervous butterflies"]
   },
   {
     "id": "corny-057",
@@ -797,7 +965,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-ghosts-favorite-food-corny",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Spook-ghetti\" swaps \"spa\" in \"spaghetti\" for \"spook\" — because ghosts are spooky. The portmanteau flows so naturally it sounds like it could be a real haunted pasta dish. It's simple, it's food-related, and kids can say it, which makes it endlessly repeatable.",
+    "howToTell": "Ask the question in a spooky ghost voice (\"Whooooo\"). Then say \"spook-ghetti\" like you're a waiter at a haunted Italian restaurant. Chef's kiss after.",
+    "perfectFor": ["Spaghetti night at home", "Halloween dinner planning", "When a kid is scared of ghosts and you want to make ghosts seem silly"]
   },
   {
     "id": "corny-058",
@@ -811,7 +982,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-orange-lose-the-race",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Ran out of juice\" means both losing energy/stamina (why you'd lose a race) and literally losing orange juice (what oranges are full of). It's the same pun structure as the lemon version, but the racing context makes the exhaustion angle land harder. This orange gave it everything and had nothing left.",
+    "howToTell": "Tell it like a breathless sports announcer doing a play-by-play. Deliver \"it ran out of juice\" with genuine disappointment, like you had money on the orange.",
+    "perfectFor": ["Pouring orange juice at breakfast", "When someone's exhausted after exercising", "Watching a race (running, cars, anything) and someone falls behind"]
   },
   {
     "id": "corny-059",
@@ -825,7 +999,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "what-call-happy-cowboy",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Jolly Rancher\" is a popular candy brand, but break it down and \"jolly\" means happy and a \"rancher\" is a cowboy who runs a ranch. A happy cowboy IS a jolly rancher. The joke hides a candy brand name inside a perfectly literal description. It's so clean it feels like the candy was named for this joke.",
+    "howToTell": "Ask the setup like a riddle. Say \"a jolly rancher\" with a big cowboy drawl and a tip of an imaginary hat. Then offer them an actual Jolly Rancher candy if you've got one.",
+    "perfectFor": ["Handing out Jolly Rancher candies at Halloween", "Western movie night with the family", "When someone's in a great mood and you want to name their energy"]
   },
   {
     "id": "corny-060",
@@ -839,7 +1016,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-light-bulb-fail-test",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Bright\" means both intelligent (as in a bright student) and emitting light (what light bulbs do). A light bulb that isn't bright has failed at both academics and its one actual job. The irony of a light bulb — the universal symbol of ideas — not being bright is the cherry on top.",
+    "howToTell": "Tell it like you're sharing disappointing report card news. Shake your head sadly at \"it wasn't very bright\" — like you expected more from a light bulb.",
+    "perfectFor": ["When a light bulb burns out in the house", "Test day encouragement for your kid (tell it AFTER the test)", "When someone has a lightbulb moment and you want to be playfully contrary"]
   },
   {
     "id": "corny-061",
@@ -853,7 +1033,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-penguin-in-sahara",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is anti-humor — you expect a clever pun combining penguins and deserts, but the answer is just... \"lost.\" Because yeah, a penguin in the Sahara desert IS lost. It's aggressively literal and the simplicity is what makes it funny. The joke's power is in subverting your expectation of wordplay.",
+    "howToTell": "Ask the setup like you're building to something epic. Then deliver \"lost\" flatly, with zero enthusiasm. The letdown IS the punchline. Shrug your shoulders like it's the most obvious answer in the world.",
+    "perfectFor": ["Geography lessons about climates and habitats", "When someone is clearly in the wrong place at the wrong time", "After telling a bunch of clever puns and wanting to switch up the format"]
   },
   {
     "id": "corny-062",
@@ -867,7 +1050,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-dont-eggs-tell-jokes-corny",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Crack up\" means to laugh uncontrollably, but eggs crack — literally, their shells break. If eggs told jokes and cracked each other up, they'd be physically destroyed. The humor avoidance is actually self-preservation. It's the only joke where not telling jokes is a survival strategy.",
+    "howToTell": "Ask the question with a concerned tone, like egg safety is at stake. Deliver \"they'd crack each other up\" while miming cracking an egg. The physical comedy reinforces the visual.",
+    "perfectFor": ["Making breakfast and cracking eggs", "Easter egg decorating or egg hunts", "When someone laughs so hard they nearly fall over"]
   },
   {
     "id": "corny-063",
@@ -881,7 +1067,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-garden-singing-vegetables",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Beet box\" sounds like \"beatbox\" — the vocal percussion technique in hip-hop. But beets are vegetables that grow in gardens. So a garden of singing veggies is literally a beet box — a box (garden bed) full of beets making music. It bridges gardening and hip-hop in two perfect syllables.",
+    "howToTell": "Ask the question and then beatbox for a second before delivering \"a beet box.\" The musical demonstration before the answer makes it click instantly. Drop a beat, drop the pun.",
+    "perfectFor": ["Gardening with the family and pulling up beets", "When someone starts beatboxing randomly", "Farmers market visits when beets are in season"]
   },
   {
     "id": "corny-064",
@@ -895,7 +1084,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-barber-win-the-race",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Short cut\" means both a shorter route (how you'd win a race by cheating) and a close-cropped haircut (what barbers give). The barber's professional skill — knowing how to cut things short — becomes his racing strategy. It's career crossover humor at its finest.",
+    "howToTell": "Tell it like a suspicious sports reporter who thinks there was foul play. Deliver \"he knew a short cut\" while miming scissors cutting hair. The gesture makes the double meaning click.",
+    "perfectFor": ["Right after getting a haircut", "When someone takes a shortcut while driving or walking", "When you're racing the kids to the car and need an excuse for winning"]
   },
   {
     "id": "corny-065",
@@ -909,7 +1101,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-dinosaur-on-couch",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Sofa-saurus\" combines \"sofa\" with the \"-saurus\" suffix that makes everything sound like a dinosaur species. It implies this is a real category of prehistoric creature whose natural habitat was the living room couch. The image of a T-Rex sprawled on a sofa watching Netflix is inherently hilarious.",
+    "howToTell": "Ask the question and then flop back on the couch when you deliver the punchline. Pretend to be a lazy sofa-saurus yourself. Sound effects of snoring are welcome.",
+    "perfectFor": ["When someone falls asleep on the couch", "Lazy Sunday afternoons", "When your kid is lying on the sofa and won't get up"]
   },
   {
     "id": "corny-066",
@@ -923,7 +1118,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-music-note-get-grounded",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"B sharp\" is a musical note (B♯), but \"be sharp\" also means \"be on your game\" or \"behave well.\" A music note that can't B sharp has both a musical limitation and a behavioral problem — the kind that gets you grounded by your parents. Music theory meets family discipline.",
+    "howToTell": "Tell it with parental authority, like you're the one doing the grounding. Wag your finger when you say \"couldn't B sharp\" — sell the disappointed parent angle.",
+    "perfectFor": ["When your kid is practicing a musical instrument", "Music class or school band concerts", "When someone plays a wrong note and you need to lighten the embarrassment"]
   },
   {
     "id": "corny-067",
@@ -937,7 +1135,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-lazy-ocean",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The Dead Sea is a real body of water (a salt lake between Israel and Jordan), but calling an ocean \"dead\" because it's lazy reframes the geography as a personality trait. \"Dead\" as in lifeless/inactive = lazy. It takes a real place name and gives it a comedic origin story.",
+    "howToTell": "Ask it while yawning, like the ocean's laziness is contagious. Deliver \"a dead sea\" with a flat, tired voice. Then lie back dramatically.",
+    "perfectFor": ["Geography homework about bodies of water", "Beach vacations when the water is unusually calm", "When someone's being lazy and you need a nature metaphor for it"]
   },
   {
     "id": "corny-068",
@@ -951,7 +1152,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-banana-wear-sunscreen-corny",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Peel\" means both to remove skin (what happens when you get sunburned — your skin peels) and to remove a banana's outer layer. A banana peeling is just regular banana life, but peeling from sunburn is painful. So the banana's wearing sunscreen to avoid its own natural state. It's existential fruit comedy.",
+    "howToTell": "Mime applying sunscreen while asking the setup. Deliver \"it didn't want to peel\" with genuine concern, like sunburn prevention for bananas is a real public health issue.",
+    "perfectFor": ["Applying sunscreen before going outside", "Peeling bananas for a smoothie or snack", "Beach days when the sunscreen comes out"]
   },
   {
     "id": "corny-069",
@@ -965,7 +1169,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-fly-no-wings",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"fly\" is named after what it does — it flies. Remove the wings and it can't fly anymore, so it just walks. Therefore it's a \"walk.\" The joke applies perfectly logical renaming to an insect: if you define an animal by its mode of transportation, change the mode and you change the name. Simple but airtight.",
+    "howToTell": "Ask the question, pause, and then say \"a walk\" with absolute certainty. The confidence in such a simple answer is what makes it land. No embellishment needed.",
+    "perfectFor": ["When a fly is buzzing around the house and driving everyone crazy", "Going for a walk and spotting bugs on the path", "When someone swats at a fly and misses"]
   },
   {
     "id": "corny-070",
@@ -979,7 +1186,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-book-go-to-hospital",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Books have a \"spine\" (the bound edge that holds the pages together) and so do humans. A broken spine is a serious medical emergency for a person, but for a book it means the binding is damaged. The joke treats a library problem like a medical emergency, and both uses of \"spine\" are completely accurate.",
+    "howToTell": "Tell it with medical urgency, like you're an EMT rushing a book to the ER. Deliver \"a broken spine\" with the gravity it deserves — because in the book world, this IS serious.",
+    "perfectFor": ["Library visits when books are looking worn", "When someone drops a book and the binding cracks", "Reading time when you need a joke to break up a long chapter"]
   },
   {
     "id": "corny-071",
@@ -993,7 +1203,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-kind-nut-no-shell",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Doughnut\" has \"nut\" right there in the name, but it's obviously not a real nut — it's a pastry. The riddle format tricks you into thinking about almonds and walnuts, but the answer pivots to a completely different food category. No shell because there's no nut — just dough. It's a misdirection masterpiece.",
+    "howToTell": "Ask it like a genuine riddle and let them guess. Most people will say cashews or something — which is technically right but misses the joke. Drop \"a doughnut\" like a mic drop.",
+    "perfectFor": ["Doughnut runs on Saturday mornings", "When passing a bakery or Dunkin'", "When someone's cracking open nuts and struggling with shells"]
   },
   {
     "id": "corny-072",
@@ -1007,7 +1220,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-nose-feel-lonely",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Picked on\" means bullied or singled out, but noses get \"picked\" in the grosser, more literal sense. The nose is lonely because people keep picking on it — both teasing it and, well, picking it. It's a gross-out pun disguised as an empathy lesson, which kids find absolutely hysterical.",
+    "howToTell": "Tell it sympathetically, like the nose is your friend going through a tough time. Deliver \"picked on\" and then point to your nose with a knowing look. Let the kids connect the grosser meaning themselves.",
+    "perfectFor": ["When your kid won't stop picking their nose", "Discussing bullying in a light way that makes kids laugh first", "When someone sneezes and the tissue box comes out"]
   },
   {
     "id": "corny-073",
@@ -1021,7 +1237,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-fish-needs-singing-help",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Tuna\" sounds like \"tuner\" or \"out of tuna/tune\" — a fish that needs help singing is out of tune, making it a tuna. The connection between the fish name and musical terminology is subtle enough that it takes a second to click, and that delayed reaction is where the groan lives.",
+    "howToTell": "Ask the question and then sing a note badly off-key before delivering \"a tuna.\" The off-key singing demonstrates the problem and sets up the punchline perfectly.",
+    "perfectFor": ["Karaoke nights when someone sings off-key", "Making tuna sandwiches for lunch", "When someone's humming a song and getting the melody wrong"]
   },
   {
     "id": "corny-074",
@@ -1035,7 +1254,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-computer-take-hat-off",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Caps lock\" is a keyboard key that makes everything uppercase, but \"caps\" also means hats/baseball caps. Too many \"caps lock\" means the computer's hats are locked on — it's wearing too many caps and needs to take them off. It merges keyboard terminology with a wardrobe malfunction.",
+    "howToTell": "Mime taking off a hat when you deliver the punchline. Then pretend to press a Caps Lock key. The physical comedy bridging fashion and tech makes it clear.",
+    "perfectFor": ["When someone accidentally types in ALL CAPS in a message", "When your kid leaves the caps lock on while doing homework", "Hat shopping or when someone's wearing multiple hats"]
   },
   {
     "id": "corny-075",
@@ -1049,7 +1271,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-boomerang-never-comes-back",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This is anti-humor gold — a boomerang's entire identity is that it comes back when you throw it. Remove that feature, and it's just... a stick. A curved stick, sure, but functionally just a stick. The humor is in the brutal logical reduction. No pun, no wordplay, just devastatingly simple truth.",
+    "howToTell": "Ask the question like it's a deep philosophical riddle. Then say \"a stick\" with complete flatness. The anticlimax IS the comedy. Don't smile — let the silence do the work.",
+    "perfectFor": ["Playing fetch with a dog and the stick doesn't come back", "When something you expected to return (a text, a favor) never does", "Outdoorsy activities where sticks are abundant"]
   },
   {
     "id": "corny-076",
@@ -1063,7 +1288,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-melon-jump-into-pool",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"watermelon\" is already a type of melon, but the joke reframes it as a regular melon that becomes a WATERmelon by jumping in water. It treats the \"water\" prefix as something you earn through immersion rather than a species classification. It's fruit logic, and it's flawless.",
+    "howToTell": "Tell it like you're explaining a melon's life goals. Deliver the punchline with an encouraging nod, like you're proud of the melon for going after its dreams. Maybe mime a cannonball.",
+    "perfectFor": ["Pool parties on hot summer days", "Cutting up watermelon for a picnic", "When someone does a cannonball into the pool"]
   },
   {
     "id": "corny-077",
@@ -1077,7 +1305,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-cold-dog-sitting-bunny",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Chili dog\" is a hot dog topped with chili, but here a cold (chilly) dog is literally a \"chili dog.\" And a bunny = bun (the thing hot dogs sit in). So a cold dog on a bunny = a chili dog on a bun. Every element maps perfectly to the fast food equivalent. It's a two-layer pun in one answer.",
+    "howToTell": "Let the setup paint the picture — really emphasize the cold dog and the bunny. The punchline connects all the dots. Deliver it slowly so each word registers: \"a chili... dog... on a bun.\"",
+    "perfectFor": ["Cookouts when hot dogs are on the grill", "When your dog shivers in the cold and sits on something weird", "When you spot a bunny in the yard and your dog is nearby"]
   },
   {
     "id": "corny-078",
@@ -1091,7 +1322,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-traffic-light-turn-red",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Turn red\" means both to change to the red light color AND to blush from embarrassment. \"Change\" means both switching light colors and changing clothes. The punchline implies the traffic light is embarrassed because it has to \"change\" (clothes) in public — in the middle of the street where everyone can see. It's modesty humor for inanimate objects.",
+    "howToTell": "Ask the question and then deliver the punchline with mock embarrassment — cover your face, blush, look around like people are watching. The physical comedy of being embarrassed on behalf of a traffic light is everything.",
+    "perfectFor": ["Sitting at a red light in the car with kids", "When someone changes clothes in a semi-public area like a beach", "Teaching kids about traffic safety in a fun way"]
   },
   {
     "id": "corny-079",
@@ -1105,7 +1339,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-seagull-flies-over-bay",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A seagull flies over the sea — that's why it's a SEA-gull. So a gull that flies over a BAY would logically be a BAY-gull... which sounds like \"bagel.\" The joke applies the naming convention of seagulls to a different body of water and accidentally invents breakfast. The logic is absurd but internally consistent.",
+    "howToTell": "Ask the question casually. Say \"a bagel\" with zero hesitation, like this is accepted ornithology. If they question it, explain the seagull-over-sea logic and watch them reluctantly accept it.",
+    "perfectFor": ["Eating bagels for breakfast", "At the beach watching seagulls", "Driving past a bay or waterfront area"]
   },
   {
     "id": "corny-080",
@@ -1119,7 +1356,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-cows-hooves-instead-feet",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Lactose\" is the sugar found in milk (produced by cows), but it sounds like \"lack toes\" — they lack toes because they have hooves instead. So cows have hooves because they lac-tose (lack toes). It bridges dairy science and anatomy in one devastating homophone.",
+    "howToTell": "Ask the question like it's a real biology mystery. Say \"because they lactose\" matter-of-factly, like you just dropped some serious veterinary knowledge. Let the pause do the work.",
+    "perfectFor": ["When someone mentions being lactose intolerant", "Pouring milk or eating cereal", "Farm visits or driving past cow pastures"]
   },
   {
     "id": "corny-081",
@@ -1133,7 +1373,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-running-turkey",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Fast food\" normally means quick-service restaurant food, but a turkey that's running is literally fast food — it's food that's moving quickly. The joke redefines the term by taking both words literally instead of as a compound phrase. Simple, clean, and instantly groanworthy.",
+    "howToTell": "Ask the question while miming a turkey running (elbows out, bobbing your head). Say \"fast food\" like you just coined the term. Speed is everything in the delivery — say it quick.",
+    "perfectFor": ["Thanksgiving dinner prep conversations", "Driving past a fast food restaurant", "When a turkey (or any bird) runs across the yard"]
   },
   {
     "id": "corny-082",
@@ -1147,7 +1390,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-grape-stop-middle-road",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Ran out of juice\" — same pun as the lemon and orange versions, but with a grape this time. \"Juice\" means both energy and the liquid inside the fruit. This one's a classic because grapes are THE juice fruit — grape juice is practically its whole identity. Running out of juice is existential for a grape.",
+    "howToTell": "Tell it as part of a fruit-crossing-the-road trilogy if you've already told the lemon or orange versions. By the third one, the audience groans before you even finish the setup. That's the goal.",
+    "perfectFor": ["Drinking grape juice or eating grapes", "When you've already told the lemon and orange versions and want to push your luck", "Road trips when everything is a 'why did X cross the road' joke"]
   },
   {
     "id": "corny-083",
@@ -1161,7 +1407,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "what-call-dinosaur-takes-care-teeth",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Flossoraptor\" mashes \"floss\" (dental floss for clean teeth) with \"Velociraptor\" (the fast, scary dinosaur). A raptor that flosses is both terrifying and hygiene-conscious — the ultimate combo. It's the kind of portmanteau that sounds like it could be a real species, which makes it even better.",
+    "howToTell": "Ask the question and then bare your teeth when you say \"Flossoraptor\" — do a little raptor claw motion too. Commit to being a dinosaur with excellent dental habits.",
+    "perfectFor": ["When your kid resists flossing before bed", "Dinosaur museum exhibits", "Dentist waiting rooms when everyone needs distraction"]
   },
   {
     "id": "corny-084",
@@ -1175,7 +1424,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-golfer-bring-extra-socks",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"hole in one\" is golf's greatest achievement — getting the ball in the cup in a single stroke. But a \"hole in one\" sock is just a damaged sock with a hole in it. The golfer's greatest triumph and his worst wardrobe malfunction use the exact same phrase. Golf glory meets laundry day.",
+    "howToTell": "Tell it like practical golf advice. Nod sagely when you say \"in case he got a hole in one\" — then point at your own sock. The transition from sports wisdom to sock problems is the comedy.",
+    "perfectFor": ["Mini golf outings with the family", "When someone finds a hole in their sock", "Watching golf on TV and it needs livening up"]
   },
   {
     "id": "corny-085",
@@ -1189,7 +1441,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-ocean-say-to-pirate",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The ocean can't talk (\"nothing\"), but it does have waves. So it \"waved\" — both a greeting gesture and a literal ocean wave. The joke subverts your expectation of a pirate-themed punchline and instead delivers a sweet, simple observation about what oceans actually do. No \"arrr\" required.",
+    "howToTell": "Ask the question in a pirate voice for setup flavor. Then wave your hand slowly and say \"nothing, it just waved\" with a peaceful smile, like you're watching the ocean from shore.",
+    "perfectFor": ["Beach days when waves are crashing", "Pirate-themed birthday parties", "When someone waves at you from far away and you want a joke to wave back with"]
   },
   {
     "id": "corny-086",
@@ -1203,7 +1458,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-hamburgers-go-to-gym",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Buns\" are both the bread that holds a hamburger AND slang for your backside/glutes — the muscles you work on at the gym. A hamburger wanting better buns is both upgrading its bread and working on its posterior. Fitness culture meets fast food in one glorious double entendre that's still totally kid-friendly.",
+    "howToTell": "Ask the question with a fitness-bro tone. Flex when you say \"better buns\" — the gym context makes the flex feel natural while the food meaning sneaks in behind it.",
+    "perfectFor": ["Grilling burgers at a cookout", "When someone's heading to the gym and you want to send them off with a laugh", "Picking out hamburger buns at the grocery store"]
   },
   {
     "id": "corny-087",
@@ -1217,7 +1475,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-fairy-doesnt-shower",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Stinkerbell\" swaps \"Tinker\" for \"Stinker\" in Tinkerbell — the fairy from Peter Pan. A fairy that doesn't shower would stink, making her Stinkerbell instead of Tinkerbell. The single consonant swap transforms Disney magic into hygiene humor, and the name still sounds like a legitimate fairy character.",
+    "howToTell": "Ask the question and hold your nose when you deliver \"Stinkerbell.\" Wave your hand in front of your face like the smell is unbearable. Physical comedy is essential here.",
+    "perfectFor": ["When your kid avoids bath time", "Peter Pan movie nights", "When something smells bad and you need to make light of it"]
   },
   {
     "id": "corny-088",
@@ -1231,7 +1492,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-crackers-firefighters-like",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Firecrackers\" are explosive pyrotechnics, but for a firefighter, they'd be \"fire-crackers\" — crackers specifically for firefighters. The compound word gets repurposed from Fourth of July explosions to lunch at the fire station. It's the career-appropriate soup companion nobody asked for.",
+    "howToTell": "Ask the question like you're a server at a fire station cafeteria. Deliver \"firecrackers\" with enthusiasm, like it's the daily special. Maybe mime crumbling crackers into soup.",
+    "perfectFor": ["When a fire truck drives by with sirens on", "Fourth of July celebrations with fireworks and firecrackers", "Soup weather in winter when you're adding crackers to your bowl"]
   },
   {
     "id": "corny-089",
@@ -1245,7 +1509,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "astronauts-favorite-keyboard-key",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "The \"space bar\" is the long key at the bottom of your keyboard, but for an astronaut, \"space\" is where they work and \"bar\" could be their favorite hangout. An astronaut's favorite key is the SPACE bar because they love space. It's so clean and obvious that you're mad you didn't think of it first.",
+    "howToTell": "Ask the question and dramatically press an imaginary space bar when you reveal the answer. Say \"the SPACE bar\" with emphasis on space, like you're announcing a mission to the cosmos.",
+    "perfectFor": ["When your kid is learning to type", "Space-themed classroom lessons or science projects", "When someone keeps forgetting to put spaces between words"]
   },
   {
     "id": "corny-090",
@@ -1259,7 +1526,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-kid-throw-butter-window",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Butterfly\" = butter + fly. The kid threw butter out the window so it would fly through the air — and butter that flies is a butter-fly. It deconstructs the word \"butterfly\" into its component parts and takes them literally. It's childlike logic applied to etymology, and it's beautiful.",
+    "howToTell": "Tell it with the excited energy of a kid who just had a brilliant idea. Mime throwing something out a window, then point outside and say \"to see a butterfly!\" with wonder in your voice.",
+    "perfectFor": ["When you spot a butterfly outside", "Spreading butter on toast at breakfast", "Nature walks when butterflies are fluttering around"]
   },
   {
     "id": "corny-091",
@@ -1273,7 +1543,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-bee-cant-make-up-mind",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"May-bee\" sounds like \"maybe\" — the ultimate word of indecision. But it's also literally a type of bee: a may-bee. Can't decide? You're not a honey bee or a bumble bee, you're a maybe. The pun is so natural it barely feels forced, which is the mark of a truly great dad joke.",
+    "howToTell": "Ask the question and then shrug with exaggerated indecision. Say \"a may-bee\" while wavering back and forth, like you can't even commit to delivering the punchline. Meta-indecisiveness.",
+    "perfectFor": ["When someone can't decide what to order at a restaurant", "Spring days when bees are buzzing around", "When your kid says 'maybe' for the fiftieth time that day"]
   },
   {
     "id": "corny-092",
@@ -1287,7 +1560,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-are-frogs-so-happy",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Bugs them\" means both \"annoys them\" and literally the bugs that bother them — which frogs eat. So when something bugs a frog, it just eats the problem. Imagine if you could eat your annoyances. That's why frogs are happy — their problems are their dinner. It's the world's best coping mechanism.",
+    "howToTell": "Ask the question with a contemplative tone, like you're sharing ancient wisdom. Deliver the punchline like it's profound life advice. Because honestly, eating your problems IS a solid strategy if you're a frog.",
+    "perfectFor": ["Spotting frogs at a pond or creek", "When someone is complaining about something annoying", "Summer evenings when the frogs start chirping"]
   },
   {
     "id": "corny-093",
@@ -1301,7 +1577,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-cupcake-without-frosting",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "This isn't even a pun — it's just... true. A cupcake without frosting IS basically a muffin. The humor comes from the realization that the only thing separating a cupcake from a muffin is frosting and ambition. It's a food identity crisis disguised as a joke, and it makes you question everything you know about baked goods.",
+    "howToTell": "Ask it like a deep philosophical question. Drop \"a muffin\" with the weight of someone who just blew their own mind. Watch the listener's face as they realize you might be right.",
+    "perfectFor": ["Baking cupcakes and the frosting runs out", "When someone debates whether muffins are just unfrosted cupcakes", "Breakfast time when someone eats a muffin and you need to challenge their worldview"]
   },
   {
     "id": "corny-094",
@@ -1315,7 +1594,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-gardeners-make-good-detectives",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Get to the root\" means to find the underlying cause of something — a detective skill. But gardeners literally deal with roots — plant roots underground. The metaphorical expression becomes literal when your investigator carries a trowel instead of a badge. Both meanings involve digging deep.",
+    "howToTell": "Tell it like you're recommending a career change to every gardener you know. Deliver the punchline while miming digging with a shovel, like you're unearthing clues and tulips simultaneously.",
+    "perfectFor": ["Gardening with the family on a spring weekend", "When someone says 'let's get to the root of this'", "Watching a detective show and wanting to lighten the mood"]
   },
   {
     "id": "corny-095",
@@ -1329,7 +1611,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "what-call-sleeping-woodworker",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "A \"lumberjack\" is someone who cuts trees, but \"lumber\" also means to sleep/slumber (as in slumbering). So a sleeping woodworker is a lumber-jack — someone who works with lumber AND slumbers. The word collapses two activities (sleeping and logging) into one bearded profession.",
+    "howToTell": "Ask the setup and then pretend to fall asleep mid-sentence when delivering the punchline. Wake yourself up to say \"lumber-jack\" like you just dozed off at your own joke.",
+    "perfectFor": ["When someone falls asleep during a woodworking project", "Camping trips where lumberjack vibes are strong", "When anyone in the house is caught napping at an odd time"]
   },
   {
     "id": "corny-096",
@@ -1343,7 +1628,10 @@
     "rating": 3,
     "dateAdded": "2026-03-01",
     "slug": "why-sun-go-to-therapy",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Flares\" are actual solar phenomena (solar flares — massive bursts of energy from the sun's surface), but \"flare-ups\" also describe emotional outbursts that you'd work on in therapy. The sun having anger management issues because of its flares works on both the astronomical and psychological level.",
+    "howToTell": "Tell it sympathetically, like you're the sun's concerned friend. Deliver \"too many flares\" with a worried look, like the sun really needs to get its emotions under control.",
+    "perfectFor": ["Sunny days when you're applying sunscreen", "When someone is being overly dramatic about something", "Science class discussions about the solar system"]
   },
   {
     "id": "corny-097",
@@ -1357,7 +1645,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-sleeping-vampire",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Coffin\" sounds like \"coughin'\" (coughing) — but that's not even the main joke. Vampires literally sleep in coffins. So calling a sleeping vampire \"a coffin\" is both where they sleep AND a play on how the word sounds. The answer is hiding in plain sight inside vampire lore. It's so on-the-nose it's almost too easy.",
+    "howToTell": "Ask in a spooky Dracula voice. Say \"a coffin\" and then cough a few times for the phonetic bonus. Cross your arms over your chest like a sleeping vampire for the visual.",
+    "perfectFor": ["Halloween parties and trick-or-treating", "When someone won't stop coughing", "Watching vampire movies and needing to break the tension"]
   },
   {
     "id": "corny-098",
@@ -1371,7 +1662,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "why-butter-refuse-fight-bread",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"On a roll\" means gaining momentum or being on a winning streak (something fighters do), but a \"roll\" is also a type of bread. Butter getting \"on a roll\" is both going on a fighting streak AND being spread on bread — which is butter's actual job. The butter is avoiding violence and its daily duty in one refusal.",
+    "howToTell": "Tell it like a sports announcer covering a boxing match between condiments. Deliver the punchline like you understand the butter's pacifism — it's not about fear, it's about principle.",
+    "perfectFor": ["Dinner rolls and butter on the table", "When someone's 'on a roll' at anything competitive", "Breakfast time when butter is being spread on toast"]
   },
   {
     "id": "corny-099",
@@ -1385,7 +1679,10 @@
     "rating": 4,
     "dateAdded": "2026-03-01",
     "slug": "what-call-pile-of-kittens",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Meow-ntain\" swaps \"mou\" in \"mountain\" with \"meow\" — the sound cats make. A pile of kittens would literally be a meow-ntain: a mountain of meowing. The portmanteau is adorable, the mental image is irresistible, and it's the kind of word kids will repeat endlessly.",
+    "howToTell": "Ask the question and then say \"a meow-ntain\" in a high-pitched cat voice. Pile your hands on top of each other to show the growing mountain of kittens. The cuter you make it, the better.",
+    "perfectFor": ["When kittens pile on top of each other (in person or in videos)", "Cat cafe visits", "When your kid begs for a kitten and you need to lighten the 'no'"]
   },
   {
     "id": "corny-100",
@@ -1399,7 +1696,10 @@
     "rating": 5,
     "dateAdded": "2026-03-01",
     "slug": "why-peanut-call-the-police",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"A-salted\" sounds like \"assaulted\" — a crime you'd report to police. But peanuts get salted — it's how you season them. So a salted peanut has been both seasoned AND attacked, depending on how you hear it. It's snack food victimhood at its most dramatic, and it earned that perfect 5-star rating.",
+    "howToTell": "Tell it with the urgency of someone reporting a real crime. Deliver \"it was a-salted\" with emphasis on \"salted,\" then pause to let both meanings sink in. Maybe reach for a handful of salted peanuts.",
+    "perfectFor": ["Snacking on salted peanuts at a baseball game", "When passing the peanut butter aisle at the grocery store", "Game night when the snack bowl is full of mixed nuts"]
   },
   {
     "id": "corny-101",
@@ -1412,7 +1712,10 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "if-a-king-sleeps-on-a-king-sized-bed-a-queen-on-a-queen-sized-bed-what-kind-does",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Heir mattress\" sounds like \"air mattress\" — the inflatable bed. But a prince IS an heir to the throne, so an \"heir mattress\" is the royal-equivalent bed for a prince. The joke follows the logical pattern (king → king bed, queen → queen bed) and lands on a homophone that's both regal and uncomfortable to sleep on.",
+    "howToTell": "Build the pattern slowly and methodically — king bed, queen bed — then pause dramatically before the prince's answer. Say \"an heir mattress\" with royal authority, like you're announcing a decree.",
+    "perfectFor": ["When someone's inflating an air mattress for a guest", "Sleepovers where kids need extra bedding", "When discussing mattress shopping and someone asks about sizes"]
   },
   {
     "id": "corny-102",
@@ -1425,7 +1728,10 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "i-let-out-a-huge-sigh-when-i-received-another-text-from-the-guy-next-door-hey-wh",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "Every word in the neighbor's text is missing the letter Z: \"oo\" (zoo), \"ip ties\" (zip ties), \"bu saw\" (buzz saw), \"ucchinis\" (zucchinis). The punchline \"no-Z neighbor\" sounds like \"nosy neighbor\" — someone who's always in your business. But it literally describes a neighbor who can't use the letter Z. The entire joke is an elaborate setup for a single homophone.",
+    "howToTell": "This one needs commitment — read the garbled text message slowly, letting the confusion build. Let your audience try to figure out the missing letters before you deliver the punchline. The 'aha' moment is the payoff.",
+    "perfectFor": ["When you get a typo-filled text from someone", "Neighborhood gatherings where everyone knows the nosy neighbor", "Word game nights like Scrabble when someone runs out of certain letters"]
   },
   {
     "id": "corny-103",
@@ -1438,7 +1744,10 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "you-ever-heard-of-silent-tennis",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Racket\" means both the tennis equipment AND a loud noise. Tennis without the racket is silent (no noise) AND impossible to play (no equipment). The word \"racket\" does all the heavy lifting — it's the tool, the sound, and the entire joke. Remove the racket from tennis and you lose both the game and the volume.",
+    "howToTell": "Ask \"you ever heard of silent tennis?\" casually, like it's a real sport. Deliver the explanation deadpan, as if this is a legitimate athletic variation. The more seriously you present it, the better the groan.",
+    "perfectFor": ["Watching tennis on TV (especially during loud grunting)", "When someone's being too loud and you want them to quiet down", "Sports conversations where you need to drop a pun bomb"]
   },
   {
     "id": "corny-104",
@@ -1451,7 +1760,10 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "my-young-friend-was-telling-me-that-she-failed-her-exam-in-aboriginal-music",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Didja redo it\" sounds like \"didgeridoo it\" — the didgeridoo being the iconic Aboriginal Australian musical instrument. The setup frames a caring father-figure moment, and the supportive question hides a musical instrument pun in plain sight. It's warm, encouraging, and sneaky all at once.",
+    "howToTell": "This one needs to be spoken aloud — say \"didja redo it\" naturally and quickly so it sounds exactly like \"didgeridoo it.\" The caring hand-holding detail in the setup makes the pun feel accidental, which is the best kind.",
+    "perfectFor": ["When someone fails a test and needs encouragement wrapped in humor", "Music class conversations about world instruments", "When you hear didgeridoo music playing and want to set up a long-form joke"]
   },
   {
     "id": "corny-105",
@@ -1464,7 +1776,10 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "i-hurt-my-back-walking-like-an-egyptian",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"Cairo-practor\" sounds like \"chiropractor\" — a back doctor — but swaps in \"Cairo,\" the capital of Egypt. The setup references the iconic Bangles song \"Walk Like an Egyptian,\" and the punchline connects Egyptian culture to chiropractic care through a city-name swap. Music, geography, and healthcare collide beautifully.",
+    "howToTell": "Do the Walk Like an Egyptian arm pose while telling the setup, then wince and grab your back. Deliver \"Cairo-practor\" with pain in your voice, like you genuinely threw out your back doing the dance.",
+    "perfectFor": ["When the Bangles song comes on and someone does the dance", "When someone complains about back pain", "Egypt-themed trivia or history lessons"]
   },
   {
     "id": "corny-106",
@@ -1477,7 +1792,10 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "the-day-i-turned-42-my-daughter-walked-up-to-me-and-said-happy-and-started-timin",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"40 second birthday\" sounds like \"forty-second birthday\" (42nd birthday), but she literally waited 40 seconds between \"happy\" and \"birthday\" — making it a forty-SECOND birthday. The daughter out-dad-joked her own dad on his birthday, using timing and patience as the punchline delivery mechanism. The pride is earned.",
+    "howToTell": "This is a story joke — tell it like a proud parent retelling a real moment. Build the suspense during the \"long silence\" by actually pausing. The audience should feel the 40-second wait. End with genuine parental pride.",
+    "perfectFor": ["Anyone's 42nd birthday celebration", "When your kid tells their first dad joke and you want to one-up the story", "Birthday parties where the honoree appreciates clever humor"]
   },
   {
     "id": "corny-107",
@@ -1490,6 +1808,9 @@
     "rating": 4,
     "dateAdded": "2026-03-05",
     "slug": "funny-how-in-the-past-everyone-owned-horses-and-only-the-rich-owned-cars-and-now",
-    "ageRange": "kids"
+    "ageRange": "kids",
+    "whyFunny": "\"How the stables have turned\" is a play on \"how the tables have turned\" — the classic expression about role reversals. Swapping \"tables\" for \"stables\" is perfect because the joke is about horses, which live in stables. The observation about wealth reversing between cars and horses is genuinely interesting, making the pun land even harder.",
+    "howToTell": "Deliver the observation thoughtfully, like you're a philosopher reflecting on society. Let the audience nod along with the genuine insight, then hit them with \"stables\" instead of \"tables.\" The contemplative tone makes the pun feel earned.",
+    "perfectFor": ["Driving past a horse farm or equestrian center", "When someone mentions how expensive horse ownership is", "History discussions about how transportation has changed over time"]
   }
 ]
