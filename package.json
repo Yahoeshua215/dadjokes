@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "enrich": "node scripts/enrich-jokes.mjs"
   },
   "dependencies": {
     "fuse.js": "^7.1.0",
