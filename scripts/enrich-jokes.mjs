@@ -1,29 +1,29 @@
 /**
  * enrich-jokes.mjs
  *
- * Scans all joke JSON files and enriches any jokes missing whyFunny,
- * howToTell, or perfectFor using the Anthropic API.
+ * Scans joke JSON files for any jokes missing whyFunny, howToTell, or
+ * perfectFor and generates them using the Claude CLI (claude -p).
+ * No API key required — uses whatever Claude session is already active.
  *
  * Usage:
  *   node scripts/enrich-jokes.mjs              # enrich all categories
  *   node scripts/enrich-jokes.mjs animal food  # enrich specific categories
  *
- * Requires: ANTHROPIC_API_KEY env var
+ * Requires: claude CLI installed (claude --version to verify)
  */
 
 import fs from 'fs';
 import path from 'path';
-import Anthropic from '@anthropic-ai/sdk';
+import { execSync } from 'child_process';
 
 const JOKES_DIR = path.join(process.cwd(), 'data', 'jokes');
-const BATCH_SIZE = 10; // jokes per API call
+const BATCH_SIZE = 10;
 
-const client = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY,
-});
-
-if (!process.env.ANTHROPIC_API_KEY) {
-  console.error('❌  ANTHROPIC_API_KEY environment variable is required.');
+// Verify claude CLI is available
+try {
+  execSync('claude --version', { stdio: 'pipe' });
+} catch {
+  console.error('❌  Claude CLI not found. Install it at https://claude.ai/code');
   process.exit(1);
 }
 
@@ -34,7 +34,7 @@ const targetFiles = args.length
   ? args.map(a => (a.endsWith('.json') ? a : `${a}.json`))
   : allFiles;
 
-async function enrichBatch(jokes) {
+function enrichBatch(jokes) {
   const jokeList = jokes
     .map((j, i) => `${i + 1}. Setup: "${j.setup}" | Punchline: "${j.punchline}"`)
     .join('\n');
@@ -60,41 +60,36 @@ Respond with a JSON array of objects in this exact format:
 
 Return ONLY the JSON array. No markdown, no explanation.`;
 
-  const message = await client.messages.create({
-    model: 'claude-opus-4-5',
-    max_tokens: 4096,
-    messages: [{ role: 'user', content: prompt }],
+  const escaped = prompt.replace(/'/g, `'\\''`);
+  const output = execSync(`claude -p '${escaped}' --output-format text`, {
+    encoding: 'utf-8',
+    maxBuffer: 10 * 1024 * 1024,
   });
 
-  const raw = message.content[0].text.trim();
-  const cleaned = raw.replace(/^```json\n?/, '').replace(/\n?```$/, '');
+  const cleaned = output.trim().replace(/^```json\n?/, '').replace(/\n?```$/, '');
   return JSON.parse(cleaned);
 }
 
-async function processFile(filename) {
+function processFile(filename) {
   const filePath = path.join(JOKES_DIR, filename);
 
   if (!fs.existsSync(filePath)) {
-    console.warn(`⚠️  File not found: ${filename}, skipping.`);
+    console.warn(`⚠️   File not found: ${filename}, skipping.`);
     return;
   }
 
   const jokes = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-  const unenriched = jokes.filter(
-    j => !j.whyFunny || !j.howToTell || !j.perfectFor
-  );
+  const unenrichedIndices = jokes
+    .map((j, i) => (!j.whyFunny || !j.howToTell || !j.perfectFor ? i : null))
+    .filter(i => i !== null);
 
-  if (unenriched.length === 0) {
+  if (unenrichedIndices.length === 0) {
     console.log(`✅  ${filename} — already fully enriched (${jokes.length} jokes)`);
     return;
   }
 
+  const unenriched = unenrichedIndices.map(i => jokes[i]);
   console.log(`\n📝  ${filename} — enriching ${unenriched.length}/${jokes.length} jokes...`);
-
-  // Build index map so we can splice results back in
-  const unenrichedIndices = jokes
-    .map((j, i) => (!j.whyFunny || !j.howToTell || !j.perfectFor ? i : null))
-    .filter(i => i !== null);
 
   let enrichedCount = 0;
 
@@ -107,8 +102,7 @@ async function processFile(filename) {
     process.stdout.write(`  Batch ${batchNum}/${totalBatches}...`);
 
     try {
-      const results = await enrichBatch(batch);
-
+      const results = enrichBatch(batch);
       results.forEach((result, i) => {
         const jokeIndex = batchIndices[i];
         jokes[jokeIndex].whyFunny = result.whyFunny;
@@ -116,45 +110,31 @@ async function processFile(filename) {
         jokes[jokeIndex].perfectFor = result.perfectFor;
         enrichedCount++;
       });
-
       console.log(` done (${enrichedCount}/${unenriched.length})`);
     } catch (err) {
-      console.error(`\n  ❌ Batch ${batchNum} failed: ${err.message}`);
-      // Continue with remaining batches
+      console.error(`\n  ❌  Batch ${batchNum} failed: ${err.message}`);
     }
   }
 
   fs.writeFileSync(filePath, JSON.stringify(jokes, null, 2));
-  console.log(`  💾  Saved ${filename} — ${enrichedCount} jokes enriched`);
+  console.log(`  💾  Saved — ${enrichedCount} jokes enriched`);
 }
 
-async function main() {
-  console.log(`🚀  Joke Enrichment Script`);
-  console.log(`📂  Processing ${targetFiles.length} file(s)...\n`);
+console.log(`🚀  Joke Enrichment Script`);
+console.log(`📂  Processing ${targetFiles.length} file(s)...\n`);
 
-  let totalEnriched = 0;
-
-  for (const file of targetFiles) {
-    await processFile(file);
-  }
-
-  // Final status
-  console.log('\n─────────────────────────────');
-  for (const file of targetFiles) {
-    const filePath = path.join(JOKES_DIR, file);
-    if (!fs.existsSync(filePath)) continue;
-    const jokes = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    const enriched = jokes.filter(j => j.whyFunny && j.howToTell && j.perfectFor).length;
-    const status = enriched === jokes.length ? '✅' : `⚠️  ${enriched}/${jokes.length}`;
-    console.log(`${status}  ${file}`);
-    totalEnriched += enriched;
-  }
-
-  console.log('─────────────────────────────');
-  console.log(`\n✨  Done!`);
+for (const file of targetFiles) {
+  processFile(file);
 }
 
-main().catch(err => {
-  console.error('Fatal error:', err);
-  process.exit(1);
-});
+console.log('\n─────────────────────────────');
+for (const file of targetFiles) {
+  const filePath = path.join(JOKES_DIR, file);
+  if (!fs.existsSync(filePath)) continue;
+  const jokes = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  const enriched = jokes.filter(j => j.whyFunny && j.howToTell && j.perfectFor).length;
+  const icon = enriched === jokes.length ? '✅' : '⚠️ ';
+  console.log(`${icon}  ${file} — ${enriched}/${jokes.length}`);
+}
+console.log('─────────────────────────────');
+console.log('\n✨  Done!');
