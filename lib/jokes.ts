@@ -165,3 +165,24 @@ export function getRandomJoke(): Joke {
   const jokes = getAllJokes();
   return jokes[Math.floor(Math.random() * jokes.length)];
 }
+
+export function getJokesByTag(tag: string, exclude?: string): Joke[] {
+  return getAllJokes().filter(
+    (j) => j.tags.includes(tag) && j.id !== exclude
+  );
+}
+
+export function getRelatedJokesByTags(joke: Joke, limit: number = 5): Joke[] {
+  const allJokes = getAllJokes();
+  const scored = allJokes
+    .filter((j) => j.id !== joke.id)
+    .map((j) => {
+      const sharedTags = j.tags.filter((t) => joke.tags.includes(t)).length;
+      const sameCategory = j.category === joke.category ? 1 : 0;
+      return { joke: j, score: sharedTags * 2 + sameCategory };
+    })
+    .filter((s) => s.score > 0)
+    .sort((a, b) => b.score - a.score);
+
+  return scored.slice(0, limit).map((s) => s.joke);
+}

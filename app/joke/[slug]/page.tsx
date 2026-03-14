@@ -1,12 +1,12 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { getJokeBySlug, getAllJokeSlugs, getJokesByCategory, getCategory, getTopicByTag } from '@/lib/jokes';
+import { getJokeBySlug, getAllJokeSlugs, getJokesByCategory, getCategory, getRelatedJokesByTags } from '@/lib/jokes';
 import { generateBreadcrumbSchema, generateJokeFAQSchema } from '@/lib/schema';
+import { getHumorExplanation, getDeliveryTip, getUsageContext, getCategoryFunFact, detectHumorType } from '@/lib/joke-content';
 import Breadcrumb from '@/components/Breadcrumb';
 import ShareButtons from '@/components/ShareButtons';
 import VoteButtons from '@/components/VoteButtons';
-import PrintButton from '@/components/PrintButton';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -21,8 +21,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const joke = getJokeBySlug(slug);
   if (!joke) return {};
 
-  const title = `${joke.setup} | Dad Joke`;
-  const description = `${joke.setup} — Can you guess the answer? Find out at JokeLikeaDad.com`;
+  const category = getCategory(joke.category);
+  const categoryLabel = category?.name || 'Dad Jokes';
+  const title = `${joke.setup} | ${categoryLabel}`;
+  const description = `${joke.setup} ${joke.punchline} — Find out why this ${categoryLabel.toLowerCase()} joke works, when to use it, and browse more like it at JokeLikeaDad.com.`;
   const url = `https://jokelikeadad.com/joke/${slug}`;
 
   return {
@@ -34,7 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description,
       url,
       siteName: 'JokeLikeaDad.com',
-      type: 'website',
+      type: 'article',
     },
     twitter: {
       card: 'summary_large_image',
@@ -43,6 +45,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
   };
 }
+
+const HUMOR_TYPE_LABELS: Record<string, string> = {
+  pun: '🎯 Pun',
+  wordplay: '🔤 Wordplay',
+  'anti-humor': '😐 Anti-Humor',
+  observational: '👀 Observational',
+  absurd: '🤪 Absurd',
+  classic: '👔 Classic Dad Joke',
+};
 
 export default async function JokePage({ params }: Props) {
   const { slug } = await params;
@@ -54,9 +65,17 @@ export default async function JokePage({ params }: Props) {
   const currentIndex = categoryJokes.findIndex((j) => j.id === joke.id);
   const prevJoke = currentIndex > 0 ? categoryJokes[currentIndex - 1] : null;
   const nextJoke = currentIndex < categoryJokes.length - 1 ? categoryJokes[currentIndex + 1] : null;
-  const relatedJokes = categoryJokes
-    .filter((j) => j.id !== joke.id)
-    .slice(0, 3);
+
+  // Tag-based related jokes (cross-category)
+  const relatedJokes = getRelatedJokesByTags(joke, 5);
+
+  // Enriched content
+  const humorType = detectHumorType(joke);
+  const humorLabel = HUMOR_TYPE_LABELS[humorType] || '👔 Classic Dad Joke';
+  const explanation = getHumorExplanation(joke);
+  const deliveryTip = getDeliveryTip(joke);
+  const usageContext = category ? getUsageContext(joke, category) : '';
+  const funFact = category ? getCategoryFunFact(category) : '';
 
   const jokeUrl = `https://jokelikeadad.com/joke/${slug}`;
 
@@ -91,8 +110,14 @@ export default async function JokePage({ params }: Props) {
         />
 
         {/* Main Joke */}
-        <article className="bg-surface border border-border rounded-2xl p-8 sm:p-10 mb-8 print-card">
-          <h1 className="font-joke text-2xl sm:text-3xl leading-relaxed mb-6">
+        <article className="bg-surface border border-border rounded-2xl p-8 sm:p-10 mb-8">
+          <div className="mb-4">
+            <span className="text-xs font-medium text-accent bg-accent/10 px-3 py-1 rounded-full">
+              {humorLabel}
+            </span>
+          </div>
+
+          <h1 className="font-serif text-2xl sm:text-3xl leading-relaxed mb-6">
             {joke.setup}
           </h1>
           <p className="text-xl sm:text-2xl font-medium text-accent">
@@ -109,33 +134,44 @@ export default async function JokePage({ params }: Props) {
                   {category.emoji} {category.name}
                 </Link>
               )}
-              {joke.tags.map((tag) => {
-                const topic = getTopicByTag(tag);
-                return topic ? (
-                  <Link
-                    key={tag}
-                    href={`/topics/${topic.slug}`}
-                    className="text-xs text-text-secondary bg-background px-2.5 py-1 rounded-full border border-border hover:border-accent hover:text-accent transition-colors"
-                  >
-                    {tag}
-                  </Link>
-                ) : (
-                  <span
-                    key={tag}
-                    className="text-xs text-text-secondary bg-background px-2.5 py-1 rounded-full border border-border"
-                  >
-                    {tag}
-                  </span>
-                );
-              })}
+              {joke.tags.map((tag) => (
+                <span
+                  key={tag}
+                  className="text-xs text-text-secondary bg-background px-2.5 py-1 rounded-full border border-border"
+                >
+                  {tag}
+                </span>
+              ))}
             </div>
             <div className="flex items-center gap-3">
               <VoteButtons jokeId={joke.id} />
               <ShareButtons joke={joke} jokeUrl={jokeUrl} />
-              <PrintButton />
             </div>
           </div>
         </article>
+
+        {/* Why This Joke Works */}
+        <section className="bg-surface border border-border rounded-2xl p-6 sm:p-8 mb-6">
+          <h2 className="font-serif text-xl mb-3">Why This Joke Works</h2>
+          <p className="text-text-secondary leading-relaxed">{explanation}</p>
+        </section>
+
+        {/* How to Tell It */}
+        <section className="bg-surface border border-border rounded-2xl p-6 sm:p-8 mb-6">
+          <h2 className="font-serif text-xl mb-3">🎤 How to Tell This Joke</h2>
+          <p className="text-text-secondary leading-relaxed mb-3">{deliveryTip}</p>
+          {usageContext && (
+            <p className="text-text-secondary leading-relaxed">{usageContext}</p>
+          )}
+        </section>
+
+        {/* Fun Fact */}
+        {funFact && (
+          <section className="bg-accent/5 border border-accent/20 rounded-2xl p-6 sm:p-8 mb-8">
+            <h2 className="font-serif text-xl mb-3">💡 Did You Know?</h2>
+            <p className="text-text-secondary leading-relaxed">{funFact}</p>
+          </section>
+        )}
 
         {/* Prev / Next Navigation */}
         <div className="flex gap-4 mb-12">
@@ -144,7 +180,7 @@ export default async function JokePage({ params }: Props) {
               href={`/joke/${prevJoke.slug}`}
               className="flex-1 bg-surface border border-border rounded-xl p-4 hover:border-accent transition-colors group"
             >
-              <span className="text-xs text-text-secondary">Previous joke</span>
+              <span className="text-xs text-text-secondary">← Previous joke</span>
               <p className="text-sm font-medium mt-1 group-hover:text-accent transition-colors line-clamp-1">
                 {prevJoke.setup}
               </p>
@@ -157,7 +193,7 @@ export default async function JokePage({ params }: Props) {
               href={`/joke/${nextJoke.slug}`}
               className="flex-1 bg-surface border border-border rounded-xl p-4 hover:border-accent transition-colors group text-right"
             >
-              <span className="text-xs text-text-secondary">Next joke</span>
+              <span className="text-xs text-text-secondary">Next joke →</span>
               <p className="text-sm font-medium mt-1 group-hover:text-accent transition-colors line-clamp-1">
                 {nextJoke.setup}
               </p>
@@ -167,21 +203,29 @@ export default async function JokePage({ params }: Props) {
           )}
         </div>
 
-        {/* Related Jokes */}
+        {/* Related Jokes (tag-based, cross-category) */}
         {relatedJokes.length > 0 && (
-          <section>
-            <h2 className="font-serif text-xl mb-4">More {category?.name || 'Dad Jokes'}</h2>
+          <section className="mb-12">
+            <h2 className="font-serif text-xl mb-4">More Jokes Like This</h2>
             <div className="space-y-3">
-              {relatedJokes.map((rj) => (
-                <Link
-                  key={rj.id}
-                  href={`/joke/${rj.slug}`}
-                  className="block bg-surface border border-border rounded-xl p-5 hover:border-accent transition-colors"
-                >
-                  <p className="font-joke">{rj.setup}</p>
-                  <p className="mt-1.5 text-sm text-text-secondary">{rj.punchline}</p>
-                </Link>
-              ))}
+              {relatedJokes.map((rj) => {
+                const rjCategory = getCategory(rj.category);
+                return (
+                  <Link
+                    key={rj.id}
+                    href={`/joke/${rj.slug}`}
+                    className="block bg-surface border border-border rounded-xl p-5 hover:border-accent transition-colors"
+                  >
+                    <p className="font-serif">{rj.setup}</p>
+                    <p className="mt-1.5 text-sm text-text-secondary">{rj.punchline}</p>
+                    {rjCategory && rjCategory.slug !== joke.category && (
+                      <span className="inline-block mt-2 text-xs text-accent bg-accent/10 px-2 py-0.5 rounded-full">
+                        {rjCategory.emoji} {rjCategory.name}
+                      </span>
+                    )}
+                  </Link>
+                );
+              })}
             </div>
             <Link
               href={`/${joke.category}`}
@@ -191,6 +235,28 @@ export default async function JokePage({ params }: Props) {
             </Link>
           </section>
         )}
+
+        {/* Browse More CTA */}
+        <section className="text-center bg-surface border border-border rounded-2xl p-8">
+          <h2 className="font-serif text-xl mb-2">Want More Dad Jokes?</h2>
+          <p className="text-text-secondary mb-4">
+            We&apos;ve got 2,000+ dad jokes across 20 categories. Find your next favorite.
+          </p>
+          <div className="flex flex-wrap justify-center gap-3">
+            <Link
+              href="/categories"
+              className="bg-accent text-white px-5 py-2.5 rounded-full text-sm font-medium hover:bg-accent-hover transition-colors"
+            >
+              Browse All Categories
+            </Link>
+            <Link
+              href="/joke-of-the-day"
+              className="border border-accent text-accent px-5 py-2.5 rounded-full text-sm font-medium hover:bg-accent/10 transition-colors"
+            >
+              Joke of the Day
+            </Link>
+          </div>
+        </section>
       </div>
     </>
   );
