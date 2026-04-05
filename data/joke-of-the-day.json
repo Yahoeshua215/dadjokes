@@ -1,32 +1,1462 @@
 [
-  { "date": "2025-01-01", "jokeId": "funny-001" },
-  { "date": "2025-01-02", "jokeId": "best-003" },
-  { "date": "2025-01-03", "jokeId": "corny-005" },
-  { "date": "2025-01-04", "jokeId": "for-kids-002" },
-  { "date": "2025-01-05", "jokeId": "bad-007" },
-  { "date": "2025-01-06", "jokeId": "good-004" },
-  { "date": "2025-01-07", "jokeId": "best-ever-001" },
-  { "date": "2025-01-08", "jokeId": "for-adults-006" },
-  { "date": "2025-01-09", "jokeId": "dirty-003" },
-  { "date": "2025-01-10", "jokeId": "best-of-all-time-002" },
-  { "date": "2025-01-11", "jokeId": "funny-012" },
-  { "date": "2025-01-12", "jokeId": "corny-009" },
-  { "date": "2025-01-13", "jokeId": "best-008" },
-  { "date": "2025-01-14", "jokeId": "for-kids-015" },
-  { "date": "2025-01-15", "jokeId": "bad-011" },
-  { "date": "2025-01-16", "jokeId": "good-010" },
-  { "date": "2025-01-17", "jokeId": "funny-019" },
-  { "date": "2025-01-18", "jokeId": "best-ever-008" },
-  { "date": "2025-01-19", "jokeId": "for-adults-014" },
-  { "date": "2025-01-20", "jokeId": "dirty-007" },
-  { "date": "2025-01-21", "jokeId": "best-of-all-time-005" },
-  { "date": "2025-01-22", "jokeId": "corny-018" },
-  { "date": "2025-01-23", "jokeId": "for-kids-022" },
-  { "date": "2025-01-24", "jokeId": "funny-024" },
-  { "date": "2025-01-25", "jokeId": "bad-020" },
-  { "date": "2025-01-26", "jokeId": "best-015" },
-  { "date": "2025-01-27", "jokeId": "good-021" },
-  { "date": "2025-01-28", "jokeId": "best-ever-013" },
-  { "date": "2025-01-29", "jokeId": "for-adults-023" },
-  { "date": "2025-01-30", "jokeId": "dirty-012" }
+  {
+    "date": "2025-01-01",
+    "jokeId": "sports-092"
+  },
+  {
+    "date": "2025-01-02",
+    "jokeId": "best-016"
+  },
+  {
+    "date": "2025-01-03",
+    "jokeId": "christmas-093"
+  },
+  {
+    "date": "2025-01-04",
+    "jokeId": "animal-058"
+  },
+  {
+    "date": "2025-01-05",
+    "jokeId": "animal-046"
+  },
+  {
+    "date": "2025-01-06",
+    "jokeId": "corny-033"
+  },
+  {
+    "date": "2025-01-07",
+    "jokeId": "animal-049"
+  },
+  {
+    "date": "2025-01-08",
+    "jokeId": "animal-032"
+  },
+  {
+    "date": "2025-01-09",
+    "jokeId": "animal-001"
+  },
+  {
+    "date": "2025-01-10",
+    "jokeId": "corny-094"
+  },
+  {
+    "date": "2025-01-11",
+    "jokeId": "animal-009"
+  },
+  {
+    "date": "2025-01-12",
+    "jokeId": "fathers-day-045"
+  },
+  {
+    "date": "2025-01-13",
+    "jokeId": "animal-029"
+  },
+  {
+    "date": "2025-01-14",
+    "jokeId": "animal-026"
+  },
+  {
+    "date": "2025-01-15",
+    "jokeId": "fathers-day-097"
+  },
+  {
+    "date": "2025-01-16",
+    "jokeId": "animal-002"
+  },
+  {
+    "date": "2025-01-17",
+    "jokeId": "fathers-day-025"
+  },
+  {
+    "date": "2025-01-18",
+    "jokeId": "corny-043"
+  },
+  {
+    "date": "2025-01-19",
+    "jokeId": "animal-007"
+  },
+  {
+    "date": "2025-01-20",
+    "jokeId": "dirty-070"
+  },
+  {
+    "date": "2025-01-21",
+    "jokeId": "animal-034"
+  },
+  {
+    "date": "2025-01-22",
+    "jokeId": "fathers-day-036"
+  },
+  {
+    "date": "2025-01-23",
+    "jokeId": "animal-005"
+  },
+  {
+    "date": "2025-01-24",
+    "jokeId": "christmas-073"
+  },
+  {
+    "date": "2025-01-25",
+    "jokeId": "animal-043"
+  },
+  {
+    "date": "2025-01-26",
+    "jokeId": "dirty-068"
+  },
+  {
+    "date": "2025-01-27",
+    "jokeId": "bad-048"
+  },
+  {
+    "date": "2025-01-28",
+    "jokeId": "bad-061"
+  },
+  {
+    "date": "2025-01-29",
+    "jokeId": "fathers-day-042"
+  },
+  {
+    "date": "2025-01-30",
+    "jokeId": "dirty-077"
+  },
+  {
+    "date": "2025-01-31",
+    "jokeId": "animal-039"
+  },
+  {
+    "date": "2025-02-01",
+    "jokeId": "for-adults-050"
+  },
+  {
+    "date": "2025-02-02",
+    "jokeId": "for-adults-084"
+  },
+  {
+    "date": "2025-02-03",
+    "jokeId": "funny-001"
+  },
+  {
+    "date": "2025-02-04",
+    "jokeId": "for-adults-009"
+  },
+  {
+    "date": "2025-02-05",
+    "jokeId": "animal-054"
+  },
+  {
+    "date": "2025-02-06",
+    "jokeId": "corny-015"
+  },
+  {
+    "date": "2025-02-07",
+    "jokeId": "best-ever-052"
+  },
+  {
+    "date": "2025-02-08",
+    "jokeId": "best-ever-046"
+  },
+  {
+    "date": "2025-02-09",
+    "jokeId": "corny-017"
+  },
+  {
+    "date": "2025-02-10",
+    "jokeId": "for-kids-040"
+  },
+  {
+    "date": "2025-02-11",
+    "jokeId": "for-adults-033"
+  },
+  {
+    "date": "2025-02-12",
+    "jokeId": "funny-002"
+  },
+  {
+    "date": "2025-02-13",
+    "jokeId": "for-adults-072"
+  },
+  {
+    "date": "2025-02-14",
+    "jokeId": "for-adults-046"
+  },
+  {
+    "date": "2025-02-15",
+    "jokeId": "corny-008"
+  },
+  {
+    "date": "2025-02-16",
+    "jokeId": "bad-024"
+  },
+  {
+    "date": "2025-02-17",
+    "jokeId": "fathers-day-051"
+  },
+  {
+    "date": "2025-02-18",
+    "jokeId": "fathers-day-034"
+  },
+  {
+    "date": "2025-02-19",
+    "jokeId": "christmas-038"
+  },
+  {
+    "date": "2025-02-20",
+    "jokeId": "funny-054"
+  },
+  {
+    "date": "2025-02-21",
+    "jokeId": "animal-075"
+  },
+  {
+    "date": "2025-02-22",
+    "jokeId": "for-kids-020"
+  },
+  {
+    "date": "2025-02-23",
+    "jokeId": "fathers-day-078"
+  },
+  {
+    "date": "2025-02-24",
+    "jokeId": "for-kids-061"
+  },
+  {
+    "date": "2025-02-25",
+    "jokeId": "for-adults-042"
+  },
+  {
+    "date": "2025-02-26",
+    "jokeId": "christmas-067"
+  },
+  {
+    "date": "2025-02-27",
+    "jokeId": "for-kids-077"
+  },
+  {
+    "date": "2025-02-28",
+    "jokeId": "corny-038"
+  },
+  {
+    "date": "2025-03-01",
+    "jokeId": "for-kids-089"
+  },
+  {
+    "date": "2025-03-02",
+    "jokeId": "for-kids-037"
+  },
+  {
+    "date": "2025-03-03",
+    "jokeId": "sports-063"
+  },
+  {
+    "date": "2025-03-04",
+    "jokeId": "animal-088"
+  },
+  {
+    "date": "2025-03-05",
+    "jokeId": "for-adults-019"
+  },
+  {
+    "date": "2025-03-06",
+    "jokeId": "for-kids-092"
+  },
+  {
+    "date": "2025-03-07",
+    "jokeId": "for-adults-092"
+  },
+  {
+    "date": "2025-03-08",
+    "jokeId": "good-071"
+  },
+  {
+    "date": "2025-03-09",
+    "jokeId": "best-ever-047"
+  },
+  {
+    "date": "2025-03-10",
+    "jokeId": "math-091"
+  },
+  {
+    "date": "2025-03-11",
+    "jokeId": "math-007"
+  },
+  {
+    "date": "2025-03-12",
+    "jokeId": "bad-002"
+  },
+  {
+    "date": "2025-03-13",
+    "jokeId": "fathers-day-029"
+  },
+  {
+    "date": "2025-03-14",
+    "jokeId": "bad-057"
+  },
+  {
+    "date": "2025-03-15",
+    "jokeId": "science-035"
+  },
+  {
+    "date": "2025-03-16",
+    "jokeId": "funny-012"
+  },
+  {
+    "date": "2025-03-17",
+    "jokeId": "animal-022"
+  },
+  {
+    "date": "2025-03-18",
+    "jokeId": "science-016"
+  },
+  {
+    "date": "2025-03-19",
+    "jokeId": "bad-060"
+  },
+  {
+    "date": "2025-03-20",
+    "jokeId": "bad-080"
+  },
+  {
+    "date": "2025-03-21",
+    "jokeId": "math-042"
+  },
+  {
+    "date": "2025-03-22",
+    "jokeId": "for-kids-063"
+  },
+  {
+    "date": "2025-03-23",
+    "jokeId": "fathers-day-014"
+  },
+  {
+    "date": "2025-03-24",
+    "jokeId": "fathers-day-055"
+  },
+  {
+    "date": "2025-03-25",
+    "jokeId": "funny-026"
+  },
+  {
+    "date": "2025-03-26",
+    "jokeId": "fathers-day-047"
+  },
+  {
+    "date": "2025-03-27",
+    "jokeId": "animal-028"
+  },
+  {
+    "date": "2025-03-28",
+    "jokeId": "for-adults-037"
+  },
+  {
+    "date": "2025-03-29",
+    "jokeId": "science-017"
+  },
+  {
+    "date": "2025-03-30",
+    "jokeId": "dirty-060"
+  },
+  {
+    "date": "2025-03-31",
+    "jokeId": "dirty-012"
+  },
+  {
+    "date": "2025-04-01",
+    "jokeId": "science-006"
+  },
+  {
+    "date": "2025-04-02",
+    "jokeId": "corny-060"
+  },
+  {
+    "date": "2025-04-03",
+    "jokeId": "fathers-day-071"
+  },
+  {
+    "date": "2025-04-04",
+    "jokeId": "christmas-071"
+  },
+  {
+    "date": "2025-04-05",
+    "jokeId": "corny-050"
+  },
+  {
+    "date": "2025-04-06",
+    "jokeId": "animal-089"
+  },
+  {
+    "date": "2025-04-07",
+    "jokeId": "animal-040"
+  },
+  {
+    "date": "2025-04-08",
+    "jokeId": "good-039"
+  },
+  {
+    "date": "2025-04-09",
+    "jokeId": "fathers-day-006"
+  },
+  {
+    "date": "2025-04-10",
+    "jokeId": "for-adults-045"
+  },
+  {
+    "date": "2025-04-11",
+    "jokeId": "fathers-day-063"
+  },
+  {
+    "date": "2025-04-12",
+    "jokeId": "good-054"
+  },
+  {
+    "date": "2025-04-13",
+    "jokeId": "math-013"
+  },
+  {
+    "date": "2025-04-14",
+    "jokeId": "math-084"
+  },
+  {
+    "date": "2025-04-15",
+    "jokeId": "math-097"
+  },
+  {
+    "date": "2025-04-16",
+    "jokeId": "funny-049"
+  },
+  {
+    "date": "2025-04-17",
+    "jokeId": "bad-001"
+  },
+  {
+    "date": "2025-04-18",
+    "jokeId": "animal-025"
+  },
+  {
+    "date": "2025-04-19",
+    "jokeId": "bad-022"
+  },
+  {
+    "date": "2025-04-20",
+    "jokeId": "for-adults-029"
+  },
+  {
+    "date": "2025-04-21",
+    "jokeId": "bad-093"
+  },
+  {
+    "date": "2025-04-22",
+    "jokeId": "bad-096"
+  },
+  {
+    "date": "2025-04-23",
+    "jokeId": "for-kids-078"
+  },
+  {
+    "date": "2025-04-24",
+    "jokeId": "fathers-day-039"
+  },
+  {
+    "date": "2025-04-25",
+    "jokeId": "for-kids-070"
+  },
+  {
+    "date": "2025-04-26",
+    "jokeId": "good-077"
+  },
+  {
+    "date": "2025-04-27",
+    "jokeId": "fathers-day-009"
+  },
+  {
+    "date": "2025-04-28",
+    "jokeId": "halloween-080"
+  },
+  {
+    "date": "2025-04-29",
+    "jokeId": "bad-097"
+  },
+  {
+    "date": "2025-04-30",
+    "jokeId": "for-adults-091"
+  },
+  {
+    "date": "2025-05-01",
+    "jokeId": "thanksgiving-091"
+  },
+  {
+    "date": "2025-05-02",
+    "jokeId": "fathers-day-041"
+  },
+  {
+    "date": "2025-05-03",
+    "jokeId": "for-adults-078"
+  },
+  {
+    "date": "2025-05-04",
+    "jokeId": "for-kids-036"
+  },
+  {
+    "date": "2025-05-05",
+    "jokeId": "good-026"
+  },
+  {
+    "date": "2025-05-06",
+    "jokeId": "animal-068"
+  },
+  {
+    "date": "2025-05-07",
+    "jokeId": "animal-072"
+  },
+  {
+    "date": "2025-05-08",
+    "jokeId": "animal-074"
+  },
+  {
+    "date": "2025-05-09",
+    "jokeId": "halloween-066"
+  },
+  {
+    "date": "2025-05-10",
+    "jokeId": "bad-045"
+  },
+  {
+    "date": "2025-05-11",
+    "jokeId": "halloween-071"
+  },
+  {
+    "date": "2025-05-12",
+    "jokeId": "fathers-day-005"
+  },
+  {
+    "date": "2025-05-13",
+    "jokeId": "for-adults-055"
+  },
+  {
+    "date": "2025-05-14",
+    "jokeId": "for-kids-097"
+  },
+  {
+    "date": "2025-05-15",
+    "jokeId": "corny-095"
+  },
+  {
+    "date": "2025-05-16",
+    "jokeId": "animal-078"
+  },
+  {
+    "date": "2025-05-17",
+    "jokeId": "dirty-046"
+  },
+  {
+    "date": "2025-05-18",
+    "jokeId": "for-kids-041"
+  },
+  {
+    "date": "2025-05-19",
+    "jokeId": "fathers-day-008"
+  },
+  {
+    "date": "2025-05-20",
+    "jokeId": "animal-062"
+  },
+  {
+    "date": "2025-05-21",
+    "jokeId": "halloween-014"
+  },
+  {
+    "date": "2025-05-22",
+    "jokeId": "science-013"
+  },
+  {
+    "date": "2025-05-23",
+    "jokeId": "math-020"
+  },
+  {
+    "date": "2025-05-24",
+    "jokeId": "fathers-day-037"
+  },
+  {
+    "date": "2025-05-25",
+    "jokeId": "funny-009"
+  },
+  {
+    "date": "2025-05-26",
+    "jokeId": "math-044"
+  },
+  {
+    "date": "2025-05-27",
+    "jokeId": "math-064"
+  },
+  {
+    "date": "2025-05-28",
+    "jokeId": "funny-021"
+  },
+  {
+    "date": "2025-05-29",
+    "jokeId": "christmas-061"
+  },
+  {
+    "date": "2025-05-30",
+    "jokeId": "sports-091"
+  },
+  {
+    "date": "2025-05-31",
+    "jokeId": "good-065"
+  },
+  {
+    "date": "2025-06-01",
+    "jokeId": "best-ever-038"
+  },
+  {
+    "date": "2025-06-02",
+    "jokeId": "corny-042"
+  },
+  {
+    "date": "2025-06-03",
+    "jokeId": "math-078"
+  },
+  {
+    "date": "2025-06-04",
+    "jokeId": "for-adults-020"
+  },
+  {
+    "date": "2025-06-05",
+    "jokeId": "sports-096"
+  },
+  {
+    "date": "2025-06-06",
+    "jokeId": "animal-042"
+  },
+  {
+    "date": "2025-06-07",
+    "jokeId": "for-adults-065"
+  },
+  {
+    "date": "2025-06-08",
+    "jokeId": "good-056"
+  },
+  {
+    "date": "2025-06-09",
+    "jokeId": "for-adults-081"
+  },
+  {
+    "date": "2025-06-10",
+    "jokeId": "math-087"
+  },
+  {
+    "date": "2025-06-11",
+    "jokeId": "math-079"
+  },
+  {
+    "date": "2025-06-12",
+    "jokeId": "halloween-034"
+  },
+  {
+    "date": "2025-06-13",
+    "jokeId": "dirty-075"
+  },
+  {
+    "date": "2025-06-14",
+    "jokeId": "dirty-079"
+  },
+  {
+    "date": "2025-06-15",
+    "jokeId": "for-kids-057"
+  },
+  {
+    "date": "2025-06-16",
+    "jokeId": "for-adults-041"
+  },
+  {
+    "date": "2025-06-17",
+    "jokeId": "bad-021"
+  },
+  {
+    "date": "2025-06-18",
+    "jokeId": "halloween-079"
+  },
+  {
+    "date": "2025-06-19",
+    "jokeId": "animal-015"
+  },
+  {
+    "date": "2025-06-20",
+    "jokeId": "good-033"
+  },
+  {
+    "date": "2025-06-21",
+    "jokeId": "fathers-day-054"
+  },
+  {
+    "date": "2025-06-22",
+    "jokeId": "for-kids-046"
+  },
+  {
+    "date": "2025-06-23",
+    "jokeId": "fathers-day-061"
+  },
+  {
+    "date": "2025-06-24",
+    "jokeId": "for-adults-049"
+  },
+  {
+    "date": "2025-06-25",
+    "jokeId": "for-adults-058"
+  },
+  {
+    "date": "2025-06-26",
+    "jokeId": "best-089"
+  },
+  {
+    "date": "2025-06-27",
+    "jokeId": "thanksgiving-041"
+  },
+  {
+    "date": "2025-06-28",
+    "jokeId": "funny-066"
+  },
+  {
+    "date": "2025-06-29",
+    "jokeId": "halloween-076"
+  },
+  {
+    "date": "2025-06-30",
+    "jokeId": "sports-094"
+  },
+  {
+    "date": "2025-07-01",
+    "jokeId": "good-013"
+  },
+  {
+    "date": "2025-07-02",
+    "jokeId": "best-087"
+  },
+  {
+    "date": "2025-07-03",
+    "jokeId": "funny-087"
+  },
+  {
+    "date": "2025-07-04",
+    "jokeId": "animal-087"
+  },
+  {
+    "date": "2025-07-05",
+    "jokeId": "thanksgiving-012"
+  },
+  {
+    "date": "2025-07-06",
+    "jokeId": "math-030"
+  },
+  {
+    "date": "2025-07-07",
+    "jokeId": "best-070"
+  },
+  {
+    "date": "2025-07-08",
+    "jokeId": "good-046"
+  },
+  {
+    "date": "2025-07-09",
+    "jokeId": "fathers-day-043"
+  },
+  {
+    "date": "2025-07-10",
+    "jokeId": "thanksgiving-025"
+  },
+  {
+    "date": "2025-07-11",
+    "jokeId": "for-adults-098"
+  },
+  {
+    "date": "2025-07-12",
+    "jokeId": "dirty-015"
+  },
+  {
+    "date": "2025-07-13",
+    "jokeId": "food-098"
+  },
+  {
+    "date": "2025-07-14",
+    "jokeId": "food-012"
+  },
+  {
+    "date": "2025-07-15",
+    "jokeId": "corny-093"
+  },
+  {
+    "date": "2025-07-16",
+    "jokeId": "best-073"
+  },
+  {
+    "date": "2025-07-17",
+    "jokeId": "corny-081"
+  },
+  {
+    "date": "2025-07-18",
+    "jokeId": "funny-074"
+  },
+  {
+    "date": "2025-07-19",
+    "jokeId": "dirty-047"
+  },
+  {
+    "date": "2025-07-20",
+    "jokeId": "thanksgiving-047"
+  },
+  {
+    "date": "2025-07-21",
+    "jokeId": "dirty-082"
+  },
+  {
+    "date": "2025-07-22",
+    "jokeId": "sports-065"
+  },
+  {
+    "date": "2025-07-23",
+    "jokeId": "best-086"
+  },
+  {
+    "date": "2025-07-24",
+    "jokeId": "science-064"
+  },
+  {
+    "date": "2025-07-25",
+    "jokeId": "math-014"
+  },
+  {
+    "date": "2025-07-26",
+    "jokeId": "best-047"
+  },
+  {
+    "date": "2025-07-27",
+    "jokeId": "best-of-all-time-085"
+  },
+  {
+    "date": "2025-07-28",
+    "jokeId": "food-072"
+  },
+  {
+    "date": "2025-07-29",
+    "jokeId": "best-017"
+  },
+  {
+    "date": "2025-07-30",
+    "jokeId": "funny-091"
+  },
+  {
+    "date": "2025-07-31",
+    "jokeId": "dirty-053"
+  },
+  {
+    "date": "2025-08-01",
+    "jokeId": "thanksgiving-056"
+  },
+  {
+    "date": "2025-08-02",
+    "jokeId": "corny-030"
+  },
+  {
+    "date": "2025-08-03",
+    "jokeId": "animal-083"
+  },
+  {
+    "date": "2025-08-04",
+    "jokeId": "sports-078"
+  },
+  {
+    "date": "2025-08-05",
+    "jokeId": "for-adults-069"
+  },
+  {
+    "date": "2025-08-06",
+    "jokeId": "thanksgiving-072"
+  },
+  {
+    "date": "2025-08-07",
+    "jokeId": "thanksgiving-042"
+  },
+  {
+    "date": "2025-08-08",
+    "jokeId": "good-017"
+  },
+  {
+    "date": "2025-08-09",
+    "jokeId": "food-018"
+  },
+  {
+    "date": "2025-08-10",
+    "jokeId": "dirty-008"
+  },
+  {
+    "date": "2025-08-11",
+    "jokeId": "corny-044"
+  },
+  {
+    "date": "2025-08-12",
+    "jokeId": "for-adults-015"
+  },
+  {
+    "date": "2025-08-13",
+    "jokeId": "good-079"
+  },
+  {
+    "date": "2025-08-14",
+    "jokeId": "fathers-day-031"
+  },
+  {
+    "date": "2025-08-15",
+    "jokeId": "animal-010"
+  },
+  {
+    "date": "2025-08-16",
+    "jokeId": "best-of-all-time-002"
+  },
+  {
+    "date": "2025-08-17",
+    "jokeId": "science-054"
+  },
+  {
+    "date": "2025-08-18",
+    "jokeId": "funny-008"
+  },
+  {
+    "date": "2025-08-19",
+    "jokeId": "funny-041"
+  },
+  {
+    "date": "2025-08-20",
+    "jokeId": "animal-016"
+  },
+  {
+    "date": "2025-08-21",
+    "jokeId": "corny-074"
+  },
+  {
+    "date": "2025-08-22",
+    "jokeId": "halloween-088"
+  },
+  {
+    "date": "2025-08-23",
+    "jokeId": "best-054"
+  },
+  {
+    "date": "2025-08-24",
+    "jokeId": "math-006"
+  },
+  {
+    "date": "2025-08-25",
+    "jokeId": "math-011"
+  },
+  {
+    "date": "2025-08-26",
+    "jokeId": "halloween-100"
+  },
+  {
+    "date": "2025-08-27",
+    "jokeId": "best-of-all-time-017"
+  },
+  {
+    "date": "2025-08-28",
+    "jokeId": "thanksgiving-034"
+  },
+  {
+    "date": "2025-08-29",
+    "jokeId": "best-053"
+  },
+  {
+    "date": "2025-08-30",
+    "jokeId": "bad-038"
+  },
+  {
+    "date": "2025-08-31",
+    "jokeId": "food-085"
+  },
+  {
+    "date": "2025-09-01",
+    "jokeId": "fathers-day-087"
+  },
+  {
+    "date": "2025-09-02",
+    "jokeId": "for-kids-052"
+  },
+  {
+    "date": "2025-09-03",
+    "jokeId": "thanksgiving-078"
+  },
+  {
+    "date": "2025-09-04",
+    "jokeId": "halloween-003"
+  },
+  {
+    "date": "2025-09-05",
+    "jokeId": "halloween-018"
+  },
+  {
+    "date": "2025-09-06",
+    "jokeId": "fathers-day-089"
+  },
+  {
+    "date": "2025-09-07",
+    "jokeId": "thanksgiving-055"
+  },
+  {
+    "date": "2025-09-08",
+    "jokeId": "food-066"
+  },
+  {
+    "date": "2025-09-09",
+    "jokeId": "funny-076"
+  },
+  {
+    "date": "2025-09-10",
+    "jokeId": "bad-040"
+  },
+  {
+    "date": "2025-09-11",
+    "jokeId": "best-of-all-time-051"
+  },
+  {
+    "date": "2025-09-12",
+    "jokeId": "for-kids-053"
+  },
+  {
+    "date": "2025-09-13",
+    "jokeId": "thanksgiving-058"
+  },
+  {
+    "date": "2025-09-14",
+    "jokeId": "corny-048"
+  },
+  {
+    "date": "2025-09-15",
+    "jokeId": "fathers-day-080"
+  },
+  {
+    "date": "2025-09-16",
+    "jokeId": "for-kids-006"
+  },
+  {
+    "date": "2025-09-17",
+    "jokeId": "thanksgiving-039"
+  },
+  {
+    "date": "2025-09-18",
+    "jokeId": "halloween-013"
+  },
+  {
+    "date": "2025-09-19",
+    "jokeId": "best-of-all-time-058"
+  },
+  {
+    "date": "2025-09-20",
+    "jokeId": "math-035"
+  },
+  {
+    "date": "2025-09-21",
+    "jokeId": "thanksgiving-062"
+  },
+  {
+    "date": "2025-09-22",
+    "jokeId": "math-082"
+  },
+  {
+    "date": "2025-09-23",
+    "jokeId": "sports-025"
+  },
+  {
+    "date": "2025-09-24",
+    "jokeId": "best-ever-089"
+  },
+  {
+    "date": "2025-09-25",
+    "jokeId": "corny-069"
+  },
+  {
+    "date": "2025-09-26",
+    "jokeId": "science-091"
+  },
+  {
+    "date": "2025-09-27",
+    "jokeId": "best-of-all-time-001"
+  },
+  {
+    "date": "2025-09-28",
+    "jokeId": "work-012"
+  },
+  {
+    "date": "2025-09-29",
+    "jokeId": "fathers-day-027"
+  },
+  {
+    "date": "2025-09-30",
+    "jokeId": "halloween-004"
+  },
+  {
+    "date": "2025-10-01",
+    "jokeId": "best-ever-091"
+  },
+  {
+    "date": "2025-10-02",
+    "jokeId": "christmas-005"
+  },
+  {
+    "date": "2025-10-03",
+    "jokeId": "dirty-009"
+  },
+  {
+    "date": "2025-10-04",
+    "jokeId": "best-of-all-time-043"
+  },
+  {
+    "date": "2025-10-05",
+    "jokeId": "for-kids-100"
+  },
+  {
+    "date": "2025-10-06",
+    "jokeId": "fathers-day-028"
+  },
+  {
+    "date": "2025-10-07",
+    "jokeId": "thanksgiving-060"
+  },
+  {
+    "date": "2025-10-08",
+    "jokeId": "food-073"
+  },
+  {
+    "date": "2025-10-09",
+    "jokeId": "corny-018"
+  },
+  {
+    "date": "2025-10-10",
+    "jokeId": "math-038"
+  },
+  {
+    "date": "2025-10-11",
+    "jokeId": "math-018"
+  },
+  {
+    "date": "2025-10-12",
+    "jokeId": "work-007"
+  },
+  {
+    "date": "2025-10-13",
+    "jokeId": "animal-020"
+  },
+  {
+    "date": "2025-10-14",
+    "jokeId": "food-039"
+  },
+  {
+    "date": "2025-10-15",
+    "jokeId": "christmas-056"
+  },
+  {
+    "date": "2025-10-16",
+    "jokeId": "for-adults-071"
+  },
+  {
+    "date": "2025-10-17",
+    "jokeId": "best-ever-074"
+  },
+  {
+    "date": "2025-10-18",
+    "jokeId": "math-017"
+  },
+  {
+    "date": "2025-10-19",
+    "jokeId": "work-022"
+  },
+  {
+    "date": "2025-10-20",
+    "jokeId": "halloween-031"
+  },
+  {
+    "date": "2025-10-21",
+    "jokeId": "fathers-day-076"
+  },
+  {
+    "date": "2025-10-22",
+    "jokeId": "best-ever-002"
+  },
+  {
+    "date": "2025-10-23",
+    "jokeId": "bad-017"
+  },
+  {
+    "date": "2025-10-24",
+    "jokeId": "corny-045"
+  },
+  {
+    "date": "2025-10-25",
+    "jokeId": "fathers-day-072"
+  },
+  {
+    "date": "2025-10-26",
+    "jokeId": "bad-009"
+  },
+  {
+    "date": "2025-10-27",
+    "jokeId": "work-016"
+  },
+  {
+    "date": "2025-10-28",
+    "jokeId": "thanksgiving-031"
+  },
+  {
+    "date": "2025-10-29",
+    "jokeId": "funny-003"
+  },
+  {
+    "date": "2025-10-30",
+    "jokeId": "christmas-022"
+  },
+  {
+    "date": "2025-10-31",
+    "jokeId": "for-adults-038"
+  },
+  {
+    "date": "2025-11-01",
+    "jokeId": "animal-045"
+  },
+  {
+    "date": "2025-11-02",
+    "jokeId": "work-041"
+  },
+  {
+    "date": "2025-11-03",
+    "jokeId": "work-050"
+  },
+  {
+    "date": "2025-11-04",
+    "jokeId": "math-041"
+  },
+  {
+    "date": "2025-11-05",
+    "jokeId": "science-003"
+  },
+  {
+    "date": "2025-11-06",
+    "jokeId": "for-adults-048"
+  },
+  {
+    "date": "2025-11-07",
+    "jokeId": "work-058"
+  },
+  {
+    "date": "2025-11-08",
+    "jokeId": "for-adults-024"
+  },
+  {
+    "date": "2025-11-09",
+    "jokeId": "best-ever-063"
+  },
+  {
+    "date": "2025-11-10",
+    "jokeId": "bad-078"
+  },
+  {
+    "date": "2025-11-11",
+    "jokeId": "for-adults-057"
+  },
+  {
+    "date": "2025-11-12",
+    "jokeId": "math-032"
+  },
+  {
+    "date": "2025-11-13",
+    "jokeId": "good-082"
+  },
+  {
+    "date": "2025-11-14",
+    "jokeId": "best-ever-053"
+  },
+  {
+    "date": "2025-11-15",
+    "jokeId": "thanksgiving-064"
+  },
+  {
+    "date": "2025-11-16",
+    "jokeId": "best-ever-098"
+  },
+  {
+    "date": "2025-11-17",
+    "jokeId": "work-051"
+  },
+  {
+    "date": "2025-11-18",
+    "jokeId": "food-029"
+  },
+  {
+    "date": "2025-11-19",
+    "jokeId": "funny-061"
+  },
+  {
+    "date": "2025-11-20",
+    "jokeId": "thanksgiving-092"
+  },
+  {
+    "date": "2025-11-21",
+    "jokeId": "animal-041"
+  },
+  {
+    "date": "2025-11-22",
+    "jokeId": "for-adults-005"
+  },
+  {
+    "date": "2025-11-23",
+    "jokeId": "animal-006"
+  },
+  {
+    "date": "2025-11-24",
+    "jokeId": "corny-077"
+  },
+  {
+    "date": "2025-11-25",
+    "jokeId": "science-044"
+  },
+  {
+    "date": "2025-11-26",
+    "jokeId": "animal-057"
+  },
+  {
+    "date": "2025-11-27",
+    "jokeId": "fathers-day-064"
+  },
+  {
+    "date": "2025-11-28",
+    "jokeId": "animal-056"
+  },
+  {
+    "date": "2025-11-29",
+    "jokeId": "for-adults-060"
+  },
+  {
+    "date": "2025-11-30",
+    "jokeId": "for-kids-035"
+  },
+  {
+    "date": "2025-12-01",
+    "jokeId": "animal-047"
+  },
+  {
+    "date": "2025-12-02",
+    "jokeId": "best-of-all-time-041"
+  },
+  {
+    "date": "2025-12-03",
+    "jokeId": "food-028"
+  },
+  {
+    "date": "2025-12-04",
+    "jokeId": "good-019"
+  },
+  {
+    "date": "2025-12-05",
+    "jokeId": "for-kids-023"
+  },
+  {
+    "date": "2025-12-06",
+    "jokeId": "dirty-093"
+  },
+  {
+    "date": "2025-12-07",
+    "jokeId": "work-053"
+  },
+  {
+    "date": "2025-12-08",
+    "jokeId": "funny-092"
+  },
+  {
+    "date": "2025-12-09",
+    "jokeId": "sports-028"
+  },
+  {
+    "date": "2025-12-10",
+    "jokeId": "for-kids-054"
+  },
+  {
+    "date": "2025-12-11",
+    "jokeId": "food-061"
+  },
+  {
+    "date": "2025-12-12",
+    "jokeId": "fathers-day-002"
+  },
+  {
+    "date": "2025-12-13",
+    "jokeId": "for-adults-076"
+  },
+  {
+    "date": "2025-12-14",
+    "jokeId": "animal-003"
+  },
+  {
+    "date": "2025-12-15",
+    "jokeId": "funny-081"
+  },
+  {
+    "date": "2025-12-16",
+    "jokeId": "food-014"
+  },
+  {
+    "date": "2025-12-17",
+    "jokeId": "science-039"
+  },
+  {
+    "date": "2025-12-18",
+    "jokeId": "work-040"
+  },
+  {
+    "date": "2025-12-19",
+    "jokeId": "for-kids-001"
+  },
+  {
+    "date": "2025-12-20",
+    "jokeId": "funny-052"
+  },
+  {
+    "date": "2025-12-21",
+    "jokeId": "christmas-052"
+  },
+  {
+    "date": "2025-12-22",
+    "jokeId": "thanksgiving-073"
+  },
+  {
+    "date": "2025-12-23",
+    "jokeId": "best-ever-068"
+  },
+  {
+    "date": "2025-12-24",
+    "jokeId": "corny-087"
+  },
+  {
+    "date": "2025-12-25",
+    "jokeId": "corny-091"
+  },
+  {
+    "date": "2025-12-26",
+    "jokeId": "work-024"
+  },
+  {
+    "date": "2025-12-27",
+    "jokeId": "science-098"
+  },
+  {
+    "date": "2025-12-28",
+    "jokeId": "work-010"
+  },
+  {
+    "date": "2025-12-29",
+    "jokeId": "fathers-day-017"
+  },
+  {
+    "date": "2025-12-30",
+    "jokeId": "corny-026"
+  },
+  {
+    "date": "2025-12-31",
+    "jokeId": "for-adults-034"
+  }
 ]

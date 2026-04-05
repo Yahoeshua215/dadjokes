@@ -1,3 +1,5 @@
+export const revalidate = 86400; // revalidate once per day
+
 import { Metadata } from 'next';
 import { getJokeOfTheDay, getAllJokes } from '@/lib/jokes';
 import HeroJoke from '@/components/HeroJoke';
