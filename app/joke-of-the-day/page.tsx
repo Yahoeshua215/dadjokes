@@ -1,3 +1,5 @@
+export const revalidate = 86400; // revalidate once per day
+
 import { getJokeOfTheDay, getRecentJOTD } from '@/lib/jokes';
 import HeroJoke from '@/components/HeroJoke';
 import { generateMetadata as seoMetadata } from '@/lib/seo';

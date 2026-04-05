@@ -1,3 +1,5 @@
+export const revalidate = 86400; // revalidate once per day
+
 import Link from 'next/link';
 import { getCategories, getJokesByCategory, getAllJokes, getJokeOfTheDay, getTopics, getPacks, getJokesForPack } from '@/lib/jokes';
 import { generateWebsiteSchema } from '@/lib/schema';
